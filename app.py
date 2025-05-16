@@ -64,20 +64,30 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 
 ## Formato Esperado
 
-Cada questão deve seguir rigorosamente este formato:\
-**Texto suporte:** [Inserir suporte]\
-P**ergunta:** [Inserir enunciado da questão]\
-a) [Opção A]\
-b) [Opção B]\
-c) [Opção C]\
-d) [Opção D]\
-**Resposta correta:** [Letra da resposta correta]\
+{{
+  "questoes": [
+    {{
+      "Copentencia Avaliada": "[Inserir competência]",
+      "Comando 1": "[Inserir comando 1]",
 
-**Justificativas das alternativas:**\
-a) [Justificativa detalhada passo a passo para a opção A]\
-b) [Justificativa detalhada passo a passo para a opção B]\
-c) [Justificativa detalhada passo a passo para a opção C]\
-d) [Justificativa detalhada passo a passo para a opção D]
+      "texto_suporte": "[Inserir suporte]",
+      "pergunta": "[Inserir enunciado da questão]",
+      "opcoes": {{
+        "a": "[Opção A]",
+        "b": "[Opção B]",
+        "c": "[Opção C]",
+        "d": "[Opção D]"
+      }},
+      "resposta_correta": "[Letra da resposta correta]",
+      "justificativas": {{
+        "a": "[Justificativa detalhada passo a passo para a opção A]",
+        "b": "[Justificativa detalhada passo a passo para a opção B]",
+        "c": "[Justificativa detalhada passo a passo para a opção C]",
+        "d": "[Justificativa detalhada passo a passo para a opção D]"
+      }}
+    }}
+  ]
+}}
 
 </formato>
 
@@ -121,7 +131,7 @@ chat_with_history = RunnableWithMessageHistory(
 )
 
 
-def iniciar(id_tarefa = 0, session_id ="user123"):
+def iniciar(id_tarefa, output, session_id ="user123"):
     
     vars_prompt = get_variables(id_tarefa)
     vars_prompt['input'] = "Gerar Questões"
@@ -133,6 +143,13 @@ def iniciar(id_tarefa = 0, session_id ="user123"):
         }
     )
     print('RESPOSTA:', resposta.content)
+
+
+    # Salvar a resposta em um arquivo CSV
+    resposta_json = resposta.content
+
+    with open(output, 'w') as f:
+        f.write(resposta_json)
     
 
 if __name__ == "__main__":

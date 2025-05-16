@@ -1,20 +1,17 @@
-# **utils.py**
-* O **utils.py** tem funções para ajudar na criação dos prompts. \
+# Projeto com Google Gemini API
 
-## **get_codigo_da_classe**
-**get_codigo_da_classe:** recupera a linha do arquivo de matriz de lingua portuguesa em csv e retorna as informações como um dicionário. \
-**INPUT:** Recebe um codigo_da_classe da matriz do CAEd \
-**OUTPUT:** e retorna as informações da linha da tabela como um dicionário. 
+Este projeto utiliza a API do Google Gemini.  
+Para executar corretamente, é necessário criar um arquivo `.env` com sua chave de API.
 
-## **get_especificacao_tarefa_exemplo**
-**get_especificacao_tarefa_exemplo:** recupera a linha do arquivo de comandos para geração de item e exmplo em csv e retorna as informações como um dicionário. \
-**INPUT:** Id da linha \
-**OUTPUT:** e retorna as informações da linha da tabela como um dicionário. 
+## Configuração
+
+1. Crie um arquivo chamado `.env` na raiz do projeto.
+2. Adicione a seguinte linha com sua chave da API: GOOGLE_API_KEY = <Sua_chave_aqui>
 
 
-# **remover_merge_matrix_xlsx_to_csv.py**
+## **utils.py**
+* O **utils.py** tem funções para recuperar informações dos aquivos .csv. \
 
-## remover_merge_matrix_xlsx_to_csv
-* O arquivo **remover_merge_matrix_xlsx_to_csv.py** foi utilizado para auxiliar na conversão do arquivo de matriz que tinha muitas colunas mescladas. Ele basicamente faz com que a linha no arquivo csv não seja mais mesclada, repetindo a informação até achar um próximo valor.\
-**INPUT:** Ele recebe como .xlsx, .ods, .csv, etc. \
-**OUTPUT:** e retorna um .csv sem o mesclar copiando o de cima pra em baixo
+## **app.py**  
+* O **app.py** Define o Template do prompt, carrega as variáveis, incializa o modelo de linguagem e executa a geração dos Itens. 
+
