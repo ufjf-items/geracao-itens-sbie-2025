@@ -7,6 +7,7 @@ from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain.chat_models import init_chat_model
 from utils import get_codigo_da_classe,get_especificacao_tarefa_exemplo, get_variables
+from openRouter import ChatOpenRouter
 import pandas as pd
 
 load_dotenv()
@@ -111,7 +112,10 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 
-llm = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
+#llm = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
+
+llm = ChatOpenRouter( model_name="deepseek/deepseek-prover-v2:free" )
+
 
 chain = prompt | llm
 
@@ -154,4 +158,4 @@ def iniciar(id_tarefa, output, session_id ="user123"):
 
 if __name__ == "__main__":
 
-    iniciar()
+    iniciar(0, 'resposta.csv', session_id="user123")
