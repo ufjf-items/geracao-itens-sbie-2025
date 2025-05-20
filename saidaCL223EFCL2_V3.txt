@@ -1,0 +1,142 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Sofia,
+Estou muito feliz porque consegui fazer meu primeiro bolo sozinha! Minha mãe me ajudou apenas a colocar no forno. Ela disse que eu aprendi rápido porque prestei atenção nas aulas de culinária da escola.
+No final, o bolo ficou delicioso e todos na família gostaram.
+Beijos,
+Laura.
+Disponível em: <https://www.exemplo.com>. Acesso em: 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Laura conseguiu fazer o bolo sozinha porque
+Opções:
+-> a) prestou atenção nas aulas de culinária da escola.
+   b) sua mãe colocou o bolo no forno.
+   c) o bolo ficou delicioso.
+   d) todos na família gostaram do bolo.
+Justificativas:
+a) GABARITO
+Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade marcada pela conjunção 'porque'. Eles compreenderam que o sucesso de Laura em fazer o bolo sozinha foi consequência de ter prestado atenção nas aulas de culinária.
+b) INCORRETA
+Os estudantes que escolheram esta alternativa confundiram uma ação auxiliar (a mãe colocar o bolo no forno) com a causa principal do sucesso de Laura, que foi ter aprendido nas aulas de culinária.
+c) INCORRETA
+Esta alternativa menciona uma consequência (bolo delicioso), não a causa do sucesso de Laura em fazer o bolo sozinha, demonstrando dificuldade em identificar relações de causalidade.
+d) INCORRETA
+Esta opção menciona outra consequência (família gostar do bolo), não a causa solicitada na pergunta, mostrando que o estudante não identificou a relação causal estabelecida pela conjunção 'porque'.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi Pedro,
+Hoje não fui à escola porque acordei com febre. Minha mãe me levou ao médico, que disse que preciso ficar em repouso. Mas não fique triste, já que amanhã eu volto e te conto tudo!
+Até logo,
+Lucas.
+Disponível em: <https://www.exemplo.com>. Acesso em: 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Lucas não foi à escola porque
+Opções:
+   a) precisava ficar em repouso.
+-> b) teve febre ao acordar.
+   c) sua mãe o levou ao médico.
+   d) precisava contar tudo para Pedro.
+Justificativas:
+a) INCORRETA
+Embora seja uma informação verdadeira do texto, esta alternativa menciona uma consequência (precisar ficar em repouso) e não a causa da ausência escolar.
+b) GABARITO
+Os estudantes que marcaram esta alternativa identificaram corretamente a relação causal estabelecida pela conjunção 'porque', compreendendo que a febre foi a razão para Lucas não ir à escola.
+c) INCORRETA
+Esta alternativa menciona uma ação subsequente (ser levado ao médico) e não a causa inicial da ausência escolar.
+d) INCORRETA
+Esta opção confunde uma intenção futura com a causa da ausência, demonstrando dificuldade em identificar a relação causal marcada pela conjunção.
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Caro Miguel,
+Ontem ganhei um novo videogame porque tirei boas notas no bimestre. Meu pai disse que eu mereci o presente já que me esforcei muito nos estudos.
+Quero te convidar para jogar comigo no final de semana!
+Abraços,
+Gustavo.
+Disponível em: <https://www.exemplo.com>. Acesso em: 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Gustavo ganhou um videogame porque
+Opções:
+   a) quer convidar Miguel para jogar.
+   b) merecia o presente.
+-> c) tirou boas notas no bimestre.
+   d) se esforçou muito para ganhar.
+Justificativas:
+a) INCORRETA
+Esta alternativa menciona uma intenção futura de Gustavo, não a causa de ter ganhado o videogame.
+b) INCORRETA
+Embora seja uma afirmação do texto, esta alternativa menciona uma avaliação (merecer) e não a causa inicial do presente.
+c) GABARITO
+Os estudantes que escolheram esta alternativa identificaram corretamente a relação causal marcada pela primeira ocorrência de 'porque', compreendendo que as boas notas foram a razão para ganhar o videogame.
+d) INCORRETA
+Esta opção menciona uma informação relacionada (esforço nos estudos), mas que aparece em outra parte do texto marcada por 'já que', não sendo a causa principal solicitada na pergunta.
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida avó,
+Estou escrevendo para dizer que não pude visitá-la no domingo porque choveu muito. Minha mãe disse que seria perigoso viajar com a estrada molhada. Mas prometo que vou no próximo final de semana, pois o tempo vai melhorar.
+Com saudades,
+Ana.
+Disponível em: <https://www.exemplo.com>. Acesso em: 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Ana não visitou sua avó no domingo porque
+Opções:
+   a) sua mãe não deixou.
+-> b) choveu muito.
+   c) a estrada estava molhada.
+   d) ela prometeu ir no próximo fim de semana.
+Justificativas:
+a) INCORRETA
+Esta alternativa menciona uma consequência (decisão da mãe) e não a causa inicial da não visita.
+b) GABARITO
+Os estudantes que marcaram esta alternativa identificaram corretamente a relação causal estabelecida pela conjunção 'porque', compreendendo que a chuva foi a razão principal para Ana não visitar a avó.
+c) INCORRETA
+Embora relacionada, esta alternativa menciona uma consequência da chuva (estrada molhada) e não a causa principal da não visita.
+d) INCORRETA
+Esta opção menciona uma intenção futura, não a causa da ausência no domingo, demonstrando dificuldade em identificar a relação causal solicitada.
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo João,
+Não pude ir ao seu aniversário porque estava com dor de garganta. A médica disse que eu precisava repousar, já que estava com infecção. Mas fiquei muito triste por perder sua festa!
+Na próxima nos vemos!
+Abraço,
+Carlos.
+Disponível em: <https://www.exemplo.com>. Acesso em: 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Carlos não foi ao aniversário de João porque
+Opções:
+   a) precisava repousar.
+   b) estava com infecção.
+   c) ficou triste por perder a festa.
+-> d) estava com dor de garganta.
+Justificativas:
+a) INCORRETA
+Esta alternativa menciona uma recomendação médica (consequência) e não a causa inicial da ausência na festa.
+b) INCORRETA
+Embora seja uma informação verdadeira, esta alternativa menciona um diagnóstico (consequência) e não a causa inicial mencionada pelo autor.
+c) INCORRETA
+Esta opção menciona um sentimento (consequência emocional) e não a causa física da ausência na festa.
+d) GABARITO
+Os estudantes que escolheram esta alternativa identificaram corretamente a relação causal estabelecida pela conjunção 'porque', compreendendo que a dor de garganta foi a razão para Carlos não ir ao aniversário.
+
+--------------------------------------------------------------------------------
