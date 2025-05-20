@@ -157,14 +157,6 @@ def iniciar(id_tarefa, output, session_id ="user123", CoT = False, Ep = False, f
     vars_prompt['cot'] = cot
     vars_prompt['exemplo'] = exemplo
 
-    # Imprimindo prompt de saída
-    if 1: # True imprime e False não
-        # Imprimir o prompt completo antes de enviar
-        print("PROMPT QUE ESTÁ SENDO ENVIADO:")
-        for key, value in vars_prompt.items():
-            print(f"{key}: {value}\n")
-
-
     resposta = chat_with_history.invoke(
         vars_prompt,
         config={
