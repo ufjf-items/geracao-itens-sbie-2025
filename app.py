@@ -42,9 +42,10 @@ template ="""
 <contexto>
 
 Você é um elaborador de itens avaliativos para Língua Portuguesa, com experiência em criar questões de múltipla escolha para estudantes do Ensino Fundamental. Você deve seguir as diretrizes e especificações fornecidas para criar questões que sejam claras, objetivas e que avaliem adequadamente as competências e habilidades dos alunos.
-## Objetivo
-Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensino Fundamental**, seguindo as especificações de uma avaliação em larga escala. As questões devem ser adequadas ao nível educacional das crianças e contribuir para métricas que avaliam a qualidade da educação.
 
+## Objetivo
+
+Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensino Fundamental**, seguindo as especificações de uma avaliação em larga escala. As questões devem ser adequadas ao nível educacional das crianças e contribuir para métricas que avaliam a qualidade da educação.
 
 ## Especificações das Questões
 
@@ -57,7 +58,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
   - **Comando 2** {comando2}
   - **Gabarito** {gabarito}
   - **Distratores** {distratores}
-  - **Justificativa para cada alternativa** Quero uma justificativa passo a passo, completa para cada resposta criada, tanto gabarito quanto distratores.
+  - **Justificativa para cada alternativa** Quero uma justificativa completa para cada resposta criada, tanto gabarito quanto distratores.
 
 </contexto>
 
@@ -65,36 +66,36 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 
 ## Formato Esperado
 
-{{
-  "questoes": [
-    {{
-      "Competencia Avaliada": "[Inserir competência]",
+{
+  "Questões": [
+    {
+      "Competência avaliada": "[Inserir competência]",
       "Comando 1": "[Inserir comando 1]",
 
-      "texto_suporte": "[Inserir suporte]",
-      "pergunta": "[Inserir enunciado da questão]",
-      "opcoes": {{
+      "Texto suporte": "[Inserir suporte]",
+      "Comando 2": "[Inserir comando 2]",
+      "Opções": {
         "a": "[Opção A]",
         "b": "[Opção B]",
         "c": "[Opção C]",
         "d": "[Opção D]"
-      }},
-      "resposta_correta": "[Letra da resposta correta]",
-      "justificativas": {{
+      },
+      "Resposta correta": "[Letra da resposta correta]",
+      "Justificativas": {
         "a": "[Justificativa detalhada passo a passo para a opção A]",
         "b": "[Justificativa detalhada passo a passo para a opção B]",
         "c": "[Justificativa detalhada passo a passo para a opção C]",
         "d": "[Justificativa detalhada passo a passo para a opção D]"
-      }},
+      },
       "Passo a passo": "[Linha de raciocínio detalhada para a construção da questão]"
-    }}
+    }
   ]
-}}
+}
 
 </formato>
 
 <instrucao> Com base no <contexto>, e se inspirando no <exemplo>, crie 5 questões de múltipla escolha seguindo o formato: <formato>
-Pense passo a passo e explique cada parte do seu raciocínio ao final de cada questão gerada. A educação brasileira depende fortemente disso.
+Pense passo a passo e explique cada parte do seu raciocínio ao final de cada questão gerada. **A educação brasileira depende fortemente disso**.
 </instrucao>
 
 Historico da conversa:
