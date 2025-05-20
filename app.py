@@ -22,22 +22,7 @@ template ="""
 # Template BNCC para língua portuguesa
 ### CÓDIGO DO TEMPLATE BNCC : {BNCC}
 
-<exemplo>
-
-{comando1_exemplo}
-
-**Texto suporte:**
-
-{suporte_exemplo}
-
-**Pergunta:**
-{comando2_exemplo}
-{respostas_exemplo}
-
-**Justificativa das alternativas**\
-{justificativas_exemplo}
-
-</exemplo>
+{exemplo}
 
 <contexto>
 
@@ -86,7 +71,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
         "c": "[Justificativa detalhada passo a passo para a opção C]",
         "d": "[Justificativa detalhada passo a passo para a opção D]"
       }},
-      "Passo a passo": "[Linha de raciocínio detalhada para a construção da questão]"
+      "->": {cot}
     }}
   ]
 }}
@@ -94,7 +79,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 </formato>
 
 <instrucao> Com base no <contexto>, e se inspirando no <exemplo>, crie 5 questões de múltipla escolha seguindo o formato: <formato>
-Pense passo a passo e explique cada parte do seu raciocínio ao final de cada questão gerada. A educação brasileira depende fortemente disso.
+{usar_cot}{ep}
 </instrucao>
 
 Historico da conversa:
@@ -119,6 +104,7 @@ llm = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
 #llm = ChatOpenRouter( model_name="deepseek/deepseek-chat-v3-0324:free" )
 
 
+
 chain = prompt | llm
 
 store = {}
@@ -137,10 +123,40 @@ chat_with_history = RunnableWithMessageHistory(
 )
 
 
-def iniciar(id_tarefa, output, session_id ="user123"):
+def iniciar(id_tarefa, output, session_id ="user123", CoT = False, Ep = False, few_shot = False):
     
     vars_prompt = get_variables(id_tarefa)
     vars_prompt['input'] = "Gerar Questões"
+
+
+    
+    exemplo = """
+<exemplo>
+
+{comando1_exemplo}
+
+**Texto suporte:**
+
+{suporte_exemplo}
+
+**Pergunta:**
+{comando2_exemplo}
+{respostas_exemplo}
+
+**Justificativa das alternativas**\
+{justificativas_exemplo}
+
+</exemplo> """ if few_shot else ""
+
+    
+    ep = "A educação brasileira depende fortemente disso." if Ep else ""
+    usar_cot = "Pense passo a passo e explique cada parte do seu raciocínio ao final de cada questão gerada." if CoT else ""
+    cot = "[Linha de raciocínio detalhada para a construção da questão]" if CoT else ""
+    vars_prompt['usar_cot'] = usar_cot
+    vars_prompt['ep']=ep
+    vars_prompt['cot'] = cot
+    vars_prompt['exemplo'] = exemplo
+        
 
     resposta = chat_with_history.invoke(
         vars_prompt,
@@ -156,6 +172,7 @@ def iniciar(id_tarefa, output, session_id ="user123"):
 
     with open(output, 'w') as f:
         f.write(resposta_json)
+    
 
 import json
 
@@ -199,9 +216,9 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
 
 if __name__ == "__main__":
 
-  #iniciar(5, 'saidaCL223EFCL2_Gemini_2.0_flash.json', session_id="user123")
+  iniciar(5, 'saidaCL223EFCL2_Gemini_2.0_flash.json', session_id="user123", CoT=True, Ep = True, few_shot = True)
 
-  transformar_json_em_txt('saidaCL223EFCL2_Gemini_2.0_flash.json', 'saidaCL223EFCL2_Gemini_2.0_flash.txt')
+  #transformar_json_em_txt('saidaCL223EFCL2_Gemini_2.0_flash.json', 'saidaCL223EFCL2_Gemini_2.0_flash.txt')
   
     
   
