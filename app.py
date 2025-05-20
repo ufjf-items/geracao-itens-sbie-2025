@@ -85,7 +85,8 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
         "b": "[Justificativa detalhada passo a passo para a opção B]",
         "c": "[Justificativa detalhada passo a passo para a opção C]",
         "d": "[Justificativa detalhada passo a passo para a opção D]"
-      }}
+      }},
+      "Passo a passo": "[Linha de raciocínio detalhada para a construção da questão]"
     }}
   ]
 }}
@@ -93,6 +94,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 </formato>
 
 <instrucao> Com base no <contexto>, e se inspirando no <exemplo>, crie 5 questões de múltipla escolha seguindo o formato: <formato>
+Pense passo a passo e explique cada parte do seu raciocínio ao final de cada questão gerada. A educação brasileira depende fortemente disso.
 </instrucao>
 
 Historico da conversa:
@@ -112,9 +114,9 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 
-#llm = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
+llm = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
 
-llm = ChatOpenRouter( model_name="deepseek/deepseek-chat-v3-0324:free" )
+#llm = ChatOpenRouter( model_name="deepseek/deepseek-chat-v3-0324:free" )
 
 
 chain = prompt | llm
@@ -180,8 +182,10 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
         linhas.append("Justificativas:")
         for letra, justificativa in questao['justificativas'].items():
             linhas.append(f"{letra}) {justificativa}")
+          
 
         linhas.append("\n" + "-"*80 + "\n")
+
 
     with open(caminho_txt, 'w', encoding='utf-8') as f:
         f.write("\n".join(linhas))
@@ -195,7 +199,9 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
 
 if __name__ == "__main__":
 
-  iniciar(5, 'saidaCL223EFCL2_V3.json', session_id="user123")
+  #iniciar(5, 'saidaCL223EFCL2_Gemini_2.0_flash.json', session_id="user123")
+
+  transformar_json_em_txt('saidaCL223EFCL2_Gemini_2.0_flash.json', 'saidaCL223EFCL2_Gemini_2.0_flash.txt')
   
     
   

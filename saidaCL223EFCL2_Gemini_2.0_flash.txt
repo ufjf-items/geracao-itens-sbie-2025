@@ -1,0 +1,114 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querido vovô,
+Escrevo para contar que participei de uma gincana na escola. Nossa equipe venceu porque todos nós nos dedicamos muito aos estudos e tarefas. Ganhamos um passeio ao zoológico! Estou muito animado para ver os animais. Mal posso esperar para te contar tudo quando voltar.
+Com carinho,
+Pedro.
+Pergunta:
+De acordo com o texto, a equipe de Pedro venceu a gincana porque
+Opções:
+   a) ganhou um passeio no zoológico.
+-> b) todos se dedicaram aos estudos e tarefas.
+   c) Pedro escreveu uma carta para o avô.
+   d) eles foram visitar o vovô.
+Justificativas:
+a) INCORRETA: A alternativa apresenta uma consequência da vitória, e não a causa. O passeio foi o prêmio, não o motivo da vitória.
+b) CORRETA: A alternativa corresponde à causa expressa no texto pela conjunção 'porque'. A dedicação aos estudos e tarefas é o motivo da vitória.
+c) INCORRETA: A alternativa apresenta uma ação do personagem que não tem relação direta com a vitória na gincana. A carta é o meio de comunicação, não a causa.
+d) INCORRETA: A alternativa traz uma informação que não consta no texto, portanto, não pode ser considerada a causa da vitória.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Prezada Professora Ana,
+Escrevo para justificar minha ausência na aula de ontem. Não pude comparecer porque estava com febre alta e muita dor de cabeça. Já fui ao médico e estou tomando os remédios receitados. Espero melhorar logo para voltar às aulas.
+Atenciosamente,
+Lucas.
+Pergunta:
+De acordo com o texto, Lucas não foi à aula porque
+Opções:
+   a) estava escrevendo uma carta para a professora.
+   b) precisava ir ao médico.
+-> c) estava com febre alta e dor de cabeça.
+   d) já estava tomando os remédios.
+Justificativas:
+a) INCORRETA: A alternativa descreve a ação de escrever a carta, que é uma consequência da ausência, e não a causa.
+b) INCORRETA: Ir ao médico é uma ação decorrente da causa, mas não a causa em si.
+c) CORRETA: A alternativa apresenta a causa direta da ausência, conforme expresso no texto pela conjunção 'porque'.
+d) INCORRETA: Tomar os remédios é uma ação posterior à causa, ou seja, uma tentativa de solucionar o problema, e não a causa da ausência.
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Olá, Mariana,
+Estou muito feliz! Fui escolhida para ser a representante da turma porque sou sempre atenta e gosto de ajudar meus colegas. Prometo fazer o meu melhor para representar a todos.
+Um abraço,
+Laura.
+Pergunta:
+De acordo com o texto, Laura foi escolhida representante da turma porque
+Opções:
+   a) ela escreveu um abraço para Mariana.
+   b) ela prometeu fazer o seu melhor.
+-> c) ela é sempre atenta e gosta de ajudar os colegas.
+   d) ela está muito feliz.
+Justificativas:
+a) INCORRETA: A alternativa menciona um detalhe da carta (o abraço), que não tem relação com o motivo da escolha.
+b) INCORRETA: A promessa de fazer o melhor é uma consequência da escolha, não a causa.
+c) CORRETA: A alternativa apresenta a causa da escolha, conforme expresso no texto pela conjunção 'porque'.
+d) INCORRETA: A felicidade de Laura é uma emoção decorrente da escolha, e não a causa.
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Caro Papai Noel,
+Fui um bom menino este ano. Ajudei minha mãe, fiz todas as tarefas e obedeci meus pais. Por isso, gostaria de ganhar um videogame de presente. Espero ansiosamente!
+Com carinho,
+João.
+Pergunta:
+De acordo com o texto, João espera ganhar um videogame porque
+Opções:
+   a) ele escreveu uma carta para o Papai Noel.
+-> b) ele ajudou sua mãe, fez as tarefas e obedeceu os pais.
+   c) ele quer muito um videogame.
+   d) ele é um bom menino.
+Justificativas:
+a) INCORRETA: A alternativa menciona a ação de escrever a carta, que é o meio pelo qual o pedido é feito, e não a causa do desejo de receber o presente.
+b) CORRETA: A alternativa apresenta a causa do desejo de João, expressa pela frase 'Fui um bom menino este ano...', que justifica o pedido.
+c) INCORRETA: O desejo de ganhar o videogame é a consequência, não a causa. Ele quer o videogame PORQUE foi um bom menino.
+d) INCORRETA: A alternativa é uma afirmação geral sobre o comportamento de João, mas a causa específica do presente é detalhada na opção B.
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Avó,
+Não poderei ir visitá-la no próximo fim de semana, pois terei que estudar para a prova de matemática. Prometo que assim que a prova acabar, irei correndo te ver!
+Com amor,
+Sofia.
+Pergunta:
+De acordo com o texto, Sofia não poderá visitar a avó porque
+Opções:
+   a) ela irá visitá-la assim que a prova acabar.
+-> b) ela precisa estudar para a prova de matemática.
+   c) ela escreveu uma carta para a avó.
+   d) ela a ama muito.
+Justificativas:
+a) INCORRETA: A alternativa apresenta uma ação futura, que é uma consequência da impossibilidade de visitar a avó no momento, e não a causa.
+b) CORRETA: A alternativa apresenta a causa da impossibilidade de visitar a avó, expressa pela conjunção 'pois'.
+c) INCORRETA: A alternativa menciona a ação de escrever a carta, que é irrelevante para a causa da não visita.
+d) INCORRETA: A alternativa expressa um sentimento, que não é a causa da não visita.
+
+--------------------------------------------------------------------------------
