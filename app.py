@@ -75,7 +75,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
       "->": {cot}
     }}
   ]
-}
+}}
 
 </formato>
 
@@ -103,7 +103,6 @@ prompt = ChatPromptTemplate.from_messages(
 llm = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
 
 #llm = ChatOpenRouter( model_name="deepseek/deepseek-chat-v3-0324:free" )
-
 
 
 chain = prompt | llm
