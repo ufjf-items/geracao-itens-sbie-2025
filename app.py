@@ -51,22 +51,22 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 
 ## Formato Esperado
 
-{
+{{
   "Questões": [
-    {
+    {{
       "Competência avaliada": "[Inserir competência]",
       "Comando 1": "[Inserir comando 1]",
 
       "Texto suporte": "[Inserir suporte]",
       "Comando 2": "[Inserir comando 2]",
-      "Opções": {
+      "Opções": {{
         "a": "[Opção A]",
         "b": "[Opção B]",
         "c": "[Opção C]",
         "d": "[Opção D]"
-      },
+      }},
       "Resposta correta": "[Letra da resposta correta]",
-      "Justificativas": {
+      "Justificativas": {{
         "a": "[Justificativa detalhada passo a passo para a opção A]",
         "b": "[Justificativa detalhada passo a passo para a opção B]",
         "c": "[Justificativa detalhada passo a passo para a opção C]",
