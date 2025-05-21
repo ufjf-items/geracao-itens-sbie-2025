@@ -39,7 +39,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 - **Habilidade Avaliada**: {classe}
 - **Estrutura da Questão**:
   - **Comando 1** {comando1}
-  - **Texto suporte** {suporte}
+  - **Texto suporte** {suporte}. Gerar no mínimo 8 linhas para o texto suporte.
   - **Comando 2** {comando2}
   - **Gabarito** {gabarito}
   - **Distratores** {distratores}
@@ -79,7 +79,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 
 </formato>
 
-<instrucao> Com base no <contexto>, e se inspirando no <exemplo>, crie 5 questões de múltipla escolha seguindo o formato: <formato>
+<instrucao> Com base no <contexto>, e se inspirando no <exemplo>, crie uma questão de múltipla escolha seguindo o formato: <formato>
 {usar_cot}{ep}
 </instrucao>
 
@@ -197,7 +197,13 @@ import json
 
 def transformar_json_em_txt(caminho_json, caminho_txt):
     with open(caminho_json, 'r', encoding='utf-8') as f:
-        dados = json.load(f)
+
+        andamento = f.read()
+
+        andamento = andamento.replace("json", "")
+        andamento = andamento.replace("```", "")
+
+        dados = json.loads(andamento)
 
     linhas = []
 
@@ -233,65 +239,66 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
 if __name__ == "__main__":
   
 
-    # modelos = [
-    #     "gemini-2.0-flash",
-    #     "deepseek-r1:free"
+    modelos = [
+        "gemini-2.0-flash",
+        "deepseek-r1:free"
         
-    # ]
+    ]
 
-    # tecnicas = [
-    #     {"nome": "baseline", "CoT": False, "Ep": False, "few_shot": False},
-    #     {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
-    #     {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
-    #     {"nome": "fewshot", "CoT": False, "Ep": False, "few_shot": True},
-    #     {"nome": "CoT_Ep", "CoT": True, "Ep": True, "few_shot": False},
-    #     {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
-    #     {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
-    #     {"nome": "CoT_Ep_fewshot", "CoT": True, "Ep": True, "few_shot": True},
-    # ]
+    tecnicas = [
+        {"nome": "baseline", "CoT": False, "Ep": False, "few_shot": False},
+        {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
+        {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
+        {"nome": "fewshot", "CoT": False, "Ep": False, "few_shot": True},
+        {"nome": "CoT_Ep", "CoT": True, "Ep": True, "few_shot": False},
+        {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
+        {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
+        {"nome": "CoT_Ep_fewshot", "CoT": True, "Ep": True, "few_shot": True},
+    ]
 
-    # for modelo in modelos:
-    #     # Define o modelo para cada rodada
+    for modelo in modelos:
+        # Define o modelo para cada rodada
 
-    #     if modelo == "gemini-2.0-flash":
-    #         llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0)
-    #     elif modelo == "deepseek-r1:free":
-    #         llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
+        if modelo == "gemini-2.0-flash":
+            llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0)
+        elif modelo == "deepseek-r1:free":
+            llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
 
         
-    #     chain = prompt | llm
+        chain = prompt | llm
 
-    #     chat_with_history = RunnableWithMessageHistory(
-    #         chain,
-    #         get_session_history,
-    #         input_messages_key="input",
-    #         history_messages_key="history"
-    #     )
+        chat_with_history = RunnableWithMessageHistory(
+            chain,
+            get_session_history,
+            input_messages_key="input",
+            history_messages_key="history"
+        )
 
-    #     for tecnica in tecnicas:
-    #         nome_tecnica = tecnica["nome"]
-    #         output_path = f"output_SBIE_2025/CL223EFCL2_{modelo}_{nome_tecnica}.json"
+        for tecnica in tecnicas:
+            nome_tecnica = tecnica["nome"]
+            output_path = f"output_SBIE_2025/CL223EFCL2_{modelo}_{nome_tecnica}.json"
 
-    #         print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
+            print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
 
-    #         iniciar(
-    #             id_tarefa=5,
-    #             output=output_path,
-    #             session_id=modelo,
-    #             CoT=tecnica["CoT"],
-    #             Ep=tecnica["Ep"],
-    #             few_shot=tecnica["few_shot"]
-    #         )
+            iniciar(
+                id_tarefa=5,
+                output=output_path,
+                session_id=modelo,
+                CoT=tecnica["CoT"],
+                Ep=tecnica["Ep"],
+                few_shot=tecnica["few_shot"]
+            )
+
+            transformar_json_em_txt(output_path, f"output_SBIE_2025_TXT/CL223EFCL2_{modelo}_{nome_tecnica}.txt")
 
 
-    path = "output_SBIE_2025"
+    # path = "output_SBIE_2025"
 
-    arquivos = os.listdir(path)
+    # arquivos = os.listdir(path)
 
-    os.makedirs("output_SBIE_2025_TXT", exist_ok=True)
+    # os.makedirs("output_SBIE_2025_TXT", exist_ok=True)
 
-    for arquivo in arquivos:
-        transformar_json_em_txt(os.path.join(path,arquivo), os.path.join("output_SBIE_2025_TXT", arquivo.replace(".json", ".txt")))
+    # for arquivo in arquivos:
+    #     transformar_json_em_txt(os.path.join(path,arquivo), os.path.join("output_SBIE_2025_TXT", arquivo.replace(".json", ".txt")))
   
-    
   
