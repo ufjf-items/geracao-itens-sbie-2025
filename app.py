@@ -30,7 +30,7 @@ Você é um elaborador de itens avaliativos para Língua Portuguesa, com experi�
 
 ## Objetivo
 
-Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensino Fundamental**, seguindo as especificações de uma avaliação em larga escala. As questões devem ser adequadas ao nível educacional das crianças e contribuir para métricas que avaliam a qualidade da educação.
+Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensino Fundamental**.
 
 ## Especificações das Questões
 
