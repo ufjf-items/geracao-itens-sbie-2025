@@ -1,0 +1,105 @@
+
+{
+  "Questões": [
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida Isabel,\nPerdi meu livro favorito porque deixei cair no ônibus. A motorista prometeu procurar, mas ainda não encontrou. Vou ter que comprar outro com minhas economias.\nSaudades,\nCarlos\nGoiânia, 10 de janeiro de 2025",
+      "Comando 2": "Por que Carlos perdeu seu livro favorito?",
+      "Opções": {
+        "a": "Pois estava economizando",
+        "b": "Porque caiu no ônibus",
+        "c": "Já que a motorista procurou",
+        "d": "Por isso comprará outro"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreto. As economias são consequência, não causa da perda",
+        "b": "Correto. 'Porque' conecta diretamente a queda no ônibus à perda do livro",
+        "c": "Incorreto. A procura da motorista é ação posterior à perda",
+        "d": "Incorreto. Indica resolução do problema, não causa original"
+      },
+      "->": "A questão explora a relação causal direta usando 'porque' para vincular o evento (queda no ônibus) à consequência (perda do livro). Os distratores usam elementos textuais secundários ou consequências do fato principal."
+    },
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Thiago,\nMeu celular quebrou pois escorregou da mesa. Papai disse que só conserta se eu melhorar nas notas. Estou estudando todo dia!\nAbraço,\nLuísa\nFlorianópolis, 18 de fevereiro de 2025",
+      "Comando 2": "Qual foi o motivo da quebra do celular?",
+      "Opções": {
+        "a": "Porque Luísa precisa estudar",
+        "b": "Pois escorregou da mesa",
+        "c": "Já que o pai exige notas melhores",
+        "d": "Por isso está estudando"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreto. O estudo é condição para conserto, não causa da queda",
+        "b": "Correto. 'Pois' estabelece relação causal entre a queda e o dano",
+        "c": "Incorreto. Condição imposta após o ocorrido",
+        "d": "Incorreto. Mostra consequência do fato, não causa"
+      },
+      "->": "A estrutura usa 'pois' para ligar o escorregão à quebra. Distratores focam em elementos da narrativa posterior, testando a compreensão da relação temporal entre causa e consequência."
+    },
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Cara avó,\nNão visitei você no domingo já que tive prova de matemática. Estudei o fim de semana todo e tirei nota boa! No próximo mês vou sem falta.\nBeijos,\nRafael\nNatal, 5 de março de 2025",
+      "Comando 2": "Por qual motivo Rafael não visitou a avó?",
+      "Opções": {
+        "a": "Porque estava viajando",
+        "b": "Já que teve prova",
+        "c": "Pois tirou nota boa",
+        "d": "Por isso estudou muito"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreto. Não há menção a viagem no texto",
+        "b": "Correto. 'Já que' indica a prova como motivo da ausência",
+        "c": "Incorreto. A nota é resultado do estudo, não causa",
+        "d": "Incorreto. Mostra relação inversa de causa-efeito"
+      },
+      "->": "A questão utiliza 'já que' para marcar a relação entre compromisso escolar e ausência. Distratores exploram elementos de diferentes partes da narrativa, testando a localização precisa da informação causal."
+    },
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querido tio,\nMeu pé está inchado por isso que pisei num prego. A médica mandou fazer curativo diário. Não posso jogar futebol por uma semana!\nSaudações,\nGabriel\nCampo Grande, 22 de abril de 2025",
+      "Comando 2": "Por que o pé de Gabriel está inchado?",
+      "Opções": {
+        "a": "Porque joga futebol",
+        "b": "Pois precisa de curativo",
+        "c": "Já que pisou num prego",
+        "d": "Por isso foi ao médico"
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Incorreto. O futebol é atividade proibida após o acidente",
+        "b": "Incorreto. O curativo é tratamento, não causa",
+        "c": "Correto. 'Por isso que' liga o acidente ao inchaço",
+        "d": "Incorreto. A ida ao médico é consequência do ferimento"
+      },
+      "->": "A estrutura usa 'por isso que' para vincular causa (prego) e efeito (inchaço). Distratores exploram elementos médicos e atividades físicas, testando a compreensão da cadeia causal."
+    },
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amiga Clara,\nMinha planta morreu pois esqueci de regar. Mamãe disse que posso plantar outra, mas preciso ser mais responsável. Vou colocar lembretes no celular!\nAté breve,\nSophia\nJoão Pessoa, 30 de maio de 2025",
+      "Comando 2": "Qual foi a causa da morte da planta?",
+      "Opções": {
+        "a": "Porque Sophia plantou outra",
+        "b": "Pois não regou",
+        "c": "Já que colocou lembretes",
+        "d": "Por isso é responsável"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreto. Nova plantação é consequência, não causa",
+        "b": "Correto. 'Pois' conecta a falta de rega ao resultado",
+        "c": "Incorreto. Lembretes são medida preventiva futura",
+        "d": "Incorreto. Mostra desenvolvimento de habilidade pós-evento"
+      },
+      "->": "A questão emprega 'pois' para relacionar negligência e resultado. Distratores focam em elementos de resolução e consequências, avaliando a distinção entre causa primária e ações posteriores."
+    }
+  ]
+}

@@ -99,14 +99,6 @@ prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-
-llm = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
-
-#llm = ChatOpenRouter( model_name="deepseek/deepseek-chat-v3-0324:free" )
-
-
-chain = prompt | llm
-
 store = {}
 
 def get_session_history(session_id: str) -> BaseChatMessageHistory:
@@ -115,12 +107,7 @@ def get_session_history(session_id: str) -> BaseChatMessageHistory:
     
     return store[session_id]
 
-chat_with_history = RunnableWithMessageHistory(
-    chain,
-    get_session_history,
-    input_messages_key="input",
-    history_messages_key="history"
-)
+
 
 
 def iniciar(id_tarefa, output, session_id ="user123", CoT = False, Ep = False, few_shot = False):
@@ -244,10 +231,57 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
 
 
 if __name__ == "__main__":
+  
 
-  iniciar(5, 'saidaCL223EFCL2_Gemini_2.0_flash.json', session_id="user123", CoT=True, Ep = True, few_shot = True)
+    modelos = [
+        "gemini-2.0-flash",
+        "deepseek-r1:free"
+        
+    ]
 
-  #transformar_json_em_txt('saidaCL223EFCL2_Gemini_2.0_flash.json', 'saidaCL223EFCL2_Gemini_2.0_flash.txt')
+    tecnicas = [
+        {"nome": "baseline", "CoT": False, "Ep": False, "few_shot": False},
+        {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
+        {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
+        {"nome": "fewshot", "CoT": False, "Ep": False, "few_shot": True},
+        {"nome": "CoT_Ep", "CoT": True, "Ep": True, "few_shot": False},
+        {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
+        {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
+        {"nome": "CoT_Ep_fewshot", "CoT": True, "Ep": True, "few_shot": True},
+    ]
+
+    for modelo in modelos:
+        # Define o modelo para cada rodada
+
+        if modelo == "gemini-2.0-flash":
+            llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0)
+        elif modelo == "deepseek-r1:free":
+            llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
+
+        
+        chain = prompt | llm
+
+        chat_with_history = RunnableWithMessageHistory(
+            chain,
+            get_session_history,
+            input_messages_key="input",
+            history_messages_key="history"
+        )
+
+        for tecnica in tecnicas:
+            nome_tecnica = tecnica["nome"]
+            output_path = f"output_SBIE_2025/CL223EFCL2_{modelo}_{nome_tecnica}.json"
+
+            print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
+
+            iniciar(
+                id_tarefa=5,
+                output=output_path,
+                session_id=modelo,
+                CoT=tecnica["CoT"],
+                Ep=tecnica["Ep"],
+                few_shot=tecnica["few_shot"]
+            )
   
     
   

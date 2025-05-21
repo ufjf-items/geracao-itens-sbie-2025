@@ -1,0 +1,105 @@
+
+{
+  "Questões": [
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida Lara,\nNão fiz a lição de casa porque meu cachorro rasgou o caderno. Mamãe ficou brava, mas vamos comprar um novo hoje. Preciso refazer tudo antes de amanhã!\nBeijos,\nMiguel\nBelo Horizonte, 10 de setembro de 2024",
+      "Comando 2": "Por que Miguel não fez a lição de casa?",
+      "Opções": {
+        "a": "Porque estava brincando",
+        "b": "Pois o caderno foi rasgado",
+        "c": "Já que a mãe estava brava",
+        "d": "Por isso compraram outro"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreto. Não há menção a brincadeiras no texto",
+        "b": "Correto. 'Pois' relaciona o rasgo do caderno à causa da lição não feita",
+        "c": "Incorreto. A reação da mãe é consequência, não causa",
+        "d": "Incorreto. Indica solução do problema, não motivo original"
+      },
+      "->": "Uso de 'porque' para vincular dano ao material e consequência. Distratores exploram ações posteriores e interpretações literais."
+    },
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Caro amigo Pedro,\nCancelamos o piquenique pois choveu sem parar. Ficamos tristes, mas vamos tentar no próximo sábado. Traga seu guarda-chuva!\nAbraços,\nSophia\nFlorianópolis, 18 de outubro de 2024",
+      "Comando 2": "Qual foi o motivo do cancelamento do piquenique?",
+      "Opções": {
+        "a": "Porque Pedro esqueceu o guarda-chuva",
+        "b": "Já que Sophia estava triste",
+        "c": "Pois choveu muito",
+        "d": "Por isso remarcaram"
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Incorreto. O guarda-chuva é sugestão futura",
+        "b": "Incorreto. A tristeza é reação ao cancelamento",
+        "c": "Correto. 'Pois' conecta chuva intensa ao cancelamento",
+        "d": "Incorreto. A remarcação é consequência, não causa"
+      },
+      "->": "Relação causal com 'pois' entre chuva e cancelamento. Distratores usam elementos de contexto futuro e emocional."
+    },
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida vovó,\nGanhei uma bicicleta nova já que tirei notas altas. Prometi cuidar bem dela! Vou pedalar no parque no domingo.\nBeijos,\nLaura\nCuritiba, 5 de novembro de 2024",
+      "Comando 2": "Por que Laura ganhou uma bicicleta?",
+      "Opções": {
+        "a": "Porque queria pedalar",
+        "b": "Já que teve bom desempenho",
+        "c": "Pois a avó gosta de parques",
+        "d": "Por isso prometeu cuidar"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreto. O desejo de pedalar é consequência",
+        "b": "Correto. 'Já que' indica relação entre notas e recompensa",
+        "c": "Incorreto. Informação não consta no texto",
+        "d": "Incorreto. Mostra compromisso pós-aquisição"
+      },
+      "->": "Uso de 'já que' para ligar desempenho escolar à recompensa. Distratores focam em desejos e compromissos posteriores."
+    },
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Diego,\nMeu gato fugiu por isso que esqueci a janela aberta. Estamos procurando há duas horas. Se vir um siamês, me avise!\nAtenciosamente,\nJúlia\nRecife, 22 de dezembro de 2024",
+      "Comando 2": "Por que o gato de Júlia fugiu?",
+      "Opções": {
+        "a": "Porque estava doente",
+        "b": "Já que procuravam ele",
+        "c": "Pois a janela ficou aberta",
+        "d": "Por isso avisará Diego"
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Incorreto. Não há menção à saúde do animal",
+        "b": "Incorreto. A procura é consequência da fuga",
+        "c": "Correto. 'Por isso que' vincula janela aberta à fuga",
+        "d": "Incorreto. Indica ação futura de comunicação"
+      },
+      "->": "Relação causal com 'por isso que' entre esquecimento e fuga. Distratores usam elementos de consequência e invenções."
+    },
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Cara mãe,\nCheguei atrasado porque o ônibus quebrou. O motorista chamou outro, mas perdi a primeira aula. Amanhã sairei mais cedo!\nCom amor,\nGustavo\nPorto Alegre, 30 de janeiro de 2025",
+      "Comando 2": "Qual foi a causa do atraso de Gustavo?",
+      "Opções": {
+        "a": "Pois perdeu a aula",
+        "b": "Porque o ônibus avariou",
+        "c": "Já que sairá mais cedo",
+        "d": "Por isso o motorista agiu"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreto. A perda da aula é consequência",
+        "b": "Correto. 'Porque' conecta pane do ônibus ao atraso",
+        "c": "Incorreto. Indica solução futura",
+        "d": "Incorreto. Ação do motorista é resposta ao problema"
+      },
+      "->": "Uso de 'porque' para vincular defeito mecânico e atraso. Distratores exploram efeitos e medidas preventivas."
+    }
+  ]
+}
