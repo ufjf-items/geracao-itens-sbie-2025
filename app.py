@@ -148,14 +148,48 @@ def iniciar(id_tarefa, output, session_id ="user123", CoT = False, Ep = False, f
 
 </exemplo> """ if few_shot else ""
 
-    
+
+    format_exemplo = exemplo.format(
+        comando1_exemplo=vars_prompt.get('comando1_exemplo', ''),
+        suporte_exemplo=vars_prompt.get('suporte_exemplo', ''),
+        comando2_exemplo=vars_prompt.get('comando2_exemplo', ''),
+        respostas_exemplo=vars_prompt.get('respostas_exemplo', ''),
+        justificativas_exemplo=vars_prompt.get('justificativas_exemplo', ''),
+    )
+
     ep = "A educação brasileira depende fortemente disso." if Ep else ""
     usar_cot = "Pense passo a passo e explique cada parte do seu raciocínio ao final de cada questão gerada." if CoT else ""
     cot = "[Linha de raciocínio detalhada para a construção da questão]" if CoT else ""
     vars_prompt['usar_cot'] = usar_cot
     vars_prompt['ep']=ep
     vars_prompt['cot'] = cot
-    vars_prompt['exemplo'] = exemplo
+    vars_prompt['exemplo'] = format_exemplo
+
+
+    # Construir o prompt completo
+    prompt_completo = template.format(
+        BNCC=vars_prompt.get('BNCC', ''),
+        descritor=vars_prompt.get('descritor', ''),
+        tipo_de_texto=vars_prompt.get('tipo_de_texto', ''),
+        classe=vars_prompt.get('classe', ''),
+        comando1=vars_prompt.get('comando1', ''),
+        suporte=vars_prompt.get('suporte', ''),
+        comando2=vars_prompt.get('comando2', ''),
+        gabarito=vars_prompt.get('gabarito', ''),
+        distratores=vars_prompt.get('distratores', ''),
+        cot=cot,
+        usar_cot=usar_cot,
+        ep=ep,
+        exemplo=format_exemplo,
+        history='',  # Você pode adicionar o histórico se necessário
+        input=vars_prompt['input']
+    )
+
+    print("="*80)
+    print("PROMPT QUE SERÁ ENVIADO:")
+    print("="*80)
+    print(prompt_completo)
+    print("="*80)
 
     resposta = chat_with_history.invoke(
         vars_prompt,
@@ -164,7 +198,6 @@ def iniciar(id_tarefa, output, session_id ="user123", CoT = False, Ep = False, f
         }
     )
     print('RESPOSTA:', resposta.content)
-
 
     # Salvar a resposta em um arquivo CSV
     resposta_json = resposta.content
@@ -209,9 +242,6 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
     print(f"Arquivo gerado com sucesso em: {caminho_txt}")
 
 
-
-
-    
 
 if __name__ == "__main__":
 
