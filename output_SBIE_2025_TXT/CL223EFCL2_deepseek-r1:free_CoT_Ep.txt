@@ -1,0 +1,117 @@
+Questão 1
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida vovó,
+Estou muito animada com sua visita! Ontem arrumei todo meu quarto porque você disse que gosta de organização. Limpei até embaixo da cama e guardei todos os brinquedos. Mamãe me ajudou a fazer seu bolo de cenoura preferido. Espero que você goste!
+Beijos,
+Maria
+São Paulo, 15 de março de 2024
+Pergunta:
+Por que Maria arrumou todo o seu quarto?
+Opções:
+   a) Porque sua mãe pediu para guardar os brinquedos
+   b) Pois queria encontrar seus livros favoritos
+-> c) Já que a vovó gosta de organização
+   d) Por isso limpou embaixo da cama
+Justificativas:
+a) Incorreta. A mãe ajudou com o bolo, não com a arrumação do quarto
+b) Incorreta. Não há menção a livros no texto, apenas a brinquedos guardados
+c) Correta. O texto afirma explicitamente 'arrumei todo meu quarto porque você disse que gosta de organização'
+d) Incorreta. A limpeza sob a cama é consequência da arrumação, não a causa
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Caro Diário,
+Hoje não brinquei no recreio pois esqueci meu casaco e estava frio. Fiquei na biblioteca lendo uma história de aventura. A professora elogiou minha leitura! Amanhã vou levar o casaco mesmo que faça sol.
+João Pedro
+Belo Horizonte, 22 de agosto de 2024
+Pergunta:
+Qual foi o motivo de João Pedro não ter brincado no recreio?
+Opções:
+   a) Porque estava lendo na biblioteca
+-> b) Já que esqueceu o casaco e estava frio
+   c) Pois a professora elogiou sua leitura
+   d) Por isso decidiu levar o casaco no dia seguinte
+Justificativas:
+a) Incorreta. A leitura foi consequência, não causa
+b) Correta. A conjunção 'pois' introduz a causa direta no primeiro período
+c) Incorreta. O elogio ocorreu após a decisão de não brincar
+d) Incorreta. Refere-se a uma decisão futura, não ao fato ocorrido
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Prezado Senhor Zé,
+Peço desculpas por não devolver o livro hoje. Como choveu muito, não pude ir até sua casa. Amanhã, se o tempo melhorar, levo o livro pela manhã. Obrigado por entender!
+Carlos
+Rio de Janeiro, 5 de abril de 2024
+Pergunta:
+Por qual motivo Carlos não devolveu o livro?
+Opções:
+   a) Porque esqueceu o livro em casa
+-> b) Já que choveu muito
+   c) Pois precisa devolver pela manhã
+   d) Por isso o tempo precisa melhorar
+Justificativas:
+a) Incorreta. Não há menção a esquecimento do livro
+b) Correta. A conjunção 'como' introduz a causa equivalente a 'porque' na variedade padrão
+c) Incorreta. Refere-se ao plano de devolução, não à causa do atraso
+d) Incorreta. Apresenta consequência futura condicional
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querido primo,
+Você vai adorar saber que ganhei um novo videogame! Como passei de ano com notas altas, meus pais me presentearam. Vamos jogar juntos no final de semana? Traga seus jogos favoritos!
+Abraços,
+Lucas
+Curitiba, 10 de dezembro de 2024
+Pergunta:
+Por que Lucas ganhou um novo videogame?
+Opções:
+   a) Porque quer jogar com o primo
+-> b) Já que passou de ano com notas altas
+   c) Pois seus pais gostam de presentear
+   d) Por isso precisa trazer os jogos
+Justificativas:
+a) Incorreta. O convite para jogar é consequência, não causa
+b) Correta. A conjunção 'como' equivale a 'porque' indicando a razão do presente
+c) Incorreta. Generaliza uma suposta preferência não explicitada
+d) Incorreta. Relaciona-se ao plano futuro, não à causa do ganho
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Cara amiga Ana,
+Desculpe não ter ido à sua festa. Fiquei com febre ontem à noite e precisei repousar. Mamãe disse que podemos nos encontrar no parque sábado para comemorar. Levarei um presentinho para você!
+Beijos,
+Julia
+Porto Alegre, 7 de setembro de 2024
+Pergunta:
+Qual foi o motivo de Julia não ter ido à festa?
+Opções:
+   a) Porque precisava repousar
+-> b) Já que ficou com febre
+   c) Pois irão ao parque sábado
+   d) Por isso levará um presente
+Justificativas:
+a) Incorreta. O repouso é consequência da febre
+b) Correta. A febre é a causa direta expressa pela conjunção 'e' que liga os fatos causalmente
+c) Incorreta. Refere-se a um plano futuro de compensação
+d) Incorreta. Menciona consequência da ausência na festa
+
+--------------------------------------------------------------------------------

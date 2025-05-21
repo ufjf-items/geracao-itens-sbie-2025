@@ -1,0 +1,119 @@
+Questão 1
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Ana,
+Estou triste porque não fui à escola hoje. Acordei com muita febre e dor de garganta. Mamãe disse que preciso repousar. Espero melhorar até amanhã para brincarmos no recreio.
+Um abraço,
+Pedro
+São Paulo, 15 de março de 2024
+Pergunta:
+Por que Pedro não foi à escola hoje?
+Opções:
+   a) Porque queria brincar no recreio
+-> b) Porque estava com febre e dor de garganta
+   c) Porque perdeu o ônibus escolar
+   d) Porque a escola estava fechada
+Justificativas:
+a) Incorreto. O texto menciona o desejo de brincar no recreio como expectativa futura, não como motivo da ausência
+b) Correto. A conjunção 'porque' introduz a causa diretamente relacionada à ausência escolar: problemas de saúde
+c) Incorreto. Não há menção a problemas com transporte no texto
+d) Incorreto. A escola não é citada como fechada, apenas a ausência do aluno
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Caro vovô,
+A árvore do quintal caiu pois o vento estava muito forte. Papai disse que vamos plantar uma nova. Sentirei saudades de suas sombras frescas no verão.
+Beijos,
+Julia
+Curitiba, 2 de abril de 2024
+Pergunta:
+Qual foi a razão da queda da árvore no quintal?
+Opções:
+   a) Porque Julia sentia saudades
+-> b) Pois o vento estava muito forte
+   c) Já que era verão
+   d) Por isso plantariam nova
+Justificativas:
+a) Incorreto. As saudades são consequência, não causa
+b) Correto. A conjunção 'pois' estabelece relação causal entre vento forte e queda da árvore
+c) Incorreto. A estação é mencionada como contexto temporal, não como causa
+d) Incorreto. Indica consequência do fato, não causa
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Lucas,
+Não pude jogar futebol já que machuquei o pé. O médico mandou ficar de repouso. Que tal irmos ao cinema no fim de semana?
+Até breve,
+Carlos
+Belo Horizonte, 8 de maio de 2024
+Pergunta:
+Por qual motivo Carlos não jogou futebol?
+Opções:
+-> a) Já que machucou o pé
+   b) Porque prefere cinema
+   c) Pois estava estudando
+   d) Por isso ficou em casa
+Justificativas:
+a) Correto. A conjunção 'já que' indica claramente a relação causal com a lesão
+b) Incorreto. A ida ao cinema é proposta futura, não motivo da ausência
+c) Incorreto. Não há menção a estudos no texto
+d) Incorreto. Indica consequência, não causa original
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida professora,
+Não trouxe meu projeto hoje por isso que faltaram materiais. Meu pai prometeu comprar tudo amanhã. Posso apresentar na sexta-feira?
+Desculpe,
+Mariana
+Porto Alegre, 10 de junho de 2024
+Pergunta:
+Por que Mariana não trouxe o projeto?
+Opções:
+   a) Porque esqueceu na escola
+   b) Já que choveu muito
+-> c) Por isso faltaram materiais
+   d) Pois o pai viajou
+Justificativas:
+a) Incorreto. Não há menção a esquecimento
+b) Incorreto. Fator climático não é citado
+c) Correto. A locução 'por isso que' indica relação causal com falta de materiais
+d) Incorreto. A viagem do pai é invenção distratora
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Cara amiga Luiza,
+Seu presente chegou atrasado porque o correio estava fechado. Mas agora chegou e adorei! Obrigada pelos lápis coloridos.
+Abraços,
+Clara
+Salvador, 22 de julho de 2024
+Pergunta:
+Qual foi o motivo do atraso do presente?
+Opções:
+   a) Porque Clara não gostou
+   b) Já que Luiza esqueceu
+-> c) Porque o correio estava fechado
+   d) Pois eram lápis coloridos
+Justificativas:
+a) Incorreto. O agrado é explicitamente mencionado
+b) Incorreto. Não há indicação de esquecimento
+c) Correto. A conjunção 'porque' liga diretamente o atraso ao fechamento do correio
+d) Incorreto. Os lápis são o presente, não causa do atraso
+
+--------------------------------------------------------------------------------

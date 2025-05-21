@@ -1,0 +1,139 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+São Paulo, 10 de maio de 2024.
+
+Querida Vovó,
+
+Escrevo para contar que participei de um concurso de desenho na escola. Fiquei muito feliz porque ganhei o primeiro lugar! A professora disse que meu desenho era muito criativo e colorido. Vou guardar o prêmio para comprar um presente bem legal para você, pois sei que a senhora adora lembrancinhas.
+
+Com carinho,
+
+Sofia
+Pergunta:
+No trecho “Fiquei muito feliz porque ganhei o primeiro lugar!”, qual a razão da felicidade de Sofia?
+Opções:
+   a) A professora elogiou seu desenho.
+   b) Ela participou de um concurso na escola.
+-> c) Ela ganhou o primeiro lugar no concurso.
+   d) Ela vai comprar um presente para a avó.
+Justificativas:
+a) Incorreta. Embora a professora tenha elogiado o desenho de Sofia, a conjunção 'porque' no trecho especificado indica a causa direta da felicidade dela, que é ter ganho o concurso, e não o elogio em si.
+b) Incorreta. Participar do concurso é um fato que antecede a felicidade de Sofia, mas não é a causa direta expressa pela conjunção 'porque' no trecho em questão. A causa direta é a vitória no concurso.
+c) Correta. A conjunção 'porque' indica claramente que a razão da felicidade de Sofia é ter ganho o primeiro lugar no concurso. O trecho explicita a relação de causa e consequência.
+d) Incorreta. A intenção de comprar um presente para a avó é uma consequência da felicidade de Sofia, mas não é a causa dessa felicidade, conforme indicado pela conjunção 'porque' no trecho analisado.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Rio de Janeiro, 15 de junho de 2024.
+
+Prezado Sr. Silva,
+
+Escrevo para informar que o pedido do livro “Aventuras no Espaço” foi entregue hoje. Infelizmente, a embalagem chegou um pouco amassada, pois houve um problema com a transportadora durante o trajeto. Pedimos desculpas pelo ocorrido e esperamos que o livro esteja em perfeitas condições.
+
+Atenciosamente,
+
+Livraria Leitura Feliz
+Pergunta:
+No trecho “a embalagem chegou um pouco amassada, pois houve um problema com a transportadora durante o trajeto”, qual a causa da embalagem ter chegado amassada?
+Opções:
+   a) O livro “Aventuras no Espaço” foi entregue hoje.
+-> b) Houve um problema com a transportadora durante o trajeto.
+   c) A Livraria Leitura Feliz pediu desculpas.
+   d) O Sr. Silva fez um pedido de um livro.
+Justificativas:
+a) Incorreta. A entrega do livro é um evento diferente do problema com a embalagem. A conjunção 'pois' indica a causa do problema na embalagem, e não da entrega em si.
+b) Correta. A conjunção 'pois' estabelece uma relação de causalidade direta entre o problema com a transportadora e o fato de a embalagem ter chegado amassada. Essa é a causa explícita no trecho.
+c) Incorreta. O pedido de desculpas é uma consequência do problema com a embalagem, e não a causa. A conjunção 'pois' indica a causa do problema na embalagem, não do pedido de desculpas.
+d) Incorreta. O pedido do livro é um evento que antecede o problema com a embalagem, mas não é a causa direta desse problema, conforme indicado pela conjunção 'pois'.
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Belo Horizonte, 20 de julho de 2024.
+
+Querido Papai,
+
+Estou escrevendo para contar que tirei uma nota muito boa na prova de matemática. Estudei bastante durante a semana, já que queria muito ir ao cinema no fim de semana. Se você me levar, prometo continuar me esforçando nos estudos!
+
+Com amor,
+
+Lucas
+Pergunta:
+No trecho “Estudei bastante durante a semana, já que queria muito ir ao cinema no fim de semana”, qual a razão de Lucas ter estudado bastante?
+Opções:
+   a) Ele tirou uma nota muito boa na prova de matemática.
+-> b) Ele queria muito ir ao cinema no fim de semana.
+   c) Ele prometeu continuar se esforçando nos estudos.
+   d) Ele está escrevendo uma carta para o pai.
+Justificativas:
+a) Incorreta. A boa nota na prova é uma consequência do estudo, e não a causa. A conjunção 'já que' indica a causa do estudo, não da boa nota.
+b) Correta. A conjunção 'já que' indica que o desejo de ir ao cinema no fim de semana é a razão pela qual Lucas estudou bastante. O trecho explicita essa relação de causa e consequência.
+c) Incorreta. A promessa de continuar se esforçando é uma condição para ir ao cinema, mas não é a causa do estudo em si. A conjunção 'já que' indica a causa do estudo, não da promessa.
+d) Incorreta. O fato de estar escrevendo uma carta é independente da razão pela qual ele estudou. A conjunção 'já que' indica a causa do estudo, não da escrita da carta.
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Salvador, 05 de agosto de 2024.
+
+Olá, Mariana,
+
+Envio esta mensagem para avisar que não poderei comparecer à sua festa de aniversário. Estou com muita febre e dor de garganta, por isso, preciso ficar em casa e me cuidar para melhorar logo.
+
+Melhoras para mim,
+
+Carolina
+Pergunta:
+No trecho “Estou com muita febre e dor de garganta, por isso, preciso ficar em casa e me cuidar para melhorar logo”, qual a consequência de Carolina estar com febre e dor de garganta?
+Opções:
+   a) Ela enviou uma mensagem para Mariana.
+-> b) Ela precisa ficar em casa e se cuidar.
+   c) Ela está desejando melhoras para si mesma.
+   d) Ela não poderá comparecer à festa de aniversário de Mariana.
+Justificativas:
+a) Incorreta. Enviar a mensagem é uma ação que Carolina tomou para informar sobre sua ausência, mas não é a consequência direta de estar doente, conforme indicado por 'por isso'.
+b) Correta. A expressão 'por isso' indica que a necessidade de ficar em casa e se cuidar é uma consequência direta de Carolina estar com febre e dor de garganta. O trecho explicita essa relação de causa e consequência.
+c) Incorreta. Desejar melhoras para si mesma é uma expressão de desejo, mas não é a consequência direta de estar doente, conforme indicado por 'por isso'.
+d) Incorreta. Não comparecer à festa é uma consequência de estar doente, mas o comando pede a consequência expressa no trecho citado, que é a necessidade de ficar em casa e se cuidar.
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Curitiba, 28 de setembro de 2024.
+
+Queridos Avós,
+
+Muito obrigado pelo presente lindo que vocês me enviaram! Adorei o livro de dinossauros. Já comecei a ler e estou aprendendo muitas coisas novas. Como vocês sempre me incentivam a estudar, estou me dedicando ainda mais aos livros.
+
+Um abraço carinhoso,
+
+Pedro
+Pergunta:
+No trecho “Como vocês sempre me incentivam a estudar, estou me dedicando ainda mais aos livros”, qual a razão de Pedro estar se dedicando ainda mais aos livros?
+Opções:
+   a) Ele adorou o livro de dinossauros.
+   b) Ele já começou a ler o livro.
+   c) Ele está aprendendo muitas coisas novas.
+-> d) Seus avós sempre o incentivam a estudar.
+Justificativas:
+a) Incorreta. Adorar o livro é uma reação ao presente, mas não é a causa de ele estar se dedicando mais aos livros, conforme indicado por 'como'.
+b) Incorreta. Começar a ler o livro é uma ação que ele tomou, mas não é a causa de ele estar se dedicando mais aos livros, conforme indicado por 'como'.
+c) Incorreta. Aprender coisas novas é uma consequência da leitura, mas não é a causa de ele estar se dedicando mais aos livros, conforme indicado por 'como'.
+d) Correta. A palavra 'como' indica que o incentivo dos avós é a razão pela qual Pedro está se dedicando ainda mais aos livros. O trecho explicita essa relação de causa e consequência.
+
+--------------------------------------------------------------------------------

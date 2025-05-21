@@ -1,0 +1,119 @@
+Questão 1
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Isabel,
+Perdi meu livro favorito porque deixei cair no ônibus. A motorista prometeu procurar, mas ainda não encontrou. Vou ter que comprar outro com minhas economias.
+Saudades,
+Carlos
+Goiânia, 10 de janeiro de 2025
+Pergunta:
+Por que Carlos perdeu seu livro favorito?
+Opções:
+   a) Pois estava economizando
+-> b) Porque caiu no ônibus
+   c) Já que a motorista procurou
+   d) Por isso comprará outro
+Justificativas:
+a) Incorreto. As economias são consequência, não causa da perda
+b) Correto. 'Porque' conecta diretamente a queda no ônibus à perda do livro
+c) Incorreto. A procura da motorista é ação posterior à perda
+d) Incorreto. Indica resolução do problema, não causa original
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Thiago,
+Meu celular quebrou pois escorregou da mesa. Papai disse que só conserta se eu melhorar nas notas. Estou estudando todo dia!
+Abraço,
+Luísa
+Florianópolis, 18 de fevereiro de 2025
+Pergunta:
+Qual foi o motivo da quebra do celular?
+Opções:
+   a) Porque Luísa precisa estudar
+-> b) Pois escorregou da mesa
+   c) Já que o pai exige notas melhores
+   d) Por isso está estudando
+Justificativas:
+a) Incorreto. O estudo é condição para conserto, não causa da queda
+b) Correto. 'Pois' estabelece relação causal entre a queda e o dano
+c) Incorreto. Condição imposta após o ocorrido
+d) Incorreto. Mostra consequência do fato, não causa
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Cara avó,
+Não visitei você no domingo já que tive prova de matemática. Estudei o fim de semana todo e tirei nota boa! No próximo mês vou sem falta.
+Beijos,
+Rafael
+Natal, 5 de março de 2025
+Pergunta:
+Por qual motivo Rafael não visitou a avó?
+Opções:
+   a) Porque estava viajando
+-> b) Já que teve prova
+   c) Pois tirou nota boa
+   d) Por isso estudou muito
+Justificativas:
+a) Incorreto. Não há menção a viagem no texto
+b) Correto. 'Já que' indica a prova como motivo da ausência
+c) Incorreto. A nota é resultado do estudo, não causa
+d) Incorreto. Mostra relação inversa de causa-efeito
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querido tio,
+Meu pé está inchado por isso que pisei num prego. A médica mandou fazer curativo diário. Não posso jogar futebol por uma semana!
+Saudações,
+Gabriel
+Campo Grande, 22 de abril de 2025
+Pergunta:
+Por que o pé de Gabriel está inchado?
+Opções:
+   a) Porque joga futebol
+   b) Pois precisa de curativo
+-> c) Já que pisou num prego
+   d) Por isso foi ao médico
+Justificativas:
+a) Incorreto. O futebol é atividade proibida após o acidente
+b) Incorreto. O curativo é tratamento, não causa
+c) Correto. 'Por isso que' liga o acidente ao inchaço
+d) Incorreto. A ida ao médico é consequência do ferimento
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amiga Clara,
+Minha planta morreu pois esqueci de regar. Mamãe disse que posso plantar outra, mas preciso ser mais responsável. Vou colocar lembretes no celular!
+Até breve,
+Sophia
+João Pessoa, 30 de maio de 2025
+Pergunta:
+Qual foi a causa da morte da planta?
+Opções:
+   a) Porque Sophia plantou outra
+-> b) Pois não regou
+   c) Já que colocou lembretes
+   d) Por isso é responsável
+Justificativas:
+a) Incorreto. Nova plantação é consequência, não causa
+b) Correto. 'Pois' conecta a falta de rega ao resultado
+c) Incorreto. Lembretes são medida preventiva futura
+d) Incorreto. Mostra desenvolvimento de habilidade pós-evento
+
+--------------------------------------------------------------------------------

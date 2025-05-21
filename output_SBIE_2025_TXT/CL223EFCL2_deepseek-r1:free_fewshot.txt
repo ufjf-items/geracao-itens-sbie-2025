@@ -1,0 +1,119 @@
+Questão 1
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querido João,
+Não pude ir à sua festa porque fiquei gripado. A médica disse que preciso ficar em casa até melhorar. Vamos nos encontrar no parque quando eu sarar?
+Abraços,
+Lucas
+Rio de Janeiro, 5 de agosto de 2024
+Pergunta:
+Por que Lucas não foi à festa de João?
+Opções:
+-> a) Porque estava com gripe
+   b) Pois preferiu ir ao parque
+   c) Já que não gosta de festas
+   d) Por isso ficou em casa
+Justificativas:
+a) Correto. A conjunção 'porque' estabelece relação direta entre a gripe e a ausência na festa
+b) Incorreto. O parque é proposta futura, não motivo da ausência
+c) Incorreto. Não há indicação de aversão a festas no texto
+d) Incorreto. Indica consequência, não a causa original
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Cara Sofia,
+Meu brinquedo quebrou pois caí da escada com ele. Papai vai tentar consertar, mas estou muito triste.
+Beijinhos,
+Gabriel
+Fortaleza, 12 de setembro de 2024
+Pergunta:
+Qual foi o motivo da quebra do brinquedo?
+Opções:
+   a) Porque Gabriel estava triste
+-> b) Pois caiu da escada
+   c) Já que o pai consertou
+   d) Por isso não funciona mais
+Justificativas:
+a) Incorreto. A tristeza é consequência, não causa
+b) Correto. 'Pois' conecta a queda ao dano no brinquedo
+c) Incorreto. A tentativa de conserto é consequência
+d) Incorreto. Descreve o estado atual, não a causa
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amiga Bia,
+Não fomos ao cinema já que choveu o dia todo. Mamãe prometeu levar no próximo fim de semana. Você topa vir conosco?
+Até logo,
+Laura
+Brasília, 20 de outubro de 2024
+Pergunta:
+Por qual motivo não foram ao cinema?
+Opções:
+   a) Porque Laura não gosta de filmes
+-> b) Já que choveu muito
+   c) Pois a mãe viajou
+   d) Por isso remarcaram
+Justificativas:
+a) Incorreto. Não há indicação de desinteresse por filmes
+b) Correto. 'Já que' introduz a causa meteorológica
+c) Incorreto. Informação inexistente no texto
+d) Incorreto. A remarcação é consequência, não causa
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querido vovô,
+Meu cachorro fugiu por isso que esquecemos o portão aberto. Estamos procurando ele pela vizinhança. Rezo para encontrá-lo logo.
+Com saudades,
+Pedro
+Recife, 3 de novembro de 2024
+Pergunta:
+Por que o cachorro de Pedro fugiu?
+Opções:
+   a) Porque estava doente
+   b) Já que o procuravam
+   c) Por isso deixaram o portão aberto
+-> d) Pois o portão estava aberto
+Justificativas:
+a) Incorreto. Não há menção a saúde do animal
+b) Incorreto. A procura é consequência da fuga
+c) Incorreto. Inverte a relação causa-consequência
+d) Correto. 'Por isso que' indica o esquecimento do portão como causa
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Caro Miguel,
+O bolo queimou porque faltou farinha. Tentei fazer com outro ingrediente, mas não deu certo. Na próxima vou prestar mais atenção!
+Abraço,
+Maria
+Manaus, 15 de dezembro de 2024
+Pergunta:
+Qual foi a causa do bolo queimar?
+Opções:
+   a) Pois Maria desistiu
+   b) Porque usou ingrediente errado
+-> c) Já que faltou farinha
+   d) Por isso prestará atenção
+Justificativas:
+a) Incorreto. Não há indicação de desistência
+b) Incorreto. O uso de substituto foi tentativa posterior
+c) Correto. 'Porque' liga diretamente a falta de farinha ao resultado
+d) Incorreto. Indica propósito futuro, não causa
+
+--------------------------------------------------------------------------------

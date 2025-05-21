@@ -201,22 +201,22 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
 
     linhas = []
 
-    for i, questao in enumerate(dados["questoes"], start=1):
+    for i, questao in enumerate(dados["Questões"], start=1):
         linhas.append(f"Questão {i}")
-        linhas.append(f"Competência Avaliada: {questao['Competencia Avaliada']}")
+        linhas.append(f"Competência Avaliada: {questao['Competência avaliada']}")
         linhas.append(f"Comando: {questao['Comando 1']}")
         linhas.append("Texto de Suporte:")
-        linhas.append(questao['texto_suporte'])
+        linhas.append(questao['Texto suporte'])
         linhas.append("Pergunta:")
-        linhas.append(questao['pergunta'])
+        linhas.append(questao['Comando 2'])
         linhas.append("Opções:")
 
-        for letra, opcao in questao['opcoes'].items():
-            prefixo = "->" if letra == questao['resposta_correta'] else "  "
+        for letra, opcao in questao['Opções'].items():
+            prefixo = "->" if letra == questao['Resposta correta'] else "  "
             linhas.append(f"{prefixo} {letra}) {opcao}")
 
         linhas.append("Justificativas:")
-        for letra, justificativa in questao['justificativas'].items():
+        for letra, justificativa in questao['Justificativas'].items():
             linhas.append(f"{letra}) {justificativa}")
           
 
@@ -233,55 +233,65 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
 if __name__ == "__main__":
   
 
-    modelos = [
-        "gemini-2.0-flash",
-        "deepseek-r1:free"
+    # modelos = [
+    #     "gemini-2.0-flash",
+    #     "deepseek-r1:free"
         
-    ]
+    # ]
 
-    tecnicas = [
-        {"nome": "baseline", "CoT": False, "Ep": False, "few_shot": False},
-        {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
-        {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
-        {"nome": "fewshot", "CoT": False, "Ep": False, "few_shot": True},
-        {"nome": "CoT_Ep", "CoT": True, "Ep": True, "few_shot": False},
-        {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
-        {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
-        {"nome": "CoT_Ep_fewshot", "CoT": True, "Ep": True, "few_shot": True},
-    ]
+    # tecnicas = [
+    #     {"nome": "baseline", "CoT": False, "Ep": False, "few_shot": False},
+    #     {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
+    #     {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
+    #     {"nome": "fewshot", "CoT": False, "Ep": False, "few_shot": True},
+    #     {"nome": "CoT_Ep", "CoT": True, "Ep": True, "few_shot": False},
+    #     {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
+    #     {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
+    #     {"nome": "CoT_Ep_fewshot", "CoT": True, "Ep": True, "few_shot": True},
+    # ]
 
-    for modelo in modelos:
-        # Define o modelo para cada rodada
+    # for modelo in modelos:
+    #     # Define o modelo para cada rodada
 
-        if modelo == "gemini-2.0-flash":
-            llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0)
-        elif modelo == "deepseek-r1:free":
-            llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
+    #     if modelo == "gemini-2.0-flash":
+    #         llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0)
+    #     elif modelo == "deepseek-r1:free":
+    #         llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
 
         
-        chain = prompt | llm
+    #     chain = prompt | llm
 
-        chat_with_history = RunnableWithMessageHistory(
-            chain,
-            get_session_history,
-            input_messages_key="input",
-            history_messages_key="history"
-        )
+    #     chat_with_history = RunnableWithMessageHistory(
+    #         chain,
+    #         get_session_history,
+    #         input_messages_key="input",
+    #         history_messages_key="history"
+    #     )
 
-        for tecnica in tecnicas:
-            nome_tecnica = tecnica["nome"]
-            output_path = f"output_SBIE_2025/CL223EFCL2_{modelo}_{nome_tecnica}.json"
+    #     for tecnica in tecnicas:
+    #         nome_tecnica = tecnica["nome"]
+    #         output_path = f"output_SBIE_2025/CL223EFCL2_{modelo}_{nome_tecnica}.json"
 
-            print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
+    #         print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
 
-            iniciar(
-                id_tarefa=5,
-                output=output_path,
-                session_id=modelo,
-                CoT=tecnica["CoT"],
-                Ep=tecnica["Ep"],
-                few_shot=tecnica["few_shot"]
-            )
+    #         iniciar(
+    #             id_tarefa=5,
+    #             output=output_path,
+    #             session_id=modelo,
+    #             CoT=tecnica["CoT"],
+    #             Ep=tecnica["Ep"],
+    #             few_shot=tecnica["few_shot"]
+    #         )
+
+
+    path = "output_SBIE_2025"
+
+    arquivos = os.listdir(path)
+
+    os.makedirs("output_SBIE_2025_TXT", exist_ok=True)
+
+    for arquivo in arquivos:
+        transformar_json_em_txt(os.path.join(path,arquivo), os.path.join("output_SBIE_2025_TXT", arquivo.replace(".json", ".txt")))
   
     
   

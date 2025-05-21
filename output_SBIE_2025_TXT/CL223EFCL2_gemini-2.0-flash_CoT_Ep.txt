@@ -1,0 +1,139 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+São Luís, 01 de agosto de 2024.
+
+Querida Mamãe,
+
+Escrevo para contar que a apresentação de dança foi um sucesso! Fiquei um pouco nervosa antes de entrar no palco, mas depois me senti mais confiante, pois você me disse para acreditar em mim e dar o meu melhor.
+
+Com amor,
+
+Ana
+Pergunta:
+No trecho “depois me senti mais confiante, pois você me disse para acreditar em mim e dar o meu melhor”, qual a razão de Ana ter se sentido mais confiante?
+Opções:
+   a) A apresentação de dança foi um sucesso.
+   b) Ana escreveu uma carta para a mamãe.
+   c) Ana ficou um pouco nervosa antes de entrar no palco.
+-> d) A mãe de Ana disse para ela acreditar em si e dar o seu melhor.
+Justificativas:
+a) Incorreta. O sucesso da apresentação é uma consequência da confiança, não a causa. A conjunção 'pois' indica a causa da confiança.
+b) Incorreta. Escrever a carta é uma ação diferente da razão pela qual Ana se sentiu mais confiante. A conjunção 'pois' indica a causa da confiança.
+c) Incorreta. O nervosismo é o oposto da confiança, e a conjunção 'pois' indica a causa da confiança, não do nervosismo.
+d) Correta. A conjunção 'pois' indica que a razão de Ana ter se sentido mais confiante é que a mãe disse para ela acreditar em si e dar o seu melhor. O trecho explicita essa relação de causa e consequência.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Porto Velho, 15 de setembro de 2024.
+
+Prezado Sr. José,
+
+Informo que o seu pedido de mudas de árvores frutíferas foi entregue hoje. As mudas chegaram em perfeitas condições, pois embalamos com muito cuidado para evitar qualquer dano durante o transporte.
+
+Atenciosamente,
+
+Viverde Jardins
+Pergunta:
+No trecho “As mudas chegaram em perfeitas condições, pois embalamos com muito cuidado para evitar qualquer dano durante o transporte”, qual a razão das mudas terem chegado em perfeitas condições?
+Opções:
+   a) O Sr. José fez um pedido de mudas de árvores frutíferas.
+   b) As mudas foram entregues hoje.
+-> c) A Viverde Jardins embalou as mudas com muito cuidado.
+   d) O transporte foi realizado com segurança.
+Justificativas:
+a) Incorreta. Fazer o pedido é um evento que antecede a entrega, mas a conjunção 'pois' especifica a razão das mudas terem chegado em perfeitas condições.
+b) Incorreta. A entrega é um fato, mas a conjunção 'pois' especifica a razão das mudas terem chegado em perfeitas condições.
+c) Correta. A conjunção 'pois' indica que a razão das mudas terem chegado em perfeitas condições é que a Viverde Jardins embalou as mudas com muito cuidado. O trecho explicita essa relação de causa e consequência.
+d) Incorreta. O transporte seguro é uma condição, mas a conjunção 'pois' especifica a ação que garantiu as perfeitas condições das mudas.
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Rio Branco, 28 de outubro de 2024.
+
+Querido Papai,
+
+Estou escrevendo para contar que fui escolhido para participar do campeonato de xadrez da escola! Fiquei muito feliz, já que venho treinando bastante todos os dias!
+
+Com amor,
+
+João
+Pergunta:
+No trecho “Fiquei muito feliz, já que venho treinando bastante todos os dias!”, qual a razão da felicidade de João?
+Opções:
+   a) João escreveu uma carta para o papai.
+   b) João foi escolhido para participar do campeonato de xadrez.
+   c) João gosta muito de jogar xadrez.
+-> d) João vem treinando bastante todos os dias!
+Justificativas:
+a) Incorreta. Escrever a carta é uma ação diferente da razão pela qual João está feliz. A conjunção 'já que' indica a causa da felicidade.
+b) Incorreta. Ser escolhido para participar do campeonato é um resultado, mas a conjunção 'já que' especifica a razão da felicidade.
+c) Incorreta. Gostar de jogar xadrez pode influenciar, mas a conjunção 'já que' especifica a razão da felicidade.
+d) Correta. A conjunção 'já que' indica que a razão da felicidade de João é que ele vem treinando bastante todos os dias. O trecho explicita essa relação de causa e consequência.
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Macapá, 10 de novembro de 2024.
+
+Olá, Professora Maria,
+
+Envio este e-mail para informar que não poderei comparecer à reunião de pais e mestres, pois estou trabalhando em um projeto importante que tem prazo para ser entregue.
+
+Atenciosamente,
+
+Carla Silva
+Pergunta:
+No trecho “não poderei comparecer à reunião de pais e mestres, pois estou trabalhando em um projeto importante que tem prazo para ser entregue”, qual a razão de Carla não poder comparecer à reunião?
+Opções:
+   a) Carla enviou um e-mail para a Professora Maria.
+-> b) Carla está trabalhando em um projeto importante com prazo para ser entregue.
+   c) A reunião de pais e mestres é muito importante.
+   d) Carla é mãe de um aluno.
+Justificativas:
+a) Incorreta. Enviar o e-mail é uma ação para informar, não a causa de não poder comparecer à reunião. A conjunção 'pois' indica a causa de não poder comparecer à reunião.
+b) Correta. A conjunção 'pois' indica que a razão de Carla não poder comparecer à reunião é que ela está trabalhando em um projeto importante com prazo para ser entregue. O trecho explicita essa relação de causa e consequência.
+c) Incorreta. A importância da reunião não é a causa de Carla não poder comparecer. A conjunção 'pois' indica a causa de não poder comparecer à reunião.
+d) Incorreta. Ser mãe de um aluno é uma condição, mas a conjunção 'pois' especifica a razão de não poder comparecer à reunião.
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Palmas, 25 de dezembro de 2024.
+
+Queridos Avós,
+
+Escrevo para agradecer o presente de Natal! Adorei o jogo de tabuleiro, porque adoro jogos que desafiam a minha inteligência!
+
+Com carinho,
+
+Fernanda
+Pergunta:
+No trecho “Adorei o jogo de tabuleiro, porque adoro jogos que desafiam a minha inteligência!”, qual a razão de Fernanda ter adorado o jogo de tabuleiro?
+Opções:
+   a) Fernanda escreveu uma carta para os avós.
+   b) O jogo de tabuleiro foi um presente de Natal.
+-> c) Fernanda adora jogos que desafiam a sua inteligência!
+   d) O jogo de tabuleiro é muito divertido.
+Justificativas:
+a) Incorreta. Escrever a carta é uma ação diferente da razão pela qual Fernanda adorou o jogo. A conjunção 'porque' indica a causa de ter adorado o jogo.
+b) Incorreta. Ser um presente de Natal é um contexto, mas a conjunção 'porque' especifica a razão de Fernanda ter adorado o jogo.
+c) Correta. A conjunção 'porque' indica que a razão de Fernanda ter adorado o jogo de tabuleiro é que ela adora jogos que desafiam a sua inteligência. O trecho explicita essa relação de causa e consequência.
+d) Incorreta. Ser divertido pode influenciar, mas a conjunção 'porque' especifica a razão de Fernanda ter adorado o jogo.
+
+--------------------------------------------------------------------------------

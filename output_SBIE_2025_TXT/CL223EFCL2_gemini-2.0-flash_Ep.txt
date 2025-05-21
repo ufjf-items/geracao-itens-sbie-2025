@@ -1,0 +1,139 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Recife, 03 de fevereiro de 2025.
+
+Querido Vovô,
+
+Estou escrevendo para contar que ganhei um cachorrinho! Ele é muito fofo e brincalhão. Dei o nome dele de Pipoca, pois ele adora pular e correr como se fossem pipocas pulando na panela!
+
+Com carinho,
+
+Fernanda
+Pergunta:
+No trecho “Dei o nome dele de Pipoca, pois ele adora pular e correr como se fossem pipocas pulando na panela!”, qual a razão de Fernanda ter dado o nome de Pipoca ao cachorrinho?
+Opções:
+   a) Ela escreveu uma carta para o avô.
+   b) O cachorrinho é muito fofo e brincalhão.
+   c) Ela ganhou um cachorrinho.
+-> d) Ele adora pular e correr como se fossem pipocas pulando na panela!
+Justificativas:
+a) Incorreta. Escrever a carta é uma ação diferente de dar o nome ao cachorro. A conjunção 'pois' indica a causa de dar o nome, não de escrever a carta.
+b) Incorreta. Ser fofo e brincalhão são características do cachorro, mas a conjunção 'pois' especifica a razão do nome.
+c) Incorreta. Ganhar o cachorro é um evento que antecede dar o nome, mas a conjunção 'pois' indica a razão específica do nome.
+d) Correta. A conjunção 'pois' indica que a razão de Fernanda ter dado o nome de Pipoca ao cachorrinho é que ele adora pular e correr como se fossem pipocas pulando na panela. O trecho explicita essa relação de causa e consequência.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Brasília, 15 de março de 2025.
+
+Prezada Sra. Silva,
+
+Informo que a aluna Mariana não poderá comparecer às aulas amanhã, pois está com suspeita de gripe. Agradeço a compreensão e avisarei assim que tivermos mais notícias.
+
+Atenciosamente,
+
+Coordenação da Escola
+Pergunta:
+No trecho “a aluna Mariana não poderá comparecer às aulas amanhã, pois está com suspeita de gripe”, qual a razão de Mariana não poder comparecer às aulas?
+Opções:
+   a) A coordenação da escola está informando a Sra. Silva.
+   b) A coordenação avisará assim que tiver mais notícias.
+-> c) Mariana está com suspeita de gripe.
+   d) A Sra. Silva é a mãe de Mariana.
+Justificativas:
+a) Incorreta. Informar a Sra. Silva é a ação da coordenação, não a causa da ausência de Mariana. A conjunção 'pois' indica a causa da ausência.
+b) Incorreta. Avisar sobre as notícias é uma ação futura, não a causa da ausência de Mariana. A conjunção 'pois' indica a causa da ausência.
+c) Correta. A conjunção 'pois' indica que a razão de Mariana não poder comparecer às aulas é que ela está com suspeita de gripe. O trecho explicita essa relação de causa e consequência.
+d) Incorreta. Ser a mãe de Mariana é uma informação sobre a Sra. Silva, não a causa da ausência de Mariana. A conjunção 'pois' indica a causa da ausência.
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Natal, 28 de abril de 2025.
+
+Querido Tio João,
+
+Escrevo para agradecer o presente que me deu no meu aniversário! Adorei o jogo de montar. Estou brincando com ele todos os dias, já que adoro construir coisas novas e diferentes!
+
+Com carinho,
+
+Rafael
+Pergunta:
+No trecho “Estou brincando com ele todos os dias, já que adoro construir coisas novas e diferentes!”, qual a razão de Rafael estar brincando com o jogo de montar todos os dias?
+Opções:
+   a) Ele escreveu uma carta para o Tio João.
+   b) Ele ganhou o jogo de montar de presente.
+-> c) Ele adora construir coisas novas e diferentes!
+   d) O jogo de montar é muito divertido.
+Justificativas:
+a) Incorreta. Escrever a carta é uma ação diferente de brincar com o jogo. A conjunção 'já que' indica a causa de brincar com o jogo, não de escrever a carta.
+b) Incorreta. Ganhar o jogo é um evento que antecede brincar com ele, mas a conjunção 'já que' indica a razão específica de brincar.
+c) Correta. A conjunção 'já que' indica que a razão de Rafael estar brincando com o jogo de montar todos os dias é que ele adora construir coisas novas e diferentes. O trecho explicita essa relação de causa e consequência.
+d) Incorreta. Embora o jogo ser divertido possa influenciar, a conjunção 'já que' indica que a principal razão é o gosto de Rafael por construir coisas.
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Fortaleza, 10 de maio de 2025.
+
+Olá, Professora Ana,
+
+Envio este e-mail para avisar que não poderei ir à aula amanhã, pois tenho consulta médica marcada. Peço desculpas pelo transtorno e enviarei as atividades assim que possível.
+
+Atenciosamente,
+
+Carlos
+Pergunta:
+No trecho “não poderei ir à aula amanhã, pois tenho consulta médica marcada”, qual a razão de Carlos não poder ir à aula?
+Opções:
+   a) Ele enviou um e-mail para a Professora Ana.
+   b) Ele pede desculpas pelo transtorno.
+   c) Ele enviará as atividades assim que possível.
+-> d) Ele tem consulta médica marcada.
+Justificativas:
+a) Incorreta. Enviar o e-mail é uma ação para informar, não a causa da ausência. A conjunção 'pois' indica a causa da ausência.
+b) Incorreta. Pedir desculpas é uma atitude de cortesia, não a causa da ausência. A conjunção 'pois' indica a causa da ausência.
+c) Incorreta. Enviar as atividades é uma ação futura, não a causa da ausência. A conjunção 'pois' indica a causa da ausência.
+d) Correta. A conjunção 'pois' indica que a razão de Carlos não poder ir à aula é que ele tem consulta médica marcada. O trecho explicita essa relação de causa e consequência.
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Manaus, 22 de junho de 2025.
+
+Queridos Pais,
+
+Estou escrevendo para contar que fui escolhida para ser a representante da turma! Fiquei muito feliz, porque todos os meus amigos votaram em mim!
+
+Com amor,
+
+Laura
+Pergunta:
+No trecho “Fiquei muito feliz, porque todos os meus amigos votaram em mim!”, qual a razão da felicidade de Laura?
+Opções:
+   a) Ela escreveu uma carta para os pais.
+   b) Ela foi escolhida para ser a representante da turma.
+   c) Ela tem muitos amigos na turma.
+-> d) Todos os seus amigos votaram nela!
+Justificativas:
+a) Incorreta. Escrever a carta é uma ação diferente da felicidade de Laura. A conjunção 'porque' indica a causa da felicidade.
+b) Incorreta. Ser escolhida representante é um evento que antecede a felicidade, mas a conjunção 'porque' especifica a razão da felicidade.
+c) Incorreta. Ter amigos é um contexto, mas a conjunção 'porque' especifica a razão da felicidade.
+d) Correta. A conjunção 'porque' indica que a razão da felicidade de Laura é que todos os seus amigos votaram nela. O trecho explicita essa relação de causa e consequência.
+
+--------------------------------------------------------------------------------

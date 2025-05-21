@@ -1,0 +1,119 @@
+Questão 1
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Lara,
+Não fiz a lição de casa porque meu cachorro rasgou o caderno. Mamãe ficou brava, mas vamos comprar um novo hoje. Preciso refazer tudo antes de amanhã!
+Beijos,
+Miguel
+Belo Horizonte, 10 de setembro de 2024
+Pergunta:
+Por que Miguel não fez a lição de casa?
+Opções:
+   a) Porque estava brincando
+-> b) Pois o caderno foi rasgado
+   c) Já que a mãe estava brava
+   d) Por isso compraram outro
+Justificativas:
+a) Incorreto. Não há menção a brincadeiras no texto
+b) Correto. 'Pois' relaciona o rasgo do caderno à causa da lição não feita
+c) Incorreto. A reação da mãe é consequência, não causa
+d) Incorreto. Indica solução do problema, não motivo original
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Caro amigo Pedro,
+Cancelamos o piquenique pois choveu sem parar. Ficamos tristes, mas vamos tentar no próximo sábado. Traga seu guarda-chuva!
+Abraços,
+Sophia
+Florianópolis, 18 de outubro de 2024
+Pergunta:
+Qual foi o motivo do cancelamento do piquenique?
+Opções:
+   a) Porque Pedro esqueceu o guarda-chuva
+   b) Já que Sophia estava triste
+-> c) Pois choveu muito
+   d) Por isso remarcaram
+Justificativas:
+a) Incorreto. O guarda-chuva é sugestão futura
+b) Incorreto. A tristeza é reação ao cancelamento
+c) Correto. 'Pois' conecta chuva intensa ao cancelamento
+d) Incorreto. A remarcação é consequência, não causa
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida vovó,
+Ganhei uma bicicleta nova já que tirei notas altas. Prometi cuidar bem dela! Vou pedalar no parque no domingo.
+Beijos,
+Laura
+Curitiba, 5 de novembro de 2024
+Pergunta:
+Por que Laura ganhou uma bicicleta?
+Opções:
+   a) Porque queria pedalar
+-> b) Já que teve bom desempenho
+   c) Pois a avó gosta de parques
+   d) Por isso prometeu cuidar
+Justificativas:
+a) Incorreto. O desejo de pedalar é consequência
+b) Correto. 'Já que' indica relação entre notas e recompensa
+c) Incorreto. Informação não consta no texto
+d) Incorreto. Mostra compromisso pós-aquisição
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Diego,
+Meu gato fugiu por isso que esqueci a janela aberta. Estamos procurando há duas horas. Se vir um siamês, me avise!
+Atenciosamente,
+Júlia
+Recife, 22 de dezembro de 2024
+Pergunta:
+Por que o gato de Júlia fugiu?
+Opções:
+   a) Porque estava doente
+   b) Já que procuravam ele
+-> c) Pois a janela ficou aberta
+   d) Por isso avisará Diego
+Justificativas:
+a) Incorreto. Não há menção à saúde do animal
+b) Incorreto. A procura é consequência da fuga
+c) Correto. 'Por isso que' vincula janela aberta à fuga
+d) Incorreto. Indica ação futura de comunicação
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Cara mãe,
+Cheguei atrasado porque o ônibus quebrou. O motorista chamou outro, mas perdi a primeira aula. Amanhã sairei mais cedo!
+Com amor,
+Gustavo
+Porto Alegre, 30 de janeiro de 2025
+Pergunta:
+Qual foi a causa do atraso de Gustavo?
+Opções:
+   a) Pois perdeu a aula
+-> b) Porque o ônibus avariou
+   c) Já que sairá mais cedo
+   d) Por isso o motorista agiu
+Justificativas:
+a) Incorreto. A perda da aula é consequência
+b) Correto. 'Porque' conecta pane do ônibus ao atraso
+c) Incorreto. Indica solução futura
+d) Incorreto. Ação do motorista é resposta ao problema
+
+--------------------------------------------------------------------------------

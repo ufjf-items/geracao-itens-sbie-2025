@@ -1,0 +1,139 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Olinda, 22 de março de 2024.
+
+Querida Tia Maria,
+
+Escrevo para agradecer o lindo presente que me enviou no meu aniversário! Adorei a boneca, ela é muito especial. Brinco com ela todos os dias, pois me lembra muito de você.
+
+Com carinho,
+
+Júlia
+Pergunta:
+No trecho “Brinco com ela todos os dias, pois me lembra muito de você”, qual a razão de Júlia brincar com a boneca todos os dias?
+Opções:
+   a) Ela escreveu uma carta para a tia Maria.
+   b) Ela ganhou a boneca de presente de aniversário.
+   c) A boneca é muito especial.
+-> d) A boneca a lembra muito da tia Maria.
+Justificativas:
+a) Incorreta. Escrever a carta é uma ação diferente de brincar com a boneca. A conjunção 'pois' indica a causa de brincar com a boneca, não de escrever a carta.
+b) Incorreta. Ganhar a boneca é um evento que antecede brincar com ela, mas não é a causa direta expressa pela conjunção 'pois' no trecho em questão. A causa direta é a lembrança da tia.
+c) Incorreta. Embora a boneca ser especial possa influenciar, a conjunção 'pois' indica que a principal razão é a lembrança da tia Maria.
+d) Correta. A conjunção 'pois' indica claramente que a razão de Júlia brincar com a boneca todos os dias é que a boneca a lembra muito da tia Maria. O trecho explicita a relação de causa e consequência.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Porto Alegre, 01 de setembro de 2024.
+
+Prezados Pais,
+
+Informo que a excursão ao zoológico foi um sucesso! As crianças se divertiram muito, já que puderam ver de perto diversos animais. Todos voltaram para casa cansados, mas muito felizes.
+
+Atenciosamente,
+
+Professora Ana
+Pergunta:
+No trecho “As crianças se divertiram muito, já que puderam ver de perto diversos animais”, qual a razão das crianças terem se divertido muito?
+Opções:
+   a) A professora Ana escreveu um bilhete aos pais.
+   b) As crianças voltaram para casa cansadas.
+   c) A excursão ao zoológico foi um sucesso.
+-> d) Elas puderam ver de perto diversos animais.
+Justificativas:
+a) Incorreta. O bilhete da professora é um evento diferente da diversão das crianças. A conjunção 'já que' indica a causa da diversão, não do bilhete.
+b) Incorreta. Estar cansado é uma consequência da diversão, e não a causa. A conjunção 'já que' indica a causa da diversão, não do cansaço.
+c) Incorreta. O sucesso da excursão é um contexto geral, mas a conjunção 'já que' especifica a causa da diversão das crianças.
+d) Correta. A conjunção 'já que' indica que a razão das crianças terem se divertido muito é que elas puderam ver de perto diversos animais. O trecho explicita essa relação de causa e consequência.
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Manaus, 12 de novembro de 2024.
+
+Querido Amigo Pedro,
+
+Estou muito feliz em te escrever! Infelizmente, não poderei ir à sua festa de aniversário, pois minha família e eu vamos viajar para a casa da minha avó. Mas, prometo te dar um abraço apertado quando voltar!
+
+Com saudades,
+
+Lucas
+Pergunta:
+No trecho “não poderei ir à sua festa de aniversário, pois minha família e eu vamos viajar para a casa da minha avó”, qual a razão de Lucas não poder ir à festa de Pedro?
+Opções:
+   a) Lucas está muito feliz em escrever para Pedro.
+   b) Lucas promete dar um abraço apertado em Pedro quando voltar.
+-> c) A família de Lucas vai viajar para a casa da avó.
+   d) É o aniversário de Pedro.
+Justificativas:
+a) Incorreta. A felicidade de Lucas em escrever é independente do motivo de não ir à festa. A conjunção 'pois' indica a causa de não ir à festa.
+b) Incorreta. A promessa de dar um abraço é uma ação futura, não a causa de não ir à festa. A conjunção 'pois' indica a causa de não ir à festa.
+c) Correta. A conjunção 'pois' indica que a razão de Lucas não poder ir à festa é que sua família vai viajar para a casa da avó. O trecho explicita essa relação de causa e consequência.
+d) Incorreta. O aniversário de Pedro é o motivo da festa, não a causa de Lucas não poder comparecer. A conjunção 'pois' indica a causa de não ir à festa.
+
+--------------------------------------------------------------------------------
+
+Questão 4
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Vitória, 07 de dezembro de 2024.
+
+Querida Mamãe,
+
+Estou escrevendo para contar que fui muito bem na apresentação de teatro da escola! Fiquei um pouco nervoso antes de começar, mas depois me senti mais confiante, porque você me disse para respirar fundo e acreditar em mim.
+
+Com amor,
+
+Ricardo
+Pergunta:
+No trecho “depois me senti mais confiante, porque você me disse para respirar fundo e acreditar em mim”, qual a razão de Ricardo ter se sentido mais confiante?
+Opções:
+   a) Ele foi muito bem na apresentação de teatro.
+   b) Ele ficou um pouco nervoso antes de começar.
+-> c) Sua mãe disse para ele respirar fundo e acreditar em si.
+   d) Ele está escrevendo uma carta para a mãe.
+Justificativas:
+a) Incorreta. Ir bem na apresentação pode ser uma consequência da confiança, mas a conjunção 'porque' indica a causa da confiança, não do bom desempenho.
+b) Incorreta. O nervosismo é o oposto da confiança, e a conjunção 'porque' indica a causa da confiança, não do nervosismo.
+c) Correta. A conjunção 'porque' indica que a razão de Ricardo ter se sentido mais confiante é que sua mãe disse para ele respirar fundo e acreditar em si. O trecho explicita essa relação de causa e consequência.
+d) Incorreta. Escrever a carta é independente do motivo de se sentir confiante. A conjunção 'porque' indica a causa da confiança, não da escrita da carta.
+
+--------------------------------------------------------------------------------
+
+Questão 5
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Goiânia, 18 de janeiro de 2025.
+
+Prezada Diretora,
+
+Escrevo para informar que não poderei comparecer à reunião de pais, pois estou cuidando do meu filho que está doente. Agradeço a compreensão e peço que me mantenha informada sobre os assuntos tratados.
+
+Atenciosamente,
+
+Ana Paula
+Pergunta:
+No trecho “não poderei comparecer à reunião de pais, pois estou cuidando do meu filho que está doente”, qual a razão de Ana Paula não poder comparecer à reunião?
+Opções:
+   a) Ela escreveu uma carta para a diretora.
+   b) Ela agradece a compreensão da diretora.
+-> c) Ela está cuidando do seu filho que está doente.
+   d) Ela pede para ser mantida informada sobre os assuntos tratados.
+Justificativas:
+a) Incorreta. Escrever a carta é uma ação diferente de não comparecer à reunião. A conjunção 'pois' indica a causa de não comparecer à reunião, não de escrever a carta.
+b) Incorreta. Agradecer a compreensão é uma atitude de cortesia, não a causa de não comparecer à reunião. A conjunção 'pois' indica a causa de não comparecer à reunião.
+c) Correta. A conjunção 'pois' indica que a razão de Ana Paula não poder comparecer à reunião é que ela está cuidando do seu filho que está doente. O trecho explicita essa relação de causa e consequência.
+d) Incorreta. Pedir para ser mantida informada é uma solicitação, não a causa de não comparecer à reunião. A conjunção 'pois' indica a causa de não comparecer à reunião.
+
+--------------------------------------------------------------------------------
