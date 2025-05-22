@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Curitiba, 5 de junho de 2024.
+
+Oi, Felipe!
+Quero te contar uma novidade. Ontem, cheguei atrasado na escola porque perdi o ônibus. Minha mãe ficou preocupada, por isso ligou para a professora avisando. Quando cheguei, todos já estavam na sala. Fiquei um pouco envergonhado, mas a professora disse que não tinha problema, já que eu expliquei o motivo. Espero que amanhã eu consiga acordar mais cedo!
+Abraços,
+Gustavo
+Pergunta:
+Segundo o texto, por que a mãe de Gustavo ligou para a professora? Assinale a alternativa correta.
+Opções:
+-> a) Porque Gustavo perdeu o ônibus.
+   b) Porque Gustavo ficou envergonhado.
+   c) Porque Gustavo chegou cedo na escola.
+   d) Porque a professora pediu para ligar.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'por isso'. O texto diz: 'Minha mãe ficou preocupada, por isso ligou para a professora avisando', e a preocupação foi causada pelo fato de Gustavo ter perdido o ônibus e chegado atrasado.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram o sentimento de Gustavo ao chegar atrasado com a causa da ligação da mãe. O texto não indica que a ligação foi feita por causa do sentimento de Gustavo.
+c) INCORRETA. Os estudantes que optaram por esta alternativa se enganaram quanto ao horário de chegada de Gustavo, que, na verdade, chegou atrasado, não cedo.
+d) INCORRETA. Os estudantes que marcaram esta alternativa atribuíram a ação da mãe a um pedido da professora, mas o texto não menciona nenhum pedido desse tipo.
+
+--------------------------------------------------------------------------------

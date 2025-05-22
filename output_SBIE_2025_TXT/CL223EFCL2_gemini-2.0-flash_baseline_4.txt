@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Salvador, 01 de agosto de 2024.
+
+Querido Avô,
+
+Escrevo para contar que ontem foi meu aniversário e ganhei muitos presentes! Adorei todos, mas o que mais gostei foi a bicicleta nova que o senhor me deu, porque agora posso ir à escola pedalando.
+
+Meus amigos ficaram com muita inveja da minha bicicleta! Já combinamos de dar muitas voltas no parque juntos. Estou muito feliz e ansioso para começar a usá-la.
+
+Obrigado pelo presente! Mal posso esperar para te ver e te dar um abraço bem apertado.
+
+Com carinho,
+Seu neto, Rafael.
+Pergunta:
+No trecho “Adorei todos, mas o que mais gostei foi a bicicleta nova que o senhor me deu, porque agora posso ir à escola pedalando.”, qual a razão para Rafael ter gostado mais da bicicleta?
+Opções:
+   a) Ele ganhou muitos presentes no aniversário.
+   b) Os amigos ficaram com inveja da bicicleta.
+-> c) Ele pode ir à escola pedalando.
+   d) Ele vai dar muitas voltas no parque com os amigos.
+Justificativas:
+a) Incorreta. Embora Rafael tenha ganhado muitos presentes, a pergunta se refere ao motivo específico de ele ter gostado mais da bicicleta.
+b) Incorreta. A inveja dos amigos é uma consequência positiva da bicicleta, mas não a razão principal para Rafael ter gostado mais dela.
+c) Correta. O trecho indica claramente que a razão para Rafael ter gostado mais da bicicleta é a possibilidade de ir à escola pedalando. A conjunção 'porque' explicita essa relação de causa e consequência.
+d) Incorreta. As voltas no parque são um plano futuro, e não a razão imediata para a preferência de Rafael pela bicicleta.
+
+--------------------------------------------------------------------------------

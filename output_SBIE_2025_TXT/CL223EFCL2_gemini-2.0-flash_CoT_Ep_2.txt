@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Olá, querido Papai Noel,
+
+Tudo bem por aí no Polo Norte? Espero que sim! Estou escrevendo para te contar que me comportei muito bem este ano. Ajudei a mamãe em casa, fiz todas as minhas tarefas da escola e fui gentil com meus amigos.
+
+Por isso, gostaria de pedir um presente especial: uma bicicleta nova! A minha já está muito velha e enferrujada, e eu adoro pedalar no parque com meus amigos. Se puder me dar, ficarei muito feliz!
+
+Com carinho,
+Lucas
+Pergunta:
+No trecho “Por isso, gostaria de pedir um presente especial: uma bicicleta nova!”, qual a razão de Lucas pedir um presente especial ao Papai Noel?
+Opções:
+   a) Porque ele adora pedalar no parque com os amigos.
+   b) Porque a bicicleta dele está velha e enferrujada.
+-> c) Porque ele ajudou a mamãe em casa, fez as tarefas e foi gentil.
+   d) Porque ele quer saber como está o Papai Noel no Polo Norte.
+Justificativas:
+a) Esta opção apresenta uma consequência positiva de ter a bicicleta, mas não é a razão pela qual ele está pedindo o presente. Andar de bicicleta no parque é um desejo, não a causa do pedido.
+b) Esta opção apresenta um detalhe sobre a bicicleta antiga, mas não é a razão principal do pedido. A condição da bicicleta é um fator contribuinte, mas não a causa direta.
+c) Esta opção apresenta a causa direta mencionada no texto para o pedido do presente. A frase indica que o bom comportamento de Lucas ao longo do ano é o motivo pelo qual ele merece e pede o presente.
+d) Esta opção menciona a preocupação de Lucas com o Papai Noel, mas isso não tem relação com o motivo de pedir o presente. A pergunta sobre o Papai Noel é uma saudação, não uma causa.
+
+--------------------------------------------------------------------------------

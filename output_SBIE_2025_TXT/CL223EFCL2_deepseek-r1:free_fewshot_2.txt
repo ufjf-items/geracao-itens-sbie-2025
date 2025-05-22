@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Ana,
+Estou escrevendo para compartilhar uma grande notícia! Ganhei um novo livro na feira cultural porque meu projeto de ciências foi escolhido como o melhor.
+Meus pais ficaram tão felizes que vamos ao cinema no sábado para comemorar. A professora até me elogiou na frente de toda a turma, já que foi a primeira vez que nossa escola venceu.
+Você vai gostar do livro - é sobre aventuras no fundo do mar!
+Beijos,
+Clara
+Rio de Janeiro, 22 de maio de 2024.
+Pergunta:
+De acordo com o texto, Clara ganhou um novo livro na feira cultural porque
+Opções:
+-> a) seu projeto de ciências foi escolhido como o melhor.
+   b) seus pais vão levá-la ao cinema no sábado.
+   c) a professora elogiou seu trabalho na frente da turma.
+   d) precisava apresentar o projeto em outra escola.
+Justificativas:
+a) GABARITO - A alternativa correta identifica a relação causal estabelecida pela conjunção 'porque'. A frase 'Ganhei... porque meu projeto foi escolhido' mostra claramente que a qualidade do projeto científico foi a causa direta da premiação.
+b) INCORRETA - A ida ao cinema é uma consequência da comemoração pela vitória, não a razão pela qual Clara ganhou o livro. A ação dos pais ocorre após o evento principal.
+c) INCORRETA - Embora mencionado no texto, o elogio da professora é introduzido por 'já que' e explica o reconhecimento escolar, não sendo a causa direta da conquista do prêmio principal.
+d) INCORRETA - Esta informação não consta no texto. A opção cria uma relação inexistente, demonstrando dificuldade em diferenciar informações textuais de suposições.
+
+--------------------------------------------------------------------------------

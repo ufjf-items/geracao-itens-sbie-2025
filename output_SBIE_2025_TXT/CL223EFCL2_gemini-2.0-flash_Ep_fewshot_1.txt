@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Prezado Sr. Silva,
+
+Escrevo para agradecer a sua visita à nossa escola na última semana. As crianças ficaram muito animadas com a sua palestra sobre a importância da leitura. Muitos alunos se sentiram inspirados a ler mais livros porque o senhor compartilhou histórias incríveis e mostrou como a leitura pode abrir portas para o conhecimento e a imaginação. Agradecemos novamente por dedicar seu tempo a inspirar nossos alunos.
+
+Atenciosamente,
+Diretora Ana Paula.
+Pergunta:
+De acordo com essa carta, muitos alunos se sentiram inspirados a ler mais livros porque
+Opções:
+   a) a Diretora Ana Paula agradeceu a visita do Sr. Silva.
+   b) o Sr. Silva visitou a escola na última semana.
+-> c) o Sr. Silva compartilhou histórias incríveis e mostrou o poder da leitura.
+   d) as crianças ficaram animadas com a palestra.
+Justificativas:
+a) INCORRETA. O agradecimento da diretora é uma consequência da visita, e não a causa da inspiração dos alunos.
+b) INCORRETA. A visita do Sr. Silva é um evento que antecede a inspiração, mas não é a causa direta mencionada no texto.
+c) CORRETA. O texto indica que a partilha de histórias incríveis e a demonstração do poder da leitura foram os motivos pelos quais os alunos se sentiram inspirados.
+d) INCORRETA. A animação das crianças é um efeito da palestra, mas a causa da inspiração para ler mais está ligada ao conteúdo compartilhado pelo Sr. Silva.
+
+--------------------------------------------------------------------------------

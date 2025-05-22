@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+São Paulo, 10 de maio de 2024.
+
+Querido Papai,
+
+Escrevo esta carta para contar que tirei uma nota muito boa na prova de matemática! Estudei bastante durante toda a semana, porque queria muito ir ao parque de diversões no fim de semana.
+
+A professora ficou muito feliz com o meu desempenho e me deu os parabéns na frente de toda a turma. Fiquei muito contente e prometi que vou continuar me dedicando aos estudos.
+
+Estou ansioso para o fim de semana! Espero que possamos ir ao parque e nos divertir muito juntos. Mal posso esperar para andar na montanha-russa e comer algodão doce.
+
+Com amor,
+Seu filho, João.
+Pergunta:
+No trecho “Estudei bastante durante toda a semana, porque queria muito ir ao parque de diversões no fim de semana.”, qual a razão para João ter estudado bastante?
+Opções:
+   a) Ele queria contar para o papai que tirou uma nota boa.
+-> b) Ele queria muito ir ao parque de diversões no fim de semana.
+   c) A professora ficou feliz com o desempenho dele.
+   d) Ele prometeu que vai continuar se dedicando aos estudos.
+Justificativas:
+a) Incorreta. Embora João queira contar sobre a nota, o motivo principal para estudar não é esse, mas sim a vontade de ir ao parque.
+b) Correta. O trecho indica claramente que a razão para João ter estudado bastante é o desejo de ir ao parque de diversões no fim de semana. A conjunção 'porque' explicita essa relação de causa e consequência.
+c) Incorreta. A felicidade da professora é uma consequência do bom desempenho de João, e não a causa do seu esforço nos estudos.
+d) Incorreta. A promessa de João é uma atitude posterior ao bom resultado, e não a razão que o motivou a estudar.
+
+--------------------------------------------------------------------------------

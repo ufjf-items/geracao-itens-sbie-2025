@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Vovó querida,
+
+Espero que a senhora esteja bem. Estou escrevendo para contar que tirei uma nota ótima na prova de matemática! Fiquei muito feliz, porque estudei bastante e me preparei para essa prova. A professora disse que eu mereci, e meus pais me levaram para tomar sorvete para comemorar. 
+
+Um beijo carinhoso,
+
+Sofia.
+Pergunta:
+De acordo com essa carta, Sofia ficou muito feliz porque
+Opções:
+   a) a professora disse que ela mereceu.
+-> b) ela tirou uma nota ótima na prova.
+   c) seus pais a levaram para tomar sorvete.
+   d) ela escreveu uma carta para a avó.
+Justificativas:
+a) INCORRETA. A fala da professora é uma consequência da boa nota, e não a causa da felicidade de Sofia. A alternativa inverte a relação de causalidade.
+b) CORRETA. O texto afirma que Sofia ficou feliz 'porque estudei bastante e me preparei para essa prova', o que resultou em uma ótima nota. A alternativa apresenta a causa direta da felicidade de Sofia.
+c) INCORRETA. O sorvete é uma forma de comemoração, uma consequência da felicidade de Sofia, e não a causa. A alternativa confunde causa e efeito.
+d) INCORRETA. O ato de escrever a carta não é a causa da felicidade de Sofia. A alternativa apresenta uma ação da personagem que não se relaciona com a relação de causalidade em questão.
+
+--------------------------------------------------------------------------------

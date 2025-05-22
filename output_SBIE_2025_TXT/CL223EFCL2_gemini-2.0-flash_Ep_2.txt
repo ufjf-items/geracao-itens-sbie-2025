@@ -1,0 +1,31 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Belo Horizonte, 20 de junho de 2024.
+
+Querida Mamãe,
+
+Espero que esteja tudo bem por aí. Aqui em Belo Horizonte está tudo ótimo! A viagem está sendo incrível. Ontem, fomos ao Parque das Mangabeiras e eu adorei! Corri bastante, por isso, fiquei muito cansado à noite. 
+
+Hoje, vamos visitar o Museu de Ciências Naturais. Estou muito animado para ver os dinossauros! Depois, vamos comer um delicioso pão de queijo. 
+
+Estou com muitas saudades. Mande um beijo para o papai e para o Totó.
+
+Com amor,
+
+Seu filho, João.
+Pergunta:
+No trecho “Corri bastante, por isso, fiquei muito cansado à noite.”, qual a consequência de João ter corrido bastante?
+Opções:
+   a) Ele adorou o Parque das Mangabeiras.
+   b) Ele comeu pão de queijo.
+-> c) Ele ficou muito cansado à noite.
+   d) Ele visitou o Museu de Ciências Naturais.
+Justificativas:
+a) Incorreta. Adorar o Parque das Mangabeiras é uma experiência positiva da viagem, mas não é a consequência direta de ter corrido bastante, conforme indicado pela conjunção 'por isso'.
+b) Incorreta. Comer pão de queijo é uma atividade planejada para o futuro, após a visita ao museu, e não tem relação de causa e consequência com o fato de ter corrido bastante.
+c) Correta. A frase “Corri bastante, por isso, fiquei muito cansado à noite” expressa claramente que a consequência de João ter corrido bastante é ter ficado cansado à noite. A conjunção 'por isso' estabelece essa relação de causalidade de forma explícita.
+d) Incorreta. Visitar o Museu de Ciências Naturais é uma atividade planejada para o dia seguinte e não tem relação de causa e consequência com o fato de ter corrido bastante.
+
+--------------------------------------------------------------------------------

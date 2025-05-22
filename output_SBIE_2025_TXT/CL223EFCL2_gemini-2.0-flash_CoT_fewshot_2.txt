@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Olá, Pedro!
+
+Tudo bem por aí? Aqui está tudo ótimo! Hoje, a professora nos levou ao museu da cidade. Foi muito legal! Eu gostei muito porque vi de perto um esqueleto de dinossauro gigante! Nunca tinha visto um tão grande. 
+
+Depois, fomos ao parque e brincamos muito. Estou com saudades de você. Quando as aulas voltarem, quero te contar tudo!
+
+Um abraço,
+
+Lucas.
+Pergunta:
+De acordo com o texto, Lucas gostou muito do passeio ao museu porque
+Opções:
+   a) a professora os levou ao museu.
+   b) depois foram ao parque brincar.
+-> c) viu um esqueleto de dinossauro gigante.
+   d) está com saudades do amigo Pedro.
+Justificativas:
+a) INCORRETA. O fato de a professora ter levado a turma ao museu é uma condição para o passeio, mas não a causa direta do entusiasmo de Lucas. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade correta.
+b) INCORRETA. A ida ao parque é um evento posterior à visita ao museu e não está relacionada à razão pela qual Lucas gostou do museu. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade correta.
+c) CORRETA. O texto afirma que Lucas gostou muito do museu 'porque viu de perto um esqueleto de dinossauro gigante'. A conjunção 'porque' indica uma relação de causa e efeito, onde a visão do esqueleto é a causa do entusiasmo de Lucas. Essa opção identifica corretamente a relação de causalidade expressa no texto.
+d) INCORRETA. A saudade do amigo Pedro é mencionada no final da carta e não tem relação com o motivo pelo qual Lucas gostou do museu. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade correta.
+
+--------------------------------------------------------------------------------

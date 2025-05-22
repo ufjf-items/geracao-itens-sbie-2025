@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Vovó,
+
+Escrevo para contar que a festa junina da escola foi demais! Teve muita dança, comida gostosa e brincadeiras. Eu participei da quadrilha e ajudei a montar a barraca de doces. A professora ficou muito feliz porque todos colaboraram. No final da festa, ganhei um prêmio porque acertei todas as argolas na pescaria. Foi muito divertido! Estou com saudades e espero te ver em breve.
+
+Com carinho,
+Maria.
+Pergunta:
+De acordo com essa carta, Maria ganhou um prêmio na festa junina porque
+Opções:
+   a) ajudou a montar a barraca de doces.
+   b) participou da quadrilha da escola.
+-> c) acertou todas as argolas na pescaria.
+   d) a professora ficou muito feliz.
+Justificativas:
+a) INCORRETA. Embora Maria tenha ajudado a montar a barraca de doces, essa não é a razão pela qual ela ganhou o prêmio. O texto estabelece uma relação de causa e consequência diferente.
+b) INCORRETA. A participação de Maria na quadrilha é mencionada, mas não é apresentada como o motivo para ela ter ganho o prêmio. O texto direciona para outra causa.
+c) CORRETA. O texto afirma explicitamente que Maria ganhou um prêmio porque acertou todas as argolas na pescaria, estabelecendo uma relação de causalidade direta.
+d) INCORRETA. A felicidade da professora é uma consequência da colaboração de todos, mas não é a causa do prêmio que Maria ganhou. Não há relação causal direta entre esses eventos.
+
+--------------------------------------------------------------------------------

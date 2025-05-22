@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Belo Horizonte, 10 de março de 2024.
+
+Querida Ana,
+Estou muito feliz porque ganhei uma bicicleta nova. Meu pai me deu esse presente pois tirei boas notas na escola. Agora, posso passear com meus amigos no parque todos os finais de semana. Minha irmã ficou animada também, já que ela pode andar comigo. Espero que você venha nos visitar em breve para passearmos juntas.
+Um abraço,
+Lúcia
+Pergunta:
+De acordo com o texto, por que o pai de Lúcia deu uma bicicleta nova para ela? Assinale a alternativa correta.
+Opções:
+-> a) Porque Lúcia tirou boas notas na escola.
+   b) Porque a irmã de Lúcia queria andar de bicicleta.
+   c) Porque Lúcia vai passear com Ana no parque.
+   d) Porque Lúcia mora em Belo Horizonte.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'pois'. O texto afirma: 'Meu pai me deu esse presente pois tirei boas notas na escola', estabelecendo claramente que a causa do presente foi o bom desempenho escolar de Lúcia.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram a informação de que a irmã de Lúcia ficou animada por poder andar com ela, mas isso não é apresentado como a causa para o pai dar a bicicleta. A relação de causalidade não está presente aqui.
+c) INCORRETA. Os estudantes que optaram por esta alternativa interpretaram que o passeio com Ana seria o motivo do presente, mas o texto apenas expressa o desejo de Lúcia de passear com Ana, não sendo essa a causa do presente.
+d) INCORRETA. Os estudantes que marcaram esta alternativa se basearam em uma informação do texto (o local), mas não há relação causal entre morar em Belo Horizonte e ganhar a bicicleta. A causa está explicitamente relacionada ao desempenho escolar.
+
+--------------------------------------------------------------------------------

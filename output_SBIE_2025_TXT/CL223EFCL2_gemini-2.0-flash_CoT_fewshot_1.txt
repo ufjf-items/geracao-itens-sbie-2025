@@ -1,0 +1,29 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi, Carol!
+
+Tudo bem? Estou escrevendo para contar que ontem foi meu aniversário. Ganhei muitos presentes legais! Meus pais me deram um cachorrinho! Ele é muito fofo e brincalhão. Estou muito feliz porque sempre quis ter um bichinho de estimação.
+
+No sábado, vou fazer uma festa para comemorar. Queria muito que você viesse! Vai ser na minha casa, a partir das 16h. Vai ter bolo, docinhos e muita música!
+
+Espero você!
+
+Beijos,
+
+Ana.
+Pergunta:
+De acordo com o texto, Ana está muito feliz porque
+Opções:
+   a) ontem foi seu aniversário.
+   b) vai fazer uma festa no sábado.
+   c) ganhou muitos presentes legais.
+-> d) sempre quis ter um bichinho de estimação.
+Justificativas:
+a) INCORRETA. Embora o aniversário de Ana seja mencionado no texto, a causa direta da sua felicidade, segundo o texto, é ter realizado o sonho de ter um cachorrinho. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade correta.
+b) INCORRETA. A festa de aniversário é um evento futuro e uma forma de comemorar a felicidade de Ana, não a causa dessa felicidade. Essa opção apresenta uma informação presente no texto, mas inverte a relação de causa e efeito.
+c) INCORRETA. Ganhar presentes é um motivo de alegria, mas o texto especifica que a principal razão da felicidade de Ana é a realização do sonho de ter um cachorrinho. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade principal.
+d) CORRETA. O texto afirma que Ana está feliz 'porque sempre quis ter um bichinho de estimação'. A conjunção 'porque' indica uma relação de causa e efeito, onde a realização do sonho é a causa da felicidade de Ana. Essa opção identifica corretamente a relação de causalidade expressa no texto.
+
+--------------------------------------------------------------------------------

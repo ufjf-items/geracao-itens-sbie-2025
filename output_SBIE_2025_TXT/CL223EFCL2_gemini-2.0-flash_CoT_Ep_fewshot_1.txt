@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi, Carol!
+
+Tudo bem? Estou escrevendo para contar que ontem foi meu aniversário! Ganhei muitos presentes legais, mas o que eu mais gostei foi um livro de aventuras. Estou lendo ele todos os dias porque as histórias são muito emocionantes e me fazem viajar para lugares incríveis!
+
+Beijos,
+Ana.
+Pergunta:
+De acordo com o texto, Ana está lendo o livro todos os dias porque
+Opções:
+   a) ontem foi o aniversário dela.
+   b) ganhou muitos presentes legais.
+-> c) as histórias são muito emocionantes.
+   d) está escrevendo para Carol.
+Justificativas:
+a) INCORRETA. O aniversário de Ana é o motivo de ter ganhado o livro, mas não o motivo pelo qual ela está lendo o livro todos os dias.
+b) INCORRETA. Ganhar muitos presentes é uma informação do texto, mas não justifica o fato de ela estar lendo o livro diariamente.
+c) CORRETA. O texto afirma que Ana está lendo o livro todos os dias *porque* as histórias são muito emocionantes. A conjunção 'porque' indica a relação de causalidade.
+d) INCORRETA. Estar escrevendo para Carol é o contexto da carta, mas não tem relação com o motivo pelo qual Ana lê o livro.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querido João,
+Estou animada para te contar uma novidade! Ganhei um videogame novo porque cuidei do meu irmãozinho toda a semana. Minha mãe disse que me surpreendeu já que fui muito responsável.
+No final de semana, vamos à praia para celebrar. Também comprei um jogo de futebol, pois sei que você adora. Me visite no sábado para jogarmos juntos!
+Abraços,
+Maria.
+Rio de Janeiro, 10 de março de 2024.
+Pergunta:
+De acordo com o texto, Maria ganhou um videogame porque
+Opções:
+-> a) cuidou do irmão durante a semana
+   b) vai viajar para a praia no final de semana
+   c) comprou um jogo de futebol novo
+   d) precisa visitar João no sábado
+Justificativas:
+a) GABARITO - A alternativa identifica a relação causal estabelecida pela conjunção 'porque'. O trecho 'Ganhei um videogame novo porque cuidei do meu irmãozinho' mostra claramente a causa (cuidar do irmão) e a consequência (ganhar o videogame).
+b) INCORRETA - A ida à praia é um evento futuro mencionado como celebração, usando a conjunção 'para' que indica finalidade, não sendo a causa do presente.
+c) INCORRETA - A compra do jogo de futebol está relacionada ao gosto do amigo, introduzida pela conjunção 'pois' que indica explicação, mas não causa do videogame.
+d) INCORRETA - O convite para sábado é uma consequência da aquisição do videogame, usando 'para' como conjunção final, sem relação causal com o motivo do presente.
+
+--------------------------------------------------------------------------------

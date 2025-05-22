@@ -1,0 +1,29 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Vovó Maria,
+
+Escrevo para contar que a viagem para a praia foi incrível! O mar estava tão azul e as ondas perfeitas para surfar. Eu adorei construir castelos de areia com meus amigos.
+
+Não pude te ligar antes porque a bateria do meu celular acabou. Mas prometo te contar tudo em detalhes quando voltar para casa.
+
+Estou com muitas saudades e mal posso esperar para te ver!
+
+Com amor,
+
+Seu neto, Pedrinho.
+Pergunta:
+No trecho “Não pude te ligar antes porque a bateria do meu celular acabou”, qual a razão de Pedrinho não ter ligado para a avó?
+Opções:
+   a) Ele estava construindo castelos de areia com seus amigos.
+   b) Ele estava com muitas saudades da avó.
+-> c) A bateria do celular dele acabou.
+   d) A viagem para a praia foi incrível.
+Justificativas:
+a) Esta opção apresenta uma atividade que Pedrinho realizou na praia, mas não é a causa de ele não ter ligado para a avó. É um distrator porque menciona um evento positivo da viagem, desviando a atenção da relação de causa e efeito.
+b) Esta opção expressa o sentimento de Pedrinho, mas não explica por que ele não ligou. É um distrator emocional, explorando a relação afetiva entre neto e avó, mas sem conexão com a causalidade.
+c) Esta opção é a correta porque reproduz a causa explícita no texto para a impossibilidade de Pedrinho ligar para a avó: a bateria do celular ter acabado. A conjunção 'porque' estabelece claramente essa relação de causalidade.
+d) Esta opção descreve a experiência geral da viagem, mas não está relacionada ao motivo de Pedrinho não ter ligado. É um distrator genérico, oferecendo uma informação positiva sobre a viagem, mas sem vínculo com a pergunta.
+
+--------------------------------------------------------------------------------

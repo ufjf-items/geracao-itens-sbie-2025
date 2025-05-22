@@ -1,0 +1,31 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Recife, 25 de julho de 2024.
+
+Queridos Avós,
+
+Muitas saudades de vocês! Estou escrevendo para contar que tirei notas ótimas na prova de matemática. Estudei bastante, já que quero passar de ano sem dificuldades. 
+
+No sábado, vamos à praia com meus pais. Estou muito feliz porque adoro nadar e brincar na areia. Espero que o dia esteja ensolarado! 
+
+Mandem um abraço para todos os vizinhos. Em breve, irei visitá-los.
+
+Com carinho,
+
+Sua neta, Maria.
+Pergunta:
+No trecho “Estudei bastante, já que quero passar de ano sem dificuldades.”, qual a razão de Maria ter estudado bastante?
+Opções:
+   a) Ela adora nadar e brincar na areia.
+   b) Ela está com saudades dos avós.
+-> c) Ela quer passar de ano sem dificuldades.
+   d) Ela tirou notas ótimas na prova de matemática.
+Justificativas:
+a) Incorreta. A paixão de Maria por nadar e brincar na areia é mencionada em relação ao passeio na praia, mas não é a causa de ela ter estudado bastante.
+b) Incorreta. A saudade dos avós é mencionada na carta, mas não tem relação direta com a razão pela qual Maria estudou bastante.
+c) Correta. A frase “Estudei bastante, já que quero passar de ano sem dificuldades” expressa claramente que a razão de Maria ter estudado bastante é o desejo de ser aprovada sem dificuldades. A conjunção 'já que' estabelece essa relação de causalidade de forma explícita.
+d) Incorreta. Tirar notas ótimas na prova de matemática é uma consequência do estudo, e não a causa. A frase analisada indica que o estudo é motivado pelo desejo de passar de ano.
+
+--------------------------------------------------------------------------------

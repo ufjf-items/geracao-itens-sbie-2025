@@ -1,0 +1,31 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+São Paulo, 15 de maio de 2024.
+
+Querido Diário,
+
+Hoje foi um dia muito especial! A professora Ana nos levou para visitar o zoológico. Eu nunca tinha visto tantos animais diferentes de perto! Fiquei encantado com os macacos, eles eram muito engraçados e faziam muitas travessuras. 
+
+Depois, vimos os leões, que estavam descansando preguiçosamente sob uma árvore. A girafa era enorme, a mais alta que eu já vi! E os elefantes? Gigantes! Eu estava muito feliz, pois adoro aprender sobre a natureza e os animais. 
+
+Espero que possamos voltar em breve!
+
+Com carinho,
+
+Lucas.
+Pergunta:
+No trecho “Eu estava muito feliz, pois adoro aprender sobre a natureza e os animais.”, qual a razão da felicidade de Lucas?
+Opções:
+   a) Ele achou os macacos engraçados.
+-> b) Ele adora aprender sobre a natureza e os animais.
+   c) Ele viu os leões descansando.
+   d) Ele visitou o zoológico com a professora Ana.
+Justificativas:
+a) Incorreta. Embora Lucas tenha achado os macacos engraçados, a conjunção 'pois' no trecho especificado indica que a causa da felicidade dele é o amor por aprender sobre a natureza e os animais, e não especificamente os macacos.
+b) Correta. A frase “Eu estava muito feliz, pois adoro aprender sobre a natureza e os animais” expressa claramente que a causa da felicidade de Lucas é o seu apreço pelo aprendizado sobre a natureza e os animais. A conjunção 'pois' estabelece essa relação de causalidade de forma explícita.
+c) Incorreta. Ver os leões descansando é uma experiência que contribui para o dia especial de Lucas, mas não é a causa direta da felicidade mencionada na frase analisada. A felicidade está ligada ao aprendizado.
+d) Incorreta. Visitar o zoológico é o contexto do dia especial de Lucas, mas não é a causa direta da felicidade expressa na frase analisada. A conjunção 'pois' conecta a felicidade ao amor pelo aprendizado.
+
+--------------------------------------------------------------------------------

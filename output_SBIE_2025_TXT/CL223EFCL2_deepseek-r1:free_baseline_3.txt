@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+São Paulo, 15 de março de 2024
+
+Querida Ana,
+
+Espero que esteja bem! Escrevo para contar que não pude ir ao seu aniversário porque fiquei com febre alta. Minha mãe disse que preciso repousar até melhorar. Já que não pude comparecer, preparei um desenho especial para você. Espero que goste!
+
+Beijos,
+Pedro
+Pergunta:
+Por qual motivo Pedro não foi ao aniversário de Ana? Observe a conjunção que indica causa no texto.
+Opções:
+   a) Porque preparou um desenho especial
+   b) Porque precisava repousar
+-> c) Porque ficou com febre alta
+   d) Porque sua mãe não deixou
+Justificativas:
+a) INCORRETA. Embora o desenho seja mencionado, ele é uma consequência da ausência, não a causa. A conjunção 'já que' neste trecho indica relação de explicação, não de causa principal.
+b) INCORRETA. O repouso é uma consequência da febre, não a causa da ausência. A informação aparece após a conjunção causal principal.
+c) CORRETA. A conjunção 'porque' introduz diretamente a causa principal: 'não pude ir ao seu aniversário porque fiquei com febre alta' estabelece relação causal explícita.
+d) INCORRETA. A menção à mãe aparece como autoridade que confirmou a necessidade de repouso, mas não é a causa primária apresentada no texto.
+
+--------------------------------------------------------------------------------

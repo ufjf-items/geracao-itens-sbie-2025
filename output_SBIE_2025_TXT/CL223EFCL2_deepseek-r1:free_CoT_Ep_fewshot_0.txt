@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Sofia,
+Estou muito feliz! Hoje na escola recebi um troféu porque fui escolhido o melhor leitor da turma. A professora disse que li 15 livros neste semestre!
+Meus pais vão me levar ao zoológico no sábado para comemorar. Eles também prometeram comprar novos livros, já que adoro histórias de aventura.
+Escreva me contando suas novidades. No mês que vem vou visitar minha avó no interior.
+Um abraço,
+Pedro.
+São Paulo, 15 de agosto de 2024.
+Pergunta:
+De acordo com o texto, Pedro recebeu um troféu porque
+Opções:
+-> a) foi escolhido o melhor leitor da turma
+   b) seus pais prometeram levá-lo ao zoológico
+   c) precisa ler livros de aventura
+   d) vai visitar a avó no próximo mês
+Justificativas:
+a) GABARITO - A alternativa correta identifica a relação causal estabelecida pela conjunção 'porque' no texto. O trecho 'recebi um troféu porque fui escolhido o melhor leitor' mostra claramente a causa (ser o melhor leitor) e a consequência (receber o troféu).
+b) INCORRETA - Embora a ida ao zoológico seja mencionada, trata-se de uma consequência da conquista, não da causa do troféu. A conjunção 'para' em 'para comemorar' indica finalidade, não causalidade.
+c) INCORRETA - A compra de livros novos é motivada pelo gosto do personagem ('já que adoro'), usando conjunção causal diferente. Porém, isso não se relaciona com o motivo do troféu.
+d) INCORRETA - A visita à avó é um evento futuro sem relação causal com o troféu, aparecendo em período independente sem conectivo de causa.
+
+--------------------------------------------------------------------------------

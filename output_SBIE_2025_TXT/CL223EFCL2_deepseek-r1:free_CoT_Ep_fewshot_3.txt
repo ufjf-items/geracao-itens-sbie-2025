@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Oi Julia,
+Fiquei triste ontem porque não pude ir à sua festa. Choveu muito e minha mãe não deixou sair de casa.
+Mas tenho uma novidade! Ganhei um cachorrinho já que passei de ano com boas notas. Vamos nos encontrar no parque sábado para você conhecê-lo!
+Ah, e não esqueça de trazer aquela revista de histórias em quadrinhos que combinamos de trocar.
+Beijos,
+Lucas.
+Belo Horizonte, 03 de setembro de 2024.
+Pergunta:
+Segundo o texto, Lucas não foi à festa de Julia porque
+Opções:
+-> a) choveu muito e sua mãe não permitiu
+   b) ganhou um cachorro como presente
+   c) precisava estudar para passar de ano
+   d) combinaram de se encontrar no parque
+Justificativas:
+a) GABARITO - A alternativa identifica corretamente a relação causal expressa pela conjunção 'porque'. O trecho 'não pude ir à sua festa. Choveu muito e minha mãe não deixou' estabelece a causa (chuva + proibição materna) para a consequência (ausência na festa).
+b) INCORRETA - A aquisição do cachorro está relacionada a outra causalidade ('já que passei de ano'), usando conjunção diferente. Trata-se de um evento posterior e independente da ausência na festa.
+c) INCORRETA - Embora as boas notas sejam mencionadas, aparecem como causa para ganhar o cachorro, não tendo relação com o motivo da falta na festa. O texto não cita necessidade de estudos no período.
+d) INCORRETA - O encontro no parque é um plano futuro mencionado após os eventos principais, sem conexão causal com a ausência na festa, aparecendo em período independente com conjunção final ('para').
+
+--------------------------------------------------------------------------------

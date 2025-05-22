@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Caro Sr. Almeida,
+
+Escrevo para informar que, devido a um forte temporal que atingiu nossa cidade, a rua principal de acesso à escola está completamente alagada. 
+
+Por causa disso, as aulas de hoje foram suspensas para garantir a segurança de todos os alunos e funcionários. Pedimos a sua compreensão e informaremos assim que a situação se normalizar.
+
+Atenciosamente,
+A Direção
+Pergunta:
+No trecho “Por causa disso, as aulas de hoje foram suspensas para garantir a segurança de todos os alunos e funcionários”, qual a razão da suspensão das aulas?
+Opções:
+   a) Para informar sobre o temporal na cidade.
+-> b) Para garantir a segurança dos alunos e funcionários.
+   c) Porque a direção pede a compreensão de todos.
+   d) Porque o Sr. Almeida precisa ser informado.
+Justificativas:
+a) Esta opção menciona a informação sobre o temporal, mas não é a causa da suspensão das aulas. Informar sobre o temporal é uma ação relacionada, mas não o motivo principal.
+b) Esta opção apresenta a causa direta mencionada no texto para a suspensão das aulas. A necessidade de garantir a segurança de todos é o motivo pelo qual as aulas foram suspensas.
+c) Esta opção menciona o pedido de compreensão, mas isso não é a causa da suspensão. O pedido de compreensão é uma formalidade devido à situação, não a causa em si.
+d) Esta opção menciona a necessidade de informar o Sr. Almeida, mas isso não tem relação com o motivo da suspensão. Informar é uma ação decorrente da suspensão, não a causa.
+
+--------------------------------------------------------------------------------

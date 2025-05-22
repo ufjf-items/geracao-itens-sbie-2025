@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Belo Horizonte, 5 de abril de 2024
+
+Oi, Lucas!
+
+Estou te escrevendo para avisar que não consegui terminar o dever de casa ontem, pois a energia acabou aqui em casa à noite. Fiquei chateado, já que queria mostrar tudo para a professora hoje. Assim que a energia voltou, já era tarde e precisei dormir. Espero conseguir terminar hoje à tarde.
+
+Abraços,
+
+Pedro
+Pergunta:
+No trecho 'não consegui terminar o dever de casa ontem, pois a energia acabou aqui em casa à noite', qual foi a causa de Pedro não ter terminado o dever de casa?
+Opções:
+-> a) A energia acabou à noite.
+   b) Pedro ficou chateado.
+   c) Pedro precisou dormir cedo.
+   d) Pedro queria mostrar tudo para a professora.
+Justificativas:
+a) Correta. O trecho utiliza a conjunção 'pois' para indicar a causa de Pedro não ter terminado o dever: a energia acabou à noite.
+b) Incorreta. Pedro ficou chateado como consequência do ocorrido, não como causa.
+c) Incorreta. Dormir foi uma consequência da energia ter acabado e já ser tarde, não a causa principal de não terminar o dever.
+d) Incorreta. O desejo de mostrar o dever para a professora é um objetivo de Pedro, não a causa de não ter terminado o dever.
+
+--------------------------------------------------------------------------------

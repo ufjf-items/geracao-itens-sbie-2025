@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Pedro,
+Estou muito feliz! Ganhei um troféu na escola porque fui o melhor jogador do campeonato de futebol. Treinei todos os dias depois das aulas, pois queria muito vencer.
+Meus pais vão fazer uma festa no sábado para comemorar. Até meu irmão mais novo disse que vai aprender a jogar, já que ficou impressionado com meu prêmio.
+Vamos nos ver no parque domingo? Posso te mostrar o troféu!
+Abraços,
+Lucas
+Belo Horizonte, 10 de maio de 2024.
+Pergunta:
+De acordo com o texto, Lucas ganhou o troféu porque
+Opções:
+-> a) treinou todos os dias depois das aulas
+   b) seus pais farão uma festa no sábado
+   c) ganhou uma bola nova do irmão
+   d) participou de um projeto escolar
+Justificativas:
+a) GABARITO - Estudantes que marcaram esta alternativa identificaram a relação causal estabelecida pela conjunção 'porque'. O trecho 'porque fui o melhor jogador' conecta-se diretamente ao motivo do prêmio através do treino diário, demonstrando compreensão da estrutura causal.
+b) INCORRETA - A festa é uma consequência da vitória, não sua causa. A alternativa explora uma informação textual válida, mas fora da relação causal solicitada, indicando confusão entre antecedente e consequente.
+c) INCORRETA - Esta informação não consta no texto. O distrator introduz um elemento externo para testar a atenção na leitura e o reconhecimento de informações explícitas.
+d) INCORRETA - A alternativa utiliza um elemento genérico (projeto escolar) não mencionado no texto, avaliando a capacidade de distinguir entre informações textuais e inferências indevidas.
+
+--------------------------------------------------------------------------------

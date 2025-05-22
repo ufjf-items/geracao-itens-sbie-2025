@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Olá, titia!
+
+Estou escrevendo para contar que a peça de teatro da escola foi um sucesso! Eu estava muito nervoso antes de entrar no palco, mas, assim que as cortinas se abriram e vi todo mundo sorrindo, me senti mais calmo. Acho que me saí bem porque ensaiei bastante e sabia todas as falas de cor!
+
+Um beijo,
+Ricardo.
+Pergunta:
+De acordo com o texto, Ricardo acha que se saiu bem na peça porque
+Opções:
+   a) estava nervoso antes de entrar no palco.
+   b) as cortinas se abriram e ele viu todo mundo sorrindo.
+-> c) ensaiei bastante e sabia todas as falas de cor.
+   d) está escrevendo para a titia.
+Justificativas:
+a) INCORRETA. O nervosismo de Ricardo é uma emoção que ele sentiu antes da peça, mas não é a razão pela qual ele acha que se saiu bem.
+b) INCORRETA. Ver as pessoas sorrindo o acalmou, mas não é o motivo principal para ele achar que se saiu bem.
+c) CORRETA. O texto indica que Ricardo acredita que se saiu bem *porque* ensaiou bastante e sabia as falas de cor. A conjunção 'porque' estabelece a relação de causalidade.
+d) INCORRETA. Estar escrevendo para a titia é o contexto da carta e não tem relação com o desempenho de Ricardo na peça.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Vovó,
+
+Escrevo para contar que a peça da escola foi um sucesso! Eu estava muito nervoso antes de entrar no palco, mas quando vi você na plateia, me senti mais calmo. Acertei todas as falas e a professora me elogiou bastante. Ela disse que eu me preparei muito para esse dia. Depois da apresentação, fomos comemorar na pizzaria. Comi tanto que até fiquei com dor de barriga! 
+
+Estou ansioso para te ver no Natal. Beijos,
+
+Seu neto, Pedrinho.
+Pergunta:
+De acordo com essa carta, Pedrinho se sentiu mais calmo no palco porque
+Opções:
+   a) a professora o elogiou bastante.
+   b) comeu muito na pizzaria.
+-> c) viu sua avó na plateia.
+   d) estava nervoso antes de entrar.
+Justificativas:
+a) INCORRETA. Embora a professora tenha elogiado Pedrinho, esse elogio ocorreu após a apresentação e não foi a causa de sua calma no palco. A conjunção 'porque' indica uma relação de causa e efeito que não se aplica a essa alternativa.
+b) INCORRETA. Comer muito na pizzaria é uma consequência da comemoração após a peça, e não a causa da calma de Pedrinho no palco. Essa alternativa não estabelece uma relação de causalidade com o nervosismo inicial do personagem.
+c) CORRETA. O texto afirma que Pedrinho se sentiu mais calmo 'quando viu você na plateia'. A presença da avó é a causa direta da diminuição do nervosismo do neto, conforme expresso na carta. A alternativa reflete a relação de causalidade presente no texto.
+d) INCORRETA. Estar nervoso antes de entrar no palco é o oposto de se sentir calmo. Essa alternativa apresenta a situação inicial de Pedrinho, mas não explica o motivo pelo qual ele se acalmou durante a apresentação.
+
+--------------------------------------------------------------------------------

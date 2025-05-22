@@ -1,0 +1,32 @@
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Rio de Janeiro, 12 de maio de 2024\n\nQuerida Júlia,\n\nEstou escrevendo para dizer que não consegui terminar o dever de casa ontem, porque fui ao médico com minha mãe. Fiquei preocupada, pois não gosto de deixar as tarefas para depois. Assim que cheguei, já era tarde e precisei dormir. Espero que a professora entenda.\n\nCom carinho,\nLívia",
+      "Comando 2": "No trecho 'não consegui terminar o dever de casa ontem, porque fui ao médico com minha mãe', qual foi a causa de Lívia não ter terminado o dever de casa?",
+      "Opções": {
+        "a": "Porque ela foi ao médico com a mãe.",
+        "b": "Porque ela ficou preocupada.",
+        "c": "Porque ela precisou dormir cedo.",
+        "d": "Porque a professora não entendeu."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "Correta. O trecho destacado utiliza a conjunção causal 'porque', indicando que o motivo de Lívia não ter terminado o dever de casa foi ter ido ao médico com a mãe.",
+        "b": "Incorreta. Lívia ficou preocupada como consequência de não ter feito o dever, não como causa.",
+        "c": "Incorreta. Ela precisou dormir porque chegou tarde, mas o motivo principal para não ter feito o dever foi ter ido ao médico.",
+        "d": "Incorreta. A professora ainda não se manifestou, e isso não é apresentado como causa no texto."
+      },
+      "->": [
+        "1. Elaborei uma carta com remetente (Lívia), destinatário (Júlia), local, data, saudação e despedida, conforme a estrutura canônica.",
+        "2. O texto aborda um tema do universo infantil (dever de casa, ida ao médico) e utiliza linguagem simples.",
+        "3. O trecho com a conjunção causal 'porque' foi destacado para facilitar a identificação da relação de causa e consequência.",
+        "4. O comando 2 pede que o aluno identifique a causa de Lívia não ter terminado o dever, explicitando o trecho com a conjunção.",
+        "5. A alternativa correta (a) retoma exatamente a causa apresentada no texto.",
+        "6. Os distratores (b, c, d) trazem informações do texto, mas não correspondem à relação de causalidade pedida.",
+        "7. Justifiquei cada alternativa, mostrando por que apenas a correta responde ao comando."
+      ]
+    }
+  ]
+}

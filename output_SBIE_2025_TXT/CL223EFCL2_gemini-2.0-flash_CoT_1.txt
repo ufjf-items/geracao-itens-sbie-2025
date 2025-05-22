@@ -1,0 +1,29 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Prezada Sra. Silva,
+
+Escrevo para informar que o passeio da escola foi adiado. A previsão do tempo indicava chuva forte, por isso, decidimos mudar a data.
+
+Entendemos que essa mudança pode causar transtornos, mas a segurança dos alunos é nossa prioridade. O novo passeio será na próxima semana.
+
+Agradecemos a compreensão e colaboração de todos.
+
+Atenciosamente,
+
+Diretora Ana Paula
+Pergunta:
+No trecho “A previsão do tempo indicava chuva forte, por isso, decidimos mudar a data”, qual a consequência da previsão de chuva forte?
+Opções:
+   a) Agradecimento pela compreensão.
+   b) A previsão do tempo.
+   c) A segurança dos alunos.
+-> d) O adiamento do passeio.
+Justificativas:
+a) Esta opção apresenta um agradecimento, que é uma atitude da diretora, mas não a consequência direta da previsão de chuva. É um distrator que explora a formalidade da carta.
+b) Esta opção repete parte da causa, mas não apresenta a consequência. É um distrator que pode confundir o aluno, pois está relacionado ao motivo do adiamento.
+c) Esta opção menciona a prioridade da escola, mas não é a consequência direta da previsão de chuva. É um distrator que apela para um valor importante, desviando a atenção da relação de causa e efeito.
+d) Esta opção é a correta porque apresenta a consequência direta da previsão de chuva forte: o adiamento do passeio. A expressão 'por isso' estabelece claramente essa relação de causalidade.
+
+--------------------------------------------------------------------------------

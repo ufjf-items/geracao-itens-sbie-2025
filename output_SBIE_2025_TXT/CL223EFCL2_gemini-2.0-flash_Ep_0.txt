@@ -1,0 +1,29 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Vovó Maria,
+
+Espero que esta carta a encontre bem. Estou escrevendo para contar que participei do concurso de desenho da escola. Fiquei muito feliz porque ganhei o primeiro lugar! Meu desenho de um jardim cheio de flores coloridas foi o escolhido. 
+
+A professora disse que ele era muito criativo e alegre. Por isso, vou representar a escola em um concurso maior na cidade. Estou um pouco nervoso, mas também muito animado. 
+
+Sinto muito a sua falta e espero vê-la em breve. Mande um abraço apertado para o Vovô João.
+
+Com carinho,
+
+Seu neto, Pedrinho.
+Pergunta:
+No trecho “Fiquei muito feliz porque ganhei o primeiro lugar!”, qual a razão da felicidade de Pedrinho?
+Opções:
+   a) A professora elogiou seu desenho.
+-> b) Ele ganhou o primeiro lugar no concurso.
+   c) Ele participou do concurso de desenho.
+   d) Ele vai representar a escola em outro concurso.
+Justificativas:
+a) Incorreta. Embora a professora tenha elogiado o desenho, a conjunção 'porque' no trecho especificado indica a causa direta da felicidade de Pedrinho, que é ter ganho o concurso, e não o elogio em si.
+b) Correta. A frase “Fiquei muito feliz porque ganhei o primeiro lugar!” expressa claramente que a causa da felicidade de Pedrinho é ter sido o vencedor do concurso. A conjunção 'porque' estabelece essa relação de causalidade de forma explícita.
+c) Incorreta. Participar do concurso é uma ação que antecede a felicidade expressa, mas não é a causa direta mencionada na frase em questão. A felicidade é especificamente ligada ao resultado do concurso.
+d) Incorreta. Representar a escola em outro concurso é uma consequência de ter ganho o primeiro lugar, e não a causa da felicidade expressa na frase analisada. A conjunção 'porque' não conecta a felicidade a esse evento futuro.
+
+--------------------------------------------------------------------------------

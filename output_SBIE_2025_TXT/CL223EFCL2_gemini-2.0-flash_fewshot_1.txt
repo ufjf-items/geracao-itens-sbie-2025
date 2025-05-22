@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi, Carol!
+
+Tudo bem por aí? Aqui está tudo ótimo! Adivinha só: fui escolhido para ser o representante da turma! Fiquei super feliz quando a professora anunciou. Acho que me escolheram porque sempre ajudo os colegas com as tarefas e sou bem organizado. Prometo fazer o meu melhor para representar a nossa turma e ajudar a todos. 
+
+E você, tem alguma novidade? Me escreva logo!
+
+Abraços,
+
+Pedro.
+Pergunta:
+De acordo com essa carta, Pedro acredita que foi escolhido representante da turma porque
+Opções:
+   a) a professora fez um anúncio na sala.
+   b) ele prometeu ajudar a todos na turma.
+-> c) ele sempre ajuda os colegas e é organizado.
+   d) ele escreveu uma carta para a amiga Carol.
+Justificativas:
+a) INCORRETA. O anúncio da professora é o evento que revela a escolha de Pedro, mas não a causa dessa escolha. A alternativa não estabelece a relação de causalidade solicitada.
+b) INCORRETA. A promessa de ajudar é uma intenção futura de Pedro como representante, não a razão pela qual ele foi escolhido. Confunde a ação futura com a causa da eleição.
+c) CORRETA. O texto indica que Pedro acredita ter sido escolhido 'porque sempre ajudo os colegas com as tarefas e sou bem organizado'. Essa alternativa apresenta a causa da escolha, conforme a percepção do autor da carta.
+d) INCORRETA. O fato de Pedro escrever uma carta para Carol não tem relação com a sua escolha como representante. A alternativa apresenta uma informação do texto que não se conecta com a relação de causalidade em questão.
+
+--------------------------------------------------------------------------------

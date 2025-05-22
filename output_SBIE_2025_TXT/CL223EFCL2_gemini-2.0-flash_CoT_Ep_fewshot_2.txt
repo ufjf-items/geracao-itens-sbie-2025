@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Olá, Pedro!
+
+Tudo bem por aí? Aqui está tudo ótimo! Ontem fomos ao parque e andei de bicicleta pela primeira vez sem rodinhas. No começo, fiquei com um pouco de medo de cair, mas meu pai me ajudou e consegui! Fiquei muito feliz porque agora posso andar de bicicleta com meus amigos!
+
+Abraços,
+Lucas.
+Pergunta:
+De acordo com o texto, Lucas ficou muito feliz porque
+Opções:
+-> a) andou de bicicleta pela primeira vez sem rodinhas.
+   b) foi ao parque com o pai.
+   c) ficou com medo de cair.
+   d) o pai o ajudou a andar de bicicleta.
+Justificativas:
+a) CORRETA. O texto afirma que Lucas ficou muito feliz *porque* agora pode andar de bicicleta com os amigos, o que é uma consequência direta de ter aprendido a andar sem rodinhas. Andar de bicicleta sem rodinhas é a causa da felicidade expressa.
+b) INCORRETA. Ir ao parque é o contexto da carta, mas não é a causa direta da felicidade de Lucas. Ele poderia ter ido ao parque e não ter aprendido a andar de bicicleta.
+c) INCORRETA. O medo de cair é uma emoção que Lucas sentiu no começo, mas não é o motivo da sua felicidade. Pelo contrário, ele superou o medo.
+d) INCORRETA. A ajuda do pai foi importante para Lucas aprender, mas não é a causa direta da sua felicidade. A felicidade vem da conquista de andar de bicicleta sozinho.
+
+--------------------------------------------------------------------------------

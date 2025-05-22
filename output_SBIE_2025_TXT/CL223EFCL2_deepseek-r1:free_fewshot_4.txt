@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Lucas,
+Estou eufórica para te contar! Ganhei um concurso de desenho na escola porque fiz uma pintura com materiais reciclados.
+Meu trabalho ficou exposto na biblioteca, e a diretora disse que vou receber um kit de arte, já que incentivei a sustentabilidade. Meus avós farão uma festa surpresa no próximo fim de semana para celebrar.
+Você vai adorar ver meu desenho de animais da floresta!
+Beijos,
+Julia
+Curitiba, 5 de junho de 2024.
+Pergunta:
+De acordo com o texto, Julia ganhou o concurso de desenho porque
+Opções:
+-> a) usou materiais reciclados em sua pintura.
+   b) sua família organizará uma festa surpresa.
+   c) a diretora quis incentivar a sustentabilidade.
+   d) precisava expor seu trabalho na biblioteca.
+Justificativas:
+a) GABARITO - A alternativa correta identifica a relação causal estabelecida por 'porque'. A frase 'Ganhei... porque fiz uma pintura com materiais reciclados' demonstra claramente que a técnica sustentável foi a causa direta da vitória no concurso.
+b) INCORRETA - A festa é uma consequência da conquista, não sua causa. A comemoração familiar ocorre após o resultado do concurso, conforme mencionado no texto.
+c) INCORRETA - Embora a diretora mencione a sustentabilidade, essa informação é introduzida por 'já que' para explicar a premiação do kit de arte, não sendo a razão principal da vitória no concurso.
+d) INCORRETA - A exposição na biblioteca é um resultado da vitória, não seu motivo. O texto não associa essa ação à causa da conquista do prêmio.
+
+--------------------------------------------------------------------------------

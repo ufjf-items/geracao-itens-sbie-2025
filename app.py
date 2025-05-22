@@ -253,8 +253,9 @@ if __name__ == "__main__":
 
     
     modelos = [
-        "gemini-2.0-flash",
-        "deepseek-r1:free"
+        #"gemini-2.0-flash",
+        #"deepseek-r1:free"
+        "openai/gpt-4.1"
         
     ]
 
@@ -272,10 +273,12 @@ if __name__ == "__main__":
     for modelo in modelos:
         # Define o modelo para cada rodada
 
-        if modelo == "gemini-2.0-flash":
-            llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0, verbose=True)
-        elif modelo == "deepseek-r1:free":
-            llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
+        # if modelo == "gemini-2.0-flash":
+        #     llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0, verbose=True)
+        # elif modelo == "deepseek-r1:free":
+        #     llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
+
+        llm = ChatOpenRouter(model_name= modelo, temperature=0.0, top_p=1.0)
 
         
         chain = prompt | llm
@@ -290,11 +293,12 @@ if __name__ == "__main__":
         for tecnica in tecnicas:
             for i in range(5):
                 nome_tecnica = tecnica["nome"]
-                output_path = f"output_SBIE_2025/CL223EFCL2_{modelo}_{nome_tecnica}_{i}.json"
+                nome_modelo = modelo.split("/")[-1]
+                output_path = f"output_SBIE_2025/CL223EFCL2_{nome_modelo}_{nome_tecnica}_{i}.json"
 
                 print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
 
-                id = modelo + "_" + nome_tecnica
+                id = nome_modelo + "_" + nome_tecnica
 
                 iniciar(
                     id_tarefa=5,

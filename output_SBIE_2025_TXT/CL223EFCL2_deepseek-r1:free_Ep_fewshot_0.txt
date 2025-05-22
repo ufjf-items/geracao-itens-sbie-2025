@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Sofia,
+Espero que esteja bem! Escrevo para contar que ganhei um lindo caderno de desenhos na escola. A professora disse que foi porque eu fui a aluna mais dedicada nas aulas de arte. Meus pais ficaram tão orgulhosos que prometeram me levar ao museu no fim de semana.
+Também quero te avisar que, já que você vai viajar nas férias, podemos combinar de nos encontrarmos antes. Adoraria mostrar meus novos desenhos para você!
+Beijos da sua amiga,
+Maria
+São Paulo, 15 de março de 2024.
+Pergunta:
+De acordo com o texto, Maria ganhou um caderno de desenhos porque
+Opções:
+-> a) foi a aluna mais dedicada nas aulas de arte
+   b) seus pais prometeram levá-la ao museu
+   c) Sofia vai viajar nas férias
+   d) quer mostrar seus desenhos para a amiga
+Justificativas:
+a) GABARITO - Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal estabelecida pela conjunção 'porque'. O trecho 'porque eu fui a aluna mais dedicada' explicita a causa direta da premiação, demonstrando compreensão da estrutura lógica do texto.
+b) INCORRETA - Esta alternativa menciona uma consequência da premiação (visita ao museu), não sua causa. Embora seja uma informação textual, não responde à relação de causalidade solicitada, indicando dificuldade em distinguir causa e efeito.
+c) INCORRETA - A viagem de Sofia é um elemento contextual usado para outro propósito na carta (marcar um encontro). A conjunção 'já que' neste trecho estabelece relação de explicação, não de causa para a premiação.
+d) INCORRETA - Embora Maria queira mostrar os desenhos, isso é uma consequência posterior da premiação. A alternativa confunde motivação futura com causa antecedente, demonstrando dificuldade em identificar a relação temporal das informações.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Miguel,
+Estou tão animado para contar minha novidade! Ganhei medalha de ouro na gincana escolar porque fui o mais rápido na corrida de obstáculos.
+Meu treinador disse que vou participar do campeonato regional, já que meu tempo foi excelente. Minha mãe fez bolo de chocolate para comemorar e convidou toda a família para domingo.
+Você vai vir também? Conta como estão seus treinos de natação!
+Abraços,
+Pedro
+Belo Horizonte, 10 de abril de 2024.
+Pergunta:
+De acordo com o texto, Pedro ganhou medalha de ouro na gincana porque
+Opções:
+-> a) foi o mais rápido na corrida de obstáculos.
+   b) seu treinador marcou campeonato regional.
+   c) sua mãe fez bolo de chocolate.
+   d) precisava convidar a família.
+Justificativas:
+a) GABARITO - A alternativa correta identifica a relação causal estabelecida pela conjunção 'porque' no texto. A frase 'Ganhei... porque fui o mais rápido' mostra claramente que o desempenho na corrida foi a causa direta da conquista da medalha.
+b) INCORRETA - Embora mencione o campeonato regional, esta informação aparece em outra parte do texto introduzida por 'já que', indicando explicação para participação futura, não sendo a causa da medalha conquistada.
+c) INCORRETA - A comemoração com bolo é consequência da vitória, não sua causa. A ação da mãe ocorre após a conquista da medalha.
+d) INCORRETA - Esta opção inventa uma motivação não presente no texto. O convite à família é parte da comemoração, não o motivo da conquista esportiva.
+
+--------------------------------------------------------------------------------

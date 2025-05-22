@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi, Bia!
+
+Tudo bem? Estou escrevendo para contar que ontem fui ao parque de diversões. Foi muito legal! Eu pude ir em todos os brinquedos que queria. O melhor de tudo foi que ganhei um ursinho gigante porque acertei todas as latas na barraca de jogos. Fiquei super feliz! Depois comemos pipoca e algodão doce. Quero voltar lá logo!
+
+Beijos,
+Laura.
+Pergunta:
+De acordo com essa carta, Laura ganhou um ursinho gigante porque
+Opções:
+   a) ela foi ao parque de diversões.
+   b) ela comeu pipoca e algodão doce.
+   c) ela queria muito um ursinho.
+-> d) ela acertou todas as latas na barraca de jogos.
+Justificativas:
+a) INCORRETA. Ir ao parque de diversões é o contexto, mas não a causa de ter ganho o ursinho.
+b) INCORRETA. Comer pipoca e algodão doce aconteceu depois de ganhar o ursinho, não sendo a causa.
+c) INCORRETA. O desejo de ter um ursinho não é mencionado como a razão para ganhá-lo. A questão foca na ação que levou ao prêmio.
+d) CORRETA. O texto afirma que Laura ganhou o ursinho porque acertou todas as latas, estabelecendo uma relação de causalidade direta.
+
+--------------------------------------------------------------------------------

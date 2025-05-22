@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Belo Horizonte, 20 de maio de 2024
+
+Olá Lucas,
+
+Fiquei triste por não termos jogado futebol ontem. Não pude ir ao campinho porque minha bicicleta quebrou. Como o conserto demorou, decidi fazer um cartão para você. Espero que possamos jogar no sábado!
+
+Abraços,
+João
+Pergunta:
+Por qual razão João não foi jogar futebol com Lucas? Observe a conjunção que indica causa no texto.
+Opções:
+   a) Porque fez um cartão
+   b) Porque estava triste
+-> c) Porque sua bicicleta quebrou
+   d) Porque precisava consertar algo
+Justificativas:
+a) INCORRETA. O cartão foi uma ação consequente da ausência, mas não a causa. A conjunção 'porque' não se refere a essa informação.
+b) INCORRETA. A tristeza é um sentimento decorrente da situação, mas não a causa direta expressa pela conjunção causal.
+c) CORRETA. A estrutura 'não pude ir [...] porque minha bicicleta quebrou' usa a conjunção 'porque' para ligar diretamente o efeito (ausência) à causa (bicicleta quebrada).
+d) INCORRETA. Embora haja menção ao conserto, ele é consequência da quebra da bicicleta, não a causa principal da ausência.
+
+--------------------------------------------------------------------------------

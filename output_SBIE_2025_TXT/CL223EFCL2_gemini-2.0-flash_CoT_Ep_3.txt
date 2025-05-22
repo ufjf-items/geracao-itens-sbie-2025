@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi, Carol!
+
+Estou escrevendo para contar que não vou poder ir à sua festa de aniversário. Fiquei muito triste com isso, mas infelizmente não vai dar. 
+
+É que minha mãe ficou doente e preciso ficar em casa para ajudar a cuidar dela. Ela está com muita febre e precisa de repouso. Prometo que assim que ela melhorar, a gente se encontra para comemorar, tá?
+
+Beijos,
+Ana
+Pergunta:
+No trecho “É que minha mãe ficou doente e preciso ficar em casa para ajudar a cuidar dela”, qual a razão de Ana não poder ir à festa de Carol?
+Opções:
+   a) Porque ela está muito triste por não poder ir.
+-> b) Porque ela precisa ajudar a cuidar da mãe doente.
+   c) Porque ela promete que vai comemorar depois.
+   d) Porque ela quer mandar beijos para Carol.
+Justificativas:
+a) Esta opção menciona o sentimento de Ana, mas não é a causa de sua ausência. A tristeza é uma consequência de não poder ir, não a razão principal.
+b) Esta opção apresenta a causa direta mencionada no texto para a ausência de Ana na festa. A doença da mãe e a necessidade de cuidar dela são o motivo pelo qual ela não pode comparecer.
+c) Esta opção menciona a promessa de comemoração futura, mas isso não tem relação com o motivo da ausência atual. A promessa é uma forma de compensar a ausência, não a causa dela.
+d) Esta opção menciona os beijos, que são uma forma de despedida, mas não têm relação com o motivo da ausência. Os beijos são um gesto de carinho, não uma causa.
+
+--------------------------------------------------------------------------------

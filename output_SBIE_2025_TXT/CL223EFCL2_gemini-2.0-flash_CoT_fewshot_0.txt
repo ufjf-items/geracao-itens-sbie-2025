@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Vovó,
+
+Escrevo para contar que participei de um concurso de redação na escola. Fiquei muito feliz porque ganhei o primeiro lugar! O tema era 'O que te faz feliz'. Escrevi sobre os momentos que passamos juntas, fazendo biscoitos e lendo histórias. A professora disse que minha redação foi emocionante e muito criativa.
+
+No próximo fim de semana, vou visitá-la e levarei o prêmio para mostrar. É um livro lindo de poemas. Espero que goste!
+
+Com amor,
+
+Sofia.
+Pergunta:
+De acordo com o texto, Sofia ficou muito feliz porque
+Opções:
+   a) escreveu sobre momentos com a avó.
+   b) participou de um concurso de redação.
+-> c) ganhou o primeiro lugar no concurso.
+   d) vai visitar a avó no fim de semana.
+Justificativas:
+a) INCORRETA. Embora Sofia tenha escrito sobre momentos com a avó, o texto afirma explicitamente que a felicidade dela decorre da vitória no concurso, e não do ato de escrever em si. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade correta.
+b) INCORRETA. Participar do concurso é um evento anterior à felicidade de Sofia. O texto deixa claro que a felicidade é uma consequência do resultado do concurso, e não da simples participação. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade correta.
+c) CORRETA. O texto afirma que Sofia ficou feliz 'porque ganhou o primeiro lugar'. A conjunção 'porque' indica uma relação de causa e efeito, onde a vitória no concurso é a causa da felicidade de Sofia. Essa opção identifica corretamente a relação de causalidade expressa no texto.
+d) INCORRETA. A visita à avó é um evento futuro e uma consequência da felicidade de Sofia, não a causa. O texto não estabelece uma relação de causalidade entre a visita e a felicidade. Essa opção apresenta uma informação presente no texto, mas inverte a relação de causa e efeito.
+
+--------------------------------------------------------------------------------

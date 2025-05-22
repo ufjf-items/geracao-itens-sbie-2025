@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+São Paulo, 15 de março de 2024.
+
+Querida Maria,
+
+Espero que esteja bem! Escrevo para explicar por que não fui à sua festa. Acordei com febre porque peguei um resfriado forte. Fiquei triste, mas precisei descansar. No mesmo dia, também terminei minha lição de matemática e joguei bola com meu irmão depois de melhorar.
+
+Beijos,
+João
+Pergunta:
+Por que João não foi à festa de Maria? Observe a conjunção que indica a causa no texto.
+Opções:
+   a) Porque terminou sua lição de matemática
+   b) Porque jogou bola com o irmão
+-> c) Porque pegou um resfriado forte
+   d) Porque a carta foi escrita em São Paulo
+Justificativas:
+a) Incorreto. Embora João tenha terminado a lição, isso é uma ação paralela não relacionada à causa da ausência na festa.
+b) Incorreto. Jogar bola ocorreu após a recuperação, sendo consequência da melhora, não causa da ausência.
+c) Correto. A conjunção 'porque' liga diretamente a febre/resfriado à ausência na festa, estabelecendo relação causal.
+d) Incorreto. A localização geográfica não tem relação com o motivo da ausência.
+
+--------------------------------------------------------------------------------

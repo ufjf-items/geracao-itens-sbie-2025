@@ -1,0 +1,32 @@
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Belo Horizonte, 5 de abril de 2024\n\nQuerido Lucas,\n\nEstou te escrevendo para contar que não pude ir ao passeio da escola ontem, porque minha mãe precisou viajar a trabalho e eu fiquei em casa com meu irmão. Fiquei um pouco chateado, pois estava animado para conhecer o museu. Espero que você tenha aproveitado bastante! Quando puder, me conte como foi.\n\nUm abraço,\nPedro",
+      "Comando 2": "No trecho 'não pude ir ao passeio da escola ontem, porque minha mãe precisou viajar a trabalho e eu fiquei em casa com meu irmão', qual foi o motivo de Pedro não ter ido ao passeio?",
+      "Opções": {
+        "a": "Porque sua mãe precisou viajar a trabalho e ele ficou em casa com o irmão.",
+        "b": "Porque ele estava animado para conhecer o museu.",
+        "c": "Porque ele ficou chateado.",
+        "d": "Porque Lucas aproveitou bastante o passeio."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "Correta. O trecho destacado apresenta a conjunção causal 'porque', indicando que o motivo de Pedro não ter ido ao passeio foi a viagem da mãe e o fato de ele ter ficado em casa com o irmão.",
+        "b": "Incorreta. O fato de Pedro estar animado para conhecer o museu é um desejo, não a causa de sua ausência.",
+        "c": "Incorreta. Pedro ficou chateado como consequência de não ter ido ao passeio, não como causa.",
+        "d": "Incorreta. O fato de Lucas ter aproveitado o passeio não tem relação causal com a ausência de Pedro."
+      },
+      "->": [
+        "1. Elaborei uma carta com remetente (Pedro), destinatário (Lucas), local, data, saudação e despedida, conforme a estrutura canônica.",
+        "2. O texto aborda um tema do universo infantil (passeio escolar, família) e utiliza linguagem simples.",
+        "3. O trecho com a conjunção causal 'porque' foi destacado para facilitar a identificação da relação de causa e consequência.",
+        "4. O comando 2 pede que o aluno identifique a causa da ausência de Pedro, explicitando o trecho com a conjunção.",
+        "5. A alternativa correta (a) retoma exatamente a causa apresentada no texto.",
+        "6. Os distratores (b, c, d) trazem informações do texto, mas não correspondem à relação de causalidade pedida.",
+        "7. Justifiquei cada alternativa, mostrando por que apenas a correta responde ao comando."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Salvador, 12 de julho de 2024.
+
+Oi, João!
+Quero te contar uma coisa legal. Ontem, ganhei um ingresso para o cinema porque ajudei minha avó a arrumar a casa. Fiquei muito feliz, pois vou assistir ao meu filme favorito. Minha mãe disse que posso convidar um amigo, já que fui muito responsável. Espero que você possa ir comigo!
+Abraços,
+Mateus
+Pergunta:
+De acordo com o texto, por que Mateus ganhou um ingresso para o cinema? Assinale a alternativa correta.
+Opções:
+-> a) Porque ele ajudou a avó a arrumar a casa.
+   b) Porque ele vai assistir ao filme favorito.
+   c) Porque a mãe dele deixou convidar um amigo.
+   d) Porque João vai ao cinema com ele.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'porque'. O texto diz: 'ganhei um ingresso para o cinema porque ajudei minha avó a arrumar a casa', mostrando que a causa do ingresso foi a ajuda à avó.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram a consequência (assistir ao filme favorito) com a causa do ingresso. O texto não diz que ele ganhou o ingresso por causa do filme.
+c) INCORRETA. Os estudantes que optaram por esta alternativa confundiram a permissão para convidar um amigo com a causa do ingresso. A permissão foi dada porque Mateus foi responsável, não é a causa do ingresso.
+d) INCORRETA. Os estudantes que marcaram esta alternativa confundiram o convite feito a João com a razão de Mateus ter ganhado o ingresso. O texto não diz que João ir ao cinema é a causa do ingresso.
+
+--------------------------------------------------------------------------------

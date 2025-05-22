@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Rio de Janeiro, 12 de maio de 2024
+
+Oi, Mariana!
+
+Estou te escrevendo para contar que não pude ir ao parque ontem, pois começou a chover forte na minha rua. Fiquei em casa desenhando, já que não dava para sair. Espero que no próximo fim de semana o tempo esteja melhor para brincarmos juntas.
+
+Um abraço,
+
+Sofia
+Pergunta:
+No trecho 'não pude ir ao parque ontem, pois começou a chover forte na minha rua', qual foi a causa de Sofia não ter ido ao parque?
+Opções:
+-> a) Começou a chover forte na rua dela.
+   b) Sofia ficou em casa desenhando.
+   c) Sofia queria brincar com Mariana.
+   d) O próximo fim de semana pode ter tempo melhor.
+Justificativas:
+a) Correta. O trecho usa a conjunção 'pois' para indicar que a causa de Sofia não ter ido ao parque foi a chuva forte na rua dela.
+b) Incorreta. Ficar em casa desenhando foi uma consequência de não poder sair, não a causa.
+c) Incorreta. O desejo de brincar com Mariana é um objetivo, não a causa de não ter ido ao parque.
+d) Incorreta. A expectativa sobre o próximo fim de semana não explica o motivo de Sofia não ter ido ao parque ontem.
+
+--------------------------------------------------------------------------------

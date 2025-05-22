@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Tio Ricardo,
+
+Estou escrevendo para contar que participei do concurso de desenho da escola. Não ganhei o primeiro lugar, mas fiquei muito contente porque meu desenho foi escolhido para a exposição! A professora disse que ele era muito criativo e colorido. Depois da exposição, fomos comer pizza comemorar. 
+
+Abraços,
+
+Seu sobrinho, Lucas.
+Pergunta:
+De acordo com essa carta, Lucas ficou contente porque
+Opções:
+   a) ele comeu pizza com a família.
+   b) ele participou do concurso de desenho.
+   c) a professora elogiou seu desenho.
+-> d) seu desenho foi escolhido para a exposição.
+Justificativas:
+a) INCORRETA. Comer pizza foi uma comemoração posterior, não a causa da felicidade de Lucas. A alternativa confunde causa e consequência.
+b) INCORRETA. Participar do concurso é o contexto, mas não a razão específica da felicidade de Lucas. A alternativa não estabelece a relação de causalidade solicitada.
+c) INCORRETA. O elogio da professora contribui para a felicidade de Lucas, mas o texto enfatiza a escolha do desenho para a exposição como o motivo principal. A alternativa apresenta uma causa secundária.
+d) CORRETA. O texto indica que Lucas ficou contente 'porque meu desenho foi escolhido para a exposição!'. A alternativa apresenta a causa direta da felicidade de Lucas, conforme expresso na carta.
+
+--------------------------------------------------------------------------------

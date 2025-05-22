@@ -1,0 +1,28 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Vovó Maria,
+
+Escrevo esta carta para contar que estou muito feliz aqui na escola nova. As aulas são divertidas e os professores são muito legais. Fiz muitos amigos e estamos aprendendo coisas incríveis todos os dias.
+
+Ontem, não pude ir ao treino de futebol porque estava chovendo muito forte. Fiquei em casa lendo um livro novo que ganhei de presente. Foi uma tarde bem agradável!
+
+Estou com muitas saudades da senhora e espero vê-la em breve. Mande um abraço para o Vovô João.
+
+Com carinho,
+Pedro
+Pergunta:
+No trecho “Ontem, não pude ir ao treino de futebol porque estava chovendo muito forte”, qual a razão de Pedro não ter ido ao treino de futebol?
+Opções:
+   a) Porque ele estava lendo um livro novo.
+   b) Porque ele estava com saudades da avó.
+-> c) Porque estava chovendo muito forte.
+   d) Porque ele fez muitos amigos na escola nova.
+Justificativas:
+a) Esta opção apresenta uma informação presente no texto, mas não é a causa de Pedro não ter ido ao treino. Ele ficou em casa lendo o livro *depois* de não poder ir ao treino devido à chuva.
+b) Esta opção menciona a saudade que Pedro sente da avó, mas essa informação não está relacionada à razão pela qual ele não foi ao treino de futebol.
+c) Esta opção apresenta a causa direta mencionada no texto para a ausência de Pedro no treino de futebol. A conjunção 'porque' indica claramente a relação de causalidade entre a chuva forte e a impossibilidade de ir ao treino.
+d) Esta opção menciona a amizade que Pedro fez na escola, mas essa informação não tem relação com o motivo pelo qual ele não foi ao treino de futebol.
+
+--------------------------------------------------------------------------------

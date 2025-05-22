@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Prezada Professora Ana,
+
+Escrevo para contar que estou muito animado com a feira de ciências! Já escolhi meu tema: vou apresentar um experimento sobre a germinação das plantas. Estou pesquisando bastante e cuidando das sementes com muito carinho. Tenho certeza de que vai ser um sucesso, pois estou me dedicando muito ao projeto!
+
+Atenciosamente,
+João.
+Pergunta:
+De acordo com o texto, João tem certeza de que a feira de ciências vai ser um sucesso, pois
+Opções:
+   a) já escolheu o tema do experimento.
+   b) está escrevendo para a professora Ana.
+   c) vai apresentar um experimento sobre plantas.
+-> d) está se dedicando muito ao projeto.
+Justificativas:
+a) INCORRETA. Escolher o tema é um passo importante, mas não é a razão pela qual João tem certeza do sucesso.
+b) INCORRETA. Escrever para a professora é uma formalidade da carta e não tem relação com a certeza do sucesso.
+c) INCORRETA. Apresentar um experimento sobre plantas é o tema escolhido, mas não a causa da certeza do sucesso.
+d) CORRETA. O texto afirma que João tem certeza do sucesso *pois* está se dedicando muito ao projeto. A conjunção 'pois' indica a relação de causalidade.
+
+--------------------------------------------------------------------------------

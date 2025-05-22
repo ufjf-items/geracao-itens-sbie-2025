@@ -2,27 +2,22 @@
 {
   "Questões": [
     {
-      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
       "Comando 1": "Leia o texto.",
-      
-      "Texto suporte": "Querido Miguel,\n\nVocê deve estar curioso por que não fui ao seu aniversário no sábado. Explico: porque viajei com minha família para visitar meus avós no interior. Fiquei chateado, pois queria muito brincar com você. Por isso, enviei um vídeo parabéns pelo celular da mamãe. Na próxima vez, combinamos de ir ao cinema?\n\nAbraços,\nCarlos\nCuritiba, 5 de junho de 2024",
-      
-      "Comando 2": "Por que Carlos não foi à festa de aniversário do Miguel?",
-      
+      "Texto suporte": "São Paulo, 15 de março de 2024\n\nQuerida Ana,\n\nEspero que esteja bem! Escrevo para contar que não pude ir ao seu aniversário porque fiquei com febre alta. Minha mãe disse que preciso repousar até melhorar. Já que não pude comparecer, preparei um desenho especial para você. Espero que goste!\n\nBeijos,\nPedro",
+      "Comando 2": "Por qual motivo Pedro não foi ao aniversário de Ana? Observe a conjunção que indica causa no texto.",
       "Opções": {
-        "a": "Porque estava assistindo um filme",
-        "b": "Pois viajou para visitar os avós",
-        "c": "Já que perdeu o presente comprado",
-        "d": "Por isso enviou um vídeo parabéns"
+        "a": "Porque preparou um desenho especial",
+        "b": "Porque precisava repousar",
+        "c": "Porque ficou com febre alta",
+        "d": "Porque sua mãe não deixou"
       },
-      
-      "Resposta correta": "b",
-      
+      "Resposta correta": "c",
       "Justificativas": {
-        "a": "Incorreta. O texto não menciona atividades de lazer como motivo. A conjunção 'porque' introduz claramente a viagem como causa principal.",
-        "b": "Correta. A relação causal é estabelecida pela conjunção 'porque' no trecho: 'porque viajei com minha família para visitar meus avós', indicando o motivo direto da ausência.",
-        "c": "Incorreta. Não há referência a presentes perdidos. A informação sobre o vídeo aparece como ação consequencial, não como causa do problema.",
-        "d": "Incorreta. 'Por isso' marca uma consequência (envio do vídeo), não a causa da ausência. A estrutura gramatical mostra relação de resultado, não de motivo original."
+        "a": "INCORRETA. Embora o desenho seja mencionado, ele é uma consequência da ausência, não a causa. A conjunção 'já que' neste trecho indica relação de explicação, não de causa principal.",
+        "b": "INCORRETA. O repouso é uma consequência da febre, não a causa da ausência. A informação aparece após a conjunção causal principal.",
+        "c": "CORRETA. A conjunção 'porque' introduz diretamente a causa principal: 'não pude ir ao seu aniversário porque fiquei com febre alta' estabelece relação causal explícita.",
+        "d": "INCORRETA. A menção à mãe aparece como autoridade que confirmou a necessidade de repouso, mas não é a causa primária apresentada no texto."
       }
     }
   ]

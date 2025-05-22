@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+São Paulo, 15 de abril de 2024.
+
+Oi, Lucas!
+Estou escrevendo para contar uma novidade. Ontem, não fui à escola porque estava com febre. Minha mãe ficou preocupada, por isso me levou ao médico. O doutor disse que era só um resfriado e pediu para eu descansar. Já estou melhor e espero voltar para a escola amanhã. Escreva contando as novidades daí também!
+Abraços,
+Pedro
+Pergunta:
+Segundo o texto, por que a mãe de Pedro o levou ao médico? Assinale a alternativa correta.
+Opções:
+-> a) Porque Pedro estava com febre.
+   b) Porque Pedro queria faltar à escola.
+   c) Porque o doutor pediu para descansar.
+   d) Porque Lucas escreveu uma carta.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'por isso'. O texto afirma: 'Minha mãe ficou preocupada, por isso me levou ao médico', indicando que a preocupação da mãe, causada pela febre de Pedro, foi o motivo da ida ao médico.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram o motivo da ausência escolar com a causa da ida ao médico. O texto não diz que Pedro queria faltar à escola, mas sim que estava doente.
+c) INCORRETA. Os estudantes que optaram por esta alternativa inverteram a ordem dos fatos: o doutor pediu para Pedro descansar após a consulta, não antes dela. Não é a causa da ida ao médico.
+d) INCORRETA. Os estudantes que marcaram esta alternativa se basearam em uma informação irrelevante ao contexto causal do texto. Lucas é apenas o destinatário da carta, sem relação com a ida ao médico.
+
+--------------------------------------------------------------------------------

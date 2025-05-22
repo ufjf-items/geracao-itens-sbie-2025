@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Belo Horizonte, 5 de abril de 2024
+
+Querido Lucas,
+
+Estou te escrevendo para contar que não pude ir ao passeio da escola ontem, porque minha mãe precisou viajar a trabalho e eu fiquei em casa com meu irmão. Fiquei um pouco chateado, pois estava animado para conhecer o museu. Espero que você tenha aproveitado bastante! Quando puder, me conte como foi.
+
+Um abraço,
+Pedro
+Pergunta:
+No trecho 'não pude ir ao passeio da escola ontem, porque minha mãe precisou viajar a trabalho e eu fiquei em casa com meu irmão', qual foi o motivo de Pedro não ter ido ao passeio?
+Opções:
+-> a) Porque sua mãe precisou viajar a trabalho e ele ficou em casa com o irmão.
+   b) Porque ele estava animado para conhecer o museu.
+   c) Porque ele ficou chateado.
+   d) Porque Lucas aproveitou bastante o passeio.
+Justificativas:
+a) Correta. O trecho destacado apresenta a conjunção causal 'porque', indicando que o motivo de Pedro não ter ido ao passeio foi a viagem da mãe e o fato de ele ter ficado em casa com o irmão.
+b) Incorreta. O fato de Pedro estar animado para conhecer o museu é um desejo, não a causa de sua ausência.
+c) Incorreta. Pedro ficou chateado como consequência de não ter ido ao passeio, não como causa.
+d) Incorreta. O fato de Lucas ter aproveitado o passeio não tem relação causal com a ausência de Pedro.
+
+--------------------------------------------------------------------------------

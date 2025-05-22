@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Sofia,
+Espero que esteja bem! Estou escrevendo para contar que ontem ganhei um passeio no zoológico. Na escola, fizemos uma competição de redação e venci porque escrevi a melhor história sobre animais.
+Meus pais ficaram orgulhosos e já marcaram o passeio para sábado. A professora disse que vou conhecer os pandas, já que eles são meus preferidos. Mal posso esperar!
+Escreva-me contando suas novidades.
+Com carinho,
+Laura
+São Paulo, 15 de março de 2024.
+Pergunta:
+De acordo com o texto, Laura ganhou um passeio no zoológico porque
+Opções:
+-> a) escreveu a melhor história sobre animais na competição.
+   b) seus pais já marcaram o passeio para sábado.
+   c) a professora quis apresentar os pandas a ela.
+   d) precisava conhecer novos animais no zoológico.
+Justificativas:
+a) GABARITO - A alternativa correta identifica a relação causal estabelecida pela conjunção 'porque' no texto. A frase 'venci porque escrevi a melhor história' mostra claramente que a vitória na competição (e consequentemente o passeio) foi resultado direto da qualidade da redação.
+b) INCORRETA - Embora mencione uma ação dos pais, esta é consequência do prêmio, não sua causa. A marcação do passeio ocorreu após a vitória, não sendo o motivo pelo qual Laura ganhou o passeio.
+c) INCORRETA - A informação sobre os pandas aparece em outra parte do texto introduzida por 'já que', indicando explicação, não causalidade direta para o prêmio principal. Trata-se de um detalhe adicional do passeio.
+d) INCORRETA - Esta opção inventa uma motivação não presente no texto. Não há menção à necessidade de Laura conhecer novos animais como razão para o prêmio.
+
+--------------------------------------------------------------------------------

@@ -2,27 +2,22 @@
 {
   "Questões": [
     {
-      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
       "Comando 1": "Leia o texto.",
-      
-      "Texto suporte": "Querida Sofia,\n\nVocê deve estar pensando por que não apareci na sua festa ontem. Acontece que minha bicicleta quebrou no caminho, porque o pneu furou perto do parque. Fiquei preocupada, pois não tinha celular para avisar. Por isso, pedi à Dona Marta da padaria que mandasse um recado. Espero que você tenha entendido!\n\nBeijos,\nLaura\nPorto Alegre, 8 de julho de 2024",
-      
-      "Comando 2": "Por que Laura não chegou à festa da Sofia?",
-      
+      "Texto suporte": "Belo Horizonte, 20 de maio de 2024\n\nOlá Lucas,\n\nFiquei triste por não termos jogado futebol ontem. Não pude ir ao campinho porque minha bicicleta quebrou. Como o conserto demorou, decidi fazer um cartão para você. Espero que possamos jogar no sábado!\n\nAbraços,\nJoão",
+      "Comando 2": "Por qual razão João não foi jogar futebol com Lucas? Observe a conjunção que indica causa no texto.",
       "Opções": {
-        "a": "Porque esqueceu o presente em casa",
-        "b": "Pois o pneu da bicicleta furou",
-        "c": "Já que precisou fazer lição de casa",
-        "d": "Por isso enviou um recado pela padaria"
+        "a": "Porque fez um cartão",
+        "b": "Porque estava triste",
+        "c": "Porque sua bicicleta quebrou",
+        "d": "Porque precisava consertar algo"
       },
-      
-      "Resposta correta": "b",
-      
+      "Resposta correta": "c",
       "Justificativas": {
-        "a": "Incorreta. Não há menção a esquecimento de presente. A causa real está na explicação iniciada por 'porque' sobre o pneu furado.",
-        "b": "Correta. A conjunção 'porque' introduz diretamente a causa: 'porque o pneu furou perto do parque', estabelecendo relação lógica de causalidade.",
-        "c": "Incorreta. A atividade escolar não é mencionada no texto. O distrator utiliza uma causa comum não relacionada ao contexto da carta.",
-        "d": "Incorreta. 'Por isso' indica consequência (envio do recado), não a causa da ausência. A estrutura mostra resultado da situação, não seu motivo original."
+        "a": "INCORRETA. O cartão foi uma ação consequente da ausência, mas não a causa. A conjunção 'porque' não se refere a essa informação.",
+        "b": "INCORRETA. A tristeza é um sentimento decorrente da situação, mas não a causa direta expressa pela conjunção causal.",
+        "c": "CORRETA. A estrutura 'não pude ir [...] porque minha bicicleta quebrou' usa a conjunção 'porque' para ligar diretamente o efeito (ausência) à causa (bicicleta quebrada).",
+        "d": "INCORRETA. Embora haja menção ao conserto, ele é consequência da quebra da bicicleta, não a causa principal da ausência."
       }
     }
   ]

@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Oi, Carol!
+
+Tudo bem? Estou escrevendo para contar que adorei o passeio no zoológico! Fiquei muito feliz porque vi de perto o leão, que é meu animal preferido. Também gostei de ver os macacos pulando de um lado para o outro. No final do dia, estávamos todos cansados, mas valeu a pena. Mal posso esperar para o próximo passeio!
+
+Beijos,
+Ana.
+Pergunta:
+De acordo com essa carta, Ana ficou muito feliz porque
+Opções:
+   a) estava escrevendo uma carta para Carol.
+   b) gostou de ver os macacos pulando.
+   c) o passeio no zoológico foi divertido.
+-> d) viu de perto o leão, seu animal preferido.
+Justificativas:
+a) INCORRETA. Escrever a carta é o ato de comunicar a felicidade, não a causa dela.
+b) INCORRETA. Ver os macacos contribuiu para a diversão, mas a causa principal da felicidade de Ana foi ver o leão.
+c) INCORRETA. O passeio ser divertido é uma consequência de vários fatores, incluindo ver o leão, mas a pergunta foca na causa direta da felicidade de Ana.
+d) CORRETA. O texto afirma que Ana ficou feliz porque viu o leão de perto, estabelecendo uma relação de causalidade direta.
+
+--------------------------------------------------------------------------------

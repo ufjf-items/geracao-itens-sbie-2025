@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Rio de Janeiro, 20 de julho de 2024.
+
+Querida Titia,
+
+Escrevo para contar que participei de um concurso de desenho na escola e ganhei o primeiro lugar! Fiquei muito feliz, pois me esforcei bastante para fazer um desenho bem bonito.
+
+Usei muitas cores e desenhei um jardim cheio de flores e borboletas. A professora disse que meu desenho era muito criativo e original. Recebi um kit de pintura de presente!
+
+Estou ansiosa para as férias, pois vamos viajar para a praia e construir castelos de areia. Mal posso esperar para brincar no mar e tomar sorvete.
+
+Com carinho,
+Sua sobrinha, Mariana.
+Pergunta:
+No trecho “Fiquei muito feliz, pois me esforcei bastante para fazer um desenho bem bonito.”, qual a razão para Mariana ter ficado muito feliz?
+Opções:
+   a) Ela vai viajar para a praia nas férias.
+   b) Ela usou muitas cores no desenho.
+   c) Ela ganhou um kit de pintura de presente.
+-> d) Ela se esforçou bastante para fazer um desenho bem bonito.
+Justificativas:
+a) Incorreta. A viagem para a praia é um evento futuro que causa ansiedade em Mariana, mas não é a razão da sua felicidade no momento em que escreve a carta.
+b) Incorreta. O uso de cores é uma característica do desenho de Mariana, mas não é a causa direta da sua felicidade.
+c) Incorreta. O kit de pintura é um presente que Mariana recebeu como prêmio, sendo uma consequência da sua vitória, e não a causa da sua felicidade.
+d) Correta. O trecho indica claramente que a razão para Mariana ter ficado feliz é o fato de ter se esforçado para fazer um desenho bonito. A conjunção 'pois' explicita essa relação de causa e consequência.
+
+--------------------------------------------------------------------------------

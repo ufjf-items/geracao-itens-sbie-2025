@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Salvador, 12 de julho de 2024.
+
+Oi, João!
+Estou escrevendo para contar que ontem não fui à praia, porque estava gripado. Fiquei em casa assistindo desenhos e tomando sopa. Minha mãe disse que preciso descansar para melhorar logo. Espero que no próximo final de semana eu já esteja bem, pois quero brincar com você na areia.
+Um abraço,
+Miguel
+Pergunta:
+De acordo com o texto, por que Miguel não foi à praia? Marque a alternativa correta considerando a relação de causa e consequência apresentada pela conjunção 'porque'.
+Opções:
+-> a) Porque estava gripado.
+   b) Porque ficou assistindo desenhos.
+   c) Porque a mãe pediu para descansar.
+   d) Porque quer brincar com João na areia.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'porque'. O texto afirma: 'ontem não fui à praia, porque estava gripado', deixando claro que a causa de Miguel não ter ido à praia foi estar gripado.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram uma consequência do fato de não ter ido à praia (assistir desenhos) com a causa apresentada no texto.
+c) INCORRETA. Os estudantes que optaram por esta alternativa confundiram o conselho da mãe (descansar) com a causa principal de não ter ido à praia, que foi estar gripado.
+d) INCORRETA. Os estudantes que marcaram esta alternativa confundiram um desejo futuro (brincar com João na areia) com a causa de não ter ido à praia, o que não corresponde à relação de causalidade apresentada.
+
+--------------------------------------------------------------------------------

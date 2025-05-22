@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Belo Horizonte, 15 de junho de 2024.
+
+Prezada Professora Ana,
+
+Escrevo para informar que não poderei comparecer à aula de amanhã. Estou com muita febre e dor de garganta, por isso, meus pais me levaram ao médico.
+
+O médico disse que estou com gripe e preciso ficar em repouso por alguns dias. Sinto muito por perder a aula, mas prometo que vou pedir aos meus colegas para me manterem atualizado sobre o conteúdo.
+
+Assim que eu melhorar, voltarei às aulas com muita disposição para aprender e participar das atividades.
+
+Atenciosamente,
+Lucas.
+Pergunta:
+No trecho “Estou com muita febre e dor de garganta, por isso, meus pais me levaram ao médico.”, qual a razão para os pais de Lucas o terem levado ao médico?
+Opções:
+   a) Ele queria informar que não poderia comparecer à aula.
+   b) Ele prometeu que pediria aos colegas para o manterem atualizado.
+-> c) Ele estava com muita febre e dor de garganta.
+   d) Ele queria voltar às aulas com muita disposição.
+Justificativas:
+a) Incorreta. Informar sobre a ausência é uma ação de Lucas, não a razão para os pais o levarem ao médico.
+b) Incorreta. Pedir para ser atualizado é uma atitude de Lucas para não perder o conteúdo, e não a causa da visita ao médico.
+c) Correta. O trecho indica claramente que a razão para os pais de Lucas o terem levado ao médico é o fato de ele estar com febre e dor de garganta. A expressão 'por isso' explicita essa relação de causa e consequência.
+d) Incorreta. A vontade de voltar às aulas é uma consequência da melhora de Lucas, e não a causa da consulta médica.
+
+--------------------------------------------------------------------------------

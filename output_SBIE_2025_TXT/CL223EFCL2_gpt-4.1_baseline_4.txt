@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Salvador, 22 de julho de 2024
+
+Oi, Bia!
+
+Estou te escrevendo para avisar que não consegui ir ao cinema com vocês ontem, porque meu pai precisou trabalhar até tarde. Fiquei em casa assistindo TV, já que não tinha ninguém para me levar. Espero que na próxima vez eu possa ir com vocês.
+
+Beijos,
+
+Lara
+Pergunta:
+No trecho 'não consegui ir ao cinema com vocês ontem, porque meu pai precisou trabalhar até tarde', qual foi o motivo de Lara não ter ido ao cinema?
+Opções:
+-> a) O pai de Lara precisou trabalhar até tarde.
+   b) Lara ficou em casa assistindo TV.
+   c) Lara espera ir na próxima vez.
+   d) Lara escreveu uma carta para Bia.
+Justificativas:
+a) Correta. O trecho usa a conjunção 'porque' para indicar que a causa de Lara não ter ido ao cinema foi o fato de seu pai precisar trabalhar até tarde.
+b) Incorreta. Ficar em casa assistindo TV foi uma consequência de não ter ido ao cinema, não a causa.
+c) Incorreta. Esperar ir na próxima vez é um desejo para o futuro, não o motivo de não ter ido ao cinema ontem.
+d) Incorreta. Escrever a carta é uma ação posterior, não a causa de não ter ido ao cinema.
+
+--------------------------------------------------------------------------------

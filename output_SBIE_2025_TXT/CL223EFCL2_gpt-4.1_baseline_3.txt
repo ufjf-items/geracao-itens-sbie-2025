@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Curitiba, 18 de junho de 2024
+
+Oi, João!
+
+Queria te contar que não consegui participar do jogo de futebol ontem, porque precisei ajudar minha mãe em casa. Fiquei um pouco triste, pois estava animado para jogar com todo mundo. Espero que na próxima vez eu possa ir.
+
+Um abraço,
+
+Carlos
+Pergunta:
+No trecho 'não consegui participar do jogo de futebol ontem, porque precisei ajudar minha mãe em casa', qual foi o motivo de Carlos não ter participado do jogo?
+Opções:
+-> a) Ele precisou ajudar a mãe em casa.
+   b) Ele ficou animado para jogar.
+   c) Ele ficou um pouco triste.
+   d) Ele escreveu uma carta para João.
+Justificativas:
+a) Correta. O trecho usa a conjunção 'porque' para indicar que a causa de Carlos não ter participado do jogo foi precisar ajudar a mãe em casa.
+b) Incorreta. Estar animado para jogar é um sentimento, não a causa de sua ausência.
+c) Incorreta. Ficar triste foi uma consequência de não ter ido ao jogo, não a causa.
+d) Incorreta. Escrever a carta é uma ação posterior, não o motivo de não ter participado do jogo.
+
+--------------------------------------------------------------------------------

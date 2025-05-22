@@ -1,0 +1,28 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Mãe,
+
+Escrevo para contar que hoje na escola foi muito divertido. A professora fez uma brincadeira nova e eu ri muito porque o palhaço tropeçou no barbante. Ele caiu de bunda no chão e todo mundo gargalhou! 
+
+Depois, a gente fez um desenho bem bonito para você. Espero que goste do presente! Estou com muita saudade.
+
+Beijos,
+
+Seu filho (a),
+[nome]
+Pergunta:
+De acordo com o texto, o(a) autor(a) riu muito porque
+Opções:
+   a) a professora fez uma brincadeira nova.
+   b) fez um desenho bem bonito para a mãe.
+   c) está com muita saudade.
+-> d) o palhaço tropeçou no barbante.
+Justificativas:
+a) INCORRETA. A brincadeira nova é um evento que ocorreu no mesmo dia, mas não é a causa direta do riso do(a) autor(a). O texto especifica que o riso foi motivado pela cena do palhaço.
+b) INCORRETA. O desenho para a mãe é um presente e uma demonstração de carinho, mas não está relacionado ao motivo do riso do(a) autor(a).
+c) INCORRETA. A saudade é um sentimento expressado no final da carta, mas não é a causa do riso do(a) autor(a).
+d) CORRETA. O texto afirma que o(a) autor(a) riu muito 'porque o palhaço tropeçou no barbante'. A conjunção 'porque' indica a relação de causa e efeito, onde a cena do palhaço é a causa do riso.
+
+--------------------------------------------------------------------------------

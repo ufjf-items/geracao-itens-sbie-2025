@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Vovô querido,
+
+Estou escrevendo para contar que ontem a gente fez um piquenique no parque. Foi muito legal! Eu comi tanto que fiquei com a barriga doendo porque exagerei no bolo de chocolate. Mas valeu a pena, estava delicioso!
+
+Hoje, estou melhor e vou brincar na casa do meu amigo. Manda um abraço para a vovó. Estou com saudades!
+
+Com carinho,
+
+[Nome]
+Pergunta:
+De acordo com o texto, o(a) autor(a) ficou com a barriga doendo porque
+Opções:
+   a) fez um piquenique no parque.
+   b) estava com saudades do vovô.
+-> c) exagerou no bolo de chocolate.
+   d) vai brincar na casa do amigo.
+Justificativas:
+a) INCORRETA. O piquenique é o contexto da história, mas não a causa da dor de barriga. O texto especifica que a dor foi causada pelo excesso de bolo.
+b) INCORRETA. A saudade do avô é mencionada no final da carta, mas não tem relação com a dor de barriga.
+c) CORRETA. O texto afirma que o(a) autor(a) ficou com a barriga doendo 'porque exagerei no bolo de chocolate'. A conjunção 'porque' indica a relação de causa e efeito.
+d) INCORRETA. Brincar na casa do amigo é uma atividade futura e não está relacionada à dor de barriga.
+
+--------------------------------------------------------------------------------

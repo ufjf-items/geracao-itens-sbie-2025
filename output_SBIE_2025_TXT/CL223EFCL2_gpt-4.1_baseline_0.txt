@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+São Paulo, 10 de março de 2024
+
+Querida Ana,
+
+Estou escrevendo para contar que não pude ir à sua festa ontem, porque fiquei gripada e precisei descansar. Fiquei muito triste, pois queria muito ver todos os amigos e brincar bastante. Espero que você tenha se divertido muito! Quando eu melhorar, podemos marcar de brincar juntas?
+
+Com carinho,
+
+Lívia
+Pergunta:
+No trecho 'não pude ir à sua festa ontem, porque fiquei gripada', qual foi o motivo de Lívia não ter ido à festa?
+Opções:
+-> a) Ela ficou gripada.
+   b) Ela queria ver todos os amigos.
+   c) Ela precisou brincar bastante.
+   d) Ela escreveu uma carta para Ana.
+Justificativas:
+a) Correta. O trecho destacado apresenta a conjunção 'porque', que indica a causa de Lívia não ter ido à festa: ela ficou gripada.
+b) Incorreta. O desejo de ver os amigos é mencionado como algo que ela queria, mas não é a causa de não ter ido à festa.
+c) Incorreta. Brincar bastante é algo que Lívia gostaria de fazer, mas não é o motivo de sua ausência.
+d) Incorreta. Escrever a carta é uma ação posterior, não a causa de não ter ido à festa.
+
+--------------------------------------------------------------------------------

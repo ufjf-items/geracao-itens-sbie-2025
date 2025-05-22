@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Sofia,
+Estou muito feliz! Hoje ganhei um novo estojo colorido da minha mãe porque tirei nota 10 em matemática. Ela disse que vou precisar dele nas aulas de geometria. Na próxima semana, vamos visitar minha avó no interior, já que as férias estão chegando.
+Ah, e o professor pediu para levarmos régua e transferidor. Prometi que vou estudar mais ainda, pois quero ser engenheira quando crescer.
+Escreva logo contando suas novidades!
+Beijos,
+Clara.
+São Paulo, 15 de agosto de 2024.
+Pergunta:
+De acordo com o texto, Clara ganhou um novo estojo porque
+Opções:
+   a) vai visitar a avó nas férias.
+   b) precisa de material para as aulas de geometria.
+-> c) tirou nota 10 em matemática.
+   d) quer ser engenheira no futuro.
+Justificativas:
+a) INCORRETA - A visita à avó é mencionada no texto como um evento futuro ('já que as férias estão chegando'), mas não tem relação causal com o estojo. O distrator explora uma informação sequencial do texto que não está conectada pela conjunção de causalidade.
+b) INCORRETA - Embora o estojo seja útil para geometria, a conjunção 'porque' no texto conecta diretamente o presente ao desempenho em matemática, não à necessidade futura de material. Esta opção inverte causa e consequência.
+c) GABARITO - A conjunção 'porque' estabelece claramente a relação causal entre a nota alta em matemática e a recompensa recebida. O período simples 'ganhei... porque tirei' mostra a conexão direta exigida pela habilidade.
+d) INCORRETA - A aspiração profissional aparece como motivação futura ('pois quero ser'), usando conjunção de finalidade diferente. Não há relação causal direta com o estojo presente.
+
+--------------------------------------------------------------------------------

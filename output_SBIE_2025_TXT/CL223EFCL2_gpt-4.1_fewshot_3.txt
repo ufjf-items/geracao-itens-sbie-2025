@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Curitiba, 5 de junho de 2024.
+
+Oi, Lucas!
+Estou escrevendo para contar que ontem fiquei em casa, pois estava chovendo muito. Aproveitei para ler um livro novo que ganhei da minha tia. Minha mãe fez chocolate quente porque sabia que eu gosto muito. Espero que o tempo melhore para podermos brincar no parque no próximo final de semana.
+Um abraço,
+Gabriel
+Pergunta:
+Segundo o texto, por que Gabriel ficou em casa? Marque a alternativa correta considerando a relação de causa e consequência apresentada pela conjunção 'pois'.
+Opções:
+-> a) Porque estava chovendo muito.
+   b) Porque ganhou um livro novo da tia.
+   c) Porque a mãe fez chocolate quente.
+   d) Porque vai brincar no parque no próximo final de semana.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'pois'. O texto afirma: 'fiquei em casa, pois estava chovendo muito', deixando claro que a causa de Gabriel ter ficado em casa foi a chuva.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram uma informação do texto (ganhar um livro novo), mas isso não foi o motivo de Gabriel ter ficado em casa.
+c) INCORRETA. Os estudantes que optaram por esta alternativa confundiram uma ação da mãe (fazer chocolate quente) com a causa de Gabriel ter ficado em casa, o que não está relacionado no texto.
+d) INCORRETA. Os estudantes que marcaram esta alternativa confundiram um plano futuro (brincar no parque) com a causa de Gabriel ter ficado em casa, o que não corresponde à relação de causalidade apresentada.
+
+--------------------------------------------------------------------------------

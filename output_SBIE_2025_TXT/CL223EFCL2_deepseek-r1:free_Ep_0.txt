@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Pedro,
+
+Espero que esteja bem! Escrevo para contar que não poderei ir à sua festa de aniversário no sábado. Minha avó está doente e preciso ajudá-la em casa. Por isso, minha mãe disse que devemos ficar com ela neste fim de semana.
+
+Mas prometo que, assim que ela melhorar, vamos brincar muito!
+
+Um abraço,
+Lucas
+São Paulo, 10 de março de 2024.
+Pergunta:
+Por que Lucas não poderá ir à festa de aniversário de Pedro?
+Opções:
+   a) Porque ele vai viajar com a família.
+-> b) Porque sua avó está doente e precisa ajudá-la.
+   c) Porque ele não gosta de festas.
+   d) Porque Pedro não o convidou.
+Justificativas:
+a) Incorreta. O texto não menciona viagem. A causa real está explicitada no trecho: 'Minha avó está doente e preciso ajudá-la'.
+b) Correta. O texto afirma claramente: 'Minha avó está doente e preciso ajudá-la em casa. Por isso...'. A conjunção 'por isso' marca a relação de causalidade entre a doença da avó e a ausência na festa.
+c) Incorreta. Não há indicação de que Lucas não goste de festas. Pelo contrário, ele demonstra interesse em brincar depois ('assim que ela melhorar, vamos brincar muito').
+d) Incorreta. A carta começa com 'não poderei ir à sua festa', o que pressupõe que Pedro fez o convite. O motivo da ausência é outro.
+
+--------------------------------------------------------------------------------

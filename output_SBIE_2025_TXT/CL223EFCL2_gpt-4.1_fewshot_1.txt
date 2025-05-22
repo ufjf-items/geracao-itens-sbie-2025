@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+São Paulo, 15 de abril de 2024.
+
+Querido Pedro,
+Estou escrevendo para contar uma novidade. Ontem, minha mãe fez um bolo de chocolate porque era meu aniversário. Todos os meus amigos vieram aqui em casa e nós brincamos muito. Fiquei muito feliz, pois ganhei vários presentes legais. Espero que você possa vir na próxima vez, já que sentimos sua falta na festa.
+Um abraço,
+Marina
+Pergunta:
+Segundo o texto, por que a mãe de Marina fez um bolo de chocolate? Marque a alternativa correta considerando a relação de causa e consequência apresentada pela conjunção 'porque'.
+Opções:
+-> a) Porque era aniversário de Marina.
+   b) Porque todos os amigos vieram à casa dela.
+   c) Porque Marina ganhou vários presentes.
+   d) Porque Pedro não foi à festa.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'porque'. O texto afirma: 'Ontem, minha mãe fez um bolo de chocolate porque era meu aniversário', deixando claro que o motivo do bolo foi o aniversário de Marina.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram a presença dos amigos com a causa do bolo, mas o texto não indica que a mãe fez o bolo por causa dos amigos.
+c) INCORRETA. Os estudantes que optaram por esta alternativa confundiram a consequência (ganhar presentes) com a causa do bolo, que não está relacionada aos presentes recebidos.
+d) INCORRETA. Os estudantes que marcaram esta alternativa interpretaram que a ausência de Pedro seria a causa do bolo, mas o texto apenas menciona que sentiram falta dele, sem relação causal com o bolo.
+
+--------------------------------------------------------------------------------

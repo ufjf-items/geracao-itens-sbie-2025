@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Rio de Janeiro, 12 de maio de 2024
+
+Querida Júlia,
+
+Estou escrevendo para dizer que não consegui terminar o dever de casa ontem, porque fui ao médico com minha mãe. Fiquei preocupada, pois não gosto de deixar as tarefas para depois. Assim que cheguei, já era tarde e precisei dormir. Espero que a professora entenda.
+
+Com carinho,
+Lívia
+Pergunta:
+No trecho 'não consegui terminar o dever de casa ontem, porque fui ao médico com minha mãe', qual foi a causa de Lívia não ter terminado o dever de casa?
+Opções:
+-> a) Porque ela foi ao médico com a mãe.
+   b) Porque ela ficou preocupada.
+   c) Porque ela precisou dormir cedo.
+   d) Porque a professora não entendeu.
+Justificativas:
+a) Correta. O trecho destacado utiliza a conjunção causal 'porque', indicando que o motivo de Lívia não ter terminado o dever de casa foi ter ido ao médico com a mãe.
+b) Incorreta. Lívia ficou preocupada como consequência de não ter feito o dever, não como causa.
+c) Incorreta. Ela precisou dormir porque chegou tarde, mas o motivo principal para não ter feito o dever foi ter ido ao médico.
+d) Incorreta. A professora ainda não se manifestou, e isso não é apresentado como causa no texto.
+
+--------------------------------------------------------------------------------

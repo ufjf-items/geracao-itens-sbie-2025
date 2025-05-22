@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Belo Horizonte, 10 de março de 2024.
+
+Querida Ana,
+Estou muito feliz porque ganhei uma bicicleta nova. Meu pai me deu esse presente pois tirei boas notas na escola. Agora, posso passear com meus amigos no parque todos os finais de semana. Minha irmã ficou animada também, já que ela adora andar de bicicleta comigo. Espero que você venha nos visitar em breve para passearmos juntas.
+Um abraço,
+Lucas
+Pergunta:
+De acordo com o texto, por que o pai de Lucas deu uma bicicleta nova para ele? Marque a alternativa correta considerando a relação de causa e consequência apresentada pelo uso da conjunção 'pois'.
+Opções:
+-> a) Porque Lucas tirou boas notas na escola.
+   b) Porque a irmã de Lucas adora andar de bicicleta.
+   c) Porque Lucas quer passear com os amigos no parque.
+   d) Porque Ana vai visitar Lucas em breve.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'pois'. O texto afirma: 'Meu pai me deu esse presente pois tirei boas notas na escola', estabelecendo claramente que a causa do presente foi o bom desempenho escolar de Lucas.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram a informação de que a irmã de Lucas ficou animada porque gosta de andar de bicicleta, mas isso não é a causa do pai ter dado o presente. A relação de causalidade não está entre o presente e o gosto da irmã.
+c) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em uma consequência do presente (passear com os amigos), mas não na causa apresentada no texto. O desejo de passear é uma ação posterior ao recebimento da bicicleta, não o motivo pelo qual Lucas a ganhou.
+d) INCORRETA. Os estudantes que marcaram esta alternativa interpretaram que a visita de Ana seria a causa do presente, mas o texto apenas menciona o convite para Ana visitar, sem relação causal com o presente recebido por Lucas.
+
+--------------------------------------------------------------------------------

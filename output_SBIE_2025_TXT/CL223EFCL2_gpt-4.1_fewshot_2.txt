@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Rio de Janeiro, 20 de maio de 2024.
+
+Oi, Sofia!
+Estou te escrevendo para contar uma novidade. Ontem, ganhei um cachorro, pois sempre pedi um animal de estimação para meus pais. Ele se chama Max e é muito brincalhão. Agora, preciso acordar mais cedo, já que tenho que passear com ele antes da escola. Estou muito feliz porque adoro cachorros. Espero que você venha conhecer o Max em breve!
+Beijos,
+Lívia
+Pergunta:
+De acordo com o texto, por que Lívia ganhou um cachorro? Marque a alternativa correta considerando a relação de causa e consequência apresentada pela conjunção 'pois'.
+Opções:
+-> a) Porque ela sempre pediu um animal de estimação para os pais.
+   b) Porque ela precisa acordar mais cedo.
+   c) Porque ela adora cachorros.
+   d) Porque Sofia vai conhecer o Max em breve.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'pois'. O texto afirma: 'ganhei um cachorro, pois sempre pedi um animal de estimação para meus pais', mostrando que o motivo de Lívia ter ganhado o cachorro foi o fato de sempre pedir aos pais.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram uma consequência do fato de ter um cachorro (precisar acordar mais cedo) com a causa de ter ganhado o animal.
+c) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em um sentimento de Lívia, mas o texto não indica que ela ganhou o cachorro porque adora cachorros, e sim porque sempre pediu um animal de estimação.
+d) INCORRETA. Os estudantes que marcaram esta alternativa interpretaram que a visita de Sofia seria a causa do presente, mas o texto apenas menciona o convite para conhecer o cachorro, sem relação causal com o fato de Lívia ter ganhado o animal.
+
+--------------------------------------------------------------------------------

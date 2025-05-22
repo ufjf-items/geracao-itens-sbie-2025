@@ -1,0 +1,31 @@
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Salvador, 12 de julho de 2024.\n\nOi, João!\nQuero te contar uma coisa legal. Ontem, ganhei um ingresso para o cinema porque ajudei minha avó a arrumar a casa. Fiquei muito feliz, pois vou assistir ao meu filme favorito. Minha mãe disse que posso convidar um amigo, já que fui muito responsável. Espero que você possa ir comigo!\nAbraços,\nMateus",
+      "Comando 2": "De acordo com o texto, por que Mateus ganhou um ingresso para o cinema? Assinale a alternativa correta.",
+      "Opções": {
+        "a": "Porque ele ajudou a avó a arrumar a casa.",
+        "b": "Porque ele vai assistir ao filme favorito.",
+        "c": "Porque a mãe dele deixou convidar um amigo.",
+        "d": "Porque João vai ao cinema com ele."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'porque'. O texto diz: 'ganhei um ingresso para o cinema porque ajudei minha avó a arrumar a casa', mostrando que a causa do ingresso foi a ajuda à avó.",
+        "b": "INCORRETA. Os estudantes que escolheram esta alternativa confundiram a consequência (assistir ao filme favorito) com a causa do ingresso. O texto não diz que ele ganhou o ingresso por causa do filme.",
+        "c": "INCORRETA. Os estudantes que optaram por esta alternativa confundiram a permissão para convidar um amigo com a causa do ingresso. A permissão foi dada porque Mateus foi responsável, não é a causa do ingresso.",
+        "d": "INCORRETA. Os estudantes que marcaram esta alternativa confundiram o convite feito a João com a razão de Mateus ter ganhado o ingresso. O texto não diz que João ir ao cinema é a causa do ingresso."
+      },
+      "->": [
+        "1. Escolhi um tema cotidiano e próximo ao universo infantil: ajudar em casa e ganhar um presente.",
+        "2. Estruturei a carta com remetente, destinatário, saudação, despedida, local e data, conforme solicitado.",
+        "3. Usei períodos curtos e linguagem acessível, com conjunção de causalidade explícita ('porque').",
+        "4. No comando 2, destaquei a necessidade de identificar a causa do ingresso, conforme a conjunção causal do texto.",
+        "5. Elaborei alternativas: a correta retoma a relação de causalidade, enquanto os distratores trazem outras informações do texto, mas sem relação causal.",
+        "6. Justifiquei cada alternativa, mostrando como a correta se relaciona diretamente com a conjunção causal e as demais não."
+      ]
+    }
+  ]
+}

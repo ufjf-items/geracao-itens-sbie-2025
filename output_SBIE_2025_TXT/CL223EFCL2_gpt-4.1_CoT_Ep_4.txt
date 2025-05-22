@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Salvador, 15 de julho de 2024
+
+Querida Sofia,
+
+Estou escrevendo para contar que não pude ir ao cinema com você ontem, porque precisei ajudar minha avó em casa. Fiquei um pouco triste, pois estava ansiosa para assistir ao filme. Espero que possamos ir juntas na próxima vez!
+
+Um abraço,
+Beatriz
+Pergunta:
+No trecho 'não pude ir ao cinema com você ontem, porque precisei ajudar minha avó em casa', qual foi o motivo de Beatriz não ter ido ao cinema?
+Opções:
+-> a) Porque ela precisou ajudar a avó em casa.
+   b) Porque ela ficou triste.
+   c) Porque ela estava ansiosa para assistir ao filme.
+   d) Porque ela quer ir ao cinema na próxima vez.
+Justificativas:
+a) Correta. O trecho destacado utiliza a conjunção causal 'porque', indicando que o motivo de Beatriz não ter ido ao cinema foi ter precisado ajudar a avó em casa.
+b) Incorreta. Beatriz ficou triste como consequência de não ter ido ao cinema, não como causa.
+c) Incorreta. Estar ansiosa para assistir ao filme é um sentimento, não a causa de não ter ido ao cinema.
+d) Incorreta. Ir ao cinema na próxima vez é um desejo para o futuro, não a causa do ocorrido.
+
+--------------------------------------------------------------------------------

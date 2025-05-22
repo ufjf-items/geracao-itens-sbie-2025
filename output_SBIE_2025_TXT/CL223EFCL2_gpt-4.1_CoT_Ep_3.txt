@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Curitiba, 20 de junho de 2024
+
+Querido Rafael,
+
+Estou te escrevendo para contar que não pude jogar futebol na escola hoje, pois esqueci meu tênis em casa. Fiquei um pouco triste, porque adoro jogar com meus amigos. Espero lembrar de levar o tênis amanhã para não perder o jogo de novo!
+
+Um abraço,
+Henrique
+Pergunta:
+No trecho 'não pude jogar futebol na escola hoje, pois esqueci meu tênis em casa', qual foi o motivo de Henrique não ter jogado futebol?
+Opções:
+-> a) Porque ele esqueceu o tênis em casa.
+   b) Porque ele ficou triste.
+   c) Porque ele adora jogar com os amigos.
+   d) Porque ele vai lembrar de levar o tênis amanhã.
+Justificativas:
+a) Correta. O trecho destacado utiliza a conjunção causal 'pois', indicando que o motivo de Henrique não ter jogado futebol foi ter esquecido o tênis em casa.
+b) Incorreta. Henrique ficou triste como consequência de não ter jogado, não como causa.
+c) Incorreta. O fato de adorar jogar com os amigos é um sentimento, não a causa de não ter jogado.
+d) Incorreta. Lembrar de levar o tênis amanhã é uma intenção para o futuro, não a causa do ocorrido hoje.
+
+--------------------------------------------------------------------------------

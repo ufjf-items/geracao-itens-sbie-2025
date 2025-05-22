@@ -1,0 +1,29 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querido diário,
+
+Hoje foi um dia muito especial! A professora anunciou que não haverá aula amanhã, já que ela precisará participar de uma reunião importante na escola.
+
+Fiquei muito feliz com a notícia! Agora terei mais tempo para brincar com meus amigos e ler meus livros favoritos.
+
+Mal posso esperar para amanhã!
+
+Até mais,
+
+Lucas.
+Pergunta:
+No trecho “A professora anunciou que não haverá aula amanhã, já que ela precisará participar de uma reunião importante na escola”, qual a causa de não haver aula amanhã?
+Opções:
+   a) Lucas está escrevendo em seu diário.
+   b) Lucas terá mais tempo para brincar e ler.
+-> c) A professora precisará participar de uma reunião importante.
+   d) Hoje foi um dia muito especial.
+Justificativas:
+a) Esta opção menciona o ato de Lucas escrever no diário, mas não é a causa de não haver aula. É um distrator que explora o contexto da escrita, mas não a relação de causalidade.
+b) Esta opção apresenta a consequência positiva para Lucas, mas não a causa do não haver aula. É um distrator que apela para o desejo do aluno, desviando a atenção da relação de causa e efeito.
+c) Esta opção é a correta porque apresenta a causa explícita de não haver aula: a professora precisará participar de uma reunião importante. A conjunção 'já que' estabelece claramente essa relação de causalidade.
+d) Esta opção descreve o dia de Lucas, mas não está relacionada à causa de não haver aula. É um distrator genérico, oferecendo uma informação sobre o dia, mas sem vínculo com a pergunta.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Olá, querido amigo Pedro,
+
+Espero que esta carta te encontre bem. Estou escrevendo para contar que não poderei ir à sua festa de aniversário. Fiquei muito gripado, por isso, preciso ficar em casa e me cuidar.
+
+Estou muito triste por não poder comparecer, mas prometo te compensar assim que melhorar. Desejo a você um feliz aniversário e muita diversão!
+
+Com carinho,
+
+Seu amigo, João.
+Pergunta:
+No trecho “Fiquei muito gripado, por isso, preciso ficar em casa e me cuidar”, qual a consequência de João ter ficado gripado?
+Opções:
+   a) João está escrevendo uma carta para Pedro.
+   b) João deseja um feliz aniversário a Pedro.
+-> c) João precisa ficar em casa e se cuidar.
+   d) João está triste por não poder comparecer.
+Justificativas:
+a) Esta opção menciona o ato de João escrever a carta, mas não é a consequência de ele estar gripado. É um distrator que explora o contexto da escrita, mas não a relação de causalidade.
+b) Esta opção apresenta um desejo de João, mas não a consequência de ele estar gripado. É um distrator que explora a cortesia, desviando a atenção da relação de causa e efeito.
+c) Esta opção é a correta porque apresenta a consequência explícita de João estar gripado: ele precisa ficar em casa e se cuidar. A expressão 'por isso' estabelece claramente essa relação de causalidade.
+d) Esta opção expressa o sentimento de João, mas não a consequência direta de ele estar gripado. É um distrator emocional, explorando a tristeza, mas sem conexão direta com a causalidade.
+
+--------------------------------------------------------------------------------
