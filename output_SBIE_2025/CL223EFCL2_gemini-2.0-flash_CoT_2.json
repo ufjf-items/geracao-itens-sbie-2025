@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Caro Papai Noel,\n\nEscrevo esta carta para te agradecer pelos presentes do ano passado! Eu adorei o carrinho de corrida e o jogo de montar. Brinquei muito com eles!\n\nEste ano, fui um bom menino, pois ajudei a mamãe com as tarefas de casa e tirei boas notas na escola. Por isso, gostaria de pedir um videogame novo e um skate.\n\nEspero que você possa me atender! Feliz Natal!\n\nCom carinho,\n\nSeu amigo, João.",
+      "Comando 2": "No trecho “Este ano, fui um bom menino, pois ajudei a mamãe com as tarefas de casa e tirei boas notas na escola. Por isso, gostaria de pedir um videogame novo e um skate”, qual a razão de João querer pedir um videogame novo e um skate?",
+      "Opções": {
+        "a": "Ele adorou o carrinho de corrida e o jogo de montar.",
+        "b": "Ele ajudou a mamãe com as tarefas de casa e tirou boas notas na escola.",
+        "c": "Ele quer agradecer pelos presentes do ano passado.",
+        "d": "Ele espera que o Papai Noel possa atendê-lo."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Esta opção menciona os presentes do ano anterior, mas não é a razão pela qual João está pedindo novos presentes este ano. É um distrator que explora a gratidão, mas não a relação de causa e efeito.",
+        "b": "Esta opção é a correta porque apresenta a razão pela qual João se sente merecedor de novos presentes: ele foi um bom menino, ajudando a mãe e tirando boas notas. A conjunção 'pois' estabelece essa relação de causalidade.",
+        "c": "Esta opção menciona o agradecimento, mas não é a causa do pedido de novos presentes. É um distrator que explora a cortesia, mas sem conexão com a causalidade.",
+        "d": "Esta opção expressa um desejo, mas não explica a razão do pedido. É um distrator que apela para a esperança, desviando a atenção da relação de causa e efeito."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer a causa de um pedido em um texto simples.",
+        "2. **Elaborar o texto suporte:** Criar uma carta para o Papai Noel, com uma frase que contenha uma conjunção causal ('pois').",
+        "3. **Formular o comando 1:** Solicitar a leitura do texto de forma direta.",
+        "4. **Formular o comando 2:** Perguntar diretamente sobre a razão de um pedido específico mencionado na carta, usando a conjunção 'pois' como foco.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito:** A resposta correta deve ser a causa explícita mencionada no texto.",
+        "   - **Distratores:** As opções incorretas devem ser informações presentes no texto, mas que não representam a causa do pedido em questão. Incluir um distrator que explora a gratidão e um distrator que apela para a esperança.",
+        "6. **Justificativas:** Detalhar por que cada opção está correta ou incorreta, explicando o papel dos distratores e a clareza da relação de causalidade na resposta correta."
+      ]
+    }
+  ]
+}
+```

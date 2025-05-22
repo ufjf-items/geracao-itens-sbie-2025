@@ -1,0 +1,58 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida Ana,\nRecife, 5 de junho de 2024\nOi amiga! Hoje aconteceu algo engraçado na escola. Fomos ao zoológico e o Miguel ficou todo molhado! Ele esqueceu o guarda-chuva porque estava com pressa de pegar o ônibus. Já que choveu muito, todos riram quando ele apareceu pingando. Por isso, a professora deu uma toalha pra ele secar. No final, até vimos um leão branco super raro!\nBeijos,\nCarlos",
+      "Comando 2": "Por que Miguel ficou todo molhado no passeio?",
+      "Opções": {
+        "a": "Porque viu um leão branco",
+        "b": "Porque esqueceu o guarda-chuva",
+        "c": "Porque a professora deu uma toalha",
+        "d": "Porque estava com pressa"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreta. O leão branco é um detalhe do passeio, mas não tem relação causal com o fato de Miguel se molhar.",
+        "b": "Correta. A conjunção 'porque' liga diretamente o esquecimento do guarda-chuva (causa) ao fato de Miguel ficar molhado (consequência) no terceiro período.",
+        "c": "Incorreta. A toalha foi uma consequência para resolver o problema, não a causa do ocorrido.",
+        "d": "Incorreta. A pressa explica o esquecimento do guarda-chuva, mas a causa direta da situação foi a falta do objeto de proteção contra a chuva."
+      },
+      "->": [
+        "1. Localizar no texto a estrutura causal com 'porque' (3ª linha)",
+        "2. Identificar a relação causa (esquecer guarda-chuva) → efeito (ficar molhado)",
+        "3. Diferenciar entre causa imediata (item B) e fator contribuinte (item D)",
+        "4. Descartar elementos posteriores (toalha) e informações paralelas (leão)",
+        "5. Confirmar a conexão gramatical explícita estabelecida pelo conectivo causal"
+      ]
+    }
+  ]
+}
+```
+
+**Explicação Detalhada:**
+
+1. **Gênero e Adequação:**  
+   - Carta com estrutura completa (local/data, vocativo, narrativa cotidiana)  
+   - Tema lúdico (passeio escolar) próximo à realidade do aluno  
+
+2. **Mecanismo de Causalidade:**  
+   - **Conectivo-chave:** "porque" na 3ª linha  
+   - **Relação:** Esquecimento do guarda-chuva (causa) → Ficar molhado (efeito)  
+   - **Complexidade controlada:** Causa e efeito no mesmo período  
+
+3. **Engenharia de Distratores:**  
+   - **Opção A:** Informação factual irrelevante da narrativa  
+   - **Opção C:** Consequência da situação, não causa  
+   - **Opção D:** Fator indireto que exige inferência (pressa → esquecimento)  
+
+4. **Aspectos Pedagógicos:**  
+   - Desenvolve EF05LP07 ao trabalhar com "porque" em contexto narrativo  
+   - Exige análise de relações sintático-semânticas em cadeia causal  
+   - Promove diferenciação entre causas diretas e fatores contribuintes  
+
+**Sugestões de Adaptação:**  
+- Para reforço: Criar um quadro com "CAUSA" e "CONSEQUÊNCIA" para preenchimento coletivo  
+- Para ampliação: Reescrever o período usando "já que" ou "pois" mantendo o sentido  
+- Interdisciplinaridade: Relacionar com ciências (ciclo da água/estações chuvosas)

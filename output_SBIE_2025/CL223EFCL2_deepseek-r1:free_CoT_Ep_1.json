@@ -1,0 +1,57 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querido Pedro,\nEspero que você esteja bem! Escrevo para contar uma novidade emocionante: no último sábado, nosso time de futebol da escola ganhou o campeonato regional! Durante um mês inteiro, treinamos três vezes por semana, praticando passes e chutes. Por isso, na hora dos jogos, estávamos super preparados e vencemos todas as partidas! No último jogo, até choveu muito, mas isso não nos atrapalhou. O treinador ficou tão orgulhoso que nos deu um troféu especial.\nE aí, como está seu time aí na sua cidade?\nUm abraço forte,\nLucas\nSão Paulo, 20 de outubro de 2023",
+      "Comando 2": "Por que o time de Lucas ganhou o campeonato?",
+      "Opções": {
+        "a": "Porque o último jogo foi na chuva",
+        "b": "Porque treinaram muito durante um mês",
+        "c": "Porque o treinador deu um troféu",
+        "d": "Porque praticaram passes e chutes"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreta. A chuva é mencionada como um obstáculo superado, não como causa da vitória. O texto diz explicitamente que 'isso não nos atrapalhou'.",
+        "b": "Correta. A conjunção 'por isso' estabelece relação causal entre o treinamento intensivo (causa) e o resultado do campeonato (consequência), conforme aparece no quarto período do texto.",
+        "c": "Incorreta. O troféu foi uma consequência da vitória, não sua causa. A recompensa veio após o sucesso no campeonato.",
+        "d": "Incorreta. Embora os passes e chutes façam parte do treinamento, o texto destaca a duração e frequência dos ensaios ('um mês inteiro, três vezes por semana') como fator causal principal."
+      },
+      "->": [
+        "1. Identificar no texto a estrutura causal com 'por isso' (4ª linha)",
+        "2. Reconhecer que a oração anterior à conjunção ('treinamos muito...') expressa a causa",
+        "3. Diferenciar entre elementos preparatórios (treinos) e eventos posteriores (troféu)",
+        "4. Descartar informações ambientais (chuva) que não impactaram o resultado",
+        "5. Confirmar a relação temporal e lógica entre treino prolongado e sucesso esportivo"
+      ]
+    }
+  ]
+}
+```
+
+**Explicação Detalhada:**
+
+1. **Gênero e Estrutura:**  
+   - Carta pessoal com estrutura completa (local/data, saudação, corpo narrativo, despedida)  
+   - Tema esportivo próximo ao universo infantil, usando linguagem coloquial adequada  
+
+2. **Mecanismo de Causalidade:**  
+   - Uso de **"por isso"** como operador discursivo conectando:  
+     *Causa*: "treinamos muito durante um mês" → *Consequência*: "vencemos todas as partidas"  
+   - Diferenciação clara entre causa principal (treino consistente) e elementos circunstanciais (chuva, troféu)  
+
+3. **Análise dos Distratores:**  
+   - **Opção A:** Testa compreensão de informações contextuais vs causais  
+   - **Opção C:** Avalia distinção entre causa e reconhecimento pós-evento  
+   - **Opção D:** Verifica habilidade de identificar especificidade causal (detalhe do treino vs período de preparo)  
+
+4. **Adequação Pedagógica:**  
+   - Complexidade textual adequada ao 5º ano (períodos curtos, vocabulário cotidiano)  
+   - Habilidade EF05LP07: Reconhecimento de causalidade através de conectivos  
+   - Desenvolve competência de análise de relações lógico-temporais em narrativas  
+
+**Sugestão de Adaptação:**  
+- Para turmas com dificuldade: Incluir marcação de cores diferentes para causas e consequências no texto  
+- Para aprofundamento: Pedir que os alunos criem uma nova consequência usando "por isso" a partir de outra causa hipotética

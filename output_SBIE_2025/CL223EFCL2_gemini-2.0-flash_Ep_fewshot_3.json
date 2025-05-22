@@ -1,0 +1,26 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Olá, querido diário!\n\nHoje foi um dia incrível! A professora nos levou ao museu da cidade. Eu adorei ver as múmias e os dinossauros. Aprendi muitas coisas novas e fiquei muito feliz porque a professora elogiou meu trabalho sobre os egípcios. Ela disse que eu me esforcei muito e que minha pesquisa estava ótima! Estou ansioso para a próxima aula!\n\nAté amanhã,\nPedro.",
+      "Comando 2": "De acordo com o diário, Pedro ficou muito feliz porque",
+      "Opções": {
+        "a": "a professora levou a turma ao museu.",
+        "b": "ele viu múmias e dinossauros no museu.",
+        "c": "ele aprendeu muitas coisas novas.",
+        "d": "a professora elogiou seu trabalho sobre os egípcios."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "INCORRETA. A ida ao museu foi um evento positivo, mas não é a causa direta da felicidade de Pedro mencionada no texto.",
+        "b": "INCORRETA. Ver as múmias e os dinossauros foi interessante, mas a felicidade de Pedro está ligada ao elogio da professora.",
+        "c": "INCORRETA. Aprender coisas novas contribuiu para o dia incrível, mas o elogio da professora é o motivo específico da felicidade de Pedro.",
+        "d": "CORRETA. O texto afirma que Pedro ficou feliz porque a professora elogiou seu trabalho, estabelecendo uma relação de causalidade direta."
+      },
+      "->" : null
+    }
+  ]
+}
+```

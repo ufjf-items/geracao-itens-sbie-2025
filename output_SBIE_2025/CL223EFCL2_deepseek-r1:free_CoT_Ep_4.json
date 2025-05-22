@@ -1,0 +1,58 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida Sofia,\nSalvador, 10 de julho de 2024\nOi amiga! Sinto muito por não ter ido ao seu aniversário. No dia da festa, acordei com febre alta. Minha mãe disse que precisava ficar em casa pois o médico recomendou repouso total. Por isso, não pude participar das brincadeiras. Mas mandei um presente especial com meu irmão! Espero que você tenha gostado.\nBeijos,\nLaura",
+      "Comando 2": "Por que Laura não foi à festa de Sofia?",
+      "Opções": {
+        "a": "Porque teve febre alta",
+        "b": "Porque o médico recomendou repouso",
+        "c": "Porque mandou um presente",
+        "d": "Porque sua mãe não deixou"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreta. A febre motivou a consulta médica, mas a causa direta da ausência está explicitada após o conectivo 'pois'.",
+        "b": "Correta. A conjunção 'pois' conecta a recomendação médica (causa) à decisão de ficar em casa (consequência) no terceiro período.",
+        "c": "Incorreta. O envio do presente foi uma ação posterior para compensar a ausência, não a razão da não participação.",
+        "d": "Incorreta. A decisão da mãe decorreu da orientação médica, sendo esta a causa primária expressa pelo conectivo."
+      },
+      "->": [
+        "1. Localizar no texto o conectivo causal 'pois' (4ª linha)",
+        "2. Identificar a estrutura: 'ficar em casa' (consequência) ← 'médico recomendou' (causa)",
+        "3. Diferenciar entre motivo inicial (febre) e causa decisiva (recomendação médica)",
+        "4. Descartar ações posteriores (presente) e intermediárias (decisão materna)",
+        "5. Confirmar a relação sintática estabelecida por 'pois' entre os fatos"
+      ]
+    }
+  ]
+}
+```
+
+**Explicação Detalhada:**  
+
+1. **Gênero e Estrutura:**  
+   - Carta pessoal com elementos canônicos (data, saudação, narrativa linear)  
+   - Tema cotidiano (festa de aniversário) com conflito resolvido via autoridade médica  
+
+2. **Mecanismo de Causalidade:**  
+   - **Conectivo:** "pois" posposto à consequência, indicando causa explicativa  
+   - **Relação:** Recomendação médica (causa) → Repouso domiciliar (efeito)  
+   - **Complexidade:** Dois níveis causais (febre → consulta → recomendação) exigindo hierarquização  
+
+3. **Engenharia de Distratores:**  
+   - **Opção A:** Testa compreensão de causa imediata vs causa raiz  
+   - **Opção C:** Avalia distinção entre causa e gesto compensatório  
+   - **Opção D:** Verifica identificação de agentes intermediários vs origem factual  
+
+4. **Aspectos Pedagógicos:**  
+   - Desenvolve EF05LP07 ao trabalhar com "pois" em estrutura de justificativa  
+   - Exercita análise de cadeias causais multinível em narrativas  
+   - Promove interpretação crítica de relações entre saúde e obrigações sociais  
+
+**Sugestões de Adaptação:**  
+- Para reforço: Criar um fluxograma com setas ligando causas e consequências  
+- Para ampliação: Reescrever o período usando "já que" ou "uma vez que"  
+- Interdisciplinaridade: Relacionar com conteúdos de saúde (importância do repouso médico)

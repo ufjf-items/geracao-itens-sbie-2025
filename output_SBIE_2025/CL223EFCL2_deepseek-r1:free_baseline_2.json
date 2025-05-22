@@ -1,0 +1,30 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      
+      "Texto suporte": "Querida Clara,\n\nVocê deve estar se perguntando por que não fui à sua festa de aniversário. Explico: porque acordei com muita febre domingo de manhã. Fiquei triste, pois preparei um presente especial. Por isso, mandei um cartão pelo meu irmão. Espero que possamos nos ver logo!\n\nBeijos,\nMaria\nRio de Janeiro, 10 de abril de 2024",
+      
+      "Comando 2": "Por que Maria não foi à festa de aniversário da Ana?",
+      
+      "Opções": {
+        "a": "Porque ficou em casa descansando",
+        "b": "Pois estava com febre naquele dia",
+        "c": "Já que perdeu o presente preparado",
+        "d": "Por isso enviou um cartão pelo irmão"
+      },
+      
+      "Resposta correta": "b",
+      
+      "Justificativas": {
+        "a": "Incorreta. Embora tenha ficado em casa, isso é consequência da febre. A causa real está explicitada pela conjunção 'porque' no início da explicação.",
+        "b": "Correta. O texto usa a conjunção 'porque' para introduzir a causa direta: 'porque acordei com muita febre domingo de manhã', estabelecendo relação causal clara.",
+        "c": "Incorreta. Não há menção a perda do presente. A informação sobre o presente especial aparece como ação anterior, não como causa da ausência.",
+        "d": "Incorreta. 'Por isso' indica a consequência (envio do cartão), não a causa da ausência na festa. A estrutura gramatical mostra relação de resultado, não de motivo."
+      }
+    }
+  ]
+}
+```

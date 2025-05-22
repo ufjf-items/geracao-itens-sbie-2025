@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Olá, querido Papai Noel,\n\nTudo bem por aí no Polo Norte? Espero que sim! Estou escrevendo para te contar que me comportei muito bem este ano. Ajudei a mamãe em casa, fiz todas as minhas tarefas da escola e fui gentil com meus amigos.\n\nPor isso, gostaria de pedir um presente especial: uma bicicleta nova! A minha já está muito velha e enferrujada, e eu adoro pedalar no parque com meus amigos. Se puder me dar, ficarei muito feliz!\n\nCom carinho,\nLucas",
+      "Comando 2": "No trecho “Por isso, gostaria de pedir um presente especial: uma bicicleta nova!”, qual a razão de Lucas pedir um presente especial ao Papai Noel?",
+      "Opções": {
+        "a": "Porque ele adora pedalar no parque com os amigos.",
+        "b": "Porque a bicicleta dele está velha e enferrujada.",
+        "c": "Porque ele ajudou a mamãe em casa, fez as tarefas e foi gentil.",
+        "d": "Porque ele quer saber como está o Papai Noel no Polo Norte."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Esta opção apresenta uma consequência positiva de ter a bicicleta, mas não é a razão pela qual ele está pedindo o presente. Andar de bicicleta no parque é um desejo, não a causa do pedido.",
+        "b": "Esta opção apresenta um detalhe sobre a bicicleta antiga, mas não é a razão principal do pedido. A condição da bicicleta é um fator contribuinte, mas não a causa direta.",
+        "c": "Esta opção apresenta a causa direta mencionada no texto para o pedido do presente. A frase indica que o bom comportamento de Lucas ao longo do ano é o motivo pelo qual ele merece e pede o presente.",
+        "d": "Esta opção menciona a preocupação de Lucas com o Papai Noel, mas isso não tem relação com o motivo de pedir o presente. A pergunta sobre o Papai Noel é uma saudação, não uma causa."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causa e consequência.",
+        "2. **Elaborar o texto suporte:** Criar uma carta curta e simples, adequada ao nível do 5º ano, com uma frase que expressa uma relação de causalidade clara, utilizando a conjunção 'por isso'.",
+        "3. **Formular o comando 1:** Solicitar a leitura do texto de forma direta.",
+        "4. **Formular o comando 2:** Perguntar diretamente sobre a causa de um evento específico mencionado no texto, utilizando a conjunção 'por isso' como foco.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito (c):** A resposta correta deve ser a causa explícita mencionada no texto (bom comportamento ao longo do ano).",
+        "   - **Distratores (a, b, d):** Os distratores devem ser informações presentes no texto, mas que não representam a causa do evento em questão. Eles devem ser plausíveis para confundir o aluno que não compreendeu a relação de causalidade.",
+        "6. **Justificativas:** Elaborar justificativas claras e concisas para cada opção, explicando por que a opção correta está certa e por que os distratores estão errados."
+      ]
+    }
+  ]
+}
+```

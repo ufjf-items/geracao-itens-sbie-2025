@@ -1,0 +1,26 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Rio de Janeiro, 20 de julho de 2024.\n\nQuerida Titia,\n\nEscrevo para contar que participei de um concurso de desenho na escola e ganhei o primeiro lugar! Fiquei muito feliz, pois me esforcei bastante para fazer um desenho bem bonito.\n\nUsei muitas cores e desenhei um jardim cheio de flores e borboletas. A professora disse que meu desenho era muito criativo e original. Recebi um kit de pintura de presente!\n\nEstou ansiosa para as férias, pois vamos viajar para a praia e construir castelos de areia. Mal posso esperar para brincar no mar e tomar sorvete.\n\nCom carinho,\nSua sobrinha, Mariana.",
+      "Comando 2": "No trecho “Fiquei muito feliz, pois me esforcei bastante para fazer um desenho bem bonito.”, qual a razão para Mariana ter ficado muito feliz?",
+      "Opções": {
+        "a": "Ela vai viajar para a praia nas férias.",
+        "b": "Ela usou muitas cores no desenho.",
+        "c": "Ela ganhou um kit de pintura de presente.",
+        "d": "Ela se esforçou bastante para fazer um desenho bem bonito."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "Incorreta. A viagem para a praia é um evento futuro que causa ansiedade em Mariana, mas não é a razão da sua felicidade no momento em que escreve a carta.",
+        "b": "Incorreta. O uso de cores é uma característica do desenho de Mariana, mas não é a causa direta da sua felicidade.",
+        "c": "Incorreta. O kit de pintura é um presente que Mariana recebeu como prêmio, sendo uma consequência da sua vitória, e não a causa da sua felicidade.",
+        "d": "Correta. O trecho indica claramente que a razão para Mariana ter ficado feliz é o fato de ter se esforçado para fazer um desenho bonito. A conjunção 'pois' explicita essa relação de causa e consequência."
+      },
+      "->" : null
+    }
+  ]
+}
+```

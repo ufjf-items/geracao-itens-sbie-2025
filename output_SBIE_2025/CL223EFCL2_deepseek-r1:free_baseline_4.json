@@ -1,0 +1,30 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      
+      "Texto suporte": "Querida Sofia,\n\nVocê deve estar pensando por que não apareci na sua festa ontem. Acontece que minha bicicleta quebrou no caminho, porque o pneu furou perto do parque. Fiquei preocupada, pois não tinha celular para avisar. Por isso, pedi à Dona Marta da padaria que mandasse um recado. Espero que você tenha entendido!\n\nBeijos,\nLaura\nPorto Alegre, 8 de julho de 2024",
+      
+      "Comando 2": "Por que Laura não chegou à festa da Sofia?",
+      
+      "Opções": {
+        "a": "Porque esqueceu o presente em casa",
+        "b": "Pois o pneu da bicicleta furou",
+        "c": "Já que precisou fazer lição de casa",
+        "d": "Por isso enviou um recado pela padaria"
+      },
+      
+      "Resposta correta": "b",
+      
+      "Justificativas": {
+        "a": "Incorreta. Não há menção a esquecimento de presente. A causa real está na explicação iniciada por 'porque' sobre o pneu furado.",
+        "b": "Correta. A conjunção 'porque' introduz diretamente a causa: 'porque o pneu furou perto do parque', estabelecendo relação lógica de causalidade.",
+        "c": "Incorreta. A atividade escolar não é mencionada no texto. O distrator utiliza uma causa comum não relacionada ao contexto da carta.",
+        "d": "Incorreta. 'Por isso' indica consequência (envio do recado), não a causa da ausência. A estrutura mostra resultado da situação, não seu motivo original."
+      }
+    }
+  ]
+}
+```

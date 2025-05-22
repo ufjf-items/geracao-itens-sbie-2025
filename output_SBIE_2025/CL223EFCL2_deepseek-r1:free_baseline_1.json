@@ -1,0 +1,30 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      
+      "Texto suporte": "Querido Lucas,\n\nVocê sabe por que não fui ao nosso jogo de futebol no domingo? Pois choveu muito aqui no bairro e o campo ficou alagado. Fiquei triste, já que estava ansioso para jogar. Por isso, decidi assistir um filme em casa. No próximo fim de semana, se não chover, combinamos de novo?\n\nAbraços,\nPedro\nBelo Horizonte, 22 de maio de 2024",
+      
+      "Comando 2": "Por que Pedro não foi ao jogo de futebol?",
+      
+      "Opções": {
+        "a": "Porque estava assistindo um filme",
+        "b": "Pois choveu muito no domingo",
+        "c": "Já que esqueceu a bola em casa",
+        "d": "Por isso o campo ficou alagado"
+      },
+      
+      "Resposta correta": "b",
+      
+      "Justificativas": {
+        "a": "Incorreta. Assistir filme foi uma consequência da situação, não a causa. O texto usa 'por isso' para indicar essa ação posterior.",
+        "b": "Correta. A causa é explicitada pela conjunção 'pois' no trecho: 'Pois choveu muito aqui no bairro', estabelecendo relação direta de causalidade.",
+        "c": "Incorreta. Não há menção a esquecimento de objetos. A conjunção 'já que' no texto introduz um sentimento, não o motivo principal.",
+        "d": "Incorreta. 'Por isso' indica consequência do fato anterior. O campo alagado é resultado da chuva, não a causa da ausência."
+      }
+    }
+  ]
+}
+```

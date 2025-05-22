@@ -1,0 +1,42 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Rio de Janeiro, 10 de abril de 2024.\n\nQuerido Pedro,\n\nComo vai? Desculpe não ter ido ao seu jogo de futebol ontem. Machuquei meu tornozelo porque escorreguei na escada. Fiquei de repouso o dia todo, mas à noite assisti um filme com minha irmã. Também terminei meu projeto de ciências antes de me machucar.\n\nAbraços,\nLucas",
+      "Comando 2": "Por qual motivo Lucas não foi ao jogo de futebol? Identifique a conjunção que mostra a causa no texto.",
+      "Opções": {
+        "a": "Porque terminou seu projeto de ciências",
+        "b": "Porque assistiu um filme à noite",
+        "c": "Porque escorregou na escada",
+        "d": "Porque a carta foi escrita no Rio"
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Incorreto. O projeto foi concluído antes do acidente, não sendo a causa da ausência no jogo.",
+        "b": "Incorreto. Assistir filme foi uma ação posterior à recuperação, não relacionada ao motivo principal.",
+        "c": "Correto. A conjunção 'porque' conecta diretamente o acidente na escada com a lesão que impediu a presença no jogo.",
+        "d": "Incorreto. O local da carta não tem relação causal com o fato narrado."
+      },
+      "->": [
+        "1. Construção de carta com estrutura completa (local/data, saudação, desenvolvimento temático infantil)",
+        "2. Uso intencional de 'porque' para vincular causa (escorregão) e efeito (ausência no jogo)",
+        "3. Distratores extraídos de outras ações do texto sem relação causal",
+        "4. Opção C mantém foco na relação sintático-semântica estabelecida pela conjunção",
+        "5. Justificativas destacam análise da função discursiva dos conectivos"
+      ]
+    }
+  ]
+}
+``` 
+
+**Linha de raciocínio detalhada:**  
+1. **Seleção temática:** Escolheu-se um contexto infantil (ausência em evento esportivo) com causa física plausível (lesão por acidente)  
+2. **Estrutura textual:** Respeitou-se a organização canônica de cartas com 9 linhas, usando linguagem simples e períodos curtos  
+3. **Marcação linguística:** Inseriu-se propositalmente a conjunção "porque" entre a consequência (ausência) e causa (acidente) no 3º período  
+4. **Engenharia de distratores:**  
+   - Opção A: Ação anterior não relacionada causalmente  
+   - Opção B: Ação posterior à causa principal  
+   - Opção D: Elemento estrutural sem relação lógica  
+5. **Validação pedagógica:** Garantiu-se que apenas a opção C apresenta relação direta causa-efeito marcada pelo conectivo alvo

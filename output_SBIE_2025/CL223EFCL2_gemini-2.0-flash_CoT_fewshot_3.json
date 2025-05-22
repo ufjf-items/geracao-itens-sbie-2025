@@ -1,0 +1,33 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Mãe,\n\nEscrevo para contar que hoje na escola foi muito divertido. A professora fez uma brincadeira nova e eu ri muito porque o palhaço tropeçou no barbante. Ele caiu de bunda no chão e todo mundo gargalhou! \n\nDepois, a gente fez um desenho bem bonito para você. Espero que goste do presente! Estou com muita saudade.\n\nBeijos,\n\nSeu filho (a),\n[nome]",
+      "Comando 2": "De acordo com o texto, o(a) autor(a) riu muito porque",
+      "Opções": {
+        "a": "a professora fez uma brincadeira nova.",
+        "b": "fez um desenho bem bonito para a mãe.",
+        "c": "está com muita saudade.",
+        "d": "o palhaço tropeçou no barbante."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "INCORRETA. A brincadeira nova é um evento que ocorreu no mesmo dia, mas não é a causa direta do riso do(a) autor(a). O texto especifica que o riso foi motivado pela cena do palhaço.",
+        "b": "INCORRETA. O desenho para a mãe é um presente e uma demonstração de carinho, mas não está relacionado ao motivo do riso do(a) autor(a).",
+        "c": "INCORRETA. A saudade é um sentimento expressado no final da carta, mas não é a causa do riso do(a) autor(a).",
+        "d": "CORRETA. O texto afirma que o(a) autor(a) riu muito 'porque o palhaço tropeçou no barbante'. A conjunção 'porque' indica a relação de causa e efeito, onde a cena do palhaço é a causa do riso."
+      },
+      "->": [
+        "1. Selecionei o gênero textual 'carta' por ser comum no Ensino Fundamental.",
+        "2. Criei um texto curto, com frases simples e vocabulário acessível.",
+        "3. Inseri a conjunção 'porque' para explicitar a relação de causalidade.",
+        "4. Elaborei o comando da questão para solicitar a identificação da causa do riso do(a) autor(a).",
+        "5. A alternativa correta (D) é uma paráfrase da relação de causalidade expressa no texto.",
+        "6. Os distratores (A, B e C) apresentam informações presentes no texto, mas que não correspondem à relação de causalidade solicitada."
+      ]
+    }
+  ]
+}
+```

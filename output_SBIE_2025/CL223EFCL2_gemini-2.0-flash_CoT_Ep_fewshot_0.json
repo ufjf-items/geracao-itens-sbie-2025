@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida Vovó,\n\nEscrevo para contar que participei de um concurso de desenho na escola. Desenhei um jardim cheio de flores e borboletas. A professora disse que meu desenho ficou muito bonito e criativo. Fiquei muito feliz porque ganhei um kit de tintas e pincéis! Agora posso pintar ainda mais!\n\nCom carinho,\nSofia.",
+      "Comando 2": "De acordo com o texto, Sofia ficou muito feliz porque",
+      "Opções": {
+        "a": "desenhou um jardim cheio de flores e borboletas.",
+        "b": "a professora elogiou seu desenho.",
+        "c": "ganhou um kit de tintas e pincéis.",
+        "d": "participou de um concurso na escola."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "INCORRETA. Sofia desenhou um jardim, mas essa ação não é a causa direta de sua felicidade expressa no texto. O desenho é um evento anterior à sua felicidade.",
+        "b": "INCORRETA. O elogio da professora é um fator positivo, mas a causa direta da felicidade de Sofia, conforme o texto, é o prêmio que ela recebeu.",
+        "c": "CORRETA. O texto afirma explicitamente que Sofia ficou feliz *porque* ganhou um kit de tintas e pincéis. A conjunção 'porque' indica a relação de causalidade.",
+        "d": "INCORRETA. Participar do concurso é um evento que antecede a felicidade de Sofia, mas não é a causa direta mencionada no texto."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer relações de causa e efeito.",
+        "2. **Criar o texto:** Elaborei uma carta curta e simples, adequada ao nível fundamental, com uma estrutura clara (saudação, corpo do texto, despedida).",
+        "3. **Inserir a relação causal:** Incluí uma frase com a conjunção 'porque' para estabelecer uma relação de causa e efeito explícita.",
+        "4. **Elaborar o comando:** Formulei uma pergunta direta que exige a identificação da causa da felicidade de Sofia.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito:** A opção correta (c) é a causa direta da felicidade de Sofia, conforme expresso no texto.",
+        "   - **Distratores:** As outras opções (a, b, d) são informações presentes no texto, mas não representam a causa direta da felicidade de Sofia, servindo como distratores plausíveis.",
+        "6. **Justificativas:** Elaborei justificativas detalhadas para cada opção, explicando por que cada uma está correta ou incorreta, com base no texto."
+      ]
+    }
+  ]
+}
+```

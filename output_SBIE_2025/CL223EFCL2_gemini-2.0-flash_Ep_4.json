@@ -1,0 +1,26 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Porto Alegre, 10 de agosto de 2024.\n\nQuerido Tio Paulo,\n\nEspero que esteja tudo bem com você. Estou escrevendo para contar que participei da gincana da escola e foi muito divertido! Nossa equipe se esforçou bastante, por isso, conseguimos vencer a competição. \n\nGanhamos muitos prêmios, incluindo um passeio ao parque de diversões. Estou muito animado para ir! \n\nMande um abraço para a Tia Ana e para os meus primos. \n\nCom carinho,\n\nSeu sobrinho, Gabriel.",
+      "Comando 2": "No trecho “Nossa equipe se esforçou bastante, por isso, conseguimos vencer a competição.”, qual foi a consequência do esforço da equipe de Gabriel?",
+      "Opções": {
+        "a": "Eles ganharam muitos prêmios.",
+        "b": "Eles participaram da gincana da escola.",
+        "c": "Eles vão fazer um passeio ao parque de diversões.",
+        "d": "Eles conseguiram vencer a competição."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "Incorreta. Ganhar muitos prêmios é uma consequência da vitória na competição, mas não é a consequência direta do esforço da equipe, conforme indicado pela conjunção 'por isso'.",
+        "b": "Incorreta. Participar da gincana é o contexto da história, mas não é a consequência do esforço da equipe. O esforço levou a outro resultado.",
+        "c": "Incorreta. O passeio ao parque de diversões é um dos prêmios ganhos, sendo uma consequência indireta do esforço, mas não a consequência direta expressa na frase analisada.",
+        "d": "Correta. A frase “Nossa equipe se esforçou bastante, por isso, conseguimos vencer a competição” expressa claramente que a consequência do esforço da equipe de Gabriel foi a vitória na competição. A conjunção 'por isso' estabelece essa relação de causalidade de forma explícita."
+      },
+      "->" : null
+    }
+  ]
+}
+```

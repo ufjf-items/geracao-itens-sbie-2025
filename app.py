@@ -153,30 +153,35 @@ def iniciar(id_tarefa, output, session_id ="user123", CoT = False, Ep = False, f
     vars_prompt['exemplo'] = format_exemplo
 
 
-    # Construir o prompt completo
-    prompt_completo = template.format(
-        BNCC=vars_prompt.get('BNCC', ''),
-        descritor=vars_prompt.get('descritor', ''),
-        tipo_de_texto=vars_prompt.get('tipo_de_texto', ''),
-        classe=vars_prompt.get('classe', ''),
-        comando1=vars_prompt.get('comando1', ''),
-        suporte=vars_prompt.get('suporte', ''),
-        comando2=vars_prompt.get('comando2', ''),
-        gabarito=vars_prompt.get('gabarito', ''),
-        distratores=vars_prompt.get('distratores', ''),
-        cot=cot,
-        usar_cot=usar_cot,
-        ep=ep,
-        exemplo=format_exemplo,
-        history='',  # Você pode adicionar o histórico se necessário
-        input=vars_prompt['input']
-    )
+    # # Construir o prompt completo
+    # prompt_completo = template.format(
+    #     BNCC=vars_prompt.get('BNCC', ''),
+    #     descritor=vars_prompt.get('descritor', ''),
+    #     tipo_de_texto=vars_prompt.get('tipo_de_texto', ''),
+    #     classe=vars_prompt.get('classe', ''),
+    #     comando1=vars_prompt.get('comando1', ''),
+    #     suporte=vars_prompt.get('suporte', ''),
+    #     comando2=vars_prompt.get('comando2', ''),
+    #     gabarito=vars_prompt.get('gabarito', ''),
+    #     distratores=vars_prompt.get('distratores', ''),
+    #     cot=cot,
+    #     usar_cot=usar_cot,
+    #     ep=ep,
+    #     exemplo=format_exemplo,
+    #     history='',  # Você pode adicionar o histórico se necessário
+    #     input=vars_prompt['input']
+    # )
 
-    print("="*80)
-    print("PROMPT QUE SERÁ ENVIADO:")
-    print("="*80)
-    print(prompt_completo)
-    print("="*80)
+    # print("="*80)
+    # print("PROMPT QUE SERÁ ENVIADO:")
+    # print("="*80)
+    # print(prompt_completo)
+    # print("="*80)
+
+    # print("\n HISTÓRICO ANTES DO .invoke():")
+    # hist = get_session_history(session_id)
+    # for i, msg in enumerate(hist.messages):
+    #     print(f"{i+1}. [{msg.type}] {msg.content[:400]}...")
 
     resposta = chat_with_history.invoke(
         vars_prompt,
@@ -184,7 +189,14 @@ def iniciar(id_tarefa, output, session_id ="user123", CoT = False, Ep = False, f
             'configurable': {'session_id': session_id} 
         }
     )
-    print('RESPOSTA:', resposta.content)
+    # print('RESPOSTA:', resposta.content)
+
+    # print("\n HISTÓRICO DEPOIS DO .invoke():")
+    # hist = get_session_history(session_id)
+    # for i, msg in enumerate(hist.messages):
+    #     print(f"{i+1}. [{msg.type}] {msg.content[:400]}...")
+
+
 
     # Salvar a resposta em um arquivo CSV
     resposta_json = resposta.content
@@ -239,6 +251,7 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
 if __name__ == "__main__":
   
 
+    
     modelos = [
         "gemini-2.0-flash",
         "deepseek-r1:free"
@@ -247,12 +260,12 @@ if __name__ == "__main__":
 
     tecnicas = [
         {"nome": "baseline", "CoT": False, "Ep": False, "few_shot": False},
-        {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
-        {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
+        # {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
+        # {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
         {"nome": "fewshot", "CoT": False, "Ep": False, "few_shot": True},
         {"nome": "CoT_Ep", "CoT": True, "Ep": True, "few_shot": False},
-        {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
-        {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
+        # {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
+        # {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
         {"nome": "CoT_Ep_fewshot", "CoT": True, "Ep": True, "few_shot": True},
     ]
 
@@ -260,7 +273,7 @@ if __name__ == "__main__":
         # Define o modelo para cada rodada
 
         if modelo == "gemini-2.0-flash":
-            llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0)
+            llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0, verbose=True)
         elif modelo == "deepseek-r1:free":
             llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
 
@@ -275,30 +288,39 @@ if __name__ == "__main__":
         )
 
         for tecnica in tecnicas:
-            nome_tecnica = tecnica["nome"]
-            output_path = f"output_SBIE_2025/CL223EFCL2_{modelo}_{nome_tecnica}.json"
+            for i in range(5):
+                nome_tecnica = tecnica["nome"]
+                output_path = f"output_SBIE_2025/CL223EFCL2_{modelo}_{nome_tecnica}_{i}.json"
 
-            print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
+                print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
 
-            iniciar(
-                id_tarefa=5,
-                output=output_path,
-                session_id=modelo,
-                CoT=tecnica["CoT"],
-                Ep=tecnica["Ep"],
-                few_shot=tecnica["few_shot"]
-            )
+                id = modelo + "_" + nome_tecnica
 
-            transformar_json_em_txt(output_path, f"output_SBIE_2025_TXT/CL223EFCL2_{modelo}_{nome_tecnica}.txt")
+                iniciar(
+                    id_tarefa=5,
+                    output=output_path,
+                    session_id=id,
+                    CoT=tecnica["CoT"],
+                    Ep=tecnica["Ep"],
+                    few_shot=tecnica["few_shot"]
+                )
+
+                #transformar_json_em_txt(output_path, f"output_SBIE_2025_TXT/CL223EFCL2_{modelo}_{nome_tecnica}_{i}.txt")
+    
 
 
-    # path = "output_SBIE_2025"
+    path = "output_SBIE_2025"
 
-    # arquivos = os.listdir(path)
+    arquivos = os.listdir(path)
 
-    # os.makedirs("output_SBIE_2025_TXT", exist_ok=True)
+    os.makedirs("output_SBIE_2025_TXT", exist_ok=True)
 
-    # for arquivo in arquivos:
-    #     transformar_json_em_txt(os.path.join(path,arquivo), os.path.join("output_SBIE_2025_TXT", arquivo.replace(".json", ".txt")))
-  
+
+    for arquivo in arquivos:
+        try:
+            transformar_json_em_txt(os.path.join(path,arquivo), os.path.join("output_SBIE_2025_TXT", arquivo.replace(".json", ".txt")))
+        
+        except Exception as e:
+            print(f"Erro ao processar o arquivo {arquivo}: {e}")
+            continue
   

@@ -1,0 +1,26 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Mãe,\n\nEstou escrevendo para contar que adorei o passeio da escola! Fomos ao museu de história e aprendi muitas coisas sobre o Brasil. O dia estava lindo, mas fiquei um pouco triste porque o ônibus atrasou e perdemos um tempão na fila. Mesmo assim, valeu a pena, pois vi de perto a espada de Dom Pedro I! \n\nBeijos,\n\nSeu filho, João.",
+      "Comando 2": "De acordo com essa carta, o passeio valeu a pena para João porque",
+      "Opções": {
+        "a": "o dia estava lindo e ensolarado.",
+        "b": "o ônibus da escola atrasou muito.",
+        "c": "ele aprendeu muitas coisas sobre o Brasil.",
+        "d": "ele viu de perto a espada de Dom Pedro I."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "INCORRETA. Embora o dia ensolarado seja mencionado, não é a razão pela qual o passeio valeu a pena para João. A alternativa apresenta uma informação do texto que não estabelece a relação de causalidade solicitada.",
+        "b": "INCORRETA. O atraso do ônibus é um ponto negativo do passeio, e não a razão pela qual valeu a pena. Essa alternativa apresenta uma informação contrária à relação de causalidade.",
+        "c": "INCORRETA. Aprender sobre o Brasil é um aspecto positivo do passeio, mas o texto especifica que o que fez valer a pena foi ver a espada de Dom Pedro I. A alternativa apresenta uma informação relacionada, mas não a causa principal.",
+        "d": "CORRETA. O texto afirma que, mesmo com o atraso, o passeio valeu a pena 'pois vi de perto a espada de Dom Pedro I'. A alternativa apresenta a causa direta pela qual o passeio foi considerado valioso para João, conforme expresso na carta."
+      },
+      "->" : null
+    }
+  ]
+}
+```

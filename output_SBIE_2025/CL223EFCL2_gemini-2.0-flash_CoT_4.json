@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Olá, querido amigo Pedro,\n\nEspero que esta carta te encontre bem. Estou escrevendo para contar que não poderei ir à sua festa de aniversário. Fiquei muito gripado, por isso, preciso ficar em casa e me cuidar.\n\nEstou muito triste por não poder comparecer, mas prometo te compensar assim que melhorar. Desejo a você um feliz aniversário e muita diversão!\n\nCom carinho,\n\nSeu amigo, João.",
+      "Comando 2": "No trecho “Fiquei muito gripado, por isso, preciso ficar em casa e me cuidar”, qual a consequência de João ter ficado gripado?",
+      "Opções": {
+        "a": "João está escrevendo uma carta para Pedro.",
+        "b": "João deseja um feliz aniversário a Pedro.",
+        "c": "João precisa ficar em casa e se cuidar.",
+        "d": "João está triste por não poder comparecer."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Esta opção menciona o ato de João escrever a carta, mas não é a consequência de ele estar gripado. É um distrator que explora o contexto da escrita, mas não a relação de causalidade.",
+        "b": "Esta opção apresenta um desejo de João, mas não a consequência de ele estar gripado. É um distrator que explora a cortesia, desviando a atenção da relação de causa e efeito.",
+        "c": "Esta opção é a correta porque apresenta a consequência explícita de João estar gripado: ele precisa ficar em casa e se cuidar. A expressão 'por isso' estabelece claramente essa relação de causalidade.",
+        "d": "Esta opção expressa o sentimento de João, mas não a consequência direta de ele estar gripado. É um distrator emocional, explorando a tristeza, mas sem conexão direta com a causalidade."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer a consequência de um evento em um texto simples.",
+        "2. **Elaborar o texto suporte:** Criar uma carta amigável, com uma frase que contenha uma conjunção causal ('por isso').",
+        "3. **Formular o comando 1:** Solicitar a leitura do texto de forma direta.",
+        "4. **Formular o comando 2:** Perguntar diretamente sobre a consequência de um evento específico mencionado na carta, usando a expressão 'por isso' como foco.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito:** A resposta correta deve ser a consequência explícita mencionada no texto.",
+        "   - **Distratores:** As opções incorretas devem ser informações presentes no texto, mas que não representam a consequência do evento em questão. Incluir um distrator que explora o contexto da escrita e um distrator que explora a cortesia.",
+        "6. **Justificativas:** Detalhar por que cada opção está correta ou incorreta, explicando o papel dos distratores e a clareza da relação de causalidade na resposta correta."
+      ]
+    }
+  ]
+}
+```

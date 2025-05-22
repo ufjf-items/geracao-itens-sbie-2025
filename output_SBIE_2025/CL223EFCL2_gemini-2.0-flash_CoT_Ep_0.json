@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida Vovó Maria,\n\nEscrevo esta carta para contar que estou muito feliz aqui na escola nova. As aulas são divertidas e os professores são muito legais. Fiz muitos amigos e estamos aprendendo coisas incríveis todos os dias.\n\nOntem, não pude ir ao treino de futebol porque estava chovendo muito forte. Fiquei em casa lendo um livro novo que ganhei de presente. Foi uma tarde bem agradável!\n\nEstou com muitas saudades da senhora e espero vê-la em breve. Mande um abraço para o Vovô João.\n\nCom carinho,\nPedro",
+      "Comando 2": "No trecho “Ontem, não pude ir ao treino de futebol porque estava chovendo muito forte”, qual a razão de Pedro não ter ido ao treino de futebol?",
+      "Opções": {
+        "a": "Porque ele estava lendo um livro novo.",
+        "b": "Porque ele estava com saudades da avó.",
+        "c": "Porque estava chovendo muito forte.",
+        "d": "Porque ele fez muitos amigos na escola nova."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Esta opção apresenta uma informação presente no texto, mas não é a causa de Pedro não ter ido ao treino. Ele ficou em casa lendo o livro *depois* de não poder ir ao treino devido à chuva.",
+        "b": "Esta opção menciona a saudade que Pedro sente da avó, mas essa informação não está relacionada à razão pela qual ele não foi ao treino de futebol.",
+        "c": "Esta opção apresenta a causa direta mencionada no texto para a ausência de Pedro no treino de futebol. A conjunção 'porque' indica claramente a relação de causalidade entre a chuva forte e a impossibilidade de ir ao treino.",
+        "d": "Esta opção menciona a amizade que Pedro fez na escola, mas essa informação não tem relação com o motivo pelo qual ele não foi ao treino de futebol."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer relações de causa e consequência.",
+        "2. **Elaborar o texto suporte:** Criar uma carta curta e simples, adequada ao nível do 5º ano, com uma frase que expressa uma relação de causalidade clara.",
+        "3. **Formular o comando 1:** Solicitar a leitura do texto de forma direta.",
+        "4. **Formular o comando 2:** Perguntar diretamente sobre a causa de um evento específico mencionado no texto, utilizando a conjunção 'porque' como foco.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito (c):** A resposta correta deve ser a causa explícita mencionada no texto (a chuva forte).",
+        "   - **Distratores (a, b, d):** Os distratores devem ser informações presentes no texto, mas que não representam a causa do evento em questão. Eles devem ser plausíveis para confundir o aluno que não compreendeu a relação de causalidade.",
+        "6. **Justificativas:** Elaborar justificativas claras e concisas para cada opção, explicando por que a opção correta está certa e por que os distratores estão errados."
+      ]
+    }
+  ]
+}
+```

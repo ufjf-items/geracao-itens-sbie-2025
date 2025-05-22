@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Olá, titia!\n\nEstou escrevendo para contar que a peça de teatro da escola foi um sucesso! Eu estava muito nervoso antes de entrar no palco, mas, assim que as cortinas se abriram e vi todo mundo sorrindo, me senti mais calmo. Acho que me saí bem porque ensaiei bastante e sabia todas as falas de cor!\n\nUm beijo,\nRicardo.",
+      "Comando 2": "De acordo com o texto, Ricardo acha que se saiu bem na peça porque",
+      "Opções": {
+        "a": "estava nervoso antes de entrar no palco.",
+        "b": "as cortinas se abriram e ele viu todo mundo sorrindo.",
+        "c": "ensaiei bastante e sabia todas as falas de cor.",
+        "d": "está escrevendo para a titia."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "INCORRETA. O nervosismo de Ricardo é uma emoção que ele sentiu antes da peça, mas não é a razão pela qual ele acha que se saiu bem.",
+        "b": "INCORRETA. Ver as pessoas sorrindo o acalmou, mas não é o motivo principal para ele achar que se saiu bem.",
+        "c": "CORRETA. O texto indica que Ricardo acredita que se saiu bem *porque* ensaiou bastante e sabia as falas de cor. A conjunção 'porque' estabelece a relação de causalidade.",
+        "d": "INCORRETA. Estar escrevendo para a titia é o contexto da carta e não tem relação com o desempenho de Ricardo na peça."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar a relação de causa e efeito expressa pela conjunção 'porque'.",
+        "2. **Criar o texto:** Elaborei uma carta curta e com linguagem acessível, narrando uma experiência comum na infância.",
+        "3. **Inserir a relação causal:** Incluí a conjunção 'porque' para ligar o bom desempenho de Ricardo ao seu esforço nos ensaios.",
+        "4. **Elaborar o comando:** A pergunta direciona o aluno a identificar a causa da boa performance de Ricardo.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito:** A opção correta (c) apresenta a causa direta do bom desempenho de Ricardo, conforme o texto.",
+        "   - **Distratores:** As outras opções (a, b, d) são informações presentes no texto, mas não respondem à pergunta sobre a causa do bom desempenho de Ricardo.",
+        "6. **Justificativas:** Expliquei detalhadamente por que cada opção está correta ou incorreta, com base no texto e na relação de causalidade."
+      ]
+    }
+  ]
+}
+```

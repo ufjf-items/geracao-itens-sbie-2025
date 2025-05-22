@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida Vovó Maria,\n\nEscrevo para contar que a viagem para a praia foi incrível! O mar estava tão azul e as ondas perfeitas para surfar. Eu adorei construir castelos de areia com meus amigos.\n\nNão pude te ligar antes porque a bateria do meu celular acabou. Mas prometo te contar tudo em detalhes quando voltar para casa.\n\nEstou com muitas saudades e mal posso esperar para te ver!\n\nCom amor,\n\nSeu neto, Pedrinho.",
+      "Comando 2": "No trecho “Não pude te ligar antes porque a bateria do meu celular acabou”, qual a razão de Pedrinho não ter ligado para a avó?",
+      "Opções": {
+        "a": "Ele estava construindo castelos de areia com seus amigos.",
+        "b": "Ele estava com muitas saudades da avó.",
+        "c": "A bateria do celular dele acabou.",
+        "d": "A viagem para a praia foi incrível."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Esta opção apresenta uma atividade que Pedrinho realizou na praia, mas não é a causa de ele não ter ligado para a avó. É um distrator porque menciona um evento positivo da viagem, desviando a atenção da relação de causa e efeito.",
+        "b": "Esta opção expressa o sentimento de Pedrinho, mas não explica por que ele não ligou. É um distrator emocional, explorando a relação afetiva entre neto e avó, mas sem conexão com a causalidade.",
+        "c": "Esta opção é a correta porque reproduz a causa explícita no texto para a impossibilidade de Pedrinho ligar para a avó: a bateria do celular ter acabado. A conjunção 'porque' estabelece claramente essa relação de causalidade.",
+        "d": "Esta opção descreve a experiência geral da viagem, mas não está relacionada ao motivo de Pedrinho não ter ligado. É um distrator genérico, oferecendo uma informação positiva sobre a viagem, mas sem vínculo com a pergunta."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer relações de causa e efeito em textos simples.",
+        "2. **Elaborar o texto suporte:** Criar uma carta curta e amigável, com uma frase que contenha uma conjunção causal comum ('porque').",
+        "3. **Formular o comando 1:** Solicitar a leitura do texto de forma direta.",
+        "4. **Formular o comando 2:** Perguntar diretamente sobre a causa de um evento específico mencionado na carta, usando a conjunção 'porque' como foco.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito:** A resposta correta deve ser a causa explícita mencionada no texto.",
+        "   - **Distratores:** As opções incorretas devem ser informações presentes no texto, mas que não representam a causa do evento em questão. Incluir um distrator emocional e um distrator genérico.",
+        "6. **Justificativas:** Detalhar por que cada opção está correta ou incorreta, explicando o papel dos distratores e a clareza da relação de causalidade na resposta correta."
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Oi, Carol!\n\nEstou escrevendo para contar que não vou poder ir à sua festa de aniversário. Fiquei muito triste com isso, mas infelizmente não vai dar. \n\nÉ que minha mãe ficou doente e preciso ficar em casa para ajudar a cuidar dela. Ela está com muita febre e precisa de repouso. Prometo que assim que ela melhorar, a gente se encontra para comemorar, tá?\n\nBeijos,\nAna",
+      "Comando 2": "No trecho “É que minha mãe ficou doente e preciso ficar em casa para ajudar a cuidar dela”, qual a razão de Ana não poder ir à festa de Carol?",
+      "Opções": {
+        "a": "Porque ela está muito triste por não poder ir.",
+        "b": "Porque ela precisa ajudar a cuidar da mãe doente.",
+        "c": "Porque ela promete que vai comemorar depois.",
+        "d": "Porque ela quer mandar beijos para Carol."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Esta opção menciona o sentimento de Ana, mas não é a causa de sua ausência. A tristeza é uma consequência de não poder ir, não a razão principal.",
+        "b": "Esta opção apresenta a causa direta mencionada no texto para a ausência de Ana na festa. A doença da mãe e a necessidade de cuidar dela são o motivo pelo qual ela não pode comparecer.",
+        "c": "Esta opção menciona a promessa de comemoração futura, mas isso não tem relação com o motivo da ausência atual. A promessa é uma forma de compensar a ausência, não a causa dela.",
+        "d": "Esta opção menciona os beijos, que são uma forma de despedida, mas não têm relação com o motivo da ausência. Os beijos são um gesto de carinho, não uma causa."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causa e consequência.",
+        "2. **Elaborar o texto suporte:** Criar uma carta curta e simples, adequada ao nível do 5º ano, com uma frase que expressa uma relação de causalidade clara, utilizando a conjunção 'é que'.",
+        "3. **Formular o comando 1:** Solicitar a leitura do texto de forma direta.",
+        "4. **Formular o comando 2:** Perguntar diretamente sobre a causa de um evento específico mencionado no texto, utilizando a conjunção 'é que' como foco.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito (b):** A resposta correta deve ser a causa explícita mencionada no texto (a doença da mãe e a necessidade de cuidar dela).",
+        "   - **Distratores (a, c, d):** Os distratores devem ser informações presentes no texto, mas que não representam a causa do evento em questão. Eles devem ser plausíveis para confundir o aluno que não compreendeu a relação de causalidade.",
+        "6. **Justificativas:** Elaborar justificativas claras e concisas para cada opção, explicando por que a opção correta está certa e por que os distratores estão errados."
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Oi, Carol!\n\nTudo bem? Estou escrevendo para contar que ontem foi meu aniversário! Ganhei muitos presentes legais, mas o que eu mais gostei foi um livro de aventuras. Estou lendo ele todos os dias porque as histórias são muito emocionantes e me fazem viajar para lugares incríveis!\n\nBeijos,\nAna.",
+      "Comando 2": "De acordo com o texto, Ana está lendo o livro todos os dias porque",
+      "Opções": {
+        "a": "ontem foi o aniversário dela.",
+        "b": "ganhou muitos presentes legais.",
+        "c": "as histórias são muito emocionantes.",
+        "d": "está escrevendo para Carol."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "INCORRETA. O aniversário de Ana é o motivo de ter ganhado o livro, mas não o motivo pelo qual ela está lendo o livro todos os dias.",
+        "b": "INCORRETA. Ganhar muitos presentes é uma informação do texto, mas não justifica o fato de ela estar lendo o livro diariamente.",
+        "c": "CORRETA. O texto afirma que Ana está lendo o livro todos os dias *porque* as histórias são muito emocionantes. A conjunção 'porque' indica a relação de causalidade.",
+        "d": "INCORRETA. Estar escrevendo para Carol é o contexto da carta, mas não tem relação com o motivo pelo qual Ana lê o livro."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causa e efeito em um texto simples.",
+        "2. **Criar o texto:** Elaborei uma carta curta e informal, com linguagem acessível e tema relevante para crianças.",
+        "3. **Inserir a relação causal:** Incluí uma frase com a conjunção 'porque' para explicitar a relação de causa e consequência.",
+        "4. **Elaborar o comando:** A pergunta direciona o aluno a identificar a causa de Ana estar lendo o livro.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito:** A opção correta (c) apresenta a causa direta mencionada no texto.",
+        "   - **Distratores:** As outras opções (a, b, d) são informações presentes no texto, mas não respondem à pergunta sobre a causa da leitura diária do livro.",
+        "6. **Justificativas:** Expliquei detalhadamente por que cada opção está correta ou incorreta, com base no texto."
+      ]
+    }
+  ]
+}
+```

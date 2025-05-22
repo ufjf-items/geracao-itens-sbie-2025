@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Olá, Pedro!\n\nTudo bem por aí? Aqui está tudo ótimo! Ontem fomos ao parque e andei de bicicleta pela primeira vez sem rodinhas. No começo, fiquei com um pouco de medo de cair, mas meu pai me ajudou e consegui! Fiquei muito feliz porque agora posso andar de bicicleta com meus amigos!\n\nAbraços,\nLucas.",
+      "Comando 2": "De acordo com o texto, Lucas ficou muito feliz porque",
+      "Opções": {
+        "a": "andou de bicicleta pela primeira vez sem rodinhas.",
+        "b": "foi ao parque com o pai.",
+        "c": "ficou com medo de cair.",
+        "d": "o pai o ajudou a andar de bicicleta."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "CORRETA. O texto afirma que Lucas ficou muito feliz *porque* agora pode andar de bicicleta com os amigos, o que é uma consequência direta de ter aprendido a andar sem rodinhas. Andar de bicicleta sem rodinhas é a causa da felicidade expressa.",
+        "b": "INCORRETA. Ir ao parque é o contexto da carta, mas não é a causa direta da felicidade de Lucas. Ele poderia ter ido ao parque e não ter aprendido a andar de bicicleta.",
+        "c": "INCORRETA. O medo de cair é uma emoção que Lucas sentiu no começo, mas não é o motivo da sua felicidade. Pelo contrário, ele superou o medo.",
+        "d": "INCORRETA. A ajuda do pai foi importante para Lucas aprender, mas não é a causa direta da sua felicidade. A felicidade vem da conquista de andar de bicicleta sozinho."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar a relação de causa e efeito expressa pela conjunção 'porque'.",
+        "2. **Criar o texto:** Elaborei uma carta curta e com linguagem acessível, narrando uma experiência comum na infância.",
+        "3. **Inserir a relação causal:** Incluí a conjunção 'porque' para ligar a conquista de Lucas (andar de bicicleta sem rodinhas) à sua felicidade.",
+        "4. **Elaborar o comando:** A pergunta direciona o aluno a identificar a causa da felicidade de Lucas.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito:** A opção correta (a) apresenta a causa direta da felicidade de Lucas, conforme o texto.",
+        "   - **Distratores:** As outras opções (b, c, d) são informações presentes no texto, mas não respondem à pergunta sobre a causa da felicidade de Lucas.",
+        "6. **Justificativas:** Expliquei detalhadamente por que cada opção está correta ou incorreta, com base no texto e na relação de causalidade."
+      ]
+    }
+  ]
+}
+```

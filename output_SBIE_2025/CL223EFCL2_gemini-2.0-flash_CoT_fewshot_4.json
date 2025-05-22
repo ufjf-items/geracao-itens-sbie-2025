@@ -1,0 +1,33 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Vovô querido,\n\nEstou escrevendo para contar que ontem a gente fez um piquenique no parque. Foi muito legal! Eu comi tanto que fiquei com a barriga doendo porque exagerei no bolo de chocolate. Mas valeu a pena, estava delicioso!\n\nHoje, estou melhor e vou brincar na casa do meu amigo. Manda um abraço para a vovó. Estou com saudades!\n\nCom carinho,\n\n[Nome]",
+      "Comando 2": "De acordo com o texto, o(a) autor(a) ficou com a barriga doendo porque",
+      "Opções": {
+        "a": "fez um piquenique no parque.",
+        "b": "estava com saudades do vovô.",
+        "c": "exagerou no bolo de chocolate.",
+        "d": "vai brincar na casa do amigo."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "INCORRETA. O piquenique é o contexto da história, mas não a causa da dor de barriga. O texto especifica que a dor foi causada pelo excesso de bolo.",
+        "b": "INCORRETA. A saudade do avô é mencionada no final da carta, mas não tem relação com a dor de barriga.",
+        "c": "CORRETA. O texto afirma que o(a) autor(a) ficou com a barriga doendo 'porque exagerei no bolo de chocolate'. A conjunção 'porque' indica a relação de causa e efeito.",
+        "d": "INCORRETA. Brincar na casa do amigo é uma atividade futura e não está relacionada à dor de barriga."
+      },
+      "->": [
+        "1. Selecionei o gênero textual 'carta' por ser comum no Ensino Fundamental.",
+        "2. Criei um texto curto, com frases simples e vocabulário acessível.",
+        "3. Inseri a conjunção 'porque' para explicitar a relação de causalidade.",
+        "4. Elaborei o comando da questão para solicitar a identificação da causa da dor de barriga.",
+        "5. A alternativa correta (C) é uma paráfrase da relação de causalidade expressa no texto.",
+        "6. Os distratores (A, B e D) apresentam informações presentes no texto, mas que não correspondem à relação de causalidade solicitada."
+      ]
+    }
+  ]
+}
+```

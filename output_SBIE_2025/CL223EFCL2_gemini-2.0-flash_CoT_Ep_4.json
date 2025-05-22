@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Caro Sr. Almeida,\n\nEscrevo para informar que, devido a um forte temporal que atingiu nossa cidade, a rua principal de acesso à escola está completamente alagada. \n\nPor causa disso, as aulas de hoje foram suspensas para garantir a segurança de todos os alunos e funcionários. Pedimos a sua compreensão e informaremos assim que a situação se normalizar.\n\nAtenciosamente,\nA Direção",
+      "Comando 2": "No trecho “Por causa disso, as aulas de hoje foram suspensas para garantir a segurança de todos os alunos e funcionários”, qual a razão da suspensão das aulas?",
+      "Opções": {
+        "a": "Para informar sobre o temporal na cidade.",
+        "b": "Para garantir a segurança dos alunos e funcionários.",
+        "c": "Porque a direção pede a compreensão de todos.",
+        "d": "Porque o Sr. Almeida precisa ser informado."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Esta opção menciona a informação sobre o temporal, mas não é a causa da suspensão das aulas. Informar sobre o temporal é uma ação relacionada, mas não o motivo principal.",
+        "b": "Esta opção apresenta a causa direta mencionada no texto para a suspensão das aulas. A necessidade de garantir a segurança de todos é o motivo pelo qual as aulas foram suspensas.",
+        "c": "Esta opção menciona o pedido de compreensão, mas isso não é a causa da suspensão. O pedido de compreensão é uma formalidade devido à situação, não a causa em si.",
+        "d": "Esta opção menciona a necessidade de informar o Sr. Almeida, mas isso não tem relação com o motivo da suspensão. Informar é uma ação decorrente da suspensão, não a causa."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causa e consequência.",
+        "2. **Elaborar o texto suporte:** Criar uma carta curta e simples, adequada ao nível do 5º ano, com uma frase que expressa uma relação de causalidade clara, utilizando a expressão 'por causa disso'.",
+        "3. **Formular o comando 1:** Solicitar a leitura do texto de forma direta.",
+        "4. **Formular o comando 2:** Perguntar diretamente sobre a causa de um evento específico mencionado no texto, utilizando a expressão 'por causa disso' como foco.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito (b):** A resposta correta deve ser a causa explícita mencionada no texto (garantir a segurança de todos).",
+        "   - **Distratores (a, c, d):** Os distratores devem ser informações presentes no texto, mas que não representam a causa do evento em questão. Eles devem ser plausíveis para confundir o aluno que não compreendeu a relação de causalidade.",
+        "6. **Justificativas:** Elaborar justificativas claras e concisas para cada opção, explicando por que a opção correta está certa e por que os distratores estão errados."
+      ]
+    }
+  ]
+}
+```

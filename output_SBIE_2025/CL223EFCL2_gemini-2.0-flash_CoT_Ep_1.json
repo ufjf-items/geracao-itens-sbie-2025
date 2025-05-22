@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Prezada Sra. Silva,\n\nEscrevo para informar que meu filho, João, não poderá comparecer à aula de amanhã. Ele acordou com febre alta e muita tosse. \n\nComo ele está se sentindo muito mal, o levarei ao médico para que ele possa ser examinado e medicado adequadamente. Agradeço a sua compreensão e peço que me informe sobre as atividades que serão realizadas para que ele possa se manter atualizado.\n\nAtenciosamente,\nMaria Oliveira",
+      "Comando 2": "No trecho “Como ele está se sentindo muito mal, o levarei ao médico para que ele possa ser examinado e medicado adequadamente”, qual a razão de Maria Oliveira levar seu filho ao médico?",
+      "Opções": {
+        "a": "Porque ele precisa se manter atualizado com as atividades da escola.",
+        "b": "Porque ele acordou com febre alta e muita tosse.",
+        "c": "Porque ela precisa informar a escola sobre a ausência do filho.",
+        "d": "Porque ela agradece a compreensão da professora."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Esta opção menciona a necessidade de João se manter atualizado, mas essa não é a razão pela qual ele será levado ao médico. A atualização é uma consequência da ausência, não a causa da consulta médica.",
+        "b": "Esta opção apresenta a causa direta mencionada no texto para a consulta médica. A frase indica que o mal-estar de João (febre alta e tosse) é o motivo pelo qual ele será levado ao médico.",
+        "c": "Esta opção menciona a necessidade de informar a escola, mas essa ação é separada da decisão de levar o filho ao médico. Informar a escola é uma formalidade devido à ausência, não a causa da consulta.",
+        "d": "Esta opção menciona o agradecimento da mãe, mas isso não tem relação com o motivo de levar o filho ao médico. O agradecimento é uma expressão de cortesia, não uma causa."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causa e consequência.",
+        "2. **Elaborar o texto suporte:** Criar uma carta curta e simples, adequada ao nível do 5º ano, com uma frase que expressa uma relação de causalidade clara, utilizando a conjunção 'como'.",
+        "3. **Formular o comando 1:** Solicitar a leitura do texto de forma direta.",
+        "4. **Formular o comando 2:** Perguntar diretamente sobre a causa de um evento específico mencionado no texto, utilizando a conjunção 'como' como foco.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito (b):** A resposta correta deve ser a causa explícita mencionada no texto (febre alta e tosse).",
+        "   - **Distratores (a, c, d):** Os distratores devem ser informações presentes no texto, mas que não representam a causa do evento em questão. Eles devem ser plausíveis para confundir o aluno que não compreendeu a relação de causalidade.",
+        "6. **Justificativas:** Elaborar justificativas claras e concisas para cada opção, explicando por que a opção correta está certa e por que os distratores estão errados."
+      ]
+    }
+  ]
+}
+```

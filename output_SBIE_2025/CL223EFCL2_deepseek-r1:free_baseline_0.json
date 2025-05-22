@@ -1,0 +1,30 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "EF05LP07 - Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+      
+      "Texto suporte": "Querida Professora Ana,\n\nEspero que esteja bem! Escrevo para explicar por que não trouxe a lição de casa hoje. Ontem à tarde, enquanto fazia os exercícios, meu cachorro Tobby pulou na mesa e rasgou todas as folhas do caderno. Fiquei muito triste, pois tinha me esforçado bastante. Por isso, prometo refazer tudo até sexta-feira.\n\nCom carinho,\nJoão\nSão Paulo, 15 de março de 2024",
+      
+      "Comando 2": "Por que João não conseguiu entregar a lição de casa?",
+      
+      "Opções": {
+        "a": "Porque estava brincando no parque",
+        "b": "Pois seu cachorro rasgou o caderno",
+        "c": "Já que esqueceu o material na escola",
+        "d": "Por isso precisará refazer os exercícios"
+      },
+      
+      "Resposta correta": "b",
+      
+      "Justificativas": {
+        "a": "Incorreta. Embora brincar no parque seja uma atividade comum, o texto não menciona isso como motivo. A causa está explicitamente ligada ao cachorro e ao caderno rasgado.",
+        "b": "Correta. O texto afirma claramente: 'meu cachorro Tobby pulou na mesa e rasgou todas as folhas do caderno', usando a conjunção 'por que' para introduzir a causa na estrutura da carta.",
+        "c": "Incorreta. Não há menção a esquecimento de material na escola. A informação sobre o caderno rasgado descreve um evento concreto, não um esquecimento.",
+        "d": "Incorreta. 'Por isso' indica consequência, não causa. Refazer os exercícios é o resultado da situação, não sua origem."
+      }
+    }
+  ]
+}
+```

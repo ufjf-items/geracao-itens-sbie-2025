@@ -1,0 +1,35 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Prezada Professora Ana,\n\nEscrevo para contar que estou muito animado com a feira de ciências! Já escolhi meu tema: vou apresentar um experimento sobre a germinação das plantas. Estou pesquisando bastante e cuidando das sementes com muito carinho. Tenho certeza de que vai ser um sucesso, pois estou me dedicando muito ao projeto!\n\nAtenciosamente,\nJoão.",
+      "Comando 2": "De acordo com o texto, João tem certeza de que a feira de ciências vai ser um sucesso, pois",
+      "Opções": {
+        "a": "já escolheu o tema do experimento.",
+        "b": "está escrevendo para a professora Ana.",
+        "c": "vai apresentar um experimento sobre plantas.",
+        "d": "está se dedicando muito ao projeto."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "INCORRETA. Escolher o tema é um passo importante, mas não é a razão pela qual João tem certeza do sucesso.",
+        "b": "INCORRETA. Escrever para a professora é uma formalidade da carta e não tem relação com a certeza do sucesso.",
+        "c": "INCORRETA. Apresentar um experimento sobre plantas é o tema escolhido, mas não a causa da certeza do sucesso.",
+        "d": "CORRETA. O texto afirma que João tem certeza do sucesso *pois* está se dedicando muito ao projeto. A conjunção 'pois' indica a relação de causalidade."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar a relação de causa e efeito expressa pela conjunção 'pois'.",
+        "2. **Criar o texto:** Elaborei uma carta curta e formal, com linguagem acessível e tema escolar.",
+        "3. **Inserir a relação causal:** Incluí a conjunção 'pois' para ligar a dedicação de João à sua certeza de sucesso.",
+        "4. **Elaborar o comando:** A pergunta direciona o aluno a identificar a causa da certeza de João.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito:** A opção correta (d) apresenta a causa direta da certeza de João, conforme o texto.",
+        "   - **Distratores:** As outras opções (a, b, c) são informações presentes no texto, mas não respondem à pergunta sobre a causa da certeza de João.",
+        "6. **Justificativas:** Expliquei detalhadamente por que cada opção está correta ou incorreta, com base no texto e na relação de causalidade."
+      ]
+    }
+  ]
+}
+```

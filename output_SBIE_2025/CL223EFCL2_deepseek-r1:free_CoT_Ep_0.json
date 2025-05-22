@@ -1,0 +1,53 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade em textos",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Carta de João para sua avó\nRio de Janeiro, 15 de março de 2024\nQuerida vovó,\nEstou muito feliz porque ganhei um novo cachorro! Ele se chama Bolinha e é muito brincalhão. Ontem, ele quebrou o vaso da sala, já que correu atrás do gato. Mamãe ficou brava, mas logo perdoou ele. Por isso, vamos colocar um portãozinho na cozinha.\nEspero que você venha conhecer meu novo amigo!\nBeijos,\nJoão",
+      "Comando 2": "Por que o vaso da sala quebrou?",
+      "Opções": {
+        "a": "Porque João ganhou um cachorro",
+        "b": "Porque Bolinha correu atrás do gato",
+        "c": "Porque a mãe ficou brava",
+        "d": "Porque colocaram um portão"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreta. A posse do cachorro é motivo de alegria, mas não está relacionada à quebra do vaso. O texto usa 'porque' para explicar a felicidade, não o acidente.",
+        "b": "Correta. A conjunção 'já que' conecta diretamente a ação do cachorro (correr atrás do gato) como causa da quebra do vaso no terceiro período do texto.",
+        "c": "Incorreta. A reação da mãe é consequência do ocorrido, não sua causa. O texto mostra que ela ficou brava 'mas logo perdoou' após o acidente.",
+        "d": "Incorreta. A instalação do portão é uma medida preventiva mencionada como consequência do ocorrido ('por isso'), não a causa do problema."
+      },
+      "->": [
+        "1. Localizar no texto o trecho que explica a causa da quebra do vaso (3ª linha)",
+        "2. Identificar a estrutura causal com a conjunção 'já que'",
+        "3. Relacionar a ação do sujeito (Bolinha) com o efeito (vaso quebrado)",
+        "4. Descartar opções que mencionam consequências (reação da mãe) ou fatos não relacionados (posse do cachorro)",
+        "5. Confirmar a relação causa-efeito explícita na estrutura gramatical do período"
+      ]
+    }
+  ]
+}
+```
+
+**Explicação Detalhada:**
+
+1. **Contextualização:** A questão utiliza uma carta pessoal, gênero adequado ao público-alvo, com estrutura canônica (remetente, destinatário, data) e tema cotidiano (animal de estimação).
+
+2. **Estrutura Causal:**
+   - **Conectivo:** Usa "já que" como marcador de causalidade explícita
+   - **Relação lógica:** Ação (correr atrás do gato) → Consequência (vaso quebrado)
+   - **Dificuldade controlada:** Mantém a causa próxima ao efeito no texto (mesmo período)
+
+3. **Análise das Distrações:**
+   - **Opção A:** Testa compreensão de diferentes relações causais no texto ("porque" para felicidade vs "já que" para acidente)
+   - **Opção C:** Avalia distinção entre causa e consequência na cadeia de eventos
+   - **Opção D:** Verifica entendimento de medidas preventivas vs causas reais
+
+4. **Adequação Curricular:**
+   - Alinhada com a BNCC (EF05LP07) para 5º ano
+   - Desenvolve habilidade de análise sintático-semântica
+   - Promove compreensão de diferentes funções dos conectivos
+
+**Sugestão para Adaptação:** Para alunos com dificuldades, incluir uma segunda questão pedindo para sublinhar no texto o trecho que responde à pergunta. Para avançados, propor reescrita do período usando outros conectivos causais ("visto que", "uma vez que").

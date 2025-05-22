@@ -1,0 +1,33 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Oi, Carol!\n\nTudo bem? Estou escrevendo para contar que ontem foi meu aniversário. Ganhei muitos presentes legais! Meus pais me deram um cachorrinho! Ele é muito fofo e brincalhão. Estou muito feliz porque sempre quis ter um bichinho de estimação.\n\nNo sábado, vou fazer uma festa para comemorar. Queria muito que você viesse! Vai ser na minha casa, a partir das 16h. Vai ter bolo, docinhos e muita música!\n\nEspero você!\n\nBeijos,\n\nAna.",
+      "Comando 2": "De acordo com o texto, Ana está muito feliz porque",
+      "Opções": {
+        "a": "ontem foi seu aniversário.",
+        "b": "vai fazer uma festa no sábado.",
+        "c": "ganhou muitos presentes legais.",
+        "d": "sempre quis ter um bichinho de estimação."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "INCORRETA. Embora o aniversário de Ana seja mencionado no texto, a causa direta da sua felicidade, segundo o texto, é ter realizado o sonho de ter um cachorrinho. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade correta.",
+        "b": "INCORRETA. A festa de aniversário é um evento futuro e uma forma de comemorar a felicidade de Ana, não a causa dessa felicidade. Essa opção apresenta uma informação presente no texto, mas inverte a relação de causa e efeito.",
+        "c": "INCORRETA. Ganhar presentes é um motivo de alegria, mas o texto especifica que a principal razão da felicidade de Ana é a realização do sonho de ter um cachorrinho. Essa opção apresenta uma informação presente no texto, mas não estabelece a relação de causalidade principal.",
+        "d": "CORRETA. O texto afirma que Ana está feliz 'porque sempre quis ter um bichinho de estimação'. A conjunção 'porque' indica uma relação de causa e efeito, onde a realização do sonho é a causa da felicidade de Ana. Essa opção identifica corretamente a relação de causalidade expressa no texto."
+      },
+      "->": [
+        "1. Selecionei o gênero textual 'carta' por ser comum no Ensino Fundamental.",
+        "2. Criei um texto curto, com frases simples e vocabulário acessível.",
+        "3. Inseri a conjunção 'porque' para explicitar a relação de causalidade.",
+        "4. Elaborei o comando da questão para solicitar a identificação da causa da felicidade de Ana.",
+        "5. A alternativa correta (D) é uma paráfrase da relação de causalidade expressa no texto.",
+        "6. Os distratores (A, B e C) apresentam informações presentes no texto, mas que não correspondem à relação de causalidade solicitada."
+      ]
+    }
+  ]
+}
+```
