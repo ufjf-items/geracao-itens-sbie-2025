@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida vovó,
+
+Estou escrevendo para contar que não pude ir à sua casa no fim de semana porque fiquei doente. Tive febre e dor de garganta, por isso mamãe disse que era melhor ficar em casa. Mas fique tranquila, pois já estou melhorando! O médico disse que preciso descansar e tomar os remédios direitinho. Prometo que vou te visitar assim que ficar bom.
+
+Com saudades,
+Lucas
+
+Belo Horizonte, 10 de abril de 2023.
+Pergunta:
+No trecho 'não pude ir à sua casa no fim de semana porque fiquei doente', a expressão 'porque' indica uma relação de causalidade. Qual foi a causa de Lucas não ter visitado sua avó?
+Opções:
+   a) Ele tinha que tomar remédios direitinho.
+   b) Sua mãe disse que era melhor ficar em casa.
+-> c) Ele ficou doente, com febre e dor de garganta.
+   d) Ele prometeu visitar assim que melhorasse.
+Justificativas:
+a) Esta opção menciona uma consequência da doença (tomar remédios), mas não é a causa principal de Lucas não ter visitado a avó.
+b) Embora seja verdade que a mãe tenha dito isso, esta é uma consequência da doença, não a causa principal mencionada no trecho destacado.
+c) Esta é a resposta correta, pois o texto afirma claramente que a razão para não ter visitado foi ter ficado doente, com febre e dor de garganta, conforme a relação causal introduzida por 'porque'.
+d) Esta opção fala sobre um compromisso futuro, não sobre a causa da ausência no fim de semana.
+
+--------------------------------------------------------------------------------

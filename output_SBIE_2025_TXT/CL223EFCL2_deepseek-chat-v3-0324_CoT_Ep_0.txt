@@ -1,0 +1,28 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querida avó,
+
+Estou muito feliz porque ganhei um cachorrinho de presente! Ele é branco e fofinho, e eu o chamei de Floquinho. Ontem ele ficou triste pois eu saí para brincar na casa do Pedro. Mas hoje eu prometi que vou ficar mais tempo com ele, já que ele é muito carinhoso.
+
+Estou com saudades de você. Quando você vem me visitar?
+
+Beijos,
+Seu neto, Lucas
+
+São Paulo, 15 de março de 2024
+Pergunta:
+Por que o cachorrinho ficou triste ontem? Observe no texto a conjunção que indica essa relação de causa.
+Opções:
+   a) Porque Lucas ganhou um presente
+-> b) Pois Lucas saiu para brincar na casa do Pedro
+   c) Já que o cachorrinho é muito carinhoso
+   d) Porque o cachorrinho é branco e fofinho
+Justificativas:
+a) Esta opção menciona um fato verdadeiro do texto (Lucas ganhou um presente), mas não é a causa da tristeza do cachorro. A conjunção 'porque' aqui está sendo usada para outro contexto.
+b) Esta é a resposta correta. O texto diz claramente 'Ontem ele ficou triste pois eu saí para brincar na casa do Pedro', mostrando a relação de causalidade com a conjunção 'pois'.
+c) Embora seja verdade que o cachorro é carinhoso (como mencionado com 'já que'), esta não é a razão específica para ele ter ficado triste ontem.
+d) Esta informação está no texto, mas descreve características físicas do cachorro, não a causa de sua tristeza.
+
+--------------------------------------------------------------------------------

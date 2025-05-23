@@ -1,0 +1,27 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Querida mamãe,\n\nHoje não almocei na escola porque esqueci meu lanche em casa. A tia Maria me deu uma fruta, por isso não fiquei com muita fome. Amanhã vou colocar o lanche na mochila assim que acordar, já que você sempre me avisa para não esquecer.\n\nTe amo,\nSofia\n\nCuritiba, 20 de agosto de 2024",
+      "Comando 2": "Por que Sofia não almoçou na escola hoje? Observe no texto a conjunção que indica essa relação de causa.",
+      "Opções": {
+        "a": "Porque não gostava da comida da escola",
+        "b": "Pois esqueceu o lanche em casa",
+        "c": "Já que a tia Maria deu uma fruta",
+        "d": "Porque estava sem fome"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Esta informação não aparece no texto - o motivo foi o esquecimento do lanche, não uma preferência alimentar.",
+        "b": "Resposta correta. O texto afirma claramente 'não almocei na escola porque esqueci meu lanche em casa', usando a conjunção 'porque' para marcar a relação causal.",
+        "c": "Embora seja verdade que a tia Maria deu uma fruta (mencionado com 'por isso'), esta foi a consequência, não a causa de não ter almoçado.",
+        "d": "Esta informação é incorreta - o texto diz que ela não ficou com muita fome por ter comido a fruta, não que estava sem fome inicialmente."
+      },
+      "->": "1) Utilizei o gênero carta com estrutura completa e linguagem infantil\n2) Escolhi tema cotidiano escolar (lanche da escola)\n3) Inseri três expressões de causalidade diferentes (porque, por isso, já que)\n4) Foquei a pergunta na relação causal principal marcada por 'porque'\n5) Criei distratores com informações relacionadas mas não causais\n6) Organizei as alternativas em ordem alfabética"
+    }
+  ]
+}
+```

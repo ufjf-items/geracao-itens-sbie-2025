@@ -1,0 +1,28 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querido amigo Pedro,
+
+Estou escrevendo para contar que não pude ir ao seu aniversário porque tive que viajar com minha família. Meu pai conseguiu uns dias de folga no trabalho, por isso resolvemos visitar meus avós. Fiquei triste em perder sua festa, já que você é meu melhor amigo.
+
+Na volta trago um presente para você!
+
+Abraços,
+Carlos
+
+Rio de Janeiro, 5 de maio de 2024
+Pergunta:
+Por que Carlos não foi ao aniversário do Pedro? Observe no texto a conjunção que indica essa relação de causa.
+Opções:
+   a) Porque estava doente
+-> b) Pois teve que viajar com a família
+   c) Já que Pedro é seu melhor amigo
+   d) Porque não gostava de festas
+Justificativas:
+a) Esta informação não aparece no texto - a viagem foi por motivos familiares, não por doença.
+b) Resposta correta. O texto afirma claramente 'não pude ir ao seu aniversário porque tive que viajar com minha família', usando a conjunção 'porque' para marcar a relação causal.
+c) Embora seja verdade que Pedro é seu melhor amigo (mencionado com 'já que'), esta não é a razão para ter faltado à festa, e sim o motivo da tristeza por ter faltado.
+d) Esta informação não consta no texto e contradiz o conteúdo que mostra o arrependimento por não ter ido.
+
+--------------------------------------------------------------------------------

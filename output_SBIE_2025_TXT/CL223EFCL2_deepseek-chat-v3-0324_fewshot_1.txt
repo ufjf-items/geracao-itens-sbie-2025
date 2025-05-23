@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Pedro,
+Estou escrevendo para contar que finalmente aprendi a andar de bicicleta! Meu pai me ensinou todos os fins de semana porque eu insisti muito. Ele disse que eu merecia essa atenção já que fui muito dedicado nas aulas.
+Agora posso ir até a praça sozinho e encontro meus amigos para brincar. Minha bicicleta é azul com detalhes vermelhos, a mais bonita do bairro!
+Quando você vier me visitar, vamos pedalar juntos.
+Abraços,
+Carlos.
+Disponível em: <https://www.exemplocarta.com.br>. Acesso em: 15 mai. 2025.
+Pergunta:
+De acordo com o texto, o pai de Carlos o ensinou a andar de bicicleta porque
+Opções:
+   a) Carlos tem a bicicleta mais bonita do bairro.
+-> b) Carlos insistiu muito para aprender.
+   c) Carlos agora pode ir até a praça sozinho.
+   d) Carlos quer pedalar com Pedro quando ele vier visitar.
+Justificativas:
+a) INCORRETA. Os estudantes que marcaram esta alternativa confundiram uma característica da bicicleta com a razão do ensino. Embora seja informação do texto, não estabelece relação causal com o fato de o pai ter ensinado.
+b) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal marcada pela conjunção 'porque', compreendendo que a insistência de Carlos foi o motivo pelo qual o pai o ensinou.
+c) INCORRETA. Esta alternativa apresenta uma consequência do aprendizado, não sua causa. Os estudantes que a escolheram demonstraram dificuldade em distinguir causa e consequência.
+d) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em um plano futuro que não tem relação com a causa do ensino. Mostra dificuldade em identificar relações lógico-discursivas de causalidade.
+
+--------------------------------------------------------------------------------

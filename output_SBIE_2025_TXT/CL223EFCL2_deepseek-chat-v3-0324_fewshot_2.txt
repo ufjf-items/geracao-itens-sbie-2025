@@ -1,0 +1,51 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Sofia,
+Estou muito animada porque consegui tirar nota 10 na prova de matemática! Minha professora ficou orgulhosa e disse que eu mereci essa nota pois estudei muito para a avaliação.
+Durante a semana, revisei todos os exercícios e pedi ajuda quando tinha dúvidas. Agora posso escolher um presente especial como recompensa!
+Quando você vier aqui em casa, vamos comemorar juntas.
+Beijos,
+Julia.
+Disponível em: <https://www.exemplodecarta.com.br>. Acesso em: 20 jun. 2025.
+Pergunta:
+De acordo com o texto, Julia tirou nota 10 na prova porque
+Opções:
+   a) a professora ficou orgulhosa dela.
+-> b) ela estudou muito para a avaliação.
+   c) ela pode escolher um presente especial.
+   d) ela quer comemorar com Sofia.
+Justificativas:
+a) INCORRETA. Os estudantes que marcaram esta alternativa confundiram uma consequência do bom desempenho com a causa. Embora a professora tenha ficado orgulhosa, isso não explica o motivo da nota alta.
+b) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal marcada pela conjunção 'pois', compreendendo que o estudo dedicado foi a razão do bom desempenho.
+c) INCORRETA. Esta alternativa apresenta uma consequência da nota alta, não sua causa. Os estudantes que a escolheram demonstraram dificuldade em distinguir causa e consequência.
+d) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em um plano futuro que não tem relação com o motivo do bom desempenho na prova.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Caro Miguel,
+Estou escrevendo para contar que ganhei um novo videogame! Meus pais me presentearam porque eu ajudei bastante em casa durante as férias. Eles disseram que eu mereci o presente já que fui responsável com minhas tarefas.
+Agora posso jogar com meus amigos nos fins de semana. O jogo novo é de corrida, meu favorito!
+Venha me visitar para jogarmos juntos.
+Abraço,
+Gustavo.
+Disponível em: <https://www.cartasinfantis.com.br>. Acesso em: 25 jul. 2025.
+Pergunta:
+De acordo com o texto, Gustavo ganhou um videogame porque
+Opções:
+   a) ele gosta muito de jogos de corrida.
+-> b) ele ajudou bastante em casa durante as férias.
+   c) ele pode jogar com os amigos nos fins de semana.
+   d) ele quer que Miguel vá visitá-lo.
+Justificativas:
+a) INCORRETA. Os estudantes que marcaram esta alternativa confundiram uma preferência pessoal com a razão do presente. Embora seja verdade, não explica o motivo do ganho do videogame.
+b) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal marcada pelas conjunções 'porque' e 'já que', compreendendo que a ajuda em casa foi o motivo do presente.
+c) INCORRETA. Esta alternativa apresenta uma possibilidade após ganhar o presente, não a causa. Os estudantes demonstraram dificuldade em distinguir causa e consequência.
+d) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em um convite futuro que não tem relação com o motivo de ter ganhado o videogame.
+
+--------------------------------------------------------------------------------

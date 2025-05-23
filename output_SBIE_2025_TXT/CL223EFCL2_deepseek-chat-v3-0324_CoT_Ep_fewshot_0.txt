@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Sofia,
+estou escrevendo para contar que ganhei um novo patins! A professora disse que eu mereci porque fui a aluna com melhor comportamento no mês.
+Minha mãe ficou tão feliz que me prometeu um sorvete se eu continuar assim.
+Você também ganhou algum presente da sua professora?
+Escreva logo!
+Beijos,
+Júlia.
+Disponível em: <https://www.exemplo.com.br>. Acesso em: 05 abr. 2025.
+Pergunta:
+De acordo com o texto, Júlia ganhou um patins porque
+Opções:
+-> a) (   ) foi a aluna com melhor comportamento no mês.
+   b) (   ) sua mãe prometeu um sorvete.
+   c) (   ) estava aprendendo a patinar.
+   d) (   ) queria contar a novidade para Sofia.
+Justificativas:
+a) GABARITO
+Os estudantes que marcaram esta alternativa compreenderam corretamente a relação causal estabelecida pela conjunção 'porque', identificando que o bom comportamento foi a razão do prêmio. Demonstram domínio da função dessa conjunção para articular causa e consequência no texto.
+b) INCORRETA
+Os estudantes que optaram por essa alternativa confundiram a relação causal. Embora o sorvete seja uma informação presente no texto, ele é uma consequência futura (condicional), não a causa do patins. Revela dificuldade em distinguir relações temporais de causais.
+c) INCORRETA
+Essa alternativa introduz uma informação não apresentada no texto (aprender a patinar). Estudantes que a assinalaram provavelmente fizeram inferências equivocadas sem apoio textual, não atendendo ao que é solicitado no comando.
+d) INCORRETA
+Embora o texto seja uma carta para Sofia, o ato de contar a novidade não é a causa do prêmio. Essa escolha indica que o estudante não identificou a conjunção causal nem a informação relevante para a questão.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Pedro,
+Espero que você esteja bem! Escrevo para contar uma novidade emocionante: no último sábado, nosso time de futebol da escola ganhou o campeonato regional! Durante um mês inteiro, treinamos três vezes por semana, praticando passes e chutes. Por isso, na hora dos jogos, estávamos super preparados e vencemos todas as partidas! No último jogo, até choveu muito, mas isso não nos atrapalhou. O treinador ficou tão orgulhoso que nos deu um troféu especial.
+E aí, como está seu time aí na sua cidade?
+Um abraço forte,
+Lucas
+São Paulo, 20 de outubro de 2023
+Pergunta:
+Por que o time de Lucas ganhou o campeonato?
+Opções:
+   a) Porque o último jogo foi na chuva
+-> b) Porque treinaram muito durante um mês
+   c) Porque o treinador deu um troféu
+   d) Porque praticaram passes e chutes
+Justificativas:
+a) Incorreta. A chuva é mencionada como um obstáculo superado, não como causa da vitória. O texto diz explicitamente que 'isso não nos atrapalhou'.
+b) Correta. A conjunção 'por isso' estabelece relação causal entre o treinamento intensivo (causa) e o resultado do campeonato (consequência), conforme aparece no quarto período do texto.
+c) Incorreta. O troféu foi uma consequência da vitória, não sua causa. A recompensa veio após o sucesso no campeonato.
+d) Incorreta. Embora os passes e chutes façam parte do treinamento, o texto destaca a duração e frequência dos ensaios ('um mês inteiro, três vezes por semana') como fator causal principal.
+
+--------------------------------------------------------------------------------

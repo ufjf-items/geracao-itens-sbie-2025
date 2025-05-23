@@ -208,14 +208,20 @@ def iniciar(id_tarefa, output, session_id ="user123", CoT = False, Ep = False, f
 import json
 
 def transformar_json_em_txt(caminho_json, caminho_txt):
+    
     with open(caminho_json, 'r', encoding='utf-8') as f:
 
-        andamento = f.read()
+        texto = f.read()
 
-        andamento = andamento.replace("json", "")
-        andamento = andamento.replace("```", "")
+        inicio = texto.find("```json")
+        fim = texto.find("```", inicio + 7)  # 7 = len("```json")
 
-        dados = json.loads(andamento)
+        if inicio == -1 or fim == -1:
+            raise ValueError("Delimitadores ```json e ``` não encontrados.")
+
+        json_str = texto[inicio + 7:fim].strip()  # Extrai o JSON puro
+
+        dados = json.loads(json_str)
 
     linhas = []
 
@@ -253,9 +259,11 @@ if __name__ == "__main__":
 
     
     modelos = [
-        #"gemini-2.0-flash",
+        "gemini-2.0-flash",
         #"deepseek-r1:free"
-        "openai/gpt-4.1"
+        #"openai/gpt-4.1"
+        #"openai/o3"
+        #"deepseek/deepseek-chat-v3-0324"
         
     ]
 
@@ -273,13 +281,12 @@ if __name__ == "__main__":
     for modelo in modelos:
         # Define o modelo para cada rodada
 
-        # if modelo == "gemini-2.0-flash":
-        #     llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0, verbose=True)
-        # elif modelo == "deepseek-r1:free":
-        #     llm = ChatOpenRouter(model_name=f"deepseek/{modelo}", temperature=0.0, top_p=1.0)
+        if modelo == "gemini-2.0-flash":
+            llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0, verbose=True)
+        elif modelo == "deepseek-r1:free":
+            llm = ChatOpenRouter(model_name=modelo, temperature=0.0, top_p=1.0)
 
-        llm = ChatOpenRouter(model_name= modelo, temperature=0.0, top_p=1.0)
-
+        
         
         chain = prompt | llm
 

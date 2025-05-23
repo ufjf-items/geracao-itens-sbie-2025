@@ -1,0 +1,51 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querido João,
+Estou escrevendo para contar uma novidade! Ganhei um tablet novo porque fui o melhor aluno da turma no último bimestre. Minha professora explicou que eu mereci o prêmio já que me esforcei muito em todas as matérias.
+Agora posso usar o tablet para estudar e também para jogar nos momentos de lazer. Ele tem uma tela grande e muitos aplicativos legais!
+Quando você vier aqui em casa, vamos testar juntos.
+Abraços,
+Pedro.
+Disponível em: <https://www.cartasamigos.com.br>. Acesso em: 30 ago. 2025.
+Pergunta:
+De acordo com o texto, Pedro ganhou um tablet porque
+Opções:
+-> a) ele foi o melhor aluno da turma no último bimestre.
+   b) o tablet tem uma tela grande e muitos aplicativos.
+   c) ele quer que João vá à sua casa para testarem juntos.
+   d) a professora explicou sobre os aplicativos do tablet.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal marcada pela conjunção 'porque', compreendendo que o bom desempenho escolar foi o motivo do prêmio.
+b) INCORRETA. Os estudantes que marcaram esta alternativa confundiram características do presente com a razão de tê-lo recebido. Embora seja informação do texto, não estabelece relação causal.
+c) INCORRETA. Esta alternativa apresenta um plano futuro que não tem relação com o motivo de ter ganhado o tablet. Os estudantes demonstraram dificuldade em identificar a causa principal.
+d) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em uma informação secundária que não explica o motivo do prêmio.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Luísa,
+Estou muito feliz porque meus pais me levaram ao zoológico no domingo! Eles disseram que eu merecia esse passeio pois terminei toda a lição de casa da semana antes do prazo.
+Vimos muitos animais legais, mas o que mais gostei foi o leão. Ele era enorme e tinha uma juba linda!
+Na volta, paramos para tomar sorvete. Foi um dia perfeito!
+Beijos,
+Mariana.
+Disponível em: <https://www.cartinhas.com.br>. Acesso em: 05 set. 2025.
+Pergunta:
+De acordo com o texto, Mariana foi ao zoológico porque
+Opções:
+   a) ela adorou ver o leão no zoológico.
+-> b) ela terminou toda a lição de casa antes do prazo.
+   c) eles pararam para tomar sorvete na volta.
+   d) o domingo foi um dia perfeito para passear.
+Justificativas:
+a) INCORRETA. Os estudantes que marcaram esta alternativa confundiram uma parte do passeio com a razão de ter ido ao zoológico. Embora seja informação do texto, não explica a causa do passeio.
+b) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal marcada pela conjunção 'pois', compreendendo que a conclusão da lição foi o motivo do passeio.
+c) INCORRETA. Esta alternativa apresenta um detalhe do que aconteceu depois do passeio, não a razão para ter ido ao zoológico. Os estudantes demonstraram dificuldade em distinguir eventos sequenciais de relações causais.
+d) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em uma avaliação subjetiva do dia, que não explica o motivo concreto do passeio.
+
+--------------------------------------------------------------------------------

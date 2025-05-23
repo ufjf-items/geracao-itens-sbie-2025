@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida professora,
+
+Escrevo para explicar por que não fiz o dever de casa ontem. Meu irmão mais novo estava com sarampo e precisei ajudar minha mãe a cuidar dele, pois ela estava muito cansada. Por isso, não tive tempo de fazer as atividades. Prometo entregar tudo amanhã, já que ele já está melhor.
+
+Atenciosamente,
+Mariana
+
+Curitiba, 20 de agosto de 2023.
+Pergunta:
+No trecho 'não fiz o dever de casa ontem. Meu irmão mais novo estava com sarampo e precisei ajudar minha mãe a cuidar dele, pois ela estava muito cansada', a expressão 'pois' indica uma relação de causalidade. Qual foi a principal razão pela qual Mariana não fez o dever de casa?
+Opções:
+   a) Ela estava muito cansada.
+-> b) Seu irmão estava com sarampo e ela precisou ajudar a cuidar dele.
+   c) Ela prometeu entregar tudo amanhã.
+   d) Sua mãe estava muito ocupada.
+Justificativas:
+a) Esta opção menciona o cansaço da mãe, que é uma informação do texto, mas não a causa principal pela qual Mariana não fez o dever.
+b) Esta é a resposta correta, pois o texto mostra claramente que a razão principal foi a doença do irmão e a necessidade de ajudar nos cuidados, conforme a relação causal introduzida por 'pois'.
+c) Esta opção fala sobre uma promessa futura, não sobre a causa de não ter feito o dever.
+d) Embora a mãe estivesse ocupada, o texto especifica que a causa principal foi a doença do irmão e a necessidade de ajudar nos cuidados.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,62 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Querido Lucas,\nestou muito animado porque ganhei uma bicicleta nova! Meu pai disse que eu mereci pois tirei notas altas em todas as matérias.\nMinha professora ficou tão orgulhosa que me deu um livro de histórias.\nVocê também ganhou algum presente por ter estudado?\nMe conta tudo!\nAbraços,\nPedro.\nDisponível em: <https://www.exemplocarta.com.br>. Acesso em: 10 abr. 2025.",
+      "Comando 2": "De acordo com o texto, Pedro ganhou uma bicicleta nova porque",
+      "Opções": {
+        "a": "(   ) tirou notas altas em todas as matérias.",
+        "b": "(   ) sua professora ficou orgulhosa.",
+        "c": "(   ) estava aprendendo a andar de bicicleta.",
+        "d": "(   ) queria contar a novidade para Lucas."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "GABARITO\nOs estudantes que marcaram esta alternativa identificaram corretamente a relação causal marcada pela conjunção 'pois', demonstrando compreensão de que as boas notas foram a razão para ganhar a bicicleta. Reconhecem a função dessa conjunção para expressar causa e consequência.",
+        "b": "INCORRETA\nOs estudantes que escolheram esta alternativa confundiram relações diferentes no texto. Embora a professora tenha ficado orgulhosa, isso foi uma consequência paralela, não a causa da bicicleta. Mostra dificuldade em distinguir relações concomitantes de causais.",
+        "c": "INCORRETA\nEsta alternativa apresenta uma informação que não consta no texto (aprender a andar de bicicleta). Estudantes que a marcaram provavelmente fizeram inferências sem base no conteúdo apresentado, desviando do foco da questão.",
+        "d": "INCORRETA\nApesar de o texto ser uma carta para Lucas, o objetivo de contar a novidade não é a causa do prêmio. Essa escolha indica que o estudante não identificou a relação causal solicitada, focando em outro aspecto discursivo."
+      },
+      "->": [
+        "1. Mantive o gênero carta pessoal infantil por sua adequação ao público-alvo",
+        "2. Utilizei períodos curtos com vocabulário cotidiano ('bicicleta', 'notas altas')",
+        "3. Inseri a conjunção 'pois' como marcador causal alternativo a 'porque'",
+        "4. Construí distratores com: informação paralela (b), inferência sem base (c) e relação discursiva diferente (d)",
+        "5. Organizei as alternativas em ordem alfabética para padronização"
+      ]
+    }
+  ]
+}
+```
+
+### Linha de raciocínio detalhada:
+
+1. **Adaptação do gênero**: Mantive a carta pessoal infantil, mas alterei o tema para "boas notas escolares", mantendo a relevância para o universo do aluno e a estrutura canônica do gênero (saudação, desenvolvimento, despedida).
+
+2. **Complexidade linguística**:
+   - Utilizei períodos ainda mais curtos (máximo 1,5 linhas)
+   - Introduzi a conjunção "pois" como variante de "porque" para ampliar o repertório de marcadores causais
+   - Mantive vocabulário simples e cotidiano ("bicicleta", "notas altas")
+
+3. **Relação causal principal**:
+   - Estabeleci claramente a estrutura "ganhei X pois Y" para evidenciar a relação causa-efeito
+   - Posicionei a conjunção causal no meio do período principal para testar o reconhecimento em diferentes posições sintáticas
+
+4. **Estrutura da questão**:
+   - Comando 2 enfatiza o efeito ("ganhou uma bicicleta") para direcionar a identificação da causa
+   - Alternativa correta (a) parafraseia diretamente o segmento após "pois"
+
+5. **Distratores melhorados**:
+   - (b) Relação real mas não causal (consequência paralela)
+   - (c) Informação externa ao texto para testar inferências indevidas
+   - (d) Foco no propósito comunicativo (não na causalidade)
+
+6. **Justificativas ampliadas**:
+   - No gabarito, destaquei o reconhecimento de "pois" como variante causal
+   - Nos distratores, especifiquei melhor os tipos de equívocos (relações paralelas vs. causais)
+   - Incluí exemplos concretos de cada tipo de erro na análise das justificativas
+
+Esta versão mantém os critérios da BNCC enquanto diversifica os marcadores causais e aprimora a análise dos possíveis erros, adequando-se ainda mais ao desenvolvimento cognitivo de estudantes do 5º ano.

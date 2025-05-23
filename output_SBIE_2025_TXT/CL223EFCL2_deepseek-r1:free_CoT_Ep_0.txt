@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade em textos
+Comando: Leia o texto.
+Texto de Suporte:
+Carta de João para sua avó
+Rio de Janeiro, 15 de março de 2024
+Querida vovó,
+Estou muito feliz porque ganhei um novo cachorro! Ele se chama Bolinha e é muito brincalhão. Ontem, ele quebrou o vaso da sala, já que correu atrás do gato. Mamãe ficou brava, mas logo perdoou ele. Por isso, vamos colocar um portãozinho na cozinha.
+Espero que você venha conhecer meu novo amigo!
+Beijos,
+João
+Pergunta:
+Por que o vaso da sala quebrou?
+Opções:
+   a) Porque João ganhou um cachorro
+-> b) Porque Bolinha correu atrás do gato
+   c) Porque a mãe ficou brava
+   d) Porque colocaram um portão
+Justificativas:
+a) Incorreta. A posse do cachorro é motivo de alegria, mas não está relacionada à quebra do vaso. O texto usa 'porque' para explicar a felicidade, não o acidente.
+b) Correta. A conjunção 'já que' conecta diretamente a ação do cachorro (correr atrás do gato) como causa da quebra do vaso no terceiro período do texto.
+c) Incorreta. A reação da mãe é consequência do ocorrido, não sua causa. O texto mostra que ela ficou brava 'mas logo perdoou' após o acidente.
+d) Incorreta. A instalação do portão é uma medida preventiva mencionada como consequência do ocorrido ('por isso'), não a causa do problema.
+
+--------------------------------------------------------------------------------

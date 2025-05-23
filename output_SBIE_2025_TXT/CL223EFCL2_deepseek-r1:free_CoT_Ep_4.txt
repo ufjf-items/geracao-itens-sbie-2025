@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Sofia,
+Salvador, 10 de julho de 2024
+Oi amiga! Sinto muito por não ter ido ao seu aniversário. No dia da festa, acordei com febre alta. Minha mãe disse que precisava ficar em casa pois o médico recomendou repouso total. Por isso, não pude participar das brincadeiras. Mas mandei um presente especial com meu irmão! Espero que você tenha gostado.
+Beijos,
+Laura
+Pergunta:
+Por que Laura não foi à festa de Sofia?
+Opções:
+   a) Porque teve febre alta
+-> b) Porque o médico recomendou repouso
+   c) Porque mandou um presente
+   d) Porque sua mãe não deixou
+Justificativas:
+a) Incorreta. A febre motivou a consulta médica, mas a causa direta da ausência está explicitada após o conectivo 'pois'.
+b) Correta. A conjunção 'pois' conecta a recomendação médica (causa) à decisão de ficar em casa (consequência) no terceiro período.
+c) Incorreta. O envio do presente foi uma ação posterior para compensar a ausência, não a razão da não participação.
+d) Incorreta. A decisão da mãe decorreu da orientação médica, sendo esta a causa primária expressa pelo conectivo.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,57 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Querida Sofia,\nestou escrevendo para contar que ganhei um novo patins! A professora disse que eu mereci porque fui a aluna com melhor comportamento no mês.\nMinha mãe ficou tão feliz que me prometeu um sorvete se eu continuar assim.\nVocê também ganhou algum presente da sua professora?\nEscreva logo!\nBeijos,\nJúlia.\nDisponível em: <https://www.exemplo.com.br>. Acesso em: 05 abr. 2025.",
+      "Comando 2": "De acordo com o texto, Júlia ganhou um patins porque",
+      "Opções": {
+        "a": "(   ) foi a aluna com melhor comportamento no mês.",
+        "b": "(   ) sua mãe prometeu um sorvete.",
+        "c": "(   ) estava aprendendo a patinar.",
+        "d": "(   ) queria contar a novidade para Sofia."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "GABARITO\nOs estudantes que marcaram esta alternativa compreenderam corretamente a relação causal estabelecida pela conjunção 'porque', identificando que o bom comportamento foi a razão do prêmio. Demonstram domínio da função dessa conjunção para articular causa e consequência no texto.",
+        "b": "INCORRETA\nOs estudantes que optaram por essa alternativa confundiram a relação causal. Embora o sorvete seja uma informação presente no texto, ele é uma consequência futura (condicional), não a causa do patins. Revela dificuldade em distinguir relações temporais de causais.",
+        "c": "INCORRETA\nEssa alternativa introduz uma informação não apresentada no texto (aprender a patinar). Estudantes que a assinalaram provavelmente fizeram inferências equivocadas sem apoio textual, não atendendo ao que é solicitado no comando.",
+        "d": "INCORRETA\nEmbora o texto seja uma carta para Sofia, o ato de contar a novidade não é a causa do prêmio. Essa escolha indica que o estudante não identificou a conjunção causal nem a informação relevante para a questão."
+      },
+      "->": [
+        "1. Selecionei o gênero carta por sua estrutura canônica e potencial temático infantil",
+        "2. Garanti períodos curtos com intercalações mínimas e vocabulário acessível",
+        "3. Inseri a conjunção 'porque' para marcar explicitamente a relação causal",
+        "4. Elaborei distratores com outras informações textuais (b), inferências sem base (c) e relações discursivas não causais (d)",
+        "5. Organizei as alternativas em ordem alfabética seguindo o padrão de itens avaliativos"
+      ]
+    }
+  ]
+}
+``` 
+
+### Linha de raciocínio detalhada:
+
+1. **Gênero textual**: Optei por uma carta pessoal infantil por ser um gênero que circula no campo da vida cotidiana, com estrutura canônica clara (saudação, corpo, despedida) e tema relevante para o público-alvo (prêmio escolar).
+
+2. **Complexidade textual**: Construí períodos simples (ex.: "A professora disse que...") com apenas uma intercalação breve ("se eu continuar assim"), respeitando o limite de 2 linhas por período e utilizando vocabulário cotidiano ("patins", "sorvete").
+
+3. **Marcador de causalidade**: Inseri a conjunção "porque" de forma proeminente para marcar a relação causa-efeito central ("ganhei... porque fui a aluna com melhor comportamento"), atendendo à habilidade EF05LP07.
+
+4. **Estrutura da questão**:
+   - Comando 1 segue o padrão imperativo ("Leia o texto")
+   - Comando 2 foca especificamente na consequência ("ganhou um patins") para direcionar a identificação da causa
+   - Alternativa correta (a) parafraseia diretamente o segmento causal do texto
+
+5. **Distratores**:
+   - (b) Informação real do texto, mas com relação temporal/condicional (não causal)
+   - (c) Informação externa ao texto que testa inferências indevidas
+   - (d) Relação discursiva (finalidade da carta) que não corresponde à causalidade solicitada
+
+6. **Justificativas**: Detalhei os conhecimentos específicos avaliados em cada alternativa, explicitando:
+   - No gabarito, o reconhecimento da função sintático-discursiva de "porque"
+   - Nos distratores, os equívocos mais prováveis (confusão entre relações lógicas, inferências sem base textual)
+
+Esta estrutura permite avaliar precisamente se os estudantes reconhecem relações causais marcadas por conjunções em textos do cotidiano, conforme previsto na BNCC para o 5º ano.

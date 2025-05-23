@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querida professora,
+
+Não pude fazer a lição de casa porque minha irmã ficou doente e precisei ajudar minha mãe. Ela teve febre alta, por isso fiquei cuidando dela a noite toda. Minha mãe disse que amanhã eu posso entregar a atividade, já que foi um imprevisto importante.
+
+Atenciosamente,
+Joana
+
+Belo Horizonte, 10 de abril de 2024
+Pergunta:
+Por que Joana não fez a lição de casa? Observe no texto a conjunção que indica essa relação de causa.
+Opções:
+   a) Porque ela estava brincando com amigos
+-> b) Pois sua irmã ficou doente
+   c) Já que era um imprevisto importante
+   d) Porque a professora permitiu
+Justificativas:
+a) Esta informação não aparece no texto e não corresponde à causa real mencionada.
+b) Resposta correta. O texto diz claramente 'Não pude fazer a lição de casa porque minha irmã ficou doente', mostrando a relação causal com a conjunção 'porque'.
+c) Embora seja verdade que foi um imprevisto importante (mencionado com 'já que'), esta é a justificativa para entregar depois, não a causa direta de não ter feito a lição.
+d) Esta informação não consta no texto e não explica a causa inicial.
+
+--------------------------------------------------------------------------------

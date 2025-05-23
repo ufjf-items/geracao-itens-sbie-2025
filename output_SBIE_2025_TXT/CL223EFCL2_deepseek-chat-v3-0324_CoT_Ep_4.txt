@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querido vovô,
+
+Não pude ir ao futebol no sábado porque choveu muito e o campo ficou alagado. O treinador cancelou o treino, por isso fiquei em casa ajudando a vovó. Ela disse que podemos jogar damas na próxima vez que chover, já que você me ensinou tão bem.
+
+Com saudades,
+Seu neto, Miguel
+
+Porto Alegre, 12 de junho de 2024
+Pergunta:
+Por que Miguel não foi ao futebol no sábado? Observe no texto a conjunção que indica essa relação de causa.
+Opções:
+   a) Porque estava cansado
+-> b) Pois choveu muito e o campo alagou
+   c) Já que o vovô ensinou a jogar damas
+   d) Porque preferiu ficar em casa
+Justificativas:
+a) Esta informação não aparece no texto - o motivo foi a chuva, não cansaço.
+b) Resposta correta. O texto afirma claramente 'Não pude ir ao futebol no sábado porque choveu muito e o campo ficou alagado', usando a conjunção 'porque' para marcar a relação causal.
+c) Embora seja verdade que o vovô ensinou a jogar damas (mencionado com 'já que'), esta não é a razão para ter faltado ao futebol.
+d) Esta interpretação é incorreta - a decisão de ficar em casa foi consequência, não causa do cancelamento.
+
+--------------------------------------------------------------------------------

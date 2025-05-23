@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Ana,
+Estou muito feliz porque ganhei um cachorrinho! Ele se chama Bob e é muito brincalhão. Minha mãe disse que eu poderia ter um animal de estimação já que cuidei tão bem do peixe que tivemos no ano passado.
+Agora, todas as manhãs, eu e Bob vamos passear no parque. Ele adora correr atrás de bolinhas e eu me divirto muito com ele.
+Espero que você possa conhecê-lo em breve!
+Com carinho,
+Lucas.
+Disponível em: <https://www.exemplo.com.br>. Acesso em: 10 abr. 2025.
+Pergunta:
+De acordo com o texto, Lucas ganhou um cachorrinho porque
+Opções:
+   a) ele e Bob vão passear no parque todas as manhãs.
+-> b) sua mãe disse que ele cuidou bem do peixe que tiveram no ano passado.
+   c) Bob adora correr atrás de bolinhas.
+   d) ele quer que Ana conheça o cachorrinho em breve.
+Justificativas:
+a) INCORRETA. Os estudantes que assinalaram esta alternativa identificaram uma ação rotineira de Lucas com o cachorro, mas não a causa que levou ao presente. Apesar de ser uma informação do texto, não estabelece relação causal com o ganho do animal.
+b) GABARITO. Os estudantes que assinalaram esta alternativa reconheceram corretamente a relação de causalidade marcada pela conjunção 'já que'. Compreenderam que o cuidado com o peixe foi o motivo pelo qual Lucas ganhou o cachorrinho.
+c) INCORRETA. Os estudantes que escolheram esta alternativa se basearam em uma característica do cachorro, que não tem relação com a causa do presente. Demonstra dificuldade em identificar relações lógico-discursivas.
+d) INCORRETA. Esta alternativa traz um desejo futuro de Lucas, que não está relacionado à causa do ganho do cachorrinho. Os estudantes que a marcaram possivelmente confundiram informações do texto.
+
+--------------------------------------------------------------------------------

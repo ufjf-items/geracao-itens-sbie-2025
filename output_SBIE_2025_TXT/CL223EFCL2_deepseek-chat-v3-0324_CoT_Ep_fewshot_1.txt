@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Lucas,
+estou muito animado porque ganhei uma bicicleta nova! Meu pai disse que eu mereci pois tirei notas altas em todas as matérias.
+Minha professora ficou tão orgulhosa que me deu um livro de histórias.
+Você também ganhou algum presente por ter estudado?
+Me conta tudo!
+Abraços,
+Pedro.
+Disponível em: <https://www.exemplocarta.com.br>. Acesso em: 10 abr. 2025.
+Pergunta:
+De acordo com o texto, Pedro ganhou uma bicicleta nova porque
+Opções:
+-> a) (   ) tirou notas altas em todas as matérias.
+   b) (   ) sua professora ficou orgulhosa.
+   c) (   ) estava aprendendo a andar de bicicleta.
+   d) (   ) queria contar a novidade para Lucas.
+Justificativas:
+a) GABARITO
+Os estudantes que marcaram esta alternativa identificaram corretamente a relação causal marcada pela conjunção 'pois', demonstrando compreensão de que as boas notas foram a razão para ganhar a bicicleta. Reconhecem a função dessa conjunção para expressar causa e consequência.
+b) INCORRETA
+Os estudantes que escolheram esta alternativa confundiram relações diferentes no texto. Embora a professora tenha ficado orgulhosa, isso foi uma consequência paralela, não a causa da bicicleta. Mostra dificuldade em distinguir relações concomitantes de causais.
+c) INCORRETA
+Esta alternativa apresenta uma informação que não consta no texto (aprender a andar de bicicleta). Estudantes que a marcaram provavelmente fizeram inferências sem base no conteúdo apresentado, desviando do foco da questão.
+d) INCORRETA
+Apesar de o texto ser uma carta para Lucas, o objetivo de contar a novidade não é a causa do prêmio. Essa escolha indica que o estudante não identificou a relação causal solicitada, focando em outro aspecto discursivo.
+
+--------------------------------------------------------------------------------

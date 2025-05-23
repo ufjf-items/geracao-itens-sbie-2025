@@ -1,0 +1,51 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Clara,
+Estou muito contente porque consegui meu primeiro diploma de natação! O professor disse que eu me dediquei muito e por isso mereci a conquista. Ele explicou que eu evolui rápido porque nunca faltava às aulas e sempre praticava os exercícios.
+Agora posso nadar na piscina grande do clube e participar das competições. Minha próxima meta é aprender o estilo borboleta!
+Vamos comemorar no sábado? Você está convidada!
+Abraços,
+Gabriel.
+Disponível em: <https://www.cartasamigos.com.br>. Acesso em: 10 out. 2025.
+Pergunta:
+De acordo com o texto, Gabriel conseguiu o diploma de natação porque
+Opções:
+   a) ele pode nadar na piscina grande do clube agora.
+-> b) ele nunca faltava às aulas e sempre praticava os exercícios.
+   c) sua próxima meta é aprender o estilo borboleta.
+   d) ele quer comemorar com Clara no sábado.
+Justificativas:
+a) INCORRETA. Os estudantes que marcaram esta alternativa confundiram um benefício da conquista com sua causa. Embora seja verdade, não explica o motivo do diploma.
+b) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal marcada pela conjunção 'porque', compreendendo que a dedicação e prática foram os motivos do sucesso.
+c) INCORRETA. Esta alternativa apresenta um objetivo futuro que não tem relação com a conquista do diploma. Os estudantes demonstraram dificuldade em identificar a causa principal.
+d) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em um plano de comemoração que não explica o motivo da conquista.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Lucas,
+Estou escrevendo para contar que ganhei uma medalha na feira de ciências! A professora escolheu meu projeto porque ele era muito criativo e bem pesquisado. Ela disse que eu mereci o prêmio já que trabalhei duro durante dois meses.
+Meu projeto era sobre energia solar e como podemos usá-la em casa. Agora vou apresentá-lo na feira regional!
+Quando nos vermos, te conto todos os detalhes.
+Abraço,
+Marina.
+Disponível em: <https://www.cartaseducativas.com.br>. Acesso em: 15 nov. 2025.
+Pergunta:
+De acordo com o texto, Marina ganhou a medalha porque
+Opções:
+   a) seu projeto era sobre energia solar.
+   b) ela vai apresentar o projeto na feira regional.
+-> c) o projeto era criativo e bem pesquisado.
+   d) ela quer contar os detalhes para Lucas.
+Justificativas:
+a) INCORRETA. Os estudantes que marcaram esta alternativa confundiram o tema do projeto com a razão do prêmio. Embora seja informação relevante, não explica diretamente a conquista.
+b) INCORRETA. Esta alternativa apresenta uma consequência da premiação, não sua causa. Os estudantes demonstraram dificuldade em distinguir causa e efeito.
+c) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal marcada pela conjunção 'porque', compreendendo que a qualidade do projeto foi o motivo da medalha.
+d) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em um plano futuro de conversa que não tem relação com o motivo da premiação.
+
+--------------------------------------------------------------------------------

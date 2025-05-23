@@ -1,0 +1,71 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Querida Clara,\nestou escrevendo para contar que ganhei um passeio no zoológico! Meus avós disseram que eu mereci visto que ajudei muito em casa nas férias.\nMinha mãe até me deu um livro sobre animais como presente extra.\nVocê já visitou o zoológico este ano?\nMe conta como foi!\nBeijos,\nJoão.\nDisponível em: <https://www.cartasinfantis.com.br>. Acesso em: 25 jul. 2025.",
+      "Comando 2": "De acordo com o texto, João ganhou um passeio no zoológico porque",
+      "Opções": {
+        "a": "(   ) ajudou muito em casa nas férias.",
+        "b": "(   ) ganhou um livro sobre animais.",
+        "c": "(   ) sempre gostou de visitar zoológicos.",
+        "d": "(   ) queria contar a novidade para Clara."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "GABARITO\nOs estudantes que marcaram esta alternativa identificaram corretamente a relação causal marcada pela locução conjuntiva 'visto que', demonstrando compreensão de que a ajuda em casa foi a razão para ganhar o passeio. Reconhecem a função dessa conjunção para expressar causa e consequência.",
+        "b": "INCORRETA\nOs estudantes que escolheram esta alternativa confundiram relações diferentes no texto. Embora o livro seja uma informação real, ele é um presente adicional, não a causa do passeio. Mostra dificuldade em distinguir relações paralelas de causais.",
+        "c": "INCORRETA\nEsta alternativa apresenta uma informação que não consta no texto (sempre gostou de zoológicos). Estudantes que a marcaram provavelmente fizeram inferências pessoais sem base no conteúdo apresentado.",
+        "d": "INCORRETA\nApesar de o texto ser uma carta para Clara, o objetivo de contar a novidade não é a causa do prêmio. Essa escolha indica que o estudante não identificou a relação causal solicitada."
+      },
+      "->": [
+        "1. Mantive a estrutura de carta pessoal com tema familiar relevante",
+        "2. Introduzi a locução conjuntiva 'visto que' como nova variante causal",
+        "3. Utilizei vocabulário cotidiano ('zoológico', 'ajudar em casa')",
+        "4. Construí distratores que testam: confusão entre presentes (b), preferências pessoais (c) e finalidade comunicativa (d)",
+        "5. Organizei as alternativas seguindo a ordem de aparecimento no texto"
+      ]
+    }
+  ]
+}
+```
+
+### Linha de raciocínio detalhada:
+
+1. **Inovação temática**:
+   - Introduzi um passeio no zoológico como recompensa, tema atraente para crianças
+   - Mantive o contexto familiar (ajuda nas tarefas domésticas) como motivo do prêmio
+   - Incluí avós como agentes da recompensa, ampliando o círculo familiar
+
+2. **Diversificação linguística**:
+   - Utilizei a locução conjuntiva "visto que" como mais uma variação de marcador causal
+   - Mantive períodos curtos (máximo 1,5 linhas) com estrutura simples
+   - Empreguei vocabulário concreto e acessível ("zoológico", "ajudar em casa")
+
+3. **Relação causal**:
+   - Estabeleci claramente a estrutura "ganhei X visto que Y"
+   - Posicionei a locução no meio da oração principal
+   - Incluí um presente adicional (livro) para testar discernimento
+
+4. **Estrutura da questão**:
+   - Comando direto focando no efeito ("ganhou um passeio no zoológico")
+   - Alternativa correta reproduz a causa exata após "visto que"
+   - Distratores avaliam diferentes tipos de compreensão
+
+5. **Distratores aprimorados**:
+   - (b) Presente real mas não causal
+   - (c) Preferência pessoal não mencionada
+   - (d) Finalidade comunicativa da carta
+
+6. **Justificativas completas**:
+   - No gabarito, enfoque no reconhecimento de "visto que"
+   - Análise específica de cada tipo de erro nos distratores
+   - Relação clara com as habilidades de leitura avaliadas
+
+Esta questão mantém todos os requisitos da BNCC enquanto:
+- Apresenta nova locução conjuntiva causal
+- Explora contexto familiar ampliado (avós)
+- Utiliza tema recreativo como motivação
+- Testa a compreensão de múltiplas relações no texto

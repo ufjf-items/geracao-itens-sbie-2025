@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Ana,
+Recife, 5 de junho de 2024
+Oi amiga! Hoje aconteceu algo engraçado na escola. Fomos ao zoológico e o Miguel ficou todo molhado! Ele esqueceu o guarda-chuva porque estava com pressa de pegar o ônibus. Já que choveu muito, todos riram quando ele apareceu pingando. Por isso, a professora deu uma toalha pra ele secar. No final, até vimos um leão branco super raro!
+Beijos,
+Carlos
+Pergunta:
+Por que Miguel ficou todo molhado no passeio?
+Opções:
+   a) Porque viu um leão branco
+-> b) Porque esqueceu o guarda-chuva
+   c) Porque a professora deu uma toalha
+   d) Porque estava com pressa
+Justificativas:
+a) Incorreta. O leão branco é um detalhe do passeio, mas não tem relação causal com o fato de Miguel se molhar.
+b) Correta. A conjunção 'porque' liga diretamente o esquecimento do guarda-chuva (causa) ao fato de Miguel ficar molhado (consequência) no terceiro período.
+c) Incorreta. A toalha foi uma consequência para resolver o problema, não a causa do ocorrido.
+d) Incorreta. A pressa explica o esquecimento do guarda-chuva, mas a causa direta da situação foi a falta do objeto de proteção contra a chuva.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Ana,
+estou escrevendo para contar uma novidade incrível! Ganhei um cachorrinho porque cuidei muito bem do nosso jardim durante as férias.
+Minha avó disse que eu fui responsável e por isso mereci este presente.
+Você também gostaria de ter um animal de estimação?
+Me conta sua opinião!
+Beijos,
+Carlos.
+Disponível em: <https://www.cartasinfantis.com.br>. Acesso em: 15 maio 2025.
+Pergunta:
+De acordo com o texto, Carlos ganhou um cachorrinho porque
+Opções:
+-> a) (   ) cuidei muito bem do nosso jardim durante as férias.
+   b) (   ) sua avó achou que ele merecia.
+   c) (   ) sempre quis ter um animal de estimação.
+   d) (   ) queria contar a novidade para Ana.
+Justificativas:
+a) GABARITO
+Os estudantes que marcaram esta alternativa compreenderam corretamente a relação causal estabelecida pela conjunção 'porque', identificando que os cuidados com o jardim foram a razão do presente. Demonstram domínio da função dessa conjunção para articular causa e consequência no texto.
+b) INCORRETA
+Os estudantes que optaram por essa alternativa confundiram a relação causal. Embora a avó tenha considerado que ele merecia, isso foi uma avaliação posterior, não a causa inicial do presente. Revela dificuldade em distinguir avaliações de causas diretas.
+c) INCORRETA
+Esta alternativa apresenta uma informação que não consta no texto (sempre quis ter um animal). Estudantes que a assinalaram provavelmente fizeram inferências pessoais sem base no conteúdo apresentado.
+d) INCORRETA
+Embora o texto seja uma carta para Ana, o ato de contar a novidade não é a causa do presente. Essa escolha indica que o estudante não identificou a conjunção causal nem a informação relevante para a questão.
+
+--------------------------------------------------------------------------------

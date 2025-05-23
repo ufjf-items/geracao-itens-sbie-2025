@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Querido amigo João,
+
+Estou muito triste porque não pude ir à sua festa de aniversário. Minha avó ficou doente e precisei ajudá-la, pois ela mora sozinha. Por isso, fiquei cuidando dela o dia todo. Mas quero te dar um presente especial quando nos vermos!
+
+Abraços,
+Carlos
+
+Rio de Janeiro, 5 de maio de 2023.
+Pergunta:
+No trecho 'Estou muito triste porque não pude ir à sua festa de aniversário', a expressão 'porque' indica uma relação de causalidade. Qual foi o motivo de Carlos não ter ido à festa?
+Opções:
+   a) Ele estava muito triste.
+-> b) Sua avó ficou doente e ele precisou cuidar dela.
+   c) Ele quer dar um presente especial quando se encontrarem.
+   d) Sua avó mora sozinha.
+Justificativas:
+a) Esta opção menciona um estado emocional de Carlos, que é consequência de não ter ido à festa, não a causa.
+b) Esta é a resposta correta, pois o texto afirma claramente que a razão para não ter ido à festa foi a doença da avó e a necessidade de cuidar dela, conforme a relação causal introduzida por 'porque'.
+c) Esta opção fala sobre um plano futuro, não sobre a causa da ausência na festa.
+d) Embora seja verdade que a avó mora sozinha, esta é uma informação adicional, não a causa principal mencionada no trecho destacado.
+
+--------------------------------------------------------------------------------

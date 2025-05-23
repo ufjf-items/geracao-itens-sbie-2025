@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Rio de Janeiro, 10 de abril de 2024.
+
+Querido Pedro,
+
+Como vai? Desculpe não ter ido ao seu jogo de futebol ontem. Machuquei meu tornozelo porque escorreguei na escada. Fiquei de repouso o dia todo, mas à noite assisti um filme com minha irmã. Também terminei meu projeto de ciências antes de me machucar.
+
+Abraços,
+Lucas
+Pergunta:
+Por qual motivo Lucas não foi ao jogo de futebol? Identifique a conjunção que mostra a causa no texto.
+Opções:
+   a) Porque terminou seu projeto de ciências
+   b) Porque assistiu um filme à noite
+-> c) Porque escorregou na escada
+   d) Porque a carta foi escrita no Rio
+Justificativas:
+a) Incorreto. O projeto foi concluído antes do acidente, não sendo a causa da ausência no jogo.
+b) Incorreto. Assistir filme foi uma ação posterior à recuperação, não relacionada ao motivo principal.
+c) Correto. A conjunção 'porque' conecta diretamente o acidente na escada com a lesão que impediu a presença no jogo.
+d) Incorreto. O local da carta não tem relação causal com o fato narrado.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Querida professora,\n\nNão pude fazer a lição de casa porque minha irmã ficou doente e precisei ajudar minha mãe. Ela teve febre alta, por isso fiquei cuidando dela a noite toda. Minha mãe disse que amanhã eu posso entregar a atividade, já que foi um imprevisto importante.\n\nAtenciosamente,\nJoana\n\nBelo Horizonte, 10 de abril de 2024",
+      "Comando 2": "Por que Joana não fez a lição de casa? Observe no texto a conjunção que indica essa relação de causa.",
+      "Opções": {
+        "a": "Porque ela estava brincando com amigos",
+        "b": "Pois sua irmã ficou doente",
+        "c": "Já que era um imprevisto importante",
+        "d": "Porque a professora permitiu"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Esta informação não aparece no texto e não corresponde à causa real mencionada.",
+        "b": "Resposta correta. O texto diz claramente 'Não pude fazer a lição de casa porque minha irmã ficou doente', mostrando a relação causal com a conjunção 'porque'.",
+        "c": "Embora seja verdade que foi um imprevisto importante (mencionado com 'já que'), esta é a justificativa para entregar depois, não a causa direta de não ter feito a lição.",
+        "d": "Esta informação não consta no texto e não explica a causa inicial."
+      },
+      "->": "1) Mantive o gênero carta com estrutura canônica adequada ao público infantil\n2) Escolhi tema do cotidiano escolar (lição de casa) com situação familiar\n3) Utilizei três conjunções de causalidade diferentes (porque, por isso, já que)\n4) Foquei a pergunta na relação causal mais explícita (porque)\n5) Criei distratores com informações não relacionadas ou secundárias\n6) Organizei os distratores em ordem alfabética"
+    }
+  ]
+}
+```

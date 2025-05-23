@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas
+Comando: Leia o texto.
+Texto de Suporte:
+Querida mamãe,
+
+Hoje não almocei na escola porque esqueci meu lanche em casa. A tia Maria me deu uma fruta, por isso não fiquei com muita fome. Amanhã vou colocar o lanche na mochila assim que acordar, já que você sempre me avisa para não esquecer.
+
+Te amo,
+Sofia
+
+Curitiba, 20 de agosto de 2024
+Pergunta:
+Por que Sofia não almoçou na escola hoje? Observe no texto a conjunção que indica essa relação de causa.
+Opções:
+   a) Porque não gostava da comida da escola
+-> b) Pois esqueceu o lanche em casa
+   c) Já que a tia Maria deu uma fruta
+   d) Porque estava sem fome
+Justificativas:
+a) Esta informação não aparece no texto - o motivo foi o esquecimento do lanche, não uma preferência alimentar.
+b) Resposta correta. O texto afirma claramente 'não almocei na escola porque esqueci meu lanche em casa', usando a conjunção 'porque' para marcar a relação causal.
+c) Embora seja verdade que a tia Maria deu uma fruta (mencionado com 'por isso'), esta foi a consequência, não a causa de não ter almoçado.
+d) Esta informação é incorreta - o texto diz que ela não ficou com muita fome por ter comido a fruta, não que estava sem fome inicialmente.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Querido tio,
+
+Espero que você esteja bem! Eu não pude ir ao seu churrasco no domingo porque tive um torneio de futebol na escola. Meu time estava precisando de mim, já que sou o goleiro titular. Por isso, não pude faltar. Mas prometo que na próxima eu vou!
+
+Abraços,
+Rafael
+
+Porto Alegre, 12 de junho de 2023.
+Pergunta:
+No trecho 'Eu não pude ir ao seu churrasco no domingo porque tive um torneio de futebol na escola', a expressão 'porque' indica uma relação de causalidade. Qual foi o motivo de Rafael não ter ido ao churrasco?
+Opções:
+   a) Ele é o goleiro titular do time.
+-> b) Ele teve um torneio de futebol na escola.
+   c) Ele prometeu ir na próxima vez.
+   d) Seu time estava precisando dele.
+Justificativas:
+a) Esta opção menciona uma característica de Rafael no time, que é uma consequência da situação, não a causa principal de não ter ido ao churrasco.
+b) Esta é a resposta correta, pois o texto afirma claramente que a razão para não ter ido ao churrasco foi o torneio de futebol, conforme a relação causal introduzida por 'porque'.
+c) Esta opção fala sobre um compromisso futuro, não sobre a causa da ausência no churrasco.
+d) Embora seja verdade que o time precisava dele, esta é uma informação adicional que explica por que ele não podia faltar ao torneio, não a causa direta de não ter ido ao churrasco.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Ana,
+
+Espero que você esteja bem! Eu estou muito feliz porque ganhei um cachorrinho no meu aniversário. Ele se chama Bob e é muito brincalhão. Minha mãe disse que posso ficar com ele, já que prometi cuidar direitinho. Por isso, agora tenho que dar comida, levar para passear e brincar com ele todos os dias. Estou adorando essa nova responsabilidade!
+
+Beijos,
+Pedro
+
+São Paulo, 15 de março de 2023.
+Pergunta:
+No trecho 'Minha mãe disse que posso ficar com ele, já que prometi cuidar direitinho.', a expressão 'já que' indica uma relação de causalidade. Qual é a causa que permitiu Pedro ficar com o cachorrinho?
+Opções:
+   a) Pedro ganhou o cachorrinho no aniversário.
+-> b) Pedro prometeu cuidar direitinho do cachorrinho.
+   c) O cachorrinho se chama Bob e é brincalhão.
+   d) Pedro tem que dar comida e levar para passear.
+Justificativas:
+a) Esta opção menciona o fato de Pedro ter ganho o cachorrinho, que é uma informação presente no texto, mas não é a causa que permitiu ele ficar com o animal. A causa está relacionada à promessa de cuidar dele.
+b) Esta é a resposta correta, pois o trecho do texto menciona claramente que a mãe permitiu Pedro ficar com o cachorrinho porque ele prometeu cuidar direitinho. A conjunção 'já que' introduz essa relação de causa.
+c) Esta opção traz uma característica do cachorrinho, que é irrelevante para a relação de causalidade apresentada no comando da questão.
+d) Esta opção menciona as responsabilidades de Pedro com o cachorrinho, que são consequências de tê-lo, mas não a causa que permitiu ele ficar com o animal.
+
+--------------------------------------------------------------------------------

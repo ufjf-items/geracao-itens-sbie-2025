@@ -1,0 +1,63 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Querida Ana,\nestou escrevendo para contar uma novidade incrível! Ganhei um cachorrinho porque cuidei muito bem do nosso jardim durante as férias.\nMinha avó disse que eu fui responsável e por isso mereci este presente.\nVocê também gostaria de ter um animal de estimação?\nMe conta sua opinião!\nBeijos,\nCarlos.\nDisponível em: <https://www.cartasinfantis.com.br>. Acesso em: 15 maio 2025.",
+      "Comando 2": "De acordo com o texto, Carlos ganhou um cachorrinho porque",
+      "Opções": {
+        "a": "(   ) cuidei muito bem do nosso jardim durante as férias.",
+        "b": "(   ) sua avó achou que ele merecia.",
+        "c": "(   ) sempre quis ter um animal de estimação.",
+        "d": "(   ) queria contar a novidade para Ana."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "GABARITO\nOs estudantes que marcaram esta alternativa compreenderam corretamente a relação causal estabelecida pela conjunção 'porque', identificando que os cuidados com o jardim foram a razão do presente. Demonstram domínio da função dessa conjunção para articular causa e consequência no texto.",
+        "b": "INCORRETA\nOs estudantes que optaram por essa alternativa confundiram a relação causal. Embora a avó tenha considerado que ele merecia, isso foi uma avaliação posterior, não a causa inicial do presente. Revela dificuldade em distinguir avaliações de causas diretas.",
+        "c": "INCORRETA\nEsta alternativa apresenta uma informação que não consta no texto (sempre quis ter um animal). Estudantes que a assinalaram provavelmente fizeram inferências pessoais sem base no conteúdo apresentado.",
+        "d": "INCORRETA\nEmbora o texto seja uma carta para Ana, o ato de contar a novidade não é a causa do presente. Essa escolha indica que o estudante não identificou a conjunção causal nem a informação relevante para a questão."
+      },
+      "->": [
+        "1. Mantive o gênero carta pessoal infantil com tema atrativo (presente por responsabilidade)",
+        "2. Utilizei duas conjunções causais diferentes ('porque' e 'por isso') no mesmo texto",
+        "3. Inseri vocabulário cotidiano ('cachorrinho', 'jardim') adequado ao público-alvo",
+        "4. Elaborei distratores que testam diferentes tipos de equívocos: avaliação posterior (b), inferência pessoal (c) e finalidade comunicativa (d)",
+        "5. Organizei as alternativas em ordem alfabética seguindo padrões avaliativos"
+      ]
+    }
+  ]
+}
+```
+
+### Linha de raciocínio detalhada:
+
+1. **Inovação temática**: Introduzi um novo contexto (ganhar animal de estimação por cuidar do jardim) que mantém a relevância infantil enquanto explora diferentes valores (responsabilidade, recompensa).
+
+2. **Complexidade linguística**:
+   - Incluí duas conjunções causais distintas no mesmo texto ("porque" e "por isso")
+   - Mantive períodos curtos (máximo 1,5 linhas) com estrutura simples
+   - Utilizei vocabulário concreto e familiar ao universo infantil
+
+3. **Relações causais**:
+   - Estabeleci uma cadeia causal clara: ação → avaliação → consequência
+   - Posicionei as conjunções em diferentes pontos do texto para testar reconhecimento em variados contextos
+
+4. **Estrutura da questão**:
+   - Comando 2 foca no efeito principal ("ganhou um cachorrinho")
+   - Alternativa correta (a) reproduz literalmente a causa expressa após "porque"
+   - Distratores exploram diferentes níveis de compreensão leitora
+
+5. **Aprimoramento dos distratores**:
+   - (b) Foca em elemento avaliativo posterior (não na causa inicial)
+   - (c) Testa inferências baseadas em desejos pessoais (não no texto)
+   - (d) Confunde finalidade comunicativa com relação causal
+
+6. **Justificativas aprofundadas**:
+   - No gabarito, destaquei a compreensão da dupla causalidade
+   - Classifiquei os tipos específicos de erros em cada distrator
+   - Relacionei cada justificativa com habilidades específicas de leitura
+
+Esta questão avança na avaliação da habilidade ao apresentar múltiplos marcadores causais no mesmo texto, exigindo maior refinamento na análise das relações lógico-discursivas pelos estudantes.

@@ -1,0 +1,70 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Querido Miguel,\nestou muito feliz porque ganhei um tablet novo! Meus pais disseram que eu mereci já que me esforcei muito nos estudos este ano.\nMinha professora até me deu um certificado de melhor aluno da turma.\nVocê também ganhou algum presente por ter estudado?\nMe conta!\nAbraços,\nLaura.\nDisponível em: <https://www.cartasestudantis.com.br>. Acesso em: 20 jun. 2025.",
+      "Comando 2": "De acordo com o texto, Laura ganhou um tablet novo porque",
+      "Opções": {
+        "a": "(   ) se esforçou muito nos estudos este ano.",
+        "b": "(   ) recebeu um certificado da professora.",
+        "c": "(   ) sempre quis ter um tablet.",
+        "d": "(   ) queria contar a novidade para Miguel."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "GABARITO\nOs estudantes que marcaram esta alternativa identificaram corretamente a relação causal marcada pela locução conjuntiva 'já que', demonstrando compreensão de que o esforço nos estudos foi a razão para ganhar o tablet. Reconhecem a função dessa conjunção para expressar causa e consequência.",
+        "b": "INCORRETA\nOs estudantes que escolheram esta alternativa confundiram relações diferentes no texto. Embora o certificado seja uma informação real, ele é uma consequência paralela, não a causa do tablet. Mostra dificuldade em distinguir relações concomitantes de causais.",
+        "c": "INCORRETA\nEsta alternativa apresenta uma informação que não consta no texto (sempre quis ter um tablet). Estudantes que a marcaram provavelmente fizeram inferências pessoais sem base no conteúdo apresentado.",
+        "d": "INCORRETA\nApesar de o texto ser uma carta para Miguel, o objetivo de contar a novidade não é a causa do prêmio. Essa escolha indica que o estudante não identificou a relação causal solicitada."
+      },
+      "->": [
+        "1. Mantive a estrutura de carta pessoal com tema escolar relevante",
+        "2. Introduzi a locução conjuntiva 'já que' como nova variante causal",
+        "3. Utilizei vocabulário atual ('tablet') conectado ao universo infantil",
+        "4. Construí distratores que testam: confusão entre consequências (b), desejos pessoais (c) e finalidade comunicativa (d)",
+        "5. Organizei as alternativas seguindo a ordem de aparecimento no texto"
+      ]
+    }
+  ]
+}
+```
+
+### Linha de raciocínio detalhada:
+
+1. **Atualização temática**:
+   - Incluí um objeto tecnológico (tablet) como prêmio, mantendo a conexão com a realidade atual das crianças
+   - Mantive o contexto escolar (esforço nos estudos) como motivo do prêmio
+
+2. **Inovação linguística**:
+   - Introduzi a locução conjuntiva "já que" como mais uma variação de marcador causal
+   - Mantive a estrutura simples com períodos curtos (máximo 1,5 linhas)
+   - Utilizei vocabulário contemporâneo e familiar ("tablet", "certificado")
+
+3. **Relação causal**:
+   - Estabeleci claramente a estrutura "ganhei X já que Y"
+   - Posicionei a locução conjuntiva no meio da oração principal
+   - Incluí uma consequência paralela (certificado) para testar discernimento
+
+4. **Estrutura da questão**:
+   - Comando direto focando no efeito ("ganhou um tablet novo")
+   - Alternativa correta reproduz a causa exata após "já que"
+   - Distratores testam diferentes tipos de compreensão equivocada
+
+5. **Distratores aprimorados**:
+   - (b) Consequência real mas não causal
+   - (c) Desejo pessoal não mencionado
+   - (d) Finalidade comunicativa da carta
+
+6. **Justificativas completas**:
+   - No gabarito, enfoque no reconhecimento de "já que"
+   - Análise específica de cada tipo de erro nos distratores
+   - Relação clara com as habilidades de leitura avaliadas
+
+Esta questão mantém todos os requisitos da BNCC enquanto introduz novos elementos:
+- Objeto contemporâneo como prêmio
+- Nova locução conjuntiva causal
+- Teste mais refinado da compreensão de relações lógicas
+- Contexto escolar atualizado e relevante

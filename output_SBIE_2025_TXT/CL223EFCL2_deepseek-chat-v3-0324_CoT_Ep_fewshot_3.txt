@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querido Miguel,
+estou muito feliz porque ganhei um tablet novo! Meus pais disseram que eu mereci já que me esforcei muito nos estudos este ano.
+Minha professora até me deu um certificado de melhor aluno da turma.
+Você também ganhou algum presente por ter estudado?
+Me conta!
+Abraços,
+Laura.
+Disponível em: <https://www.cartasestudantis.com.br>. Acesso em: 20 jun. 2025.
+Pergunta:
+De acordo com o texto, Laura ganhou um tablet novo porque
+Opções:
+-> a) (   ) se esforçou muito nos estudos este ano.
+   b) (   ) recebeu um certificado da professora.
+   c) (   ) sempre quis ter um tablet.
+   d) (   ) queria contar a novidade para Miguel.
+Justificativas:
+a) GABARITO
+Os estudantes que marcaram esta alternativa identificaram corretamente a relação causal marcada pela locução conjuntiva 'já que', demonstrando compreensão de que o esforço nos estudos foi a razão para ganhar o tablet. Reconhecem a função dessa conjunção para expressar causa e consequência.
+b) INCORRETA
+Os estudantes que escolheram esta alternativa confundiram relações diferentes no texto. Embora o certificado seja uma informação real, ele é uma consequência paralela, não a causa do tablet. Mostra dificuldade em distinguir relações concomitantes de causais.
+c) INCORRETA
+Esta alternativa apresenta uma informação que não consta no texto (sempre quis ter um tablet). Estudantes que a marcaram provavelmente fizeram inferências pessoais sem base no conteúdo apresentado.
+d) INCORRETA
+Apesar de o texto ser uma carta para Miguel, o objetivo de contar a novidade não é a causa do prêmio. Essa escolha indica que o estudante não identificou a relação causal solicitada.
+
+--------------------------------------------------------------------------------
