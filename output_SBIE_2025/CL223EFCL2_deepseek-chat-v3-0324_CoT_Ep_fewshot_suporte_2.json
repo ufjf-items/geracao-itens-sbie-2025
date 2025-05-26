@@ -1,0 +1,53 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "Por que os pais de Patrick estão contentes?",
+      "Opções": {
+        "a": "( ) Porque as crianças da escola ganharam prêmios.",
+        "b": "( ) Porque Patrick vai viajar para o sertão no domingo.",
+        "c": "( ) Porque Patrick aprendeu a ler e escrever.",
+        "d": "( ) Porque ele tirou boas notas na escola."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "INCORRETA - Embora os prêmios sejam mencionados, a satisfação dos pais está diretamente relacionada às notas, conforme o trecho 'Meu pai e minha mãe estão muito contentes pelas minhas notas'.",
+        "b": "INCORRETA - A viagem ao sertão é uma informação posterior e não tem relação com a satisfação dos pais quanto às notas.",
+        "c": "INCORRETA - A aprendizagem da leitura e escrita foi motivo dos prêmios escolares, não da satisfação explícita dos pais mencionada no texto.",
+        "d": "GABARITO - Correta identificação da relação direta expressa no texto: a satisfação dos pais está ligada especificamente às boas notas de Patrick."
+      },
+      "->": "1) Foco na nova relação causal (satisfação dos pais). 2) Alternativa correta extraída diretamente do trecho que menciona as notas. 3) Distratores com outras informações causais do mesmo texto, mas não relacionadas a este contexto específico. 4) Justificativas que destacam a seleção precisa da informação relevante."
+    }
+  ]
+}
+```
+
+**Diferenciais desta terceira questão:**
+
+1. **Novo foco de análise**:
+- Explora uma terceira relação causal presente no mesmo texto (satisfação dos pais)
+- Demonstra versatilidade ao extrair múltiplas relações do mesmo material
+
+2. **Graduação de dificuldade**:
+- Exige discernimento entre múltiplas relações causais presentes
+- Requer atenção ao pronome possessivo "minhas" que qualifica as notas
+
+3. **Análise dos distratores**:
+- a) Relação causal verdadeira, mas deslocada do contexto solicitado
+- b) Informação verdadeira sem relação causal
+- c) Causa correta para outro fato no texto (prêmios)
+
+4. **Competência avaliada**:
+- Reconhecimento da relação causal implícita (sem conjunção explícita)
+- Identificação do referente do pronome possessivo
+- Capacidade de distinguir relações causais paralelas
+
+**Adequação pedagógica**:
+- Mantém coerência com a habilidade EF05LP07 da BNCC
+- Complexidade adequada ao final do ciclo de alfabetização
+- Promove desenvolvimento da leitura atenta e seletiva
+- Contextualiza o ensino de gramática (pronomes) na compreensão textual

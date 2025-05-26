@@ -1,0 +1,24 @@
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\nestou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\nMeu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\nResponda em breve, porque no domingo vamos para o sertão.\nUm abraço do teu amigo,\nPatrick.\nDisponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "No trecho \"Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados\", qual é a consequência de as crianças estudarem, segundo os pais de Patrick?",
+      "Opções": {
+        "a": "Quando crescem, podem ser professores, médicos ou advogados.",
+        "b": "Ganham prêmios na escola.",
+        "c": "Vão para o sertão no domingo.",
+        "d": "Recebem livros de contos bonitos."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "Correta. Segundo o texto, os pais de Patrick disseram que as crianças que estudam, quando crescem, podem ser professores, médicos ou advogados. Ou seja, estudar é a causa e a consequência é poder exercer essas profissões.",
+        "b": "Incorreta. Ganhar prêmios na escola está relacionado ao aprendizado de ler e escrever, não diretamente ao estudo como causa para ser profissional no futuro.",
+        "c": "Incorreta. Ir para o sertão no domingo é um evento da família, sem relação causal com estudar.",
+        "d": "Incorreta. Receber livros de contos está relacionado ao prêmio, não à consequência de estudar segundo os pais de Patrick."
+      },
+      "->": ""
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Caro primo,\\Escrevo para dizer que não pude ir ao seu aniversário porque estava com febre. O médico disse que eu precisava repousar, pois meu sistema imunológico estava fraco. Já que você faz aniversário todo ano, prometo que no próximo eu levo um presente especial!\\Um abraço,\\Pedro.\\",
+      "Comando 2": "No trecho \"não pude ir ao seu aniversário porque estava com febre\", a palavra \"porque\" indica uma relação de causalidade. Qual foi a causa apresentada nessa frase?",
+      "Opções": {
+        "a": "Precisar repousar",
+        "b": "Estar com febre",
+        "c": "O sistema imunológico fraco",
+        "d": "Fazer aniversário todo ano"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreta. O repouso foi uma recomendação médica, não a causa da ausência no aniversário.",
+        "b": "Correta. O texto afirma claramente que a febre foi a causa direta para não ir ao aniversário.",
+        "c": "Incorreta. O sistema imunológico fraco explica a febre, mas não é a causa imediata mencionada na frase em questão.",
+        "d": "Incorreta. O fato de fazer aniversário todo ano é uma informação adicional sem relação causal com a ausência."
+      },
+      "->": [
+        "1. Criei um novo texto epistolar com situação cotidiana (ausência em evento familiar)",
+        "2. Mantive a estrutura causal usando 'porque' como elemento central",
+        "3. Destaquei a relação causa-efeito de forma clara e objetiva",
+        "4. Elaborei distratores com informações relacionadas mas não centrais à causalidade",
+        "5. Organizei as alternativas em ordem alfabética para padronização",
+        "6. Construí justificativas que diferenciam claramente a causa principal de fatores correlatos"
+      ]
+    }
+  ]
+}
+```
+
+**Linha de raciocínio detalhada:**
+
+1. **Contextualização do Texto**:
+   - Optei por uma carta entre primos, mantendo o gênero epistolar
+   - Criei uma situação realista (ausência em evento familiar por motivo de saúde)
+   - Inseri múltiplas relações lógicas (porque, pois, já que)
+
+2. **Foco Avaliativo**:
+   - Mantive o objetivo de avaliar reconhecimento de causalidade
+   - Destaquei a conjunção "porque" como marcador discursivo
+   - Trouxe uma situação diferente das questões anteriores (saúde x compromisso)
+
+3. **Construção do Item**:
+   - Comando direto e objetivo sobre a relação causal
+   - Alternativas contendo:
+     - Gabarito: causa explícita no texto (febre)
+     - Distratores: informações relacionadas mas não centrais
+   - Justificativas que discriminam precisamente os níveis de relação causal
+
+4. **Aspectos Pedagógicos**:
+   - Linguagem adequada ao nível fundamental
+   - Contexto significativo (relações familiares e saúde)
+   - Dificuldade progressiva em relação às questões anteriores
+
+5. **Diferenciais**:
+   - Nova situação temática (saúde)
+   - Maior complexidade nas relações causais apresentadas
+   - Manutenção do padrão avaliativo com inovação contextual
+   - Rigor na construção das justificativas
+
+Esta questão enriquece o banco de itens ao trazer uma nova situação de uso das conjunções causais, permitindo avaliar a mesma competência em contexto diversificado, conforme previsto nas diretrizes da BNCC para o desenvolvimento da habilidade de análise textual.

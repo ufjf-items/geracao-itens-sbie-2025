@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Querido amigo,\Estou escrevendo para contar que não pude comparecer ao seu jogo de futebol porque tive que ajudar minha mãe no mercado. Ela estava com muitas compras e precisava de ajuda, já que meu pai viajou a trabalho. Por isso, não consegui ir torcer por você.\Na próxima semana prometo que estarei lá, pois sei como é importante para você.\Abraços,\Carlos.\
+Pergunta:
+No trecho "não pude comparecer ao seu jogo de futebol porque tive que ajudar minha mãe no mercado", a palavra "porque" indica uma relação de causalidade. Qual foi a causa apresentada nessa frase?
+Opções:
+   a) O pai ter viajado a trabalho
+-> b) Ter que ajudar a mãe no mercado
+   c) O jogo de futebol ser importante
+   d) Prometer ir na próxima semana
+Justificativas:
+a) Incorreta. A viagem do pai explica por que a mãe precisava de ajuda, mas não é a causa direta da ausência no jogo.
+b) Correta. O texto afirma claramente que ter que ajudar a mãe no mercado foi a causa para não comparecer ao jogo.
+c) Incorreta. A importância do jogo é mencionada depois, mas não é a razão da ausência.
+d) Incorreta. A promessa é uma intenção futura, não a causa da ausência mencionada.
+
+--------------------------------------------------------------------------------

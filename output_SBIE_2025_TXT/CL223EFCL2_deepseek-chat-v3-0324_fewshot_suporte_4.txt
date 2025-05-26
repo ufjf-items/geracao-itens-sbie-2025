@@ -1,0 +1,39 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com o texto, por que os pais de Patrick dizem que é importante estudar?
+Opções:
+   a) Para ganhar livros de presente
+-> b) Para poder ter boas profissões no futuro
+   c) Para viajar durante as férias
+   d) Para pilotar locomotivas
+Justificativas:
+a) INCORRETA - O presente do livro veio como consequência de ter aprendido a ler, mas não é o motivo principal para estudar conforme os pais de Patrick.
+b) GABARITO - Os estudantes que assinalaram esta alternativa identificaram corretamente a relação entre estudo e futuro profissional, conforme expresso no texto: 'crianças que estudam, quando crescem podem ser professores, médicos ou advogados'.
+c) INCORRETA - A viagem é mencionada como um fato isolado, sem relação com o estudo conforme a argumentação dos pais de Patrick.
+d) INCORRETA - Essa é a aspiração pessoal de Patrick, não o argumento usado pelos pais sobre a importância dos estudos.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No texto, qual a expressão linguística que indica a razão pela qual a escola deu prêmios aos alunos?
+Opções:
+   a) estamos de férias
+-> b) porque aprendemos
+   c) ganhei um livro
+   d) minhas notas
+Justificativas:
+a) INCORRETA - Essa expressão indica quando ocorreu o fato, não o motivo da distribuição de prêmios.
+b) GABARITO - Os estudantes identificaram corretamente a conjunção causal 'porque' que explicita a relação entre o aprendizado da leitura/escrita e a distribuição de prêmios.
+c) INCORRETA - Essa expressão indica uma consequência, não a causa da distribuição de prêmios.
+d) INCORRETA - As notas são motivo de alegria dos pais, não o motivo dado pela escola para distribuir prêmios.
+
+--------------------------------------------------------------------------------

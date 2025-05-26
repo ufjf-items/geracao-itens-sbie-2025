@@ -1,0 +1,37 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "Segundo o texto, os pais de Patrick estão contentes porque",
+      "Opções": {
+        "a": "Patrick quer ser maquinista de trem.",
+        "b": "Patrick ganhou um livro de contos.",
+        "c": "Patrick e Rafael vão para o sertão.",
+        "d": "as notas de Patrick são boas."
+      },
+      "Resposta correta": "d",
+      "Justificativas": {
+        "a": "INCORRETA: Embora o desejo de Patrick de ser maquinista seja mencionado no texto, não é o motivo pelo qual os pais estão contentes.",
+        "b": "INCORRETA: O fato de Patrick ter ganho um livro de contos é uma informação do texto, mas não é explicitamente apresentado como a razão da felicidade dos pais.",
+        "c": "INCORRETA: A viagem de Patrick para o sertão é mencionada, mas não é o motivo da satisfação dos pais.",
+        "d": "GABARITO: O texto afirma que os pais de Patrick estão contentes com as notas dele, estabelecendo uma relação de causa e consequência direta."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causa e consequência em um texto simples.",
+        "2. **Elaborar o comando inicial:** O comando inicial instrui o aluno a ler o texto fornecido.",
+        "3. **Selecionar o texto suporte:** O texto é uma carta curta e acessível, adequada ao nível do Ensino Fundamental, contendo uma relação de causalidade clara.",
+        "4. **Formular o comando principal:** O comando principal pergunta sobre o motivo da felicidade dos pais de Patrick, focando na relação de causalidade.",
+        "5. **Criar as opções de resposta:**",
+        "   - **Opção A (Distrator):** Apresenta o desejo de Patrick de ser maquinista, que não é a causa da felicidade dos pais.",
+        "   - **Opção B (Distrator):** Menciona o livro de contos, que é uma informação do texto, mas não é a razão da satisfação dos pais.",
+        "   - **Opção C (Distrator):** Menciona a viagem ao sertão, que não está relacionada à felicidade dos pais.",
+        "   - **Opção D (Gabarito):** Apresenta a causa correta, diretamente relacionada ao trecho do texto que menciona a satisfação dos pais com as notas de Patrick."
+        "6. **Elaborar as justificativas:** Cada justificativa explica por que a opção correspondente está correta ou incorreta, detalhando o raciocínio envolvido na identificação da relação de causalidade."
+      ]
+    }
+  ]
+}
+```

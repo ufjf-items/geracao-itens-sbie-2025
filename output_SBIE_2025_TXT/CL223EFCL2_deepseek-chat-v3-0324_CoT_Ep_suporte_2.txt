@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Caro primo,\Escrevo para dizer que não pude ir ao seu aniversário porque estava com febre. O médico disse que eu precisava repousar, pois meu sistema imunológico estava fraco. Já que você faz aniversário todo ano, prometo que no próximo eu levo um presente especial!\Um abraço,\Pedro.\
+Pergunta:
+No trecho "não pude ir ao seu aniversário porque estava com febre", a palavra "porque" indica uma relação de causalidade. Qual foi a causa apresentada nessa frase?
+Opções:
+   a) Precisar repousar
+-> b) Estar com febre
+   c) O sistema imunológico fraco
+   d) Fazer aniversário todo ano
+Justificativas:
+a) Incorreta. O repouso foi uma recomendação médica, não a causa da ausência no aniversário.
+b) Correta. O texto afirma claramente que a febre foi a causa direta para não ir ao aniversário.
+c) Incorreta. O sistema imunológico fraco explica a febre, mas não é a causa imediata mencionada na frase em questão.
+d) Incorreta. O fato de fazer aniversário todo ano é uma informação adicional sem relação causal com a ausência.
+
+--------------------------------------------------------------------------------

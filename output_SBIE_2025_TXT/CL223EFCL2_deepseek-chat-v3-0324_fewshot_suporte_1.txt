@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No texto, os pais de Patrick estão contentes porque
+Opções:
+   a) ele ganhou um livro de contos.
+   b) ele aprendeu a ler e escrever.
+-> c) ele tirou boas notas na escola.
+   d) ele quer ser maquinista de trem.
+Justificativas:
+a) INCORRETA - Os estudantes que marcaram esta alternativa confundiram a causa da felicidade dos pais. Embora Patrick tenha ganhado um livro, o texto não relaciona isso diretamente com a felicidade dos pais.
+b) INCORRETA - Esta alternativa apresenta uma informação verdadeira do texto, mas que não está relacionada com a felicidade dos pais. O aprendizado da leitura e escrita foi motivo para receber prêmios, não mencionado como causa direta da felicidade dos pais.
+c) GABARITO - Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal implícita no texto, reconhecendo que as boas notas foram o motivo da felicidade dos pais, conforme mencionado no trecho 'Meu pai e minha mãe estão muito contentes pelas minhas notas'.
+d) INCORRETA - Os estudantes que escolheram esta alternativa confundiram o desejo futuro de Patrick com o motivo da felicidade dos pais, mostrando dificuldade em identificar relações causais no texto.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,66 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida tia,\\Estou escrevendo para explicar por que não devolvi seu livro ainda. Acabei perdendo o prazo da biblioteca porque esqueci de renovar o empréstimo. Por isso, precisei pagar uma multa e só poderei pegar livros novamente na próxima semana.\\Prometo que assim que possível devolverei seu exemplar.\\Beijos,\\Lucas.\\",
+      "Comando 2": "No trecho \"Acabei perdendo o prazo da biblioteca porque esqueci de renovar o empréstimo\", a palavra \"porque\" indica uma relação de causalidade. Qual foi a consequência dessa situação?",
+      "Opções": {
+        "a": "Esquecer de renovar o empréstimo",
+        "b": "Precisar pagar uma multa",
+        "c": "Não poder pegar livros na próxima semana",
+        "d": "Não devolver o livro da tia"
+      },
+      "Resposta correta":",
+     ",
+      "Justificativas": {
+        "a": "Incorreta. Esquecer de renovar foi a causa, não a consequência.",
+        "b": "Correta. O texto afirma claramente que a consequência de perder o prazo foi precisar pagar multa.",
+        "c": "Incorreta. A restrição de empréstimos é uma consequência secundária, não mencionada na frase em questão.",
+        "d": "Incorreta. Não devolver o livro é o contexto geral, não a consequência específica da relação causal analisada."
+      },
+      "->": [
+        "1. Criei um texto sobre situação escolar cotidiana (empréstimo de livros)",
+        "2. Utilizei múltiplos conectivos causais (porque, por isso)",
+        "3. Foquei na análise da consequência imediata da relação causal",
+        "4. Elaborei distratores com informações relacionadas mas não centrais",
+        "5. Organizei as alternativas em ordem alfabética",
+        "6. Construí justificativas que diferenciam claramente causa, consequência imediata e secundária"
+      ]
+    }
+  ]
+}
+```
+
+**Linha de raciocínio detalhada:**
+
+1. **Contexto do Texto**:
+   - Criei uma carta sobre situação escolar comum (empréstimo de livros)
+   - Mantive o gênero epistolar com linguagem informal adequada
+   - Incluí duas relações causais distintas ("porque" e "por isso")
+
+2. **Foco Avaliativo**:
+   - Destaquei a análise da consequência na relação causal
+   - Mantive coerência com a competência BNCC EF05LP07
+   - Escolhi contexto diferente das questões anteriores (biblioteca x escola)
+
+3. **Construção Pedagógica**:
+   - Comando claro direcionando à análise específica
+   - Alternativas que testam:
+     - Reconhecimento da consequência imediata (gabarito)
+     - Distinção entre causa e consequência (distratores)
+     - Identificação de informações correlatas não centrais
+
+4. **Diferenciais**:
+   - Nova situação temática (biblioteca/empréstimos)
+   - Maior complexidade na cadeia causal (causa → consequência imediata → consequência secundária)
+   - Contexto significativo para o público-alvo
+   - Rigor na construção das relações lógicas
+
+5. **Adequação Curricular**:
+   - Alinhamento perfeito com a habilidade da BNCC
+   - Progressão de dificuldade em relação às questões anteriores
+   - Avaliação multidimensional da competência
+
+Esta questão complementa o banco de itens ao trazer um contexto novo (biblioteca) para avaliação da mesma competência, enriquecendo as possibilidades de aplicação e garantindo a avaliação robusta da habilidade de reconhecimento de relações causais em diferentes situações comunicativas.

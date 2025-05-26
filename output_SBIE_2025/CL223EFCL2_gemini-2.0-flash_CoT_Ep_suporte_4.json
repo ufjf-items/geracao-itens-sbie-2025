@@ -1,0 +1,37 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \\\"Contos dos Irmãos Green\\\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\nDisponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "No trecho “Eu ganhei um livro de contos muito bonito que se chama 'Contos dos Irmãos Green'”, qual evento pode ter levado Patrick a ganhar esse livro?",
+      "Opções": {
+        "a": "Patrick vai para o sertão no domingo.",
+        "b": "Patrick aprendeu a ler e escrever.",
+        "c": "Patrick quer ser maquinista de trem do metrô.",
+        "d": "Patrick tirou boas notas na escola."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreta. A ida para o sertão é um evento futuro e não tem relação com o ganho do livro.",
+        "b": "Correta. O texto indica que os prêmios foram dados porque eles aprenderam a ler e escrever, e o livro é um desses prêmios.",
+        "c": "Incorreta. O desejo de Patrick de ser maquinista não tem relação com o ganho do livro.",
+        "d": "Incorreta. Embora os pais de Patrick estejam contentes com as notas, o ganho do livro está diretamente ligado ao aprendizado da leitura e escrita."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causalidade.",
+        "2. **Selecionar o texto:** A carta de Patrick a Rafael é um texto adequado ao nível fundamental.",
+        "3. **Elaborar o comando 1:** O comando inicial solicita a leitura do texto.",
+        "4. **Elaborar o comando 2:** O comando foca no evento que causou o ganho do livro por Patrick.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito (b):** Apresenta a causa direta para o ganho do livro (aprender a ler e escrever).",
+        "   - **Distrator a:** Refere-se a um evento futuro (ida ao sertão).",
+        "   - **Distrator c:** Menciona um desejo pessoal de Patrick (ser maquinista).",
+        "   - **Distrator d:** Refere-se às boas notas, que são motivo de contentamento dos pais, mas não a causa direta do ganho do livro.",
+        "6. **Justificativas:** Cada opção é justificada detalhadamente para explicar por que é correta ou incorreta."
+      ]
+    }
+  ]
+}
+```

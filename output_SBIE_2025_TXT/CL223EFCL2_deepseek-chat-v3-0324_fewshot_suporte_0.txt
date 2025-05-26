@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Patrick pede que Rafael responda em breve porque
+Opções:
+   a) quer mostrar o livro que ganhou.
+-> b) no domingo vai para o sertão.
+   c) precisa estudar para as provas.
+   d) quer ser maquinista de trem.
+Justificativas:
+a) INCORRETA - Os estudantes que assinalaram esta alternativa mobilizaram uma informação que não está relacionada com o pedido de resposta rápida. O livro ganho não tem relação causal com o pedido expresso no texto.
+b) GABARITO - Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa pela conjunção 'porque' no texto, reconhecendo que a viagem ao sertão no domingo é o motivo do pedido de resposta rápida.
+c) INCORRETA - Os estudantes que escolheram esta alternativa demonstraram dificuldade em identificar a relação causal correta, pois a informação sobre estudar para provas não aparece no texto e não tem relação com o comando.
+d) INCORRETA - Os estudantes que optaram por esta alternativa confundiram o desejo futuro de Patrick com o motivo imediato do pedido de resposta rápida, mostrando dificuldade em reconhecer relações causais marcadas por conjunções.
+
+--------------------------------------------------------------------------------

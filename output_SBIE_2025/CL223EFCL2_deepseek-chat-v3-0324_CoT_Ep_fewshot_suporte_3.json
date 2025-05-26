@@ -1,0 +1,52 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto com atenção.",
+
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "De acordo com o que Patrick escreveu para Rafael, por que ele quer ser maquinista de trem do metrô?",
+      "Opções": {
+        "a": "( ) Porque seus pais querem que ele tenha uma profissão importante.",
+        "b": "( ) Para pilotar uma locomotiva que transporta muitas pessoas.",
+        "c": "( ) Porque ganhou um livro sobre trens.",
+        "d": "( ) Porque a escola incentivou essa profissão."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA - Embora o texto mencione que os pais falam sobre profissões importantes, não há indicação de que pressionaram Patrick nesta escolha.",
+        "b": "GABARITO - Resposta correta que identifica a relação causal expressa no trecho 'para pilotar uma locomotiva dessas que anda repleta de gente'.",
+        "c": "INCORRETA - O livro mencionado é de contos, não sobre trens. Alternativa que cria informação não presente no texto.",
+        "d": "INCORRETA - Não há menção no texto sobre incentivo escolar para esta profissão. Os prêmios foram por aprendizagem, não por orientação profissional."
+      },
+      "->": "1) Mantive o texto original, destacando um novo aspecto causal (motivação profissional). 2) Comando direto sobre a escolha profissional. 3) Distratores com informações plausíveis mas não textuais (a,d) ou equivocadas (c). 4) Justificativas que valorizam a compreensão literal e inferencial."
+    }
+  ]
+}
+```
+
+**Diferenciais desta quarta questão:**
+
+1. **Foco inédito**:
+- Explora a motivação profissional de Patrick
+- Trabalha com causalidade implícita (finalidade expressa por "para")
+
+2. **Desenvolvimento de habilidades**:
+- Exige interpretação precisa do período composto por finalidade
+- Avalia capacidade de diferenciar informações explícitas e implícitas
+
+3. **Análise dos distratores**:
+- a) Relaciona indevidamente com expectativas parentais
+- c) Cria informação falsa sobre o livro
+- d) Inventa relação não estabelecida no texto
+
+4. **Competência expandida**:
+- Reconhecimento não apenas de conjunções, mas de estruturas de finalidade
+- Capacidade de distinguir entre motivações explícitas e suposições
+
+**Relevância pedagógica**:
+- Amplia o escopo da habilidade BNCC para diferentes relações lógicas
+- Desenvolve pensamento crítico sobre escolhas profissionais
+- Exercita a leitura atenta contra inferências equivocadas
+- Prepara para interpretação de textos autobiográficos e epistolares

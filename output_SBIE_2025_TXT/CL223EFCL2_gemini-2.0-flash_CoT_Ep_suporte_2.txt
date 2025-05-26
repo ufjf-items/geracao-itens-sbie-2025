@@ -1,0 +1,20 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\
+Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho “Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados”, qual a razão para os pais de Patrick estarem contentes?
+Opções:
+   a) Porque Patrick quer ser maquinista de trem do metrô.
+   b) Porque Patrick e seus colegas aprenderam a ler e escrever.
+   c) Porque Patrick vai para o sertão no domingo.
+-> d) Porque Patrick tem boas notas.
+Justificativas:
+a) Incorreta. O desejo de Patrick de ser maquinista é uma informação diferente, não relacionada à felicidade dos pais.
+b) Incorreta. O aprendizado de ler e escrever é o motivo dos prêmios, não da felicidade dos pais pelas notas.
+c) Incorreta. A viagem para o sertão não é mencionada como motivo da felicidade dos pais.
+d) Correta. Os pais de Patrick estão contentes porque ele tem boas notas, conforme mencionado no texto.
+
+--------------------------------------------------------------------------------

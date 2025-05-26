@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Patrick pede que Rafael responda em breve porque
+Opções:
+-> a) ( ) no domingo ele vai para o sertão.
+   b) ( ) ganhou um livro de contos muito bonito.
+   c) ( ) seus pais estão contentes com suas notas.
+   d) ( ) quer ser maquinista de trem do metrô.
+Justificativas:
+a) GABARITO - Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal expressa pela conjunção 'porque' no trecho 'Responda em breve, porque no domingo vamos para o sertão'. Reconhecem que a viagem ao sertão é a causa do pedido de resposta rápida.
+b) INCORRETA - Embora o livro de contos seja mencionado no texto, essa informação não estabelece relação causal com o pedido de resposta rápida. Os estudantes que marcaram esta alternativa demonstraram dificuldade em identificar a conjunção correta que marca a causalidade.
+c) INCORRETA - A satisfação dos pais com as notas é um fato isolado no texto que não se relaciona com o pedido de resposta rápida. Essa alternativa distrai estudantes que não atentaram para a conjunção 'porque' no trecho específico.
+d) INCORRETA - O sonho profissional de Patrick é uma informação contextual que não possui relação causal com o pedido de resposta. Estudantes que escolheram esta alternativa provavelmente não identificaram a estrutura lógico-discursiva correta.
+
+--------------------------------------------------------------------------------

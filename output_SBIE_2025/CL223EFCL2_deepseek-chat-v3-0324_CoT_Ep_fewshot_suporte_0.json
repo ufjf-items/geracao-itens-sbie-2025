@@ -1,0 +1,47 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "De acordo com o texto, Patrick pede que Rafael responda em breve porque",
+      "Opções": {
+        "a": "( ) no domingo ele vai para o sertão.",
+        "b": "( ) ganhou um livro de contos muito bonito.",
+        "c": "( ) seus pais estão contentes com suas notas.",
+        "d": "( ) quer ser maquinista de trem do metrô."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "GABARITO - Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal expressa pela conjunção 'porque' no trecho 'Responda em breve, porque no domingo vamos para o sertão'. Reconhecem que a viagem ao sertão é a causa do pedido de resposta rápida.",
+        "b": "INCORRETA - Embora o livro de contos seja mencionado no texto, essa informação não estabelece relação causal com o pedido de resposta rápida. Os estudantes que marcaram esta alternativa demonstraram dificuldade em identificar a conjunção correta que marca a causalidade.",
+        "c": "INCORRETA - A satisfação dos pais com as notas é um fato isolado no texto que não se relaciona com o pedido de resposta rápida. Essa alternativa distrai estudantes que não atentaram para a conjunção 'porque' no trecho específico.",
+        "d": "INCORRETA - O sonho profissional de Patrick é uma informação contextual que não possui relação causal com o pedido de resposta. Estudantes que escolheram esta alternativa provavelmente não identificaram a estrutura lógico-discursiva correta."
+      },
+      "->": "1) Mantive o texto suporte original conforme especificado. 2) No comando 2, foquei na relação causal marcada por 'porque' no pedido de resposta rápida. 3) Organizei os distratores com outras informações do texto que não estabelecem causalidade: b (livro de contos), c (notas dos pais), d (sonho profissional). 4) Justifiquei cada alternativa destacando a presença/ausência da relação causal e o reconhecimento da conjunção."
+    }
+  ]
+}
+``` 
+
+**Explicação do raciocínio:**
+
+1. **Fidelidade ao modelo**: Segui rigorosamente o template BNCC EF05LP07, mantendo o mesmo texto suporte e estrutura de comando.
+
+2. **Foco na habilidade**: A questão avalia especificamente o reconhecimento de causalidade através da conjunção "porque", conforme a competência indicada.
+
+3. **Construção dos distratores**:
+   - Alternativa correta (a): Relação causal explícita no texto
+   - Distratores (b, c, d): Informações relevantes do texto que não respondem à causalidade solicitada
+
+4. **Justificativas pedagógicas**:
+   - Gabarito: Explicita o reconhecimento da conjunção e da relação causal
+   - Distratores: Mostram compreensões equivocadas ou desvios de foco
+
+5. **Organização lógica**:
+   - Ordem dos distratores segue a sequência de aparecimento no texto
+   - Linguagem acessível para o nível fundamental
+
+Esta construção atende plenamente às especificações BNCC e permite avaliar objetivamente a habilidade de reconhecer relações causais em textos epistolares.

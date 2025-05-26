@@ -1,0 +1,37 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "De acordo com o texto, Patrick pede para Rafael responder em breve a carta porque",
+      "Opções": {
+        "a": "ele quer mostrar o livro de contos para o amigo.",
+        "b": "no domingo eles vão para o sertão.",
+        "c": "os pais de Patrick estão contentes com as notas dele.",
+        "d": "Patrick quer ser maquinista de trem."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA: Essa alternativa apresenta uma informação presente no texto, mas não estabelece uma relação de causalidade com o pedido de resposta breve à carta. O desejo de mostrar o livro não é o motivo pelo qual Patrick pede uma resposta rápida.",
+        "b": "GABARITO: Essa alternativa apresenta a causa correta para o pedido de resposta breve. A conjunção 'porque' introduz a razão pela qual Patrick quer que Rafael responda logo: a viagem ao sertão no domingo.",
+        "c": "INCORRETA: Essa alternativa menciona a satisfação dos pais de Patrick, que é uma informação presente no texto, mas não está relacionada ao pedido de resposta à carta. Não há relação causal entre a felicidade dos pais e a necessidade de uma resposta rápida.",
+        "d": "INCORRETA: Essa alternativa apresenta o desejo de Patrick de ser maquinista, que é uma informação do texto, mas não justifica o pedido de resposta breve à carta. O futuro profissional de Patrick não é a causa do pedido."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causa e consequência em um texto simples.",
+        "2. **Elaborar o comando inicial:** O comando inicial instrui o aluno a ler o texto fornecido.",
+        "3. **Selecionar o texto suporte:** O texto é uma carta curta e acessível, adequada ao nível do Ensino Fundamental, contendo uma relação de causalidade clara.",
+        "4. **Formular o comando principal:** O comando principal pergunta sobre o motivo pelo qual Patrick pede para Rafael responder a carta em breve, focando na relação de causalidade expressa pela conjunção 'porque'.",
+        "5. **Criar as opções de resposta:**",
+        "   - **Opção A (Distrator):** Menciona o livro de contos, que é um elemento do texto, mas não é a causa do pedido de resposta rápida.",
+        "   - **Opção B (Gabarito):** Apresenta a causa correta, diretamente relacionada ao trecho do texto que menciona a viagem ao sertão no domingo.",
+        "   - **Opção C (Distrator):** Menciona a satisfação dos pais, que é uma informação do texto, mas não justifica o pedido de resposta.",
+        "   - **Opção D (Distrator):** Apresenta o desejo de Patrick de ser maquinista, que não tem relação com o pedido de resposta à carta.",
+        "6. **Elaborar as justificativas:** Cada justificativa explica por que a opção correspondente está correta ou incorreta, detalhando o raciocínio envolvido na identificação da relação de causalidade."
+      ]
+    }
+  ]
+}
+```

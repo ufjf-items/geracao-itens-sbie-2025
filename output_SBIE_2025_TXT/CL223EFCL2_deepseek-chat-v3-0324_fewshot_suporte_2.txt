@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com o texto, por que a escola deu prêmios aos alunos?
+Opções:
+   a) Porque estavam de férias
+-> b) Porque aprenderam a ler e escrever
+   c) Porque ganharam livros de contos
+   d) Porque queriam ser maquinistas
+Justificativas:
+a) INCORRETA - Os estudantes que marcaram esta alternativa confundiram a informação sobre as férias com o motivo dos prêmios. As férias são mencionadas no início da carta, mas não têm relação com a distribuição de prêmios.
+b) GABARITO - Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal expressa pela conjunção 'porque', reconhecendo que o aprendizado da leitura e escrita foi o motivo para receberem prêmios na escola.
+c) INCORRETA - Esta alternativa inverte a relação causal. Patrick ganhou um livro como prêmio, mas não foi o ganho de livros que motivou a distribuição dos prêmios pela escola.
+d) INCORRETA - Os estudantes que escolheram esta alternativa confundiram o desejo pessoal de Patrick com o motivo institucional da escola. O texto não relaciona a profissão desejada com a distribuição de prêmios.
+
+--------------------------------------------------------------------------------

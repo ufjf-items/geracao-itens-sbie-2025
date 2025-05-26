@@ -1,0 +1,63 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "No trecho \"Lá na escola nos deram prêmios porque aprendemos a ler e escrever\", a palavra \"porque\" indica uma relação de causalidade. Qual é a causa apresentada nessa frase?",
+      "Opções": {
+        "a": "Estar de férias",
+        "b": "Ganhar um livro de contos",
+        "c": "Aprender a ler e escrever",
+        "d": "Ir para o sertão no domingo"
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Incorreta. O fato de estar de férias é mencionado no início da carta, mas não tem relação com a causa dos prêmios.",
+        "b": "Incorreta. Ganhar o livro é uma consequência dos prêmios, não a causa deles.",
+        "c": "Correta. O texto afirma claramente que os prêmios foram dados porque os alunos aprenderam a ler e escrever, estabelecendo uma relação direta de causa (aprender) e consequência (prêmios).",
+        "d": "Incorreta. A viagem ao sertão é um fato futuro mencionado no final da carta, sem relação com os prêmios escolares."
+      },
+      "->": [
+        "1. Identifiquei no texto a conjunção causal 'porque' no trecho sobre os prêmios escolares",
+        "2. Analisei a estrutura da frase para isolar a causa (aprender) da consequência (prêmios)",
+        "3. Criei distratores com outras informações relevantes do texto que não representam a causa",
+        "4. Organizei as alternativas em ordem alfabética para padronização",
+        "5. Elaborei justificativas que explicam por que cada opção está correta ou incorreta",
+        "6. Mantive o foco na relação causal explícita no texto, sem extrapolar interpretações"
+      ]
+    }
+  ]
+}
+``` 
+
+Linha de raciocínio detalhada:
+
+1. **Seleção do Texto**: Utilizei exatamente o texto suporte fornecido, que é uma carta pessoal contendo relações de causalidade claras.
+
+2. **Identificação da Habilidade**: Foquei na habilidade EF05LP07 de reconhecer relações de causalidade marcadas por conjunções, especificamente no uso de "porque".
+
+3. **Construção do Comando 2**: 
+   - Direcionei para o trecho específico que contém a conjunção causal
+   - Formulei a pergunta para identificar a causa, não a consequência
+   - Mantive a pergunta objetiva e vinculada ao texto
+
+4. **Elaboração das Alternativas**:
+   - Gabarito (C): Reflete exatamente a causa mencionada após "porque"
+   - Distratores: 
+     * A) Informação verdadeira mas não relacionada à causalidade
+     * B) Consequência dos prêmios, não causa
+     * D) Fato futuro sem relação com o contexto causal
+
+5. **Justificativas**:
+   - Para cada alternativa, expliquei sua relação (ou falta dela) com a causalidade
+   - Mantive as explicações simples e baseadas no texto
+   - Evitei interpretações subjetivas ou inferências
+
+6. **Organização**:
+   - Segui rigorosamente o formato JSON solicitado
+   - Mantive a estrutura lógica da questão
+   - Garanti que todos os elementos estivessem alinhados com a BNCC
+
+Esta questão avalia adequadamente a habilidade de reconhecer relações de causalidade em textos do cotidiano, usando um gênero textual (carta) e uma conjunção causal típica ("porque"), conforme exigido pela competência.

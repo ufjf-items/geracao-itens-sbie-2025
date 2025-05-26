@@ -1,0 +1,39 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto com atenção.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+Qual é a razão pela qual Patrick ganhou um livro de contos?
+Opções:
+   a) ( ) Porque ele gosta muito de histórias infantis.
+-> b) ( ) Porque ele e seus colegas aprenderam a ler e escrever.
+   c) ( ) Porque seus pais compraram para ele como presente.
+   d) ( ) Porque a professora indicou essa leitura.
+Justificativas:
+a) INCORRETA - Embora Patrick tenha ganhado um livro de contos, o texto não menciona seu gosto pessoal por histórias como motivo.
+b) GABARITO - Resposta correta que identifica a relação causal expressa no trecho 'nos deram prêmios porque aprendemos a ler e escrever'.
+c) INCORRETA - O texto não menciona os pais como responsáveis pela aquisição do livro, e sim a escola como premiadora.
+d) INCORRETA - Não há informação no texto sobre indicação da professora para essa leitura específica.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia novamente o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+Por que Patrick menciona que as crianças que estudam podem ser professores, médicos ou advogados quando crescerem?
+Opções:
+-> a) ( ) Para mostrar que seus pais têm grandes expectativas sobre seu futuro.
+   b) ( ) Porque ele está indeciso sobre qual profissão escolher.
+   c) ( ) Para justificar porque ele prefere ser maquinista.
+   d) ( ) Porque a escola fez uma pesquisa sobre profissões.
+Justificativas:
+a) GABARITO - Resposta correta que relaciona a fala sobre profissões com as expectativas parentais mencionadas no contexto.
+b) INCORRETA - Patrick demonstra clareza sobre querer ser maquinista, não estando indeciso.
+c) INCORRETA - A menção às profissões tradicionais não serve como justificativa para sua escolha profissional diferente.
+d) INCORRETA - O texto não menciona nenhuma pesquisa escolar sobre profissões.
+
+--------------------------------------------------------------------------------

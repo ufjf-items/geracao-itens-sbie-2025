@@ -1,0 +1,37 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \\\"Contos dos Irmãos Green\\\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\nDisponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "No trecho “Responda em breve, porque no domingo vamos para o sertão”, qual a razão para Patrick pedir uma resposta rápida de Rafael?",
+      "Opções": {
+        "a": "Porque Patrick quer saber se Rafael também está de férias.",
+        "b": "Porque Patrick e Rafael ganharam um livro de contos.",
+        "c": "Porque Patrick vai para o sertão no domingo.",
+        "d": "Porque Patrick quer ser maquinista de trem do metrô."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Incorreta. Embora a carta mencione as férias, esse não é o motivo para a urgência na resposta.",
+        "b": "Incorreta. O livro de contos é mencionado em outro contexto e não justifica o pedido de resposta rápida.",
+        "c": "Correta. A conjunção 'porque' indica que a ida de Patrick para o sertão no domingo é a razão para ele pedir uma resposta breve de Rafael.",
+        "d": "Incorreta. O desejo de Patrick de ser maquinista não tem relação com a urgência na resposta."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causalidade.",
+        "2. **Selecionar o texto:** A carta de Patrick a Rafael é um texto adequado ao nível fundamental.",
+        "3. **Elaborar o comando 1:** O comando inicial solicita a leitura do texto.",
+        "4. **Elaborar o comando 2:** O comando foca na relação de causalidade expressa pela conjunção 'porque' no trecho específico.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito (c):** Apresenta a causa direta para o pedido de resposta rápida (a viagem para o sertão).",
+        "   - **Distrator a:** Menciona as férias, mas não é a causa da urgência.",
+        "   - **Distrator b:** Refere-se a um evento diferente no texto (o livro de contos).",
+        "   - **Distrator d:** Introduz um desejo de Patrick que não está relacionado à causalidade em questão (ser maquinista).",
+        "6. **Justificativas:** Cada opção é justificada detalhadamente para explicar por que é correta ou incorreta."
+      ]
+    }
+  ]
+}
+```

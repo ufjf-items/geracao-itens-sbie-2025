@@ -1,0 +1,66 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querido amigo,\\Estou escrevendo para contar que não pude comparecer ao seu jogo de futebol porque tive que ajudar minha mãe no mercado. Ela estava com muitas compras e precisava de ajuda, já que meu pai viajou a trabalho. Por isso, não consegui ir torcer por você.\\Na próxima semana prometo que estarei lá, pois sei como é importante para você.\\Abraços,\\Carlos.\\",
+      "Comando 2": "No trecho \"não pude comparecer ao seu jogo de futebol porque tive que ajudar minha mãe no mercado\", a palavra \"porque\" indica uma relação de causalidade. Qual foi a causa apresentada nessa frase?",
+      "Opções": {
+        "a": "O pai ter viajado a trabalho",
+        "b": "Ter que ajudar a mãe no mercado",
+        "c": "O jogo de futebol ser importante",
+        "d": "Prometer ir na próxima semana"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreta. A viagem do pai explica por que a mãe precisava de ajuda, mas não é a causa direta da ausência no jogo.",
+        "b": "Correta. O texto afirma claramente que ter que ajudar a mãe no mercado foi a causa para não comparecer ao jogo.",
+        "c": "Incorreta. A importância do jogo é mencionada depois, mas não é a razão da ausência.",
+        "d": "Incorreta. A promessa é uma intenção futura, não a causa da ausência mencionada."
+      },
+      "->": [
+        "1. Criei um texto sobre compromisso social versus atividade esportiva",
+        "2. Utilizei a conjunção 'porque' para marcar a relação causal principal",
+        "3. Incluí outras relações lógicas ('já que', 'por isso', 'pois') para contexto",
+        "4. Elaborei distratores com informações relacionadas mas não centrais à causalidade",
+        "5. Organizei as alternativas em ordem alfabética",
+        "6. Construí justificativas que diferenciam claramente a causa principal de fatores contextuais"
+      ]
+    }
+  ]
+}
+```
+
+**Linha de raciocínio detalhada:**
+
+1. **Contextualização do Texto**:
+   - Desenvolvi uma carta entre amigos adolescentes
+   - Criei um conflito cotidiano (responsabilidade familiar vs compromisso social)
+   - Mantive linguagem informal adequada à faixa etária
+   - Incluí múltiplos marcadores de causalidade
+
+2. **Foco Avaliativo**:
+   - Concentrei na identificação da causa principal
+   - Destaquei a conjunção "porque" como elemento central
+   - Contextualizei com outras relações lógicas para enriquecer o texto
+
+3. **Construção do Item**:
+   - Comando direto sobre a relação causal específica
+   - Alternativas contendo:
+     - Gabarito: causa explícita no texto (ajudar a mãe)
+     - Distratores: informações contextuais relacionadas
+   - Justificativas que discriminam precisamente os níveis de relação
+
+4. **Aspectos Pedagógicos**:
+   - Situação realista para adolescentes
+   - Dilema ético simples (família x amigos)
+   - Linguagem acessível com estrutura textual clara
+
+5. **Diferenciais**:
+   - Nova temática (responsabilidade familiar)
+   - Contexto de conflito de interesses
+   - Progressão na complexidade das relações
+   - Manutenção do rigor conceitual
+
+Esta questão aborda uma situação comum na adolescência, avaliando a mesma competência em um contexto de tomada de decisão, desenvolvendo não apenas a habilidade linguística mas também o pensamento crítico sobre prioridades e responsabilidades.

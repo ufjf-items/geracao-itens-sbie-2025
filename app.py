@@ -39,7 +39,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 - **Habilidade Avaliada**: {classe}
 - **Estrutura da Questão**:
   - **Comando 1** {comando1}
-  - **Texto suporte** {suporte}. Gerar no mínimo 8 linhas para o texto suporte.
+  - **Texto suporte** {suporte}. Use exatamente esse suporte.
   - **Comando 2** {comando2}
   - **Gabarito** {gabarito}
   - **Distratores** {distratores}
@@ -259,11 +259,10 @@ if __name__ == "__main__":
 
     
     modelos = [
-        "gemini-2.0-flash",
-        #"deepseek-r1:free"
-        #"openai/gpt-4.1"
+        #"gemini-2.0-flash",
+        "openai/gpt-4.1",
         #"openai/o3"
-        #"deepseek/deepseek-chat-v3-0324"
+        "deepseek/deepseek-chat-v3-0324"
         
     ]
 
@@ -283,7 +282,7 @@ if __name__ == "__main__":
 
         if modelo == "gemini-2.0-flash":
             llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0, verbose=True)
-        elif modelo == "deepseek-r1:free":
+        else:
             llm = ChatOpenRouter(model_name=modelo, temperature=0.0, top_p=1.0)
 
         
@@ -301,14 +300,14 @@ if __name__ == "__main__":
             for i in range(5):
                 nome_tecnica = tecnica["nome"]
                 nome_modelo = modelo.split("/")[-1]
-                output_path = f"output_SBIE_2025/CL223EFCL2_{nome_modelo}_{nome_tecnica}_{i}.json"
+                output_path = f"output_SBIE_2025/CL223EFCL2_{nome_modelo}_{nome_tecnica}_suporte_{i}.json"
 
                 print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
 
                 id = nome_modelo + "_" + nome_tecnica
 
                 iniciar(
-                    id_tarefa=5,
+                    id_tarefa=6,
                     output=output_path,
                     session_id=id,
                     CoT=tecnica["CoT"],

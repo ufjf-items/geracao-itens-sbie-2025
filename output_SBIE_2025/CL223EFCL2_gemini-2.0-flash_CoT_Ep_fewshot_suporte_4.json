@@ -1,0 +1,37 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "No trecho “Responda em breve, porque no domingo vamos para o sertão”, a palavra 'porque' indica que:",
+      "Opções": {
+        "a": "Patrick está com pressa para responder a carta de Rafael.",
+        "b": "A resposta de Rafael é importante para a viagem ao sertão.",
+        "c": "A viagem ao sertão é o motivo para Patrick querer uma resposta rápida.",
+        "d": "Rafael também vai viajar para o sertão no domingo."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "INCORRETA: A pressa de Patrick não é mencionada no texto. O 'porque' introduz o motivo pelo qual ele quer uma resposta.",
+        "b": "INCORRETA: A importância da resposta de Rafael para a viagem não é explicitada. O foco é o motivo da urgência.",
+        "c": "GABARITO: A conjunção 'porque' indica a causa ou o motivo pelo qual Patrick pede uma resposta breve, que é a viagem ao sertão.",
+        "d": "INCORRETA: Não há indicação de que Rafael também irá para o sertão."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de reconhecer a função das conjunções causais em um texto.",
+        "2. **Elaborar o comando inicial:** O comando inicial instrui o aluno a ler o texto fornecido.",
+        "3. **Selecionar o texto suporte:** O texto é uma carta curta e acessível, adequada ao nível do Ensino Fundamental.",
+        "4. **Formular o comando principal:** O comando principal foca na função da conjunção 'porque' no trecho selecionado.",
+        "5. **Criar as opções de resposta:**",
+        "   - **Opção A (Distrator):** Interpreta erroneamente a pressa de Patrick.",
+        "   - **Opção B (Distrator):** Sugere uma importância da resposta que não é explicitada no texto.",
+        "   - **Opção C (Gabarito):** Apresenta a interpretação correta da função causal da conjunção.",
+        "   - **Opção D (Distrator):** Adiciona uma informação não presente no texto."
+        "6. **Elaborar as justificativas:** Cada justificativa explica por que a opção correspondente está correta ou incorreta, detalhando o raciocínio envolvido na identificação da função da conjunção."
+      ]
+    }
+  ]
+}
+```

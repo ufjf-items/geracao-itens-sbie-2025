@@ -1,0 +1,37 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "De acordo com o texto, os pais de Patrick disseram que as crianças que estudam, quando crescem, podem ser",
+      "Opções": {
+        "a": "maquinistas de trem.",
+        "b": "professores, médicos ou advogados.",
+        "c": "amigos de Rafael.",
+        "d": "leitores de contos dos Irmãos Green."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA: Essa alternativa apresenta uma profissão que Patrick deseja ter, mas não é o que os pais dele mencionam sobre o futuro das crianças que estudam.",
+        "b": "GABARITO: Essa alternativa apresenta a informação correta, conforme o texto: os pais de Patrick mencionam que as crianças que estudam podem se tornar professores, médicos ou advogados.",
+        "c": "INCORRETA: Essa alternativa menciona a amizade de Patrick com Rafael, mas não é o que os pais de Patrick dizem sobre o futuro das crianças que estudam.",
+        "d": "INCORRETA: Essa alternativa menciona a leitura de contos, mas não é o que os pais de Patrick dizem sobre o futuro das crianças que estudam."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar informações explícitas no texto e compreender relações de causa e consequência.",
+        "2. **Elaborar o comando inicial:** O comando inicial instrui o aluno a ler o texto fornecido.",
+        "3. **Selecionar o texto suporte:** O texto é uma carta curta e acessível, adequada ao nível do Ensino Fundamental.",
+        "4. **Formular o comando principal:** O comando principal pergunta sobre o que os pais de Patrick disseram sobre o futuro das crianças que estudam, focando na identificação de uma informação explícita no texto.",
+        "5. **Criar as opções de resposta:**",
+        "   - **Opção A (Distrator):** Apresenta uma profissão que Patrick deseja ter, confundindo com o que os pais dele disseram.",
+        "   - **Opção B (Gabarito):** Apresenta a informação correta, conforme o texto.",
+        "   - **Opção C (Distrator):** Menciona a amizade de Patrick com Rafael, que não está relacionada ao que os pais disseram sobre o futuro.",
+        "   - **Opção D (Distrator):** Menciona a leitura de contos, que não está relacionada ao que os pais disseram sobre o futuro.",
+        "6. **Elaborar as justificativas:** Cada justificativa explica por que a opção correspondente está correta ou incorreta, detalhando o raciocínio envolvido na identificação da informação explícita no texto."
+      ]
+    }
+  ]
+}
+```

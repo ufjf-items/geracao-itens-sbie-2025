@@ -1,0 +1,37 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \\\"Contos dos Irmãos Green\\\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\nDisponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "No trecho “Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados”, qual a possível consequência para as crianças que se dedicam aos estudos, segundo os pais de Patrick?",
+      "Opções": {
+        "a": "Elas podem ganhar um livro de contos.",
+        "b": "Elas podem se tornar maquinistas de trem do metrô.",
+        "c": "Elas podem se tornar professores, médicos ou advogados.",
+        "d": "Elas podem ir para o sertão no domingo."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Incorreta. Ganhar um livro de contos é uma consequência de aprender a ler e escrever, não de estudar em geral.",
+        "b": "Incorreta. Ser maquinista é um desejo pessoal de Patrick, não uma consequência geral dos estudos.",
+        "c": "Correta. O texto afirma que os pais de Patrick disseram que crianças que estudam podem se tornar professores, médicos ou advogados.",
+        "d": "Incorreta. Ir para o sertão é um plano de Patrick, não uma consequência dos estudos."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações de causalidade (consequência).",
+        "2. **Selecionar o texto:** A carta de Patrick a Rafael é um texto adequado ao nível fundamental.",
+        "3. **Elaborar o comando 1:** O comando inicial solicita a leitura do texto.",
+        "4. **Elaborar o comando 2:** O comando foca na consequência dos estudos, conforme expresso pelos pais de Patrick.",
+        "5. **Criar as opções:**",
+        "   - **Gabarito (c):** Apresenta a consequência direta dos estudos (tornar-se professor, médico ou advogado).",
+        "   - **Distrator a:** Refere-se a uma consequência diferente (ganhar um livro).",
+        "   - **Distrator b:** Menciona um desejo pessoal de Patrick (ser maquinista).",
+        "   - **Distrator d:** Introduz um plano de Patrick (ir para o sertão).",
+        "6. **Justificativas:** Cada opção é justificada detalhadamente para explicar por que é correta ou incorreta."
+      ]
+    }
+  ]
+}
+```

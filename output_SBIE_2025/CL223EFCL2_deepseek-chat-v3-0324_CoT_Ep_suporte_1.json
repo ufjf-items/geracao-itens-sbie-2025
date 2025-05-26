@@ -1,0 +1,65 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Querida avó,\\Estou escrevendo para contar que não pude visitá-la no fim de semana porque tive muita lição de casa. A professora passou vários exercícios já que teremos prova na próxima semana. Por isso, passei o sábado inteiro estudando.\\Mas prometo que no próximo feriado vou até sua casa, pois quero muito te ver.\\Com saudades,\\Ana.\\",
+      "Comando 2": "No trecho \"não pude visitá-la no fim de semana porque tive muita lição de casa\", a palavra \"porque\" indica uma relação de causalidade. Qual foi a consequência dessa situação?",
+      "Opções": {
+        "a": "Ter prova na próxima semana",
+        "b": "Não visitar a avó no fim de semana",
+        "c": "Passar o sábado inteiro estudando",
+        "d": "Prometer visitar no próximo feriado"
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Incorreta. A prova é mencionada como motivo para os exercícios, não como consequência da lição de casa.",
+        "b": "Correta. O texto afirma claramente que a consequência de ter muita lição de casa foi não poder visitar a avó.",
+        "c": "Incorreta. Estudar foi uma ação decorrente da lição, mas não a consequência direta mencionada na frase em questão.",
+        "d": "Incorreta. A promessa é um fato futuro sem relação causal direta com a lição de casa."
+      },
+      "->": [
+        "1. Selecionei um novo texto epistolar contendo múltiplas relações causais",
+        "2. Focalizei a conjunção 'porque' para identificar causa e consequência",
+        "3. Formulei a pergunta para avaliar o reconhecimento da consequência (diferente da questão anterior)",
+        "4. Construí distratores com outras informações causais do texto",
+        "5. Organizei as alternativas seguindo a ordem de aparecimento no texto",
+        "6. Elaborei justificativas baseadas na estrutura lógico-discursiva do texto"
+      ]
+    }
+  ]
+}
+```
+
+**Linha de raciocínio detalhada:**
+
+1. **Novo Texto de Suporte**:
+   - Criei uma carta diferente mantendo o gênero epistolar
+   - Incluí múltiplas relações causais ("porque", "já que", "por isso", "pois")
+   - Mantive a extensão adequada (até 10 linhas)
+
+2. **Foco Avaliativo**:
+   - Desta vez avalio o reconhecimento da **consequência** (diferente da questão anterior que pedia a causa)
+   - Mantive a conjunção "porque" como elemento central
+   - Explorei a mesma competência (EF05LP07) sob nova perspectiva
+
+3. **Construção do Item**:
+   - Comando 2 direcionado para identificar a consequência da causa apresentada
+   - Alternativas contendo:
+     - Gabarito: consequência direta da relação causal
+     - Distratores: outras relações causais presentes no texto
+   - Justificativas que explicitam a análise lógico-discursiva
+
+4. **Adequação Pedagógica**:
+   - Grau de complexidade equivalente ao ano/série
+   - Contexto significativo (relação familiar)
+   - Linguagem acessível mas não simplória
+
+5. **Inovações em Relação à Questão Anterior**:
+   - Diferente foco (consequência em vez de causa)
+   - Novo texto com maior variedade de conectivos
+   - Alternativas organizadas por ordem textual
+   - Manutenção do rigor na construção das justificativas
+
+Esta nova questão complementa a anterior, permitindo avaliar a mesma competência sob outro ângulo, enriquecendo o banco de itens com variedade de abordagens para a habilidade de reconhecimento de relações causais.

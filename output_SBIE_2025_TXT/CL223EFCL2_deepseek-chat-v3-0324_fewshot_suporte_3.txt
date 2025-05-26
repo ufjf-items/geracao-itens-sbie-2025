@@ -1,0 +1,39 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No texto, Patrick quer ser maquinista de trem porque
+Opções:
+   a) seus pais querem que ele tenha uma profissão
+   b) ganhou um livro sobre trens
+-> c) quer pilotar uma locomotiva cheia de gente
+   d) precisa viajar para o sertão
+Justificativas:
+a) INCORRETA - Os estudantes que marcaram esta alternativa confundiram as informações. Embora os pais mencionem profissões, não há relação direta com a escolha de Patrick.
+b) INCORRETA - O livro que Patrick ganhou era de contos, não sobre trens, mostrando que os estudantes não identificaram corretamente as informações textuais.
+c) GABARITO - Os estudantes que assinalaram esta alternativa identificaram corretamente a relação causal expressa pela conjunção 'para', reconhecendo o desejo de Patrick de pilotar locomotivas como motivo para querer ser maquinista.
+d) INCORRETA - Esta alternativa mistura informações desconexas. A viagem ao sertão é um plano familiar, não relacionado à escolha profissional de Patrick.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Patrick está escrevendo a carta porque
+Opções:
+   a) precisa mostrar suas notas aos pais
+-> b) quer contar sobre as férias e prêmios
+   c) deseja presentear Rafael com um livro
+   d) precisa avisar sobre a prova na escola
+Justificativas:
+a) INCORRETA - As notas são mencionadas, mas não como motivo principal para escrever a carta.
+b) GABARITO - Os estudantes identificaram corretamente a relação causal implícita no início do texto, onde Patrick expressa o desejo de compartilhar notícias sobre férias e conquistas.
+c) INCORRETA - O livro foi um presente recebido, não algo que Patrick queira dar a Rafael.
+d) INCORRETA - Não há menção a provas escolares no texto, mostrando que os estudantes não compreenderam o contexto.
+
+--------------------------------------------------------------------------------

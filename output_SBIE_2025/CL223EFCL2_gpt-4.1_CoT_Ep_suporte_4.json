@@ -1,0 +1,30 @@
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\nestou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\nMeu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\nResponda em breve, porque no domingo vamos para o sertão.\nUm abraço do teu amigo,\nPatrick.\nDisponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "No trecho \"Meu pai e minha mãe estão muito contentes pelas minhas notas\", qual é o motivo da alegria dos pais de Patrick?",
+      "Opções": {
+        "a": "Porque Patrick tirou boas notas.",
+        "b": "Porque Patrick vai para o sertão no domingo.",
+        "c": "Porque Patrick ganhou um livro de contos.",
+        "d": "Porque Patrick quer ser maquinista de trem do metrô."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "Correta. O trecho indica que a causa da alegria dos pais de Patrick são as boas notas que ele tirou. A alternativa retoma exatamente a causa apresentada no texto.",
+        "b": "Incorreta. Ir para o sertão no domingo é uma informação do final da carta, sem relação com a alegria dos pais.",
+        "c": "Incorreta. Ganhar um livro de contos é uma consequência do prêmio na escola, não o motivo da alegria dos pais.",
+        "d": "Incorreta. O desejo de ser maquinista de trem do metrô é uma escolha pessoal de Patrick, não está relacionado à alegria dos pais."
+      },
+      "->": [
+        "1. Analisei o trecho do texto que apresenta uma relação de causa e consequência: os pais estão contentes (consequência) porque Patrick tirou boas notas (causa implícita).",
+        "2. Elaborei o comando 2 para direcionar o estudante a identificar a causa da alegria dos pais, conforme explicitado no texto.",
+        "3. A alternativa correta (a) retoma exatamente a causa apresentada no texto.",
+        "4. Os distratores (b, c, d) foram construídos a partir de outras informações do texto, mas que não apresentam relação de causalidade com a alegria dos pais.",
+        "5. As justificativas detalham por que cada alternativa está correta ou incorreta, reforçando a importância de reconhecer a relação de causa e consequência no texto."
+      ]
+    }
+  ]
+}

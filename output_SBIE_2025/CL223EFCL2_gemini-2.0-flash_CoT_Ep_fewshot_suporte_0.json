@@ -1,0 +1,37 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "De acordo com esse texto, Patrick ganhou um livro de contos porque",
+      "Opções": {
+        "a": "aprendeu na escola a ler e a escrever.",
+        "b": "precisou ler e escrever durante as férias.",
+        "c": "quando crescer quer ser maquinista.",
+        "d": "quer mostrar para o seu amigo Rafael."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "GABARITO Os estudantes que assinalaram esta alternativa de resposta identificaram corretamente a relação de causalidade demandada pelo comando do item. Possivelmente reconhece a função da conjunção “porque”, observando que, no texto, estabelece uma relação causal entre o presente e o fator que o motivou.",
+        "b": "INCORRETA Os estudantes que assinalaram esta alternativa de resposta compreenderam que o que levou o garoto a ganhar o presente foi o fato de ter que ler nas férias. Em que pese mobilizar uma informação textual, afasta-se do gabarito do item, demonstrando dificuldades em estabelecer relações causais marcadas pelo uso de conjunções.",
+        "c": "INCORRETA Os estudantes que assinalaram esta alternativa de resposta reconhecem uma informação textual que não responde à relação causal. Trata-se de uma informação que no texto é marcada por um advérbio de tempo e distante da conjunção “porque”, evidenciando que ainda não reconhecem o papel das conjunções na construção de causa e consequência.",
+        "d": "INCORRETA Os estudantes que assinalaram essa alternativa de resposta, a exemplo dos que optaram pelas anteriores, mobilizam uma informação textual que não estabelece relação causal com o que é solicitado no comando do item. Com isso, evidenciam dificuldades em compreender o papel das conjunções na construção de relações lógico-discursivas de causalidade."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer relações de causa e consequência em textos simples.",
+        "2. **Elaborar o comando inicial:** O comando inicial instrui o aluno a ler o texto fornecido.",
+        "3. **Selecionar o texto suporte:** O texto é uma carta curta e acessível, adequada ao nível do Ensino Fundamental, contendo uma relação de causalidade clara.",
+        "4. **Formular o comando principal:** O comando principal pergunta diretamente sobre a razão pela qual Patrick ganhou um livro, focando na relação de causalidade expressa pela conjunção 'porque'.",
+        "5. **Criar as opções de resposta:**",
+        "   - **Opção A (Gabarito):** Apresenta a causa correta, diretamente relacionada ao trecho do texto que menciona o prêmio e o aprendizado na escola.",
+        "   - **Opção B (Distrator):** Menciona leitura e escrita, mas em um contexto diferente (férias), confundindo o aluno que não identifica a relação causal correta.",
+        "   - **Opção C (Distrator):** Apresenta um desejo futuro de Patrick (ser maquinista), que não tem relação com o motivo de ter ganho o livro.",
+        "   - **Opção D (Distrator):** Menciona o amigo Rafael, mas não estabelece uma relação causal com o prêmio.",
+        "6. **Elaborar as justificativas:** Cada justificativa explica por que a opção correspondente está correta ou incorreta, detalhando o raciocínio envolvido na identificação da relação de causalidade."
+      ]
+    }
+  ]
+}
+```

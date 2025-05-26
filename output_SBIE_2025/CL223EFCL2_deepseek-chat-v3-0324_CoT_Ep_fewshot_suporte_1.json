@@ -1,0 +1,53 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+
+      "Texto suporte": "Amigo Rafael,\\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama \"Contos dos Irmãos Green\".\\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\\Responda em breve, porque no domingo vamos para o sertão.\\Um abraço do teu amigo,\\Patrick.\\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.",
+      "Comando 2": "Por que a escola deu prêmios para os alunos?",
+      "Opções": {
+        "a": "( ) Porque as crianças querem ser profissionais importantes.",
+        "b": "( ) Porque os alunos gostam muito de ler livros de contos.",
+        "c": "( ) Porque as crianças aprenderam a ler e escrever.",
+        "d": "( ) Porque os pais ficaram contentes com as notas."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "INCORRETA - Embora o texto mencione futuras profissões, essa informação não está relacionada aos prêmios dados pela escola. A alternativa distrai com informação contextual.",
+        "b": "INCORRETA - O livro de contos é consequência do prêmio, não a causa. Os estudantes que marcaram esta alternativa inverteram a relação lógica.",
+        "c": "GABARITO - Resposta correta que identifica a relação causal expressa pela conjunção 'porque' no trecho 'nos deram prêmios porque aprendemos a ler e escrever'.",
+        "d": "INCORRETA - A satisfação dos pais é mencionada no texto, mas não tem relação causal com os prêmios escolares. Alternativa que captura informação desconectada."
+      },
+      "->": "1) Mantive o texto suporte original conforme especificado. 2) Formulação do comando focando em outra relação causal do texto (prêmios escolares). 3) Distratores com informações do texto que não respondem à causalidade solicitada. 4) Justificativas que destacam o reconhecimento (ou não) da estrutura causal."
+    }
+  ]
+}
+```
+
+**Raciocínio de construção:**
+
+1. **Novo enfoque causal**: Diferente da primeira questão que explorava o pedido de resposta rápida, esta focaliza a relação causal dos prêmios escolares, demonstrando versatilidade na avaliação da mesma habilidade.
+
+2. **Estrutura de alternativas**:
+   - Alternativa correta (c): Diretamente extraída da relação causal do texto
+   - Distratores:
+     * a) Menciona profissões (informação presente, mas fora do contexto causal)
+     * b) Inverte a lógica (o livro é consequência, não causa)
+     * d) Utiliza outra informação positiva, mas sem relação causal
+
+3. **Progressão de dificuldade**: Esta questão exige maior atenção na localização da informação causal, pois aparece no início do texto, precedida por outras informações.
+
+4. **Aspectos cognitivos avaliados**:
+   - Identificação precisa da conjunção causal
+   - Não confundir consequência com causa
+   - Desconsiderar informações adjacentes não relacionadas
+
+**Validade pedagógica**:
+- Mantém coerência com a BNCC (EF05LP07)
+- Avalia a mesma competência sob perspectiva diferente
+- Distratores baseados em erros comuns de interpretação
+- Linguagem adequada ao estágio de desenvolvimento do 5º ano
+
+Esta segunda questão complementa a primeira, permitindo verificar se o estudante consegue reconhecer relações causais em diferentes contextos dentro do mesmo texto.
