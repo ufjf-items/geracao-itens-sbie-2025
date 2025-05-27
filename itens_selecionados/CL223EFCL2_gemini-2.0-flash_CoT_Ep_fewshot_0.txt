@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Vovó,
+
+Escrevo para contar que participei de um concurso de desenho na escola. Desenhei um jardim cheio de flores e borboletas. A professora disse que meu desenho ficou muito bonito e criativo. Fiquei muito feliz porque ganhei um kit de tintas e pincéis! Agora posso pintar ainda mais!
+
+Com carinho,
+Sofia.
+Pergunta:
+De acordo com o texto, Sofia ficou muito feliz porque
+Opções:
+   a) desenhou um jardim cheio de flores e borboletas.
+   b) a professora elogiou seu desenho.
+-> c) ganhou um kit de tintas e pincéis.
+   d) participou de um concurso na escola.
+Justificativas:
+a) INCORRETA. Sofia desenhou um jardim, mas essa ação não é a causa direta de sua felicidade expressa no texto. O desenho é um evento anterior à sua felicidade.
+b) INCORRETA. O elogio da professora é um fator positivo, mas a causa direta da felicidade de Sofia, conforme o texto, é o prêmio que ela recebeu.
+c) CORRETA. O texto afirma explicitamente que Sofia ficou feliz *porque* ganhou um kit de tintas e pincéis. A conjunção 'porque' indica a relação de causalidade.
+d) INCORRETA. Participar do concurso é um evento que antecede a felicidade de Sofia, mas não é a causa direta mencionada no texto.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Vovó Maria,
+
+Escrevo para contar que a apresentação da escola foi um sucesso! Todos adoraram a peça dos animais da floresta. Eu estava muito nervoso antes de entrar no palco, mas quando vi você na plateia, me senti mais calmo. 
+
+Depois da apresentação, fomos comemorar na pizzaria. Comi tanto que fiquei até com dor de barriga! Mas valeu a pena, porque a pizza estava deliciosa e foi muito divertido estar com meus amigos e familiares.
+
+Espero que a senhora tenha gostado da apresentação. Mal posso esperar para te ver de novo.
+
+Com amor,
+Seu neto, Pedrinho.
+Pergunta:
+No trecho “Comi tanto que fiquei até com dor de barriga!”, qual a razão para Pedrinho ter ficado com dor de barriga?
+Opções:
+   a) Ele comeu pizza com seus amigos e familiares.
+-> b) Ele comeu tanto.
+   c) Ele estava nervoso antes da apresentação.
+   d) Ele viu sua avó na plateia.
+Justificativas:
+a) Incorreta. Embora Pedrinho tenha comido pizza com amigos e familiares, essa não é a causa direta da dor de barriga. A companhia e o tipo de comida não são a razão do mal-estar.
+b) Correta. O trecho indica explicitamente que a causa da dor de barriga foi o fato de Pedrinho ter comido muito. A conjunção “que” estabelece essa relação de causalidade.
+c) Incorreta. O nervosismo de Pedrinho antes da apresentação é uma informação presente no texto, mas não tem relação com a dor de barriga que ele sentiu depois.
+d) Incorreta. Ver a avó na plateia o acalmou, e não causou a dor de barriga. Essa opção apresenta uma informação do texto que não tem relação com a pergunta.
+
+--------------------------------------------------------------------------------

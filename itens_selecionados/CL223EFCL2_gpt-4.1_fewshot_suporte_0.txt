@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Lá na escola nos deram prêmios porque aprendemos a ler e escrever", identifique o motivo pelo qual Patrick e os colegas receberam prêmios.
+Opções:
+-> a) Porque aprenderam a ler e escrever.
+   b) Porque vão viajar para o sertão no domingo.
+   c) Porque Patrick quer ser maquinista de trem do metrô.
+   d) Porque Patrick tirou boas notas e deixou os pais contentes.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa pela conjunção 'porque' no trecho citado. O texto afirma que os prêmios foram dados devido ao fato de terem aprendido a ler e escrever, estabelecendo claramente a causa (aprender a ler e escrever) e a consequência (receber prêmios).
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram a informação sobre a viagem ao sertão, que aparece em outro momento do texto, mas não está relacionada à concessão dos prêmios. Não há relação causal entre a viagem e o recebimento dos prêmios.
+c) INCORRETA. Esta alternativa apresenta um desejo pessoal de Patrick, mas não está relacionada à razão pela qual os prêmios foram dados. Não há relação de causa e consequência entre querer ser maquinista e receber prêmios na escola.
+d) INCORRETA. Embora o texto mencione que os pais de Patrick ficaram contentes com suas notas, essa não é a causa apresentada para o recebimento dos prêmios. A relação causal correta, marcada pela conjunção 'porque', refere-se ao aprendizado da leitura e escrita.
+
+--------------------------------------------------------------------------------

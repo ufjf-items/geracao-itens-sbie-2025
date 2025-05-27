@@ -1,0 +1,24 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Rio de Janeiro, 20 de maio de 2024.
+
+Oi, Mariana!
+Estou escrevendo para contar uma novidade. Ontem, não pude brincar no parquinho porque estava chovendo muito. Minha mãe fez um bolo de chocolate, pois sabia que eu estava triste. Ficamos em casa assistindo a um filme juntos. Foi divertido, já que todos riram bastante. Espero que o tempo melhore para brincarmos no parque quando você vier me visitar.
+Beijos,
+Sofia
+Pergunta:
+De acordo com o texto, por que a mãe de Sofia fez um bolo de chocolate? Assinale a alternativa correta.
+Opções:
+-> a) Porque Sofia estava triste.
+   b) Porque todos queriam assistir a um filme.
+   c) Porque Mariana foi visitar Sofia.
+   d) Porque estava chovendo muito.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de causalidade expressa no texto pelo uso da conjunção 'pois'. O texto afirma: 'Minha mãe fez um bolo de chocolate, pois sabia que eu estava triste', mostrando que a causa para fazer o bolo foi a tristeza de Sofia.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram o motivo do bolo com o momento em que todos assistiram ao filme. O texto não indica que o bolo foi feito porque todos queriam ver um filme.
+c) INCORRETA. Os estudantes que optaram por esta alternativa se basearam em uma informação futura do texto, mas não há relação causal entre a visita de Mariana e o bolo.
+d) INCORRETA. Os estudantes que marcaram esta alternativa confundiram a causa da tristeza de Sofia (a chuva) com a causa do bolo. A mãe fez o bolo porque Sofia estava triste, não apenas porque chovia.
+
+--------------------------------------------------------------------------------

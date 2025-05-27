@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Querida avó,\Estou escrevendo para contar que não pude visitá-la no fim de semana porque tive muita lição de casa. A professora passou vários exercícios já que teremos prova na próxima semana. Por isso, passei o sábado inteiro estudando.\Mas prometo que no próximo feriado vou até sua casa, pois quero muito te ver.\Com saudades,\Ana.\
+Pergunta:
+No trecho "não pude visitá-la no fim de semana porque tive muita lição de casa", a palavra "porque" indica uma relação de causalidade. Qual foi a consequência dessa situação?
+Opções:
+   a) Ter prova na próxima semana
+-> b) Não visitar a avó no fim de semana
+   c) Passar o sábado inteiro estudando
+   d) Prometer visitar no próximo feriado
+Justificativas:
+a) Incorreta. A prova é mencionada como motivo para os exercícios, não como consequência da lição de casa.
+b) Correta. O texto afirma claramente que a consequência de ter muita lição de casa foi não poder visitar a avó.
+c) Incorreta. Estudar foi uma ação decorrente da lição, mas não a consequência direta mencionada na frase em questão.
+d) Incorreta. A promessa é um fato futuro sem relação causal direta com a lição de casa.
+
+--------------------------------------------------------------------------------

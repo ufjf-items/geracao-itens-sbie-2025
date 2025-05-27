@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais
+Comando: Leia o texto.
+Texto de Suporte:
+Querida Clara,
+estou escrevendo para contar que ganhei um passeio no zoológico! Meus avós disseram que eu mereci visto que ajudei muito em casa nas férias.
+Minha mãe até me deu um livro sobre animais como presente extra.
+Você já visitou o zoológico este ano?
+Me conta como foi!
+Beijos,
+João.
+Disponível em: <https://www.cartasinfantis.com.br>. Acesso em: 25 jul. 2025.
+Pergunta:
+De acordo com o texto, João ganhou um passeio no zoológico porque
+Opções:
+-> a) (   ) ajudou muito em casa nas férias.
+   b) (   ) ganhou um livro sobre animais.
+   c) (   ) sempre gostou de visitar zoológicos.
+   d) (   ) queria contar a novidade para Clara.
+Justificativas:
+a) GABARITO
+Os estudantes que marcaram esta alternativa identificaram corretamente a relação causal marcada pela locução conjuntiva 'visto que', demonstrando compreensão de que a ajuda em casa foi a razão para ganhar o passeio. Reconhecem a função dessa conjunção para expressar causa e consequência.
+b) INCORRETA
+Os estudantes que escolheram esta alternativa confundiram relações diferentes no texto. Embora o livro seja uma informação real, ele é um presente adicional, não a causa do passeio. Mostra dificuldade em distinguir relações paralelas de causais.
+c) INCORRETA
+Esta alternativa apresenta uma informação que não consta no texto (sempre gostou de zoológicos). Estudantes que a marcaram provavelmente fizeram inferências pessoais sem base no conteúdo apresentado.
+d) INCORRETA
+Apesar de o texto ser uma carta para Clara, o objetivo de contar a novidade não é a causa do prêmio. Essa escolha indica que o estudante não identificou a relação causal solicitada.
+
+--------------------------------------------------------------------------------

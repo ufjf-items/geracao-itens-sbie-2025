@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Lá na escola nos deram prêmios porque aprendemos a ler e escrever", a palavra "porque" indica uma relação de causalidade. Qual é a causa apresentada nessa relação?
+Opções:
+   a) Estar de férias
+-> b) Aprender a ler e escrever
+   c) Ganhar um livro de contos
+   d) Ir para o sertão no domingo
+Justificativas:
+a) Incorreta. O fato de estar de férias é mencionado no início da carta, mas não está relacionado com a causa de terem recebido prêmios.
+b) Correta. A causa de terem recebido prêmios na escola é explicitada no texto como sendo o fato de terem aprendido a ler e escrever, marcado pela conjunção "porque".
+c) Incorreta. Ganhar um livro de contos é uma consequência de ter recebido prêmios, não a causa dos prêmios.
+d) Incorreta. Ir para o sertão no domingo é mencionado no final da carta como motivo para responder logo, mas não tem relação com a causa dos prêmios.
+
+--------------------------------------------------------------------------------

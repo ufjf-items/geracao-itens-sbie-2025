@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+Por que a escola deu prêmios para os alunos?
+Opções:
+   a) ( ) Porque as crianças querem ser profissionais importantes.
+   b) ( ) Porque os alunos gostam muito de ler livros de contos.
+-> c) ( ) Porque as crianças aprenderam a ler e escrever.
+   d) ( ) Porque os pais ficaram contentes com as notas.
+Justificativas:
+a) INCORRETA - Embora o texto mencione futuras profissões, essa informação não está relacionada aos prêmios dados pela escola. A alternativa distrai com informação contextual.
+b) INCORRETA - O livro de contos é consequência do prêmio, não a causa. Os estudantes que marcaram esta alternativa inverteram a relação lógica.
+c) GABARITO - Resposta correta que identifica a relação causal expressa pela conjunção 'porque' no trecho 'nos deram prêmios porque aprendemos a ler e escrever'.
+d) INCORRETA - A satisfação dos pais é mencionada no texto, mas não tem relação causal com os prêmios escolares. Alternativa que captura informação desconectada.
+
+--------------------------------------------------------------------------------
