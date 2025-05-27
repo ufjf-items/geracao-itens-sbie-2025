@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados.", identifique a consequência para as crianças que estudam, segundo os pais de Patrick.
+Opções:
+-> a) Podem ser professores, médicos ou advogados quando crescerem.
+   b) Ganham prêmios na escola.
+   c) Vão viajar para o sertão no domingo.
+   d) Querem ser maquinistas de trem do metrô.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa identificaram corretamente a relação de consequência apresentada no trecho. Segundo os pais de Patrick, as crianças que estudam podem, no futuro, ser professores, médicos ou advogados, estabelecendo uma relação de causa (estudar) e consequência (ter profissões valorizadas).
+b) INCORRETA. Embora o texto mencione que Patrick ganhou um prêmio, isso está relacionado ao aprendizado de ler e escrever, não ao fato de estudar para ter uma profissão no futuro.
+c) INCORRETA. A viagem para o sertão é uma informação do texto, mas não está relacionada à consequência de estudar, segundo os pais de Patrick.
+d) INCORRETA. O desejo de ser maquinista de trem do metrô é uma vontade pessoal de Patrick, não uma consequência apontada pelos pais para as crianças que estudam.
+
+--------------------------------------------------------------------------------

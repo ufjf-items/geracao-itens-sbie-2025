@@ -1,0 +1,39 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Meu pai e minha mãe estão muito contentes pelas minhas notas", qual é a relação lógico-discursiva estabelecida pela palavra "pelas"?
+Opções:
+   a) Relação de tempo
+-> b) Relação de causa
+   c) Relação de oposição
+   d) Relação de adição
+Justificativas:
+a) Incorreta. A palavra "pelas" não indica tempo, mas sim a razão do contentamento.
+b) Correta. "Pelas" estabelece relação causal, indicando que as boas notas são a causa do contentamento dos pais.
+c) Incorreta. Não há oposição nessa relação, mas sim uma conexão causal.
+d) Incorreta. A palavra não adiciona informações, mas sim mostra a razão de algo.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar estamos de estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+Qual das alternativas abaixo contém uma conjunção que NÃO expressa relação de causalidade?
+Opções:
+   a) porque
+   b) pois
+-> c) mas
+   d) já que
+Justificativas:
+a) IncorretaPorPorque" é uma conjunção causal por excelência.
+b) Incorreta. "Pois" também expressa causalidade, embora com posicionamento diferente na frase.
+c) Correta. "Mas" expressa oposição/contraste, não causalidade.
+d) Incorreta. "Já que" é outra conjunção que indica relação causal.
+
+--------------------------------------------------------------------------------

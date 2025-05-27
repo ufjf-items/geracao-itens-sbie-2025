@@ -1,0 +1,39 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Responda em breve, porque no domingo vamos para o sertão", a palavra "porque" indica uma relação de causalidade. Qual é a causa apresentada nessa relação?
+Opções:
+   a) Estar de férias
+   b) Aprender a ler e escrever
+   c) Ganhar um livro de contos
+-> d) Ir para o sertão no domingo
+Justificativas:
+a) Incorreta. Embora o início da carta mencione que estão de férias, isso não é a causa para pedir uma resposta rápida.
+b) Incorreta. Aprender a ler e escrever foi a causa para receber prêmios, mas não está relacionada com o pedido de resposta rápida.
+c) Incorreta. Ganhar o livro é uma consequência dos prêmios recebidos, não tem relação com o motivo para responder logo.
+d) Correta. A causa para pedir que respondam breve é explicitada no texto como sendo a viagem ao sertão no domingo, marcada pela conjunção "porque".
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Meu pai e minha mãe estão muito contentes pelas minhas notas", qual seria a conjunção mais adequada para substituir "pelas" mantendo a relação de causalidade?
+Opções:
+   a) mas
+-> b) porque
+   c) e
+   d) quando
+Justificativas:
+a) Incorreta. "Mas" indica contraste/oposição, não causalidade.
+b) Correta. "Porque" é a conjunção causal mais adequada para substituir "pelas" mantendo a relação de causa (as notas boas) e efeito (contentamento dos pais).
+c) Incorreta. "E" indica adição, não relação de causa e efeito.
+d) Incorreta. "Quando" indica tempo, não causalidade.
+
+--------------------------------------------------------------------------------

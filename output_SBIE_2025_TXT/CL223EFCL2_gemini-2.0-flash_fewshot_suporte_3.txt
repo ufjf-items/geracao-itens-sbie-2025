@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Patrick quer ser maquinista de trem do metrô porque:
+Opções:
+   a) seus pais disseram que ele pode ser professor, médico ou advogado.
+-> b) ele quer pilotar uma locomotiva repleta de gente.
+   c) ele ganhou um livro de contos muito bonito.
+   d) ele está escrevendo uma carta para o amigo Rafael.
+Justificativas:
+a) INCORRETA: A carta menciona que os pais de Patrick disseram que ele pode ser outras profissões, mas não é o motivo pelo qual ele quer ser maquinista.
+b) GABARITO: O texto indica que Patrick quer ser maquinista para pilotar uma locomotiva repleta de gente. Essa é a relação de causa e consequência apresentada no texto.
+c) INCORRETA: O fato de Patrick ter ganhado um livro é uma informação presente no texto, mas não é a causa do seu desejo de ser maquinista.
+d) INCORRETA: Escrever uma carta para Rafael é uma ação que Patrick está realizando, mas não é a causa do seu desejo de ser maquinista.
+
+--------------------------------------------------------------------------------

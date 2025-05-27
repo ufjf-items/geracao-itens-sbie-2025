@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Lá na escola nos deram prêmios porque aprendemos a ler e escrever", qual é a consequência de Patrick e seus colegas terem aprendido a ler e escrever?
+Opções:
+-> a) Receberam prêmios na escola.
+   b) Foram para o sertão no domingo.
+   c) Ficaram de férias da escola.
+   d) Ganharam um livro de contos dos Irmãos Green.
+Justificativas:
+a) GABARITO. Os estudantes que assinalaram esta alternativa reconheceram corretamente a relação de causalidade expressa pela conjunção 'porque'. O texto afirma que a consequência de aprender a ler e escrever foi receber prêmios na escola.
+b) INCORRETA. A viagem para o sertão é mencionada em outro trecho do texto e não está relacionada ao fato de aprender a ler e escrever.
+c) INCORRETA. As férias são mencionadas no início da carta, mas não são apresentadas como consequência de aprender a ler e escrever.
+d) INCORRETA. Embora Patrick tenha ganhado um livro, o texto diz que ele ganhou o livro como prêmio, mas a consequência geral para todos foi receber prêmios, não especificamente o livro de contos.
+
+--------------------------------------------------------------------------------

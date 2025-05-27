@@ -1,0 +1,39 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados", qual palavra poderia substituir "quando" mantendo a relação temporal?
+Opções:
+   a) porque
+   b) mas
+   c) pois
+-> d) assim que
+Justificativas:
+a) Incorreta. "Porque" indica causalidade, não tempo.
+b) Incorreta. "Mas" indica oposição, não tempo.
+c) Incorreta. "Pois" indica causalidade, não tempo.
+d) Correta. "Assim que" mantém a relação temporal indicando o momento em que as crianças crescem.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+Qual é a relação estabelecida pela palavra "para" no trecho "Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente"?
+Opções:
+   a) Causalidade
+-> b) Finalidade
+   c) Oposição
+   d) Temporalidade
+Justificativas:
+a) Incorreta. Não há relação de causa e efeito nesse trecho.
+b) Correta. "Para" indica a finalidade/intenção de ser maquinista (pilotar locomotivas).
+c) Incorreta. A oposição está marcada por "mas" no início da frase, não por "para".
+d) Incorreta. Não há indicação de tempo nessa relação.
+
+--------------------------------------------------------------------------------

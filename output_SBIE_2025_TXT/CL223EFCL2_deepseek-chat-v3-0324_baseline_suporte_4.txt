@@ -1,0 +1,39 @@
+Questão 1
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Lá na escola nos deram prêmios porque aprendemos a ler e escrever", qual é a relação entre as duas partes da frase?
+Opções:
+   a) Relação de tempo (quando algo aconteceu)
+-> b) Relação de causa e consequência (por que algo aconteceu)
+   c) Relação de oposição (contraste entre ideias)
+   d) Relação de finalidade (para que algo aconteça)
+Justificativas:
+a) Incorreta. Não há indicação de tempo, mas sim de motivo.
+b) Correta. A conjunção "porque" estabelece claramente uma relação de causa (aprender) e consequência (receber prêmios).
+c) Incorreta. Não há ideias opostas, mas sim uma que explica a outra.
+d) Incorreta. A finalidade seria indicada por "para" ou "a fim de", não por "porque".
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais em cartas.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+Qual das alternativas reescreve corretamente o trecho "Responda em breve, porque no domingo vamos para o sertão" mantendo a relação de causalidade?
+Opções:
+-> a) Responda em breve, pois no domingo vamos para o sertão
+   b) Responda em breve, mas no domingo vamos para o sertão
+   c) Responda em breve quando formos para o sertão no domingo
+   d) Responda em breve, portanto no domingo vamos para o sertão
+Justificativas:
+a) Correta. "Pois" mantém a relação causal equivalente a "porque", apenas com posição diferente na frase.
+b) Incorreta. "Mas" indica oposição, alterando completamente o sentido original.
+c) Incorreta. "Quando" estabelece relação temporal, não causal.
+d) Incorreta. "Portanto" indica conclusão, não causa.
+
+--------------------------------------------------------------------------------

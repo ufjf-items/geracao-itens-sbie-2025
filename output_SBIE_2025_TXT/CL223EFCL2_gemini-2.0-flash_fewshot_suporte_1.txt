@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com o texto, Patrick pede para Rafael responder em breve a carta porque:
+Opções:
+   a) ele quer contar sobre os prêmios que ganhou na escola.
+-> b) ele vai viajar para o sertão no domingo.
+   c) ele quer saber se Rafael também está de férias.
+   d) ele quer saber se Rafael também ganhou um livro.
+Justificativas:
+a) INCORRETA: Embora Patrick mencione os prêmios que ganhou, essa não é a razão pela qual ele pede uma resposta breve. A conjunção 'porque' introduz a causa do pedido, e não uma informação adicional sobre os prêmios.
+b) GABARITO: A conjunção 'porque' indica a causa do pedido de resposta breve. Patrick quer que Rafael responda logo porque ele viajará para o sertão no domingo, o que pode dificultar a comunicação posterior.
+c) INCORRETA: Embora a carta mencione as férias, o pedido de resposta breve não está relacionado ao desejo de saber sobre as férias de Rafael. A conjunção 'porque' especifica a causa do pedido, que é a viagem ao sertão.
+d) INCORRETA: O texto não relaciona o pedido de resposta breve ao desejo de saber se Rafael também ganhou um livro. A conjunção 'porque' indica que a viagem ao sertão é a causa do pedido.
+
+--------------------------------------------------------------------------------
