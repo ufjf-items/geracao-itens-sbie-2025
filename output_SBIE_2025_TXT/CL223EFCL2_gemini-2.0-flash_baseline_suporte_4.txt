@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho “Eu ganhei um livro de contos muito bonito que se chama ''Contos dos Irmãos Green''”, qual a razão para Patrick ter ganhado um livro de contos?
+Opções:
+   a) Porque ele quer ser maquinista de trem do metrô.
+   b) Porque ele está escrevendo uma carta para Rafael.
+-> c) Porque ele aprendeu a ler e escrever.
+   d) Porque ele vai para o sertão no domingo.
+Justificativas:
+a) Incorreta. O desejo de Patrick de ser maquinista não é a razão para ele ter ganhado o livro.
+b) Incorreta. O fato de Patrick estar escrevendo uma carta não é a causa de ele ter ganhado o livro.
+c) Correta. O texto indica que Patrick ganhou o livro porque aprendeu a ler e escrever, estabelecendo uma relação de causa e consequência.
+d) Incorreta. A viagem de Patrick para o sertão não é a razão para ele ter ganhado o livro.
+
+--------------------------------------------------------------------------------

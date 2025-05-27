@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho “Lá na escola nos deram prêmios porque aprendemos a ler e escrever”, qual a razão para os alunos terem recebido prêmios na escola?
+Opções:
+   a) Porque Patrick escreveu uma carta para Rafael.
+   b) Porque os alunos estavam de férias.
+-> c) Porque os alunos aprenderam a ler e escrever.
+   d) Porque Patrick ganhou um livro de contos.
+Justificativas:
+a) Incorreta. A carta de Patrick para Rafael é o meio de comunicação, e não a causa do prêmio.
+b) Incorreta. Estar de férias é uma consequência do término das aulas, e não a causa do prêmio.
+c) Correta. O trecho “porque aprendemos a ler e escrever” indica a causa do recebimento dos prêmios, ou seja, o reconhecimento pelo aprendizado.
+d) Incorreta. O fato de Patrick ter ganhado um livro é uma consequência de ter aprendido a ler e escrever, e não a causa do prêmio em si.
+
+--------------------------------------------------------------------------------

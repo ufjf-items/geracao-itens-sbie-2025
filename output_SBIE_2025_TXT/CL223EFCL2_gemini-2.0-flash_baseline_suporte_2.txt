@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho “Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados”, qual a consequência de as crianças estudarem, segundo os pais de Patrick?
+Opções:
+   a) Elas podem escrever cartas para os amigos.
+   b) Elas podem ganhar livros de contos.
+   c) Elas podem ser maquinistas de trem do metrô.
+-> d) Elas podem ser professores, médicos ou advogados.
+Justificativas:
+a) Incorreta. Escrever cartas para os amigos é uma ação independente do estudo, não sendo uma consequência direta mencionada pelos pais.
+b) Incorreta. Ganhar livros de contos é um prêmio que Patrick recebeu por aprender a ler e escrever, mas não é a consequência de estudar mencionada pelos pais.
+c) Incorreta. Ser maquinista de trem do metrô é o desejo de Patrick, e não a consequência de estudar mencionada pelos pais.
+d) Correta. Os pais de Patrick afirmam que as crianças que estudam podem se tornar professores, médicos ou advogados, indicando uma relação de causa e consequência entre o estudo e as profissões.
+
+--------------------------------------------------------------------------------

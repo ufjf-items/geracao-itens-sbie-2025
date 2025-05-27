@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com o texto, os pais de Patrick disseram que as crianças que estudam, quando crescem, podem ser
+Opções:
+   a) maquinistas de trem.
+-> b) professores, médicos ou advogados.
+   c) amigos de Rafael.
+   d) leitores de contos dos Irmãos Green.
+Justificativas:
+a) INCORRETA: Essa alternativa apresenta uma profissão que Patrick deseja ter, mas não é o que os pais dele mencionam sobre o futuro das crianças que estudam.
+b) GABARITO: Essa alternativa apresenta a informação correta, conforme o texto: os pais de Patrick mencionam que as crianças que estudam podem se tornar professores, médicos ou advogados.
+c) INCORRETA: Essa alternativa menciona a amizade de Patrick com Rafael, mas não é o que os pais de Patrick dizem sobre o futuro das crianças que estudam.
+d) INCORRETA: Essa alternativa menciona a leitura de contos, mas não é o que os pais de Patrick dizem sobre o futuro das crianças que estudam.
+
+--------------------------------------------------------------------------------

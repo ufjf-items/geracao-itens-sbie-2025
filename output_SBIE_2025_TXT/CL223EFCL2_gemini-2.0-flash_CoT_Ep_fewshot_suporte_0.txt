@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+De acordo com esse texto, Patrick ganhou um livro de contos porque
+Opções:
+-> a) aprendeu na escola a ler e a escrever.
+   b) precisou ler e escrever durante as férias.
+   c) quando crescer quer ser maquinista.
+   d) quer mostrar para o seu amigo Rafael.
+Justificativas:
+a) GABARITO Os estudantes que assinalaram esta alternativa de resposta identificaram corretamente a relação de causalidade demandada pelo comando do item. Possivelmente reconhece a função da conjunção “porque”, observando que, no texto, estabelece uma relação causal entre o presente e o fator que o motivou.
+b) INCORRETA Os estudantes que assinalaram esta alternativa de resposta compreenderam que o que levou o garoto a ganhar o presente foi o fato de ter que ler nas férias. Em que pese mobilizar uma informação textual, afasta-se do gabarito do item, demonstrando dificuldades em estabelecer relações causais marcadas pelo uso de conjunções.
+c) INCORRETA Os estudantes que assinalaram esta alternativa de resposta reconhecem uma informação textual que não responde à relação causal. Trata-se de uma informação que no texto é marcada por um advérbio de tempo e distante da conjunção “porque”, evidenciando que ainda não reconhecem o papel das conjunções na construção de causa e consequência.
+d) INCORRETA Os estudantes que assinalaram essa alternativa de resposta, a exemplo dos que optaram pelas anteriores, mobilizam uma informação textual que não estabelece relação causal com o que é solicitado no comando do item. Com isso, evidenciam dificuldades em compreender o papel das conjunções na construção de relações lógico-discursivas de causalidade.
+
+--------------------------------------------------------------------------------
