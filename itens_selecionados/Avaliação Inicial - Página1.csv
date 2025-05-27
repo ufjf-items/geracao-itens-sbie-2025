@@ -1,0 +1,181 @@
+Código Classe,Modelo,Item (id),Dificil,Suporte,One-Shot,CoT + EP,Critério de Exclusão,Aceito,Selecionado,Motivação da escolha,Observação
+LP-D22-3EF-CL02,DeepSeek,1,FALSE,FALSE,FALSE,FALSE,R6,FALSE,FALSE,,"Distrator discrepante, foge do padrão de resposta e não possue relação com o comando"
+LP-D22-3EF-CL02,DeepSeek,2,FALSE,FALSE,FALSE,FALSE,R6,FALSE,FALSE,,"Distrator discrepante, foge do padrão de resposta"
+LP-D22-3EF-CL02,DeepSeek,3,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,"O item está bom, apenas um distrator quetionavel"
+LP-D22-3EF-CL02,DeepSeek,4,FALSE,FALSE,FALSE,FALSE,R5,FALSE,FALSE,,Gabarito está incompleto
+LP-D22-3EF-CL02,DeepSeek,5,FALSE,FALSE,FALSE,FALSE,,TRUE,TRUE,,O item está bom
+LP-D22-3EF-CL02,DeepSeek,1,FALSE,FALSE,FALSE,TRUE,R4,FALSE,FALSE,,"Comando 2 não está bom, marca de tempo ""ontem"". "
+LP-D22-3EF-CL02,DeepSeek,2,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,"Distrator semanticalmente incorreto, presença do termo ""Ja que""."
+LP-D22-3EF-CL02,DeepSeek,3,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,"Distrator semanticalmente incorreto, presença do termo ""Ja que""."
+LP-D22-3EF-CL02,DeepSeek,4,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,"Distrator semanticalmente incorreto, presença do termo ""Ja que""."
+LP-D22-3EF-CL02,DeepSeek,5,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,"DIstrator semanticalmente incorreto, presença do termo ""Ja que""."
+LP-D22-3EF-CL02,DeepSeek,1,FALSE,FALSE,TRUE,FALSE,R6,FALSE,FALSE,,O item estava muito bom mas um distrator não faz sentido
+LP-D22-3EF-CL02,DeepSeek,2,FALSE,FALSE,TRUE,FALSE,R6,FALSE,FALSE,,Distrator que não faz sentido
+LP-D22-3EF-CL02,DeepSeek,3,FALSE,FALSE,TRUE,FALSE,R6,FALSE,FALSE,,"Esse está interessante, mas o distrator foge do padrão das outras respostas e outro distrator está ruim"
+LP-D22-3EF-CL02,DeepSeek,4,FALSE,FALSE,TRUE,FALSE,R6,FALSE,FALSE,,Distrator que não faz sentido
+LP-D22-3EF-CL02,DeepSeek,5,FALSE,FALSE,TRUE,FALSE,R6,FALSE,FALSE,,Distrator que não faz sentido
+LP-D22-3EF-CL02,DeepSeek,1,FALSE,FALSE,TRUE,TRUE,R6,FALSE,FALSE,,Distrator totalmente discrepante 
+LP-D22-3EF-CL02,DeepSeek,2,FALSE,FALSE,TRUE,TRUE,R6,FALSE,FALSE,,"O item está bom, mas há um distrator que apresnta uma informção que nao esta na carta, mas que não é difícil de se inferir."
+LP-D22-3EF-CL02,DeepSeek,3,FALSE,FALSE,TRUE,TRUE,"R5, R6",FALSE,FALSE,,Distrator com texto em primeira pessoa.
+LP-D22-3EF-CL02,DeepSeek,4,FALSE,FALSE,TRUE,TRUE,,TRUE,FALSE,,"Item está bom, mas um distrator apresenta informações que nao esta na carta, mas que não é dificil de se inferir."
+LP-D22-3EF-CL02,DeepSeek,5,FALSE,FALSE,TRUE,TRUE,,TRUE,TRUE,,"Item está bom, mas um distrator apresenta informações que nao esta na carta, mas que não é dificil de se inferir."
+LP-D22-3EF-CL02,DeepSeek,1,FALSE,TRUE,FALSE,FALSE,,TRUE,TRUE,,"Distratores não estão bons, mas a principio está válido"
+LP-D22-3EF-CL02,DeepSeek,2,FALSE,TRUE,FALSE,FALSE,R7,FALSE,FALSE,,As justificativas podiam ser melhores
+LP-D22-3EF-CL02,DeepSeek,3,FALSE,TRUE,FALSE,FALSE,,TRUE,FALSE,,"Questões muito boas, fogem do padrão dos outros itens"
+LP-D22-3EF-CL02,DeepSeek,4,FALSE,TRUE,FALSE,FALSE,,TRUE,FALSE,,"Questões muito boas, fogem do padrão dos outros itens"
+LP-D22-3EF-CL02,DeepSeek,5,FALSE,TRUE,FALSE,FALSE,,TRUE,FALSE,,"Questões muito boas, fogem do padrão dos outros itens"
+LP-D22-3EF-CL02,DeepSeek,1,FALSE,TRUE,FALSE,TRUE,,TRUE,TRUE,,O gabarito esta correto e único / existe paralelismo entre as alternativas / As alternativas apresentam informações contidas no texto
+LP-D22-3EF-CL02,DeepSeek,2,FALSE,TRUE,FALSE,TRUE,R4,FALSE,FALSE,,O texto suporte do item não é o fornecido
+LP-D22-3EF-CL02,DeepSeek,3,FALSE,TRUE,FALSE,TRUE,R4,FALSE,FALSE,,O texto suporte do item não é o fornecido
+LP-D22-3EF-CL02,DeepSeek,4,FALSE,TRUE,FALSE,TRUE,R4,FALSE,FALSE,,O texto suporte do item não é o fornecido
+LP-D22-3EF-CL02,DeepSeek,5,FALSE,TRUE,FALSE,TRUE,R4,FALSE,FALSE,,O texto suporte do item não é o fornecido
+LP-D22-3EF-CL02,DeepSeek,1,FALSE,TRUE,TRUE,FALSE,R6,FALSE,FALSE,,"O gabarito não está legal, absurdo eu diria"
+LP-D22-3EF-CL02,DeepSeek,2,FALSE,TRUE,TRUE,FALSE,,TRUE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,3,FALSE,TRUE,TRUE,FALSE,R6,FALSE,FALSE,,"O gabarito não está legal, absurdo eu diria"
+LP-D22-3EF-CL02,DeepSeek,4,FALSE,TRUE,TRUE,FALSE,R6,FALSE,FALSE,,"O gabarito não está legal, absurdo eu diria"
+LP-D22-3EF-CL02,DeepSeek,5,FALSE,TRUE,TRUE,FALSE,,TRUE,TRUE,,
+LP-D22-3EF-CL02,DeepSeek,1,FALSE,TRUE,TRUE,TRUE,,TRUE,FALSE,,Distratores estão presentes no texro / gabarito unico e correto / paralelismo entre as alternativas 
+LP-D22-3EF-CL02,DeepSeek,2,FALSE,TRUE,TRUE,TRUE,,TRUE,TRUE,,Distratores plausíveis e presentes no texto / gabarito único e correto / paralelismo entre as alternativas / justificativas coerentes 
+LP-D22-3EF-CL02,DeepSeek,3,FALSE,TRUE,TRUE,TRUE,,TRUE,FALSE,,Distratores plausíveis e presentes no texto / gabarito único e correto / paralelismo entre as alternativas / justificativas coerentes 
+LP-D22-3EF-CL02,DeepSeek,4,FALSE,TRUE,TRUE,TRUE,"R6, R5",FALSE,FALSE,,Alternativa que cria informações que não estão presentes no texto -> Distratores implausíves / gabarito esta destacado (não há paralelismo)
+LP-D22-3EF-CL02,DeepSeek,5,FALSE,TRUE,TRUE,TRUE,R6,FALSE,FALSE,,Alternativas apresentam informações que não estão no texto
+LP-D22-3EF-CL02,DeepSeek,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,DeepSeek,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,1,FALSE,FALSE,FALSE,FALSE,,TRUE,TRUE,,O comando 2 está fraco mas os textos e o distrator estão interessantes. Adicionar o trecho do texto facilita muito a resposta.
+LP-D22-3EF-CL02,Gemini,2,FALSE,FALSE,FALSE,FALSE,R6,FALSE,FALSE,,Distrator fugindo do padrão. O comando 2 está fraco mas os textos e o distrator estão interessantes. Adicionar o trecho do texto facilita muito a resposta.
+LP-D22-3EF-CL02,Gemini,3,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,O comando 2 está fraco mas os textos e o distrator estão interessantes. Adicionar o trecho do texto facilita muito a resposta.
+LP-D22-3EF-CL02,Gemini,4,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,O comando 2 está fraco mas os textos e o distrator estão interessantes. Adicionar o trecho do texto facilita muito a resposta.
+LP-D22-3EF-CL02,Gemini,5,FALSE,FALSE,FALSE,FALSE,R6,FALSE,FALSE,,Distrator fugindo do padrão. O comando 2 está fraco mas os textos e o distrator estão interessantes. Adicionar o trecho do texto facilita muito a resposta.
+LP-D22-3EF-CL02,Gemini,1,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE,,Distratores fracos
+LP-D22-3EF-CL02,Gemini,2,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,Distratores que não fazem sentido com o comando
+LP-D22-3EF-CL02,Gemini,3,FALSE,FALSE,FALSE,TRUE,,TRUE,FALSE,,1 distrator fraco
+LP-D22-3EF-CL02,Gemini,4,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,distratores não relacionados ao comando e não plausiveis
+LP-D22-3EF-CL02,Gemini,5,FALSE,FALSE,FALSE,TRUE,"R6, R5",FALSE,FALSE,,gabarito errado e distratores não relacionado ao comando
+LP-D22-3EF-CL02,Gemini,1,FALSE,FALSE,TRUE,FALSE,,TRUE,TRUE,, Item aceitavel
+LP-D22-3EF-CL02,Gemini,2,FALSE,FALSE,TRUE,FALSE,R6,FALSE,FALSE,,Distrator discrepante
+LP-D22-3EF-CL02,Gemini,3,FALSE,FALSE,TRUE,FALSE,,TRUE,FALSE,,1 distrator fraco
+LP-D22-3EF-CL02,Gemini,4,FALSE,FALSE,TRUE,FALSE,,TRUE,FALSE,,item aceitavel
+LP-D22-3EF-CL02,Gemini,5,FALSE,FALSE,TRUE,FALSE,,TRUE,FALSE,,item bom
+LP-D22-3EF-CL02,Gemini,1,FALSE,FALSE,TRUE,TRUE,,TRUE,TRUE,,Bem interessante
+LP-D22-3EF-CL02,Gemini,2,FALSE,FALSE,TRUE,TRUE,R6,FALSE,FALSE,,"Estava bem interessante, mas um dos distratores eu achei um pouco absurdo"
+LP-D22-3EF-CL02,Gemini,3,FALSE,FALSE,TRUE,TRUE,R5,FALSE,FALSE,,Está interessante mas o gabarito não está valido
+LP-D22-3EF-CL02,Gemini,4,FALSE,FALSE,TRUE,TRUE,"R4, R6",FALSE,FALSE,,"O comando 2 não está dentro do texto explicitamente, acho que aqui foge a proposta."
+LP-D22-3EF-CL02,Gemini,5,FALSE,FALSE,TRUE,TRUE,,TRUE,FALSE,,Bem interessante
+LP-D22-3EF-CL02,Gemini,1,FALSE,TRUE,FALSE,FALSE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,Gemini,2,FALSE,TRUE,FALSE,FALSE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,Gemini,3,FALSE,TRUE,FALSE,FALSE,,TRUE,FALSE,,
+LP-D22-3EF-CL02,Gemini,4,FALSE,TRUE,FALSE,FALSE,,TRUE,TRUE,,
+LP-D22-3EF-CL02,Gemini,5,FALSE,TRUE,FALSE,FALSE,,TRUE,FALSE,,
+LP-D22-3EF-CL02,Gemini,1,FALSE,TRUE,FALSE,TRUE,,TRUE,FALSE,,O item está okay
+LP-D22-3EF-CL02,Gemini,2,FALSE,TRUE,FALSE,TRUE,"R7, R6",FALSE,FALSE,,Primeiro distrator não está no texto e não tem relação com o comando
+LP-D22-3EF-CL02,Gemini,3,FALSE,TRUE,FALSE,TRUE,R6,FALSE,FALSE,,"Distratores podiam ser melhores, porém a principio estão válidos"
+LP-D22-3EF-CL02,Gemini,4,FALSE,TRUE,FALSE,TRUE,,TRUE,TRUE,,O item está bom
+LP-D22-3EF-CL02,Gemini,5,FALSE,TRUE,FALSE,TRUE,,TRUE,FALSE,,O item está bom
+LP-D22-3EF-CL02,Gemini,1,FALSE,TRUE,TRUE,FALSE,"R6, R7",FALSE,FALSE,,"1 distrator citou informação que não está presente no texto, e a justificativa dá a entender que a informação está presente no texto"
+LP-D22-3EF-CL02,Gemini,2,FALSE,TRUE,TRUE,FALSE,"R6, R7",FALSE,FALSE,,"Não possue paralelistmo (gabarito se destaca), 2 distratores citam informações que não estão presentes no texto e as justificativas coroboram a existencia dessas informações."
+LP-D22-3EF-CL02,Gemini,3,FALSE,TRUE,TRUE,FALSE,,TRUE,TRUE,,O item está okay
+LP-D22-3EF-CL02,Gemini,4,FALSE,TRUE,TRUE,FALSE,R6,FALSE,FALSE,,Distrator implausivel e não possue paralelismo
+LP-D22-3EF-CL02,Gemini,5,FALSE,TRUE,TRUE,FALSE,,TRUE,FALSE,,"O gabarito está parafraseado de forma meio estranha, principalmente para um item de terceiro ano, mas a principio não está errado."
+LP-D22-3EF-CL02,Gemini,1,FALSE,TRUE,TRUE,TRUE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,Gemini,2,FALSE,TRUE,TRUE,TRUE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,Gemini,3,FALSE,TRUE,TRUE,TRUE,R6,FALSE,FALSE,,Falta de paralelismo nos distratores
+LP-D22-3EF-CL02,Gemini,4,FALSE,TRUE,TRUE,TRUE,,TRUE,FALSE,,
+LP-D22-3EF-CL02,Gemini,5,FALSE,TRUE,TRUE,TRUE,,TRUE,TRUE,,
+LP-D22-3EF-CL02,Gemini,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,Gemini,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,1,FALSE,FALSE,FALSE,FALSE,R6,FALSE,FALSE,,distratores implausíveis. 
+LP-D22-3EF-CL02,GPT,2,FALSE,FALSE,FALSE,FALSE,,TRUE,TRUE,,"O item em geral está ok, mas o destaque do trecho no comando 2 está ruin."
+LP-D22-3EF-CL02,GPT,3,FALSE,FALSE,FALSE,FALSE,R6,FALSE,FALSE,,distratores implausíveis. 
+LP-D22-3EF-CL02,GPT,4,FALSE,FALSE,FALSE,FALSE,R6,FALSE,FALSE,,distratores implausíveis. 
+LP-D22-3EF-CL02,GPT,5,FALSE,FALSE,FALSE,FALSE,R6,FALSE,FALSE,,distratores implausíveis. 
+LP-D22-3EF-CL02,GPT,1,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,O comando não está legal e um distrator está absurdo
+LP-D22-3EF-CL02,GPT,2,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,GPT,3,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,GPT,4,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,GPT,5,FALSE,FALSE,FALSE,TRUE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,GPT,1,FALSE,FALSE,TRUE,FALSE,,TRUE,FALSE,,distratres estranhos
+LP-D22-3EF-CL02,GPT,2,FALSE,FALSE,TRUE,FALSE,,TRUE,FALSE,,item aceitavel
+LP-D22-3EF-CL02,GPT,3,FALSE,FALSE,TRUE,FALSE,,TRUE,FALSE,,item aceitável
+LP-D22-3EF-CL02,GPT,4,FALSE,FALSE,TRUE,FALSE,,TRUE,TRUE,,item aceitável
+LP-D22-3EF-CL02,GPT,5,FALSE,FALSE,TRUE,FALSE,,TRUE,FALSE,,item aceitável
+LP-D22-3EF-CL02,GPT,1,FALSE,FALSE,TRUE,TRUE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,GPT,2,FALSE,FALSE,TRUE,TRUE,R6,FALSE,FALSE,,Distrator absurdo
+LP-D22-3EF-CL02,GPT,3,FALSE,FALSE,TRUE,TRUE,,TRUE,TRUE,,
+LP-D22-3EF-CL02,GPT,4,FALSE,FALSE,TRUE,TRUE,R6,FALSE,FALSE,,Distrator implausível
+LP-D22-3EF-CL02,GPT,5,FALSE,FALSE,TRUE,TRUE,,TRUE,FALSE,,
+LP-D22-3EF-CL02,GPT,1,FALSE,TRUE,FALSE,FALSE,,TRUE,FALSE,,Todas as alternativas apresentam informações presentes no texto \ Existe um paralelismo entre as alternativas \ gabarito correto
+LP-D22-3EF-CL02,GPT,2,FALSE,TRUE,FALSE,FALSE,,TRUE,TRUE,,Todas as alternativas apresentam informações presentes no texto \ Existe um paralelismo entre as alternativas \ gabarito correto
+LP-D22-3EF-CL02,GPT,3,FALSE,TRUE,FALSE,FALSE,"R4, R5, R6",FALSE,FALSE,,O comando está errado. Não existe uma relação de causalidade (com isso o gabarito se torna errado) / consequência e sim de possibilidade. \ Não há paralelismo (Gabarito se destaca)
+LP-D22-3EF-CL02,GPT,4,FALSE,TRUE,FALSE,FALSE,,TRUE,FALSE,,Todas as alternativas apresentam informações presentes no texto \ Existe um paralelismo entre as alternativas \ gabarito correto
+LP-D22-3EF-CL02,GPT,5,FALSE,TRUE,FALSE,FALSE,,FALSE,FALSE,,Item repetido.
+LP-D22-3EF-CL02,GPT,1,FALSE,TRUE,FALSE,TRUE,"R6, R7",FALSE,FALSE,,Gabarito foi copia e cola e distrator absurdo
+LP-D22-3EF-CL02,GPT,2,FALSE,TRUE,FALSE,TRUE,"R6, R7",FALSE,FALSE,,Gabarito foi copia e cola e distrator absurdo
+LP-D22-3EF-CL02,GPT,3,FALSE,TRUE,FALSE,TRUE,R7,FALSE,FALSE,,Gabarito foi copia e cola
+LP-D22-3EF-CL02,GPT,4,FALSE,TRUE,FALSE,TRUE,,TRUE,TRUE,,"Comando, gabarito e distratores fracos"
+LP-D22-3EF-CL02,GPT,5,FALSE,TRUE,FALSE,TRUE,,TRUE,FALSE,,
+LP-D22-3EF-CL02,GPT,1,FALSE,TRUE,TRUE,FALSE,,TRUE,TRUE,,"distratores estranhos, mas a principio válido."
+LP-D22-3EF-CL02,GPT,2,FALSE,TRUE,TRUE,FALSE,,TRUE,FALSE,,"distratores estranhos, mas a principio válido."
+LP-D22-3EF-CL02,GPT,3,FALSE,TRUE,TRUE,FALSE,"R5, R6",FALSE,FALSE,,Falta paralelismo no gabarito e nos distratores
+LP-D22-3EF-CL02,GPT,4,FALSE,TRUE,TRUE,FALSE,,TRUE,FALSE,,válido a principio
+LP-D22-3EF-CL02,GPT,5,FALSE,TRUE,TRUE,FALSE,,TRUE,FALSE,,item okay
+LP-D22-3EF-CL02,GPT,1,FALSE,TRUE,TRUE,TRUE,,TRUE,TRUE,,Todas as alternativas apresentam informações presentes no texto \ Existe um paralelismo entre as alternativas \ gabarito correto
+LP-D22-3EF-CL02,GPT,2,FALSE,TRUE,TRUE,TRUE,R5,FALSE,FALSE,,Não há paralelismo
+LP-D22-3EF-CL02,GPT,3,FALSE,TRUE,TRUE,TRUE,R5,FALSE,FALSE,,Não há paralelismo
+LP-D22-3EF-CL02,GPT,4,FALSE,TRUE,TRUE,TRUE,,TRUE,FALSE,,Todas as alternativas apresentam informações presentes no texto \ Existe um paralelismo entre as alternativas \ gabarito correto
+LP-D22-3EF-CL02,GPT,5,FALSE,TRUE,TRUE,TRUE,R5,FALSE,FALSE,,Não há paralelismo
+LP-D22-3EF-CL02,GPT,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,1,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,2,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,3,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,4,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
+LP-D22-3EF-CL02,GPT,5,TRUE,FALSE,FALSE,FALSE,,FALSE,FALSE,,
