@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,
+estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".
+Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.
+Responda em breve, porque no domingo vamos para o sertão.
+Um abraço do teu amigo,
+Patrick.
+Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Responda em breve, porque no domingo vamos para o sertão", identifique qual é a razão para Patrick pedir que Rafael responda logo.
+Opções:
+-> a) Porque no domingo Patrick vai viajar para o sertão.
+   b) Porque Patrick ganhou um livro de contos muito bonito.
+   c) Porque Patrick quer ser maquinista de trem do metrô.
+   d) Porque os pais de Patrick estão contentes com suas notas.
+Justificativas:
+a) Correta. O trecho apresenta a conjunção causal 'porque', indicando que o motivo para Patrick pedir uma resposta rápida é o fato de que ele irá para o sertão no domingo. A alternativa retoma exatamente a causa apresentada no texto.
+b) Incorreta. Ganhar um livro de contos é uma informação do texto, mas não está relacionada ao pedido de resposta rápida feito por Patrick.
+c) Incorreta. O desejo de ser maquinista de trem do metrô é uma escolha pessoal do personagem, sem relação com o pedido de resposta rápida.
+d) Incorreta. O fato de os pais estarem contentes com as notas de Patrick não é apresentado como motivo para ele pedir que Rafael responda logo.
+
+--------------------------------------------------------------------------------

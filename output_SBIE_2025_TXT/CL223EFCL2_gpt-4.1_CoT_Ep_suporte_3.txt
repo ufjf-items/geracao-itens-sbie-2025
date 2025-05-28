@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,
+estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".
+Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.
+Responda em breve, porque no domingo vamos para o sertão.
+Um abraço do teu amigo,
+Patrick.
+Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Lá na escola nos deram prêmios porque aprendemos a ler e escrever", qual foi a consequência de os alunos terem aprendido a ler e escrever?
+Opções:
+-> a) Receberam prêmios na escola.
+   b) Foram para o sertão no domingo.
+   c) Ganharam notas boas dos pais.
+   d) Quiseram ser maquinistas de trem do metrô.
+Justificativas:
+a) Correta. O trecho mostra que a consequência de aprender a ler e escrever foi receber prêmios na escola. A alternativa retoma exatamente a consequência apresentada no texto.
+b) Incorreta. Ir para o sertão no domingo é uma informação do final da carta, sem relação causal com o aprendizado de ler e escrever.
+c) Incorreta. Ter notas boas é mencionado, mas não está diretamente relacionado ao fato de aprender a ler e escrever como causa para receber prêmios.
+d) Incorreta. O desejo de ser maquinista de trem do metrô é uma escolha pessoal de Patrick, não uma consequência de aprender a ler e escrever.
+
+--------------------------------------------------------------------------------

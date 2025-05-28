@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,
+estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".
+Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.
+Responda em breve, porque no domingo vamos para o sertão.
+Um abraço do teu amigo,
+Patrick.
+Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Lá na escola nos deram prêmios porque aprendemos a ler e escrever", a palavra 'porque' indica a causa de terem recebido prêmios. Qual foi essa causa?
+Opções:
+-> a) Eles aprenderam a ler e escrever.
+   b) Eles vão para o sertão no domingo.
+   c) Patrick ganhou um livro de contos muito bonito.
+   d) Os pais de Patrick estão contentes pelas notas dele.
+Justificativas:
+a) Correta. O trecho do texto diz que receberam prêmios 'porque aprendemos a ler e escrever'. A conjunção 'porque' indica a causa, que é o fato de terem aprendido a ler e escrever.
+b) Incorreta. Ir para o sertão no domingo é uma informação do final da carta, sem relação causal com o recebimento dos prêmios.
+c) Incorreta. Patrick ganhou um livro de contos, mas isso é uma consequência do prêmio, não a causa de terem recebido prêmios.
+d) Incorreta. Os pais de Patrick estarem contentes é uma reação às notas dele, não a causa de terem recebido prêmios na escola.
+
+--------------------------------------------------------------------------------

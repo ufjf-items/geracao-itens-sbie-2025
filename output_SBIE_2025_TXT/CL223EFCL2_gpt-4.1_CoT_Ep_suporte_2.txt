@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,
+estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".
+Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.
+Responda em breve, porque no domingo vamos para o sertão.
+Um abraço do teu amigo,
+Patrick.
+Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho "Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados", identifique qual é a consequência de as crianças estudarem, segundo os pais de Patrick.
+Opções:
+-> a) Podem ser professores, médicos ou advogados quando crescerem.
+   b) Ganham prêmios na escola.
+   c) Vão para o sertão no domingo.
+   d) Querem ser maquinistas de trem do metrô.
+Justificativas:
+a) Correta. Segundo o trecho, a consequência de as crianças estudarem é que, quando crescerem, podem ser professores, médicos ou advogados. A alternativa retoma exatamente a consequência apresentada no texto.
+b) Incorreta. Ganhar prêmios na escola está relacionado ao aprendizado de ler e escrever, não diretamente ao estudo como caminho para profissões.
+c) Incorreta. Ir para o sertão no domingo é uma informação do final da carta, sem relação causal com o estudo das crianças.
+d) Incorreta. O desejo de ser maquinista de trem do metrô é uma escolha pessoal de Patrick, não uma consequência do estudo segundo os pais.
+
+--------------------------------------------------------------------------------

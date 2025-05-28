@@ -1,0 +1,19 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 1, relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+Amigo Rafael,\estou escrevendo esta carta para contar que já estamos de férias. Lá na escola nos deram prêmios porque aprendemos a ler e escrever. Eu ganhei um livro de contos muito bonito que se chama "Contos dos Irmãos Green".\Meu pai e minha mãe estão muito contentes pelas minhas notas. Eles disseram que as crianças que estudam, quando crescem podem ser professores, médicos ou advogados. Mas eu quero ser maquinista de trem do metrô, para pilotar uma locomotiva dessas que anda repleta de gente.\Responda em breve, porque no domingo vamos para o sertão.\Um abraço do teu amigo,\Patrick.\Disponível em: <https://www.recantodasletras.com.br/infantil/2929390>. Acesso em 04 abr. 2025.
+Pergunta:
+No trecho “Responda em breve, porque no domingo vamos para o sertão”, a palavra 'porque' indica que:
+Opções:
+   a) Patrick está com pressa para responder a carta de Rafael.
+   b) A resposta de Rafael é importante para a viagem ao sertão.
+-> c) A viagem ao sertão é o motivo para Patrick querer uma resposta rápida.
+   d) Rafael também vai viajar para o sertão no domingo.
+Justificativas:
+a) INCORRETA: A pressa de Patrick não é mencionada no texto. O 'porque' introduz o motivo pelo qual ele quer uma resposta.
+b) INCORRETA: A importância da resposta de Rafael para a viagem não é explicitada. O foco é o motivo da urgência.
+c) GABARITO: A conjunção 'porque' indica a causa ou o motivo pelo qual Patrick pede uma resposta breve, que é a viagem ao sertão.
+d) INCORRETA: Não há indicação de que Rafael também irá para o sertão.
+
+--------------------------------------------------------------------------------
