@@ -216,10 +216,13 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
         inicio = texto.find("```json")
         fim = texto.find("```", inicio + 7)  # 7 = len("```json")
 
-        json_str = texto
+        
 
-        if inicio != -1 and fim != -1:
-            json_str = texto[inicio + 7:fim].strip()  # Extrai o JSON puro
+        if inicio == -1 and fim == -1:
+            raise ValueError("````json` não encontrado no arquivo.")
+        
+        
+        json_str = texto[inicio + 7:fim].strip()  # Extrai o JSON puro
         
             
 
