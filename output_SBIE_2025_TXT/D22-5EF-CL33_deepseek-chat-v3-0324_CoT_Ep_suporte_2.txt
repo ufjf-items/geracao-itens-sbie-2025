@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais
+Comando: Leia o texto atentamente.
+Texto de Suporte:
+A origem do panetone
+
+Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.
+A história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.
+O jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.
+Pergunta:
+Assinale a alternativa que contém uma conjunção que expressa relação de condição no texto:
+Opções:
+   a) mas
+   b) quando
+-> c) se
+   d) porque
+Justificativas:
+a) Incorreta - 'Mas' expressa relação de oposição, como no trecho 'é esquecido, mas nas semanas que antecedem o Natal...'
+b) Incorreta - 'Quando' indica relação temporal, como em 'quando um jovem morador de Milão...'
+c) Correta - A conjunção 'se' (embora implícita no texto) é a que melhor expressa a relação de condição na ação do jovem
+d) Incorreta - 'Porque' expressa relação de causa, não presente no texto analisado
+
+--------------------------------------------------------------------------------

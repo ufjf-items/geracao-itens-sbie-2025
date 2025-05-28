@@ -1,0 +1,44 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "O uso de máscaras na pandemia\n\nDurante a pandemia de COVID-19, o uso de máscaras tornou-se obrigatório em muitos lugares. Se as pessoas não usassem máscaras, o risco de contágio aumentaria significativamente. Porém, alguns alegavam desconforto ao utilizá-las por longos períodos. Estudos comprovaram que, quando usadas corretamente, as máscaras reduzem em até 70% a transmissão do vírus. Caso todos seguissem essa medida, junto com o distanciamento social, os números de infectados cairiam drasticamente.\n\nDisponível em: www.saude.gov.br/pandemia. Acesso em: 15 ago. 2024. Adaptado.",
+      "Comando 2": "No texto, qual trecho apresenta uma relação lógico-discursiva de condição?",
+      "Opções": {
+        "a": "\"Durante a pandemia de COVID-19, o uso de máscaras tornou-se obrigatório em muitos lugares.\"",
+        "b": "\"Se as pessoas não usassem máscaras, o risco de contágio aumentaria significativamente.\"",
+        "c": "\"Porém, alguns alegavam desconforto ao utilizá-las por longos períodos.\"",
+        "d": "\"Estudos comprovaram que, quando usadas corretamente, as máscaras reduzem em até 70% a transmissão do vírus.\""
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA. O trecho apenas informa um fato ocorrido durante a pandemia, sem estabelecer qualquer relação condicional. Não há conjunções ou estruturas que indiquem condição.",
+        "b": "CORRETA. O trecho apresenta claramente uma relação condicional com a estrutura \"Se... então\" implícita (Se não usassem → risco aumentaria). A conjunção \"Se\" introduz a condição de forma explícita.",
+        "c": "INCORRETA. A conjunção \"Porém\" indica uma relação de oposição, não de condição. O trecho contrasta a obrigatoriedade com o desconforto sentido por alguns.",
+        "d": "INCORRETA. Embora contenha \"quando\", que pode indicar tempo, o trecho mostra uma relação de causalidade (uso correto → redução da transmissão), não de condição."
+      },
+      "->": "1) Escolhemos um texto atual sobre pandemia por ser relevante e conter múltiplas relações lógicas. 2) Identificamos a condição explícita com \"Se\" como melhor exemplo. 3) Criamos distratores com outras relações: fato isolado (A), oposição (C) e causalidade (D). 4) As justificativas destacam os marcadores linguísticos de cada relação para auxiliar na aprendizagem."
+    }
+  ]
+}
+```
+
+**Explicação passo a passo:**
+
+1. **Tema atual**: Selecionamos a pandemia de COVID-19 por ser um contexto familiar aos alunos, facilitando a compreensão das relações lógicas no texto.
+
+2. **Estrutura condicional explícita**: Inserimos propositalmente a construção com "Se" para exemplificar claramente uma relação condicional, usando um cenário hipotético ("Se não usassem...") com consequência clara.
+
+3. **Diversidade de relações nos distratores**:
+   - Alternativa A: Apresenta um fato histórico sem relação lógica complexa
+   - Alternativa C: Mostra oposição com "Porém"
+   - Alternativa D: Traz causalidade com dados estatísticos
+
+4. **Destaque para marcadores linguísticos**: Nas justificativas, enfatizamos:
+   - A ausência de conjunções condicionais nos distratores
+   - O uso correto de "Se" como marcador de condição
+   - A diferença entre "quando" (tempo) e "se" (condição)
+
+5. **Aplicação prática**: A questão permite trabalhar não só a identificação de relações lógicas, mas também a importância da argumentação em textos informativos, conectando a língua portuguesa com situações reais vivenciadas pelos alunos.

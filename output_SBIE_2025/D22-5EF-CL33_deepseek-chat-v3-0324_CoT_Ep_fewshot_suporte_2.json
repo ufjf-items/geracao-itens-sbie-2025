@@ -1,0 +1,69 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "A importância da reciclagem\n\nSe todos os cidadãos separassem corretamente seu lixo reciclável, a quantidade de resíduos nos aterros sanitários diminuiria pela metade. No entanto, muitas pessoas ainda não adotam esse hábito por falta de informação. Quando os materiais são reciclados, economizamos recursos naturais e energia. Caso a coleta seletiva fosse implementada em todas as cidades, o meio ambiente seria muito beneficiado. Estima-se que apenas 3% do lixo produzido no Brasil é reciclado atualmente.\n\nDisponível em: www.ambientebrasil.com.br/reciclagem. Acesso em: 20 set. 2024. Adaptado.",
+      "Comando 2": "Qual das alternativas abaixo apresenta uma relação de condição no texto?",
+      "Opções": {
+        "a": "\"No entanto, muitas pessoas ainda não adotam esse hábito por falta de informação.\"",
+        "b": "\"Se todos os cidadãos separassem corretamente seu lixo reciclável, a quantidade de resíduos nos aterros sanitários diminuiria pela metade.\"",
+        "c": "\"Quando os materiais são reciclados, economizamos recursos naturais e energia.\"",
+        "d": "\"Estima-se que apenas 3% do lixo produzido no Brasil é reciclado atualmente.\""
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA. O trecho utiliza a conjunção \"No entanto\" que indica oposição, não condição. Mostra um contraste entre o ideal e a realidade atual.",
+        "b": "CORRETA. A alternativa apresenta claramente uma relação condicional com a estrutura \"Se... então\" (Se separassem → diminuiria). A conjunção \"Se\" introduz a condição de forma explícita.",
+        "c": "INCORRETA. Embora contenha \"Quando\", que pode sugerir condição, neste contexto indica tempo/causalidade (ao reciclar → economizamos), não uma condição hipotética.",
+        "d": "INCORRETA. O trecho apresenta um dado estatístico sem qualquer relação condicional. Não há conjunções ou estruturas que indiquem condição."
+      },
+      "->": "1) Escolhemos o tema da reciclagem por sua relevância ambiental e familiaridade com os alunos. 2) Inserimos múltiplas estruturas gramaticais para testar o reconhecimento específico da condição. 3) A alternativa correta (B) usa \"Se\" para marcar claramente a condição. 4) Os distratores apresentam: oposição (A), temporalidade (C) e dado factual (D). 5) As justificativas focam nos marcadores linguísticos que diferenciam condição de outras relações."
+    }
+  ]
+}
+```
+
+**Explicação detalhada da construção:**
+
+1. **Escolha temática**: Optamos pela reciclagem por ser:
+   - Um assunto transversal na educação
+   - De relevância social e ambiental
+   - Familiar aos estudantes
+   - Permite diversas abordagens linguísticas
+
+2. **Estruturação do texto**:
+   - Incluímos 4 tipos de relações lógicas diferentes:
+     * Condição explícita ("Se...")
+     * Oposição ("No entanto")
+     * Temporalidade/Causalidade ("Quando...")
+     * Informação factual (dado estatístico)
+
+3. **Elaboração das alternativas**:
+   - Alternativa correta (B): Mantém a estrutura condicional completa com "Se" + verbo no subjuntivo + consequência
+   - Distratores:
+     * A: Foca na oposição com "No entanto"
+     * C: Usa "Quando" para confundir com condição
+     * D: Apresenta um fato isolado sem relações
+
+4. **Justificativas pedagógicas**:
+   - Para cada alternativa, destacamos:
+     * Os marcadores linguísticos presentes
+     * O tipo de relação que realmente expressam
+     * Por que não configuram condição (quando for o caso)
+   - Na correta, enfatizamos a estrutura completa da oração condicional
+
+5. **Adequação à BNCC**:
+   - Trabalha a habilidade EF05LP07 de forma contextualizada
+   - Utiliza texto do campo de atuação da vida pública
+   - Desenvolve competência leitora com gênero expositivo
+   - Promove reflexão sobre tema socioambiental
+
+6. **Dificuldade progressiva**:
+   - Texto com 6 linhas (adequado ao nível)
+   - Períodos curtos e claros
+   - Vocabulário acessível
+   - Alternativas com diferenças nítidas
+
+Esta questão foi cuidadosamente elaborada para avaliar especificamente o reconhecimento de relações condicionais, ao mesmo tempo que desenvolve consciência ambiental e habilidades de leitura crítica.

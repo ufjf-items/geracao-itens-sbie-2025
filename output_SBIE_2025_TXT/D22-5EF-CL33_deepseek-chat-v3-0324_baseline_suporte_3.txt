@@ -1,0 +1,59 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto com atenção.
+Texto de Suporte:
+Para aprender um novo idioma, é necessário dedicação. Se você estudar todos os dias, fará progressos rápidos. Ouvir músicas no idioma que está aprendendo ajuda, pois melhora a compreensão auditiva. Caso você pratique conversação regularmente, ganhará fluência mais rápido. No entanto, se negligenciar os estudos, terá dificuldades para evoluir.
+Pergunta:
+Qual trecho apresenta uma relação de condição explícita?
+Opções:
+   a) Para aprender um novo idioma, é necessário dedicação.
+   b) Ouvir músicas no idioma que está aprendendo ajuda, pois melhora a compreensão auditiva.
+-> c) Se você estudar todos os dias, fará progressos rápidos.
+   d) No entanto, se negligenciar os estudos, terá dificuldades para evoluir.
+Justificativas:
+a) Esta opção apresenta uma afirmação geral sobre requisitos para aprendizagem, sem relação de condição.
+b) Esta alternativa mostra uma relação de explicação ('pois'), não de condição.
+c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre estudar diariamente e fazer progressos rápidos.
+d) Embora use 'se', esta opção apresenta mais uma relação de oposição ('No entanto') do que de condição pura.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto abaixo.
+Texto de Suporte:
+A preservação do meio ambiente é fundamental. Se as pessoas reciclarem seu lixo, reduzirão a poluição. Plantar árvores é importante, já que elas absorvem gás carbônico. Caso a sociedade adote hábitos sustentáveis, o planeta será mais saudável. Entretanto, se continuarmos a poluir, enfrentaremos graves consequências.
+Pergunta:
+Qual alternativa NÃO contém uma relação de condição?
+Opções:
+   a) Se as pessoas reciclarem seu lixo, reduzirão a poluição.
+-> b) Plantar árvores é importante, já que elas absorvem gás carbônico.
+   c) Caso a sociedade adote hábitos sustentáveis, o planeta será mais saudável.
+   d) Entretanto, se continuarmos a poluir, enfrentaremos graves consequências.
+Justificativas:
+a) Apresenta relação de condição clara com 'Se... reduzirão'.
+b) Resposta correta. Este trecho mostra uma relação de explicação ('já que'), não de condição.
+c) Usa 'Caso' para estabelecer uma condição entre hábitos sustentáveis e saúde do planeta.
+d) Estabelece condição com 'se continuarmos... enfrentaremos'.
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto atentamente.
+Texto de Suporte:
+A tecnologia transformou nossas vidas. Se você usar a internet com moderação, poderá aproveitar seus benefícios. Fazer pausas regulares é essencial, pois previne problemas de visão. Caso você controle o tempo de uso dos dispositivos, terá mais qualidade de vida. Por outro lado, se abusar da tecnologia, poderá desenvolver vícios.
+Pergunta:
+Qual das alternativas contém uma relação de condição marcada por conjunção?
+Opções:
+   a) A tecnologia transformou nossas vidas.
+   b) Fazer pausas regulares é essencial, pois previne problemas de visão.
+-> c) Se você usar a internet com moderação, poderá aproveitar seus benefícios.
+   d) Por outro lado, se abusar da tecnologia, poderá desenvolver vícios.
+Justificativas:
+a) Esta opção apresenta uma afirmação geral sobre tecnologia, sem relação de condição.
+b) Esta alternativa mostra uma relação de explicação ('pois'), não de condição.
+c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre uso moderado da internet e aproveitamento de benefícios.
+d) Embora use 'se', esta opção apresenta mais uma relação de oposição ('Por outro lado') do que de condição pura.
+
+--------------------------------------------------------------------------------

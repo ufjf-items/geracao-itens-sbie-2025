@@ -1,0 +1,34 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas adição, oposição, condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
+      "Comando 2": "Em qual trecho do texto a relação de condição é estabelecida?",
+      "Opções": {
+        "a": "Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado...",
+        "b": "Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.",
+        "c": "Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce.",
+        "d": "O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "INCORRETA: Essa alternativa apresenta uma relação de oposição (mas), e não de condição. O trecho indica uma mudança de situação ao longo do tempo, não uma condição para algo acontecer.",
+        "b": "INCORRETA: Essa alternativa apresenta uma explicação sobre a origem do panetone, indicando que várias lendas existem, mas a mais convincente é um caso de amor. Não há relação de condição expressa nesse trecho.",
+        "c": "CORRETA: Essa alternativa apresenta uma relação de condição implícita. Para que o jovem surpreenda o pai da moça, ele se disfarça de ajudante de padeiro e cria um pão doce. A ação de se disfarçar e criar o pão doce é uma condição para atingir o objetivo de surpreender o pai da moça.",
+        "d": "INCORRETA: Essa alternativa descreve o resultado do pão doce criado pelo jovem, tornando-se um destaque na padaria. Não há relação de condição estabelecida nesse trecho, apenas uma descrição de um fato."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer relações lógico-discursivas de condição.",
+        "2. **Selecionar o texto:** O texto 'A origem do panetone' foi escolhido por ser adequado ao nível de leitura do Ensino Fundamental e por conter diferentes tipos de relações lógicas.",
+        "3. **Elaborar o comando:** O comando deve ser claro e direto, solicitando a identificação de uma relação de condição no texto.",
+        "4. **Criar as opções:**",
+        "   - **Opção correta (C):** A alternativa correta foi elaborada para apresentar uma relação de condição implícita, onde a ação de se disfarçar e criar o pão doce é uma condição para atingir o objetivo de surpreender o pai da moça.",
+        "   - **Distratores (A, B, D):** Os distratores foram criados para apresentar outras relações lógicas presentes no texto (oposição, explicação, descrição), mas que não correspondem à relação de condição solicitada.",
+        "5. **Justificativas:** As justificativas foram elaboradas para explicar detalhadamente por que cada alternativa está correta ou incorreta, auxiliando o professor a identificar as dificuldades dos alunos."
+      ]
+    }
+  ]
+}
+```

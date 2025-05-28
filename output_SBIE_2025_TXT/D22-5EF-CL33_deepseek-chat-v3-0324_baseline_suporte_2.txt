@@ -1,0 +1,59 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto com atenção.
+Texto de Suporte:
+A chuva é essencial para a agricultura. Se não chover na época certa, as plantações podem sofrer. Os agricultores precisam estar preparados, pois a falta de água pode arruinar toda a safra. Caso as previsões meteorológicas indiquem seca, é preciso tomar medidas preventivas. No entanto, se chover em excesso, também haverá prejuízos.
+Pergunta:
+Qual das alternativas abaixo apresenta uma relação de condição no texto?
+Opções:
+   a) A chuva é essencial para a agricultura.
+   b) Os agricultores precisam estar preparados, pois a falta de água pode arruinar toda a safra.
+-> c) Se não chover na época certa, as plantações podem sofrer.
+   d) No entanto, se chover em excesso, também haverá prejuízos.
+Justificativas:
+a) Esta opção apresenta uma afirmação geral sobre a importância da chuva, sem relação de condição.
+b) Esta alternativa mostra uma relação de explicação ('pois'), não de condição.
+c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre a falta de chuva e os possíveis danos às plantações.
+d) Embora use 'se', esta opção apresenta mais uma relação de oposição ('No entanto') do que de condição pura.
+
+--------------------------------------------------------------------------------
+
+Questão 2
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto abaixo.
+Texto de Suporte:
+A prática de esportes traz muitos benefícios. Se você se exercitar regularmente, melhorará sua saúde cardiovascular. Alongar-se antes das atividades é importante, pois previne lesões. Caso você mantenha uma rotina de treinos, sentirá mais disposição no dia a dia. Contudo, se exagerar nos exercícios, poderá se machucar.
+Pergunta:
+Qual trecho do texto NÃO apresenta uma relação de condição?
+Opções:
+   a) Se você se exercitar regularmente, melhorará sua saúde cardiovascular.
+-> b) Alongar-se antes das atividades é importante, pois previne lesões.
+   c) Caso você mantenha uma rotina de treinos, sentirá mais disposição no dia a dia.
+   d) Contudo, se exagerar nos exercícios, poderá se machucar.
+Justificativas:
+a) Apresenta relação de condição clara com 'Se... melhorará'.
+b) Resposta correta. Este trecho mostra uma relação de explicação ('pois'), não de condição.
+c) Usa 'Caso' para estabelecer uma condição entre manter rotina de treinos e ter disposição.
+d) Estabelece condição com 'se exagerar... poderá se machucar'.
+
+--------------------------------------------------------------------------------
+
+Questão 3
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto atentamente.
+Texto de Suporte:
+A leitura desenvolve o pensamento crítico. Se você ler diferentes gêneros textuais, ampliará seu vocabulário. É recomendado ler diariamente, já que isso estimula a criatividade. Caso você tenha dúvidas sobre algum livro, consulte um professor. Entretanto, se ler apenas por obrigação, o aprendizado será limitado.
+Pergunta:
+Qual das alternativas apresenta uma relação de condição usando conjunção?
+Opções:
+   a) A leitura desenvolve o pensamento crítico.
+   b) É recomendado ler diariamente, já que isso estimula a criatividade.
+-> c) Se você ler diferentes gêneros textuais, ampliará seu vocabulário.
+   d) Caso você tenha dúvidas sobre algum livro, consulte um professor.
+Justificativas:
+a) Esta opção apresenta uma afirmação geral sobre os benefícios da leitura, sem relação de condição.
+b) Esta alternativa mostra uma relação de explicação ('já que'), não de condição.
+c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre ler diferentes gêneros e ampliar o vocabulário.
+d) Embora use 'Caso', esta opção apresenta mais uma sugestão do que uma relação de condição explícita.
+
+--------------------------------------------------------------------------------

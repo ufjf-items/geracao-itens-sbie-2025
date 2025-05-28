@@ -39,7 +39,7 @@ Criar questões avaliativas de **Língua Portuguesa** para estudantes do **Ensin
 - **Habilidade Avaliada**: {classe}
 - **Estrutura da Questão**:
   - **Comando 1** {comando1}
-  - **Texto suporte** {suporte}. Use exatamente esse suporte.
+  - **Texto suporte** {suporte}. Use exatamente o texto suporte fornecido, sem modificações.
   - **Comando 2** {comando2}
   - **Gabarito** {gabarito}
   - **Distratores** {distratores}
@@ -216,10 +216,12 @@ def transformar_json_em_txt(caminho_json, caminho_txt):
         inicio = texto.find("```json")
         fim = texto.find("```", inicio + 7)  # 7 = len("```json")
 
-        if inicio == -1 or fim == -1:
-            raise ValueError("Delimitadores ```json e ``` não encontrados.")
+        json_str = texto
 
-        json_str = texto[inicio + 7:fim].strip()  # Extrai o JSON puro
+        if inicio != -1 and fim != -1:
+            json_str = texto[inicio + 7:fim].strip()  # Extrai o JSON puro
+        
+            
 
         dados = json.loads(json_str)
 
@@ -257,83 +259,78 @@ if __name__ == "__main__":
   
 
     
-    # modelos = [
-    #     #"gemini-2.0-flash",
-    #     "openai/gpt-4.1",
-    #     #"openai/o3"
-    #     "deepseek/deepseek-chat-v3-0324"
+    modelos = [
+        "gemini-2.0-flash",
+        "openai/gpt-4.1",
+        #"openai/o3"
+        "deepseek/deepseek-chat-v3-0324"
         
-    # ]
+    ]
 
-    # tecnicas = [
-    #     {"nome": "baseline", "CoT": False, "Ep": False, "few_shot": False},
-    #     # {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
-    #     # {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
-    #     {"nome": "fewshot", "CoT": False, "Ep": False, "few_shot": True},
-    #     {"nome": "CoT_Ep", "CoT": True, "Ep": True, "few_shot": False},
-    #     # {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
-    #     # {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
-    #     {"nome": "CoT_Ep_fewshot", "CoT": True, "Ep": True, "few_shot": True},
-    # ]
+    tecnicas = [
+        {"nome": "baseline", "CoT": False, "Ep": False, "few_shot": False},
+        # {"nome": "CoT", "CoT": True, "Ep": False, "few_shot": False},
+        # {"nome": "Ep", "CoT": False, "Ep": True, "few_shot": False},
+        {"nome": "fewshot", "CoT": False, "Ep": False, "few_shot": True},
+        {"nome": "CoT_Ep", "CoT": True, "Ep": True, "few_shot": False},
+        # {"nome": "CoT_fewshot", "CoT": True, "Ep": False, "few_shot": True},
+        # {"nome": "Ep_fewshot", "CoT": False, "Ep": True, "few_shot": True},
+        {"nome": "CoT_Ep_fewshot", "CoT": True, "Ep": True, "few_shot": True},
+    ]
 
-    # for modelo in modelos:
-    #     # Define o modelo para cada rodada
+    for modelo in modelos:
+        # Define o modelo para cada rodada
 
-    #     if modelo == "gemini-2.0-flash":
-    #         llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0, verbose=True)
-    #     else:
-    #         llm = ChatOpenRouter(model_name=modelo, temperature=0.0, top_p=1.0)
+        if modelo == "gemini-2.0-flash":
+            llm = init_chat_model(modelo, model_provider="google_genai", temperature=0.0, top_p=1.0, verbose=True)
+        else:
+            llm = ChatOpenRouter(model_name=modelo, temperature=0.0, top_p=1.0)
 
         
         
-    #     chain = prompt | llm
+        chain = prompt | llm
 
-    #     chat_with_history = RunnableWithMessageHistory(
-    #         chain,
-    #         get_session_history,
-    #         input_messages_key="input",
-    #         history_messages_key="history"
-    #     )
+        chat_with_history = RunnableWithMessageHistory(
+            chain,
+            get_session_history,
+            input_messages_key="input",
+            history_messages_key="history"
+        )
 
-    #     for tecnica in tecnicas:
-    #         for i in range(5):
-    #             nome_tecnica = tecnica["nome"]
-    #             nome_modelo = modelo.split("/")[-1]
-    #             output_path = f"output_SBIE_2025/CL223EFCL2_{nome_modelo}_{nome_tecnica}_suporte_{i}.json"
+        for tecnica in tecnicas:
+            for i in range(5):
+                nome_tecnica = tecnica["nome"]
+                nome_modelo = modelo.split("/")[-1]
+                output_path = f"output_SBIE_2025/D22-5EF-CL33_{nome_modelo}_{nome_tecnica}_suporte_{i}.json"
 
-    #             print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
+                print(f"\n### Executando com modelo {modelo} e técnica {nome_tecnica} ###\n")
 
-    #             id = nome_modelo + "_" + nome_tecnica
+                id = nome_modelo + "_" + nome_tecnica
 
-    #             iniciar(
-    #                 id_tarefa=6,
-    #                 output=output_path,
-    #                 session_id=id,
-    #                 CoT=tecnica["CoT"],
-    #                 Ep=tecnica["Ep"],
-    #                 few_shot=tecnica["few_shot"]
-    #             )
+                iniciar(
+                    id_tarefa=7,
+                    output=output_path,
+                    session_id=id,
+                    CoT=tecnica["CoT"],
+                    Ep=tecnica["Ep"],
+                    few_shot=tecnica["few_shot"]
+                )
 
-    #             #transformar_json_em_txt(output_path, f"output_SBIE_2025_TXT/CL223EFCL2_{modelo}_{nome_tecnica}_{i}.txt")
+                #transformar_json_em_txt(output_path, f"output_SBIE_2025_TXT/CL223EFCL2_{modelo}_{nome_tecnica}_{i}.txt")
     
 
 
-    # path = "output_SBIE_2025"
+    path = "output_SBIE_2025"
 
-    # arquivos = os.listdir(path)
+    arquivos = os.listdir(path)
 
-    # os.makedirs("output_SBIE_2025_TXT", exist_ok=True)
+    os.makedirs("output_SBIE_2025_TXT", exist_ok=True)
 
 
-    # for arquivo in arquivos:
-    #     try:
-    #         transformar_json_em_txt(os.path.join(path,arquivo), os.path.join("output_SBIE_2025_TXT", arquivo.replace(".json", ".txt")))
+    for arquivo in arquivos:
+        try:
+            transformar_json_em_txt(os.path.join(path,arquivo), os.path.join("output_SBIE_2025_TXT", arquivo.replace(".json", ".txt")))
         
-    #     except Exception as e:
-    #         print(f"Erro ao processar o arquivo {arquivo}: {e}")
-    #         continue
-
-
-    path = "output_SBIE_2025/CL223EFCL2_gemini-2.0-flash_CoT_Ep_fewshot_suporte_4.json"
-
-    transformar_json_em_txt(path, "output_SBIE_2025_TXT/CL223EFCL2_gemini-2.0-flash_CoT_Ep_fewshot_suporte_4.txt")
+        except Exception as e:
+            print(f"Erro ao processar o arquivo {arquivo}: {e}")
+            continue

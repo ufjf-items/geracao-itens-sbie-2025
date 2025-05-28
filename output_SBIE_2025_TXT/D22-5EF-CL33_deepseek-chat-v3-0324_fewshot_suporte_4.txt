@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O uso de protetor solar é fundamental para a saúde da pele. Se aplicado corretamente, ele previne queimaduras e reduz o risco de câncer de pele. Caso contrário, se a pessoa não usar proteção adequada, pode sofrer danos irreversíveis.
+
+Quando o protetor é reaplicado a cada duas horas, sua eficácia aumenta significativamente. Entretanto, se a exposição ao sol for prolongada sem proteção, os riscos à saúde se multiplicam.
+
+Disponível em: www.dermatologia.org.br/protecao-solar. Acesso em: 25 nov. 2024. Adaptado.
+Pergunta:
+No texto, a relação de condição está expressa em:
+Opções:
+   a) "O uso de protetor solar é fundamental para a saúde da pele."
+-> b) "Se aplicado corretamente, ele previne queimaduras e reduz o risco de câncer de pele."
+   c) "Quando o protetor é reaplicado a cada duas horas, sua eficácia aumenta significativamente."
+   d) "Entretanto, se a exposição ao sol for prolongada sem proteção, os riscos à saúde se multiplicam."
+Justificativas:
+a) INCORRETA. Esta alternativa apresenta uma afirmação geral sobre a importância do protetor solar, sem estabelecer relação de condição.
+b) CORRETA. O trecho apresenta claramente a conjunção condicional 'se' estabelecendo relação direta entre aplicação correta e prevenção de danos.
+c) INCORRETA. Embora o trecho use 'quando', que pode indicar tempo, não estabelece relação condicional clara como solicitado.
+d) INCORRETA. Apesar de conter 'se' indicando condição, a estrutura enfatiza mais uma adversidade ('Entretanto') do que a condição solicitada.
+
+--------------------------------------------------------------------------------

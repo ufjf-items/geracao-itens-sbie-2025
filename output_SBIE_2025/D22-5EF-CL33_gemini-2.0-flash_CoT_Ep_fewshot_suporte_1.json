@@ -1,0 +1,34 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas adição, oposição, condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
+      "Comando 2": "Qual das frases abaixo expressa uma condição para que algo aconteça?",
+      "Opções": {
+        "a": "O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.",
+        "b": "Se o jovem não se disfarçasse, não conseguiria surpreender o pai da moça.",
+        "c": "A história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro.",
+        "d": "Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado..."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA: Essa frase apresenta uma consequência ou resultado de um processo de modificação, não uma condição para algo acontecer.",
+        "b": "CORRETA: Essa frase expressa uma condição clara: a de que, se o jovem não se disfarçasse, ele não conseguiria surpreender o pai da moça. A conjunção 'se' indica a relação de condicionalidade.",
+        "c": "INCORRETA: Essa frase descreve um evento que aconteceu no passado, sem estabelecer nenhuma condição para que algo aconteça.",
+        "d": "INCORRETA: Essa frase apresenta uma oposição entre o esquecimento do panetone durante o ano e sua lembrança nas semanas que antecedem o Natal, não uma condição."
+      },
+      "->": [
+        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer relações lógico-discursivas de condição.",
+        "2. **Selecionar o texto:** O texto 'A origem do panetone' foi mantido por ser adequado ao nível de leitura do Ensino Fundamental e por conter diferentes tipos de relações lógicas.",
+        "3. **Elaborar o comando:** O comando foi reformulado para ser mais direto e claro, perguntando qual frase expressa uma condição.",
+        "4. **Criar as opções:**",
+        "   - **Opção correta (B):** A alternativa correta foi elaborada para apresentar uma relação de condição explícita, utilizando a conjunção 'se' para indicar a condicionalidade.",
+        "   - **Distratores (A, C, D):** Os distratores foram criados para apresentar outras informações do texto que não expressam uma relação de condição, como uma consequência, um evento passado e uma oposição.",
+        "5. **Justificativas:** As justificativas foram elaboradas para explicar detalhadamente por que cada alternativa está correta ou incorreta, auxiliando o professor a identificar as dificuldades dos alunos."
+      ]
+    }
+  ]
+}
+```

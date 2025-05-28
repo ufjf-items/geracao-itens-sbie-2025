@@ -1,0 +1,41 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
+      "Comando 2": "No texto, qual trecho apresenta uma relação lógico-discursiva de condição?",
+      "Opções": {
+        "a": "\"Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado...\"",
+        "b": "\"Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro...\"",
+        "c": "\"O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\"",
+        "d": "\"O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni.\""
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA. Os estudantes que assinalaram essa alternativa podem ter se confundido com a conjunção adversativa \"mas\", que indica oposição, não condição. O trecho não apresenta relação de condição, mas sim de contraste entre situações temporais.",
+        "b": "CORRETA. Os estudantes que marcaram essa alternativa identificaram corretamente a relação de condição implícita na ação do jovem: \"se ele quisesse surpreender o pai da moça (condição), então deveria se disfarçar (ação)\". A estrutura \"Buscando...\" estabelece uma relação condicional típica.",
+        "c": "INCORRETA. Essa alternativa apresenta uma relação de causalidade (indicada por \"pelo\"), mostrando as razões do destaque do pão. Não há nenhum elemento que indique condição no trecho.",
+        "d": "INCORRETA. O trecho mostra uma consequência temporal do sucesso do pão, sem qualquer elemento condicional. Os estudantes que escolheram essa opção provavelmente confundiram sequência temporal com relação condicional."
+      },
+      "->": "1) Selecionamos o texto sobre a origem do panetone por ser narrativo e conter estruturas complexas. 2) Identificamos a relação condicional implícita na ação do jovem (se quisesse surpreender → deveria se disfarçar). 3) Criamos distratores com outras relações discursivas (oposição, causalidade e temporalidade) para testar o reconhecimento específico da condição. 4) As justificativas detalham por que cada alternativa está certa ou errada, focando na identificação das conjunções e relações lógicas."
+    }
+  ]
+}
+``` 
+
+**Explicação passo a passo da construção:**
+
+1. **Seleção do Texto**: Escolhemos o texto sobre a origem do panetone por ser narrativo e conter estruturas complexas adequadas para identificar relações lógico-discursivas. O texto possui uma narrativa com causa, consequência e condição implícita.
+
+2. **Identificação da Relação Condicional**: Analisamos o texto para encontrar trechos que apresentassem relações de condição. O trecho "Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro..." contém uma condição implícita (se quisesse surpreender, então se disfarçaria), marcada pela estrutura verbal "Buscando...".
+
+3. **Criação dos Distratores**: Desenvolvemos alternativas que apresentassem outras relações lógico-discursivas:
+   - Alternativa A: Relação de oposição ("mas").
+   - Alternativa C: Relação de causalidade ("pelo").
+   - Alternativa D: Relação temporal (sequência de eventos).
+
+4. **Justificativas Detalhadas**: Para cada alternativa, explicamos por que está certa ou errada, focando na identificação das conjunções e relações lógicas. A alternativa correta (B) foi justificada pela condição implícita na ação do jovem, enquanto as incorretas foram explicadas por confundirem condição com outras relações.
+
+5. **Linha de raciocínio**: A questão foi construída para testar especificamente a habilidade de reconhecer relações de condição em um texto narrativo, usando um contexto familiar (origem do panetone) e alternativas plausíveis que exigem atenção às conjunções e estruturas linguísticas.

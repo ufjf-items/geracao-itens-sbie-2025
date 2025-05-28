@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O aquecimento global é um fenômeno que preocupa cientistas em todo o mundo. Se as emissões de gases poluentes continuarem no ritmo atual, o planeta poderá sofrer consequências irreversíveis. No entanto, se as nações adotarem medidas sustentáveis, como o uso de energias renováveis, é possível reduzir os impactos ambientais.
+
+Estudos mostram que quando os países investem em tecnologias limpas, os índices de poluição diminuem consideravelmente. Por outro lado, caso não haja mudanças nos padrões de consumo, as temperaturas médias globais podem subir até 4°C até o final do século.
+
+Disponível em: www.ambientebrasil.com.br/aquecimento-global. Acesso em: 10 ago. 2024. Adaptado.
+Pergunta:
+No texto, a relação de condição está expressa em:
+Opções:
+   a) "O aquecimento global é um fenômeno que preocupa cientistas em todo o mundo."
+-> b) "Se as emissões de gases poluentes continuarem no ritmo atual, o planeta poderá sofrer consequências irreversíveis."
+   c) "Estudos mostram que quando os países investem em tecnologias limpas, os índices de poluição diminuem."
+   d) "Por outro lado, caso não haja mudanças nos padrões de consumo, as temperaturas médias globais podem subir."
+Justificativas:
+a) INCORRETA. Os estudantes que marcaram esta alternativa confundiram uma afirmação geral sobre o aquecimento global com uma relação de condição. Não há conjunção condicional neste trecho.
+b) CORRETA. Esta alternativa apresenta claramente a conjunção condicional 'se' estabelecendo uma relação de condição entre as emissões poluentes e as consequências para o planeta.
+c) INCORRETA. Embora o trecho use 'quando', que pode indicar tempo, não estabelece uma relação condicional clara como solicitado no comando.
+d) INCORRETA. Apesar de conter 'caso', que pode indicar condição, a estrutura da frase enfatiza mais uma oposição ('Por outro lado') do que propriamente uma condição.
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+A importância da reciclagem
+
+Se todos os cidadãos separassem corretamente seu lixo reciclável, a quantidade de resíduos nos aterros sanitários diminuiria pela metade. No entanto, muitas pessoas ainda não adotam esse hábito por falta de informação. Quando os materiais são reciclados, economizamos recursos naturais e energia. Caso a coleta seletiva fosse implementada em todas as cidades, o meio ambiente seria muito beneficiado. Estima-se que apenas 3% do lixo produzido no Brasil é reciclado atualmente.
+
+Disponível em: www.ambientebrasil.com.br/reciclagem. Acesso em: 20 set. 2024. Adaptado.
+Pergunta:
+Qual das alternativas abaixo apresenta uma relação de condição no texto?
+Opções:
+   a) "No entanto, muitas pessoas ainda não adotam esse hábito por falta de informação."
+-> b) "Se todos os cidadãos separassem corretamente seu lixo reciclável, a quantidade de resíduos nos aterros sanitários diminuiria pela metade."
+   c) "Quando os materiais são reciclados, economizamos recursos naturais e energia."
+   d) "Estima-se que apenas 3% do lixo produzido no Brasil é reciclado atualmente."
+Justificativas:
+a) INCORRETA. O trecho utiliza a conjunção "No entanto" que indica oposição, não condição. Mostra um contraste entre o ideal e a realidade atual.
+b) CORRETA. A alternativa apresenta claramente uma relação condicional com a estrutura "Se... então" (Se separassem → diminuiria). A conjunção "Se" introduz a condição de forma explícita.
+c) INCORRETA. Embora contenha "Quando", que pode sugerir condição, neste contexto indica tempo/causalidade (ao reciclar → economizamos), não uma condição hipotética.
+d) INCORRETA. O trecho apresenta um dado estatístico sem qualquer relação condicional. Não há conjunções ou estruturas que indiquem condição.
+
+--------------------------------------------------------------------------------

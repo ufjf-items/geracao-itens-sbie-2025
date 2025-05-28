@@ -1,0 +1,31 @@
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
+      "Comando 2": "Em qual alternativa a relação de condição está expressa por uma conjunção mais usual?",
+      "Opções": {
+        "a": "Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado.",
+        "b": "O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni.",
+        "c": "Quando um jovem morador de Milão apaixona-se pela filha de um padeiro, ele se disfarça de ajudante de padeiro e cria um pão doce.",
+        "d": "O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "INCORRETA. Os estudantes que assinalaram essa alternativa podem ter se guiado pela conjunção 'mas', que indica oposição, não condição. O trecho apresenta uma relação de contraste entre dois períodos do ano, não uma condição.",
+        "b": "INCORRETA. Os estudantes que assinalaram essa alternativa podem ter se confundido com a ideia de consequência, pois o movimento da padaria aumentou e os clientes passaram a pedir pelo pão, mas não há relação de condição, apenas de sequência de fatos.",
+        "c": "CORRETA. Os estudantes que assinalaram essa alternativa reconheceram corretamente a relação de condição, pois a conjunção 'quando' pode, em certos contextos, indicar condição (se acontecer tal coisa, então outra acontecerá). No trecho, a ação do jovem se disfarçar e criar o pão doce está condicionada ao fato de ele se apaixonar pela filha do padeiro.",
+        "d": "INCORRETA. Os estudantes que assinalaram essa alternativa podem ter se guiado pela explicação do motivo pelo qual o pão se destacou na padaria, mas não há relação de condição, e sim de causa e consequência."
+      },
+      "->": [
+        "1. Analisei o texto suporte e identifiquei trechos com possíveis relações lógico-discursivas de condição.",
+        "2. Busquei conjunções mais usuais de condição, como 'quando', 'se', 'caso', 'desde que', etc.",
+        "3. O trecho 'Quando um jovem morador de Milão apaixona-se pela filha de um padeiro, ele se disfarça...' utiliza 'quando' em sentido condicional, pois a ação subsequente depende da ocorrência da primeira.",
+        "4. Elaborei alternativas com outros tipos de relações lógico-discursivas (oposição, consequência, causa) para servir de distratores.",
+        "5. Justifiquei cada alternativa, explicando por que não representa uma relação de condição, exceto a correta.",
+        "6. Organizei as alternativas de modo a abranger diferentes tipos de conectivos e relações semânticas, facilitando a análise do estudante."
+      ]
+    }
+  ]
+}

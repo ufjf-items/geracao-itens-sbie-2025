@@ -1,0 +1,71 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto com atenção.",
+      "Texto suporte": "O uso consciente da água\n\nSe cada pessoa reduzisse em apenas 5 minutos seu tempo de banho diário, poderíamos economizar milhões de litros de água por mês. Porém, muitos ainda não adotam essa prática por considerá-la insignificante. Quando fechamos a torneira ao escovar os dentes, evitamos o desperdício de até 12 litros de água por minuto. Caso todas as escolas ensinassem sobre consumo responsável desde cedo, teríamos uma geração mais consciente. Dados mostram que 36% da água tratada no Brasil é perdida antes de chegar às casas.\n\nDisponível em: www.aguaconsciente.org.br. Acesso em: 10 out. 2024. Adaptado.",
+      "Comando 2": "Qual trecho do texto apresenta uma relação de condição explícita?",
+      "Opções": {
+        "a": "\"Porém, muitos ainda não adotam essa prática por considerá-la insignificante.\"",
+        "b": "\"Se cada pessoa reduzisse em apenas 5 minutos seu tempo de banho diário, poderíamos economizar milhões de litros de água por mês.\"",
+        "c": "\"Quando fechamos a torneira ao escovar os dentes, evitamos o desperdício de até 12 litros de água por minuto.\"",
+        "d": "\"Dados mostram que 36% da água tratada no Brasil é perdida antes de chegar às casas.\""
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA. O trecho utiliza a conjunção \"Porém\" que indica oposição, mostrando um contraste entre a possibilidade de economia e a atitude das pessoas. Não há relação condicional.",
+        "b": "CORRETA. O trecho apresenta claramente uma estrutura condicional com \"Se\" + verbo no subjuntivo (reduzisse) + consequência (poderíamos economizar), configurando uma relação de condição explícita.",
+        "c": "INCORRETA. Embora contenha \"Quando\", que pode indicar tempo, neste contexto mostra uma relação de causalidade (ao fechar → evita-se desperdício), não uma condição hipotética.",
+        "d": "INCORRETA. O trecho apresenta um dado estatístico factual sobre perda de água, sem qualquer elemento que indique relação condicional."
+      },
+      "Dificuldade": "Média",
+      "Tempo estimado": "3 minutos",
+      "Habilidades relacionadas": [
+        "EF05LP07",
+        "EF05LP03",
+        "EF05LP08"
+      ],
+      "->": "1) Tema relevante (conservação da água) 2) Texto com múltiplas relações lógicas 3) Alternativa correta com estrutura condicional clara 4) Distratores com outras relações (oposição, causalidade e dado factual) 5) Justificativas detalhadas por alternativa"
+    }
+  ]
+}
+```
+
+**Análise da Questão:**
+
+1. **Contextualização Temática**:
+   - Escolhemos o tema do uso consciente da água por sua urgência ambiental e conexão com o cotidiano dos alunos
+   - O texto aborda um problema real com dados concretos, tornando a aprendizagem significativa
+
+2. **Estrutura Linguística**:
+   - Inserimos três tipos de relações lógicas distintas:
+     - Condicional explícita ("Se...") na alternativa B
+     - Oposição ("Porém") na alternativa A
+     - Causalidade/Temporalidade ("Quando") na alternativa C
+   - Mantivemos uma alternativa (D) com informação factual sem relação lógica complexa
+
+3. **Diferenciação Pedagógica**:
+   - A questão exige que os alunos:
+     - Identifiquem a estrutura gramatical típica das orações condicionais
+     - Diferenciem "Se" (condição) de "Quando" (tempo/causalidade)
+     - Reconheçam o valor semântico da conjunção "Porém"
+     - Distinguam dados estatísticos de relações lógicas
+
+4. **Aspectos Cognitivos**:
+   - Nível de complexidade adequado ao 5º ano
+   - Exige análise sintática e interpretação semântica
+   - Promove o pensamento crítico sobre consumo sustentável
+   - Desenvolve habilidades de leitura analítica
+
+5. **Alinhamento Curricular**:
+   - Atende especificamente à habilidade EF05LP07 da BNCC
+   - Integra conhecimentos linguísticos e educação ambiental
+   - Pode ser trabalhada interdisciplinarmente com Ciências e Geografia
+
+**Sugestões para Aplicação em Sala**:
+1. Antes da aplicação, revisar os tipos de relações lógicas com exemplos
+2. Após a correção, pedir que os alunos criem suas próprias frases com "Se"
+3. Discutir o conteúdo temático (conservação da água) paralelamente
+4. Propor a identificação de outras relações lógicas no mesmo texto
+5. Criar um quadro comparativo das conjunções e seus significados

@@ -1,0 +1,24 @@
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
+      "Comando 2": "Assinale a alternativa em que a relação de condição está corretamente identificada no texto.",
+      "Opções": {
+        "a": "Se o jovem não tivesse se disfarçado de ajudante de padeiro, não teria criado o pão doce.",
+        "b": "O pão doce ficou famoso porque tinha uma cúpula de igreja.",
+        "c": "O panetone é consumido apenas nas semanas que antecedem o Natal.",
+        "d": "O nome panetone mudou ao longo do tempo até chegar ao atual."
+      },
+      "Resposta correta": "a",
+      "Justificativas": {
+        "a": "Correta. A alternativa apresenta uma relação de condição: a criação do pão doce dependeu do fato de o jovem se disfarçar de ajudante de padeiro. O uso do 'se' indica claramente a condição necessária para a ação seguinte.",
+        "b": "Incorreta. Essa alternativa apresenta uma relação de causa e consequência, não de condição. O pão ficou famoso por causa da cúpula, mas não há uma condição envolvida.",
+        "c": "Incorreta. Trata-se de uma informação temporal, indicando quando o panetone é consumido, sem relação de condição.",
+        "d": "Incorreta. Essa alternativa mostra uma relação de transformação ao longo do tempo, não de condição."
+      },
+      "->": ""
+    }
+  ]
+}

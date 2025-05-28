@@ -1,0 +1,26 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "O uso de protetor solar é fundamental para a saúde da pele. Se aplicado corretamente, ele previne queimaduras e reduz o risco de câncer de pele. Caso contrário, se a pessoa não usar proteção adequada, pode sofrer danos irreversíveis.\n\nQuando o protetor é reaplicado a cada duas horas, sua eficácia aumenta significativamente. Entretanto, se a exposição ao sol for prolongada sem proteção, os riscos à saúde se multiplicam.\n\nDisponível em: www.dermatologia.org.br/protecao-solar. Acesso em: 25 nov. 2024. Adaptado.",
+      "Comando 2": "No texto, a relação de condição está expressa em:",
+      "Opções": {
+        "a": "\"O uso de protetor solar é fundamental para a saúde da pele.\"",
+        "b": "\"Se aplicado corretamente, ele previne queimaduras e reduz o risco de câncer de pele.\"",
+        "c": "\"Quando o protetor é reaplicado a cada duas horas, sua eficácia aumenta significativamente.\"",
+        "d": "\"Entretanto, se a exposição ao sol for prolongada sem proteção, os riscos à saúde se multiplicam.\""
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "INCORRETA. Esta alternativa apresenta uma afirmação geral sobre a importância do protetor solar, sem estabelecer relação de condição.",
+        "b": "CORRETA. O trecho apresenta claramente a conjunção condicional 'se' estabelecendo relação direta entre aplicação correta e prevenção de danos.",
+        "c": "INCORRETA. Embora o trecho use 'quando', que pode indicar tempo, não estabelece relação condicional clara como solicitado.",
+        "d": "INCORRETA. Apesar de conter 'se' indicando condição, a estrutura enfatiza mais uma adversidade ('Entretanto') do que a condição solicitada."
+      },
+      "Observação": "A questão avalia a habilidade de identificar relações condicionais marcadas por conjunções como 'se', conforme previsto na BNCC para o 5º ano."
+    }
+  ]
+}
+```

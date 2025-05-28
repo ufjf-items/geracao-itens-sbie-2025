@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O uso de máscaras na pandemia
+
+Durante a pandemia de COVID-19, o uso de máscaras tornou-se obrigatório em muitos lugares. Se as pessoas não usassem máscaras, o risco de contágio aumentaria significativamente. Porém, alguns alegavam desconforto ao utilizá-las por longos períodos. Estudos comprovaram que, quando usadas corretamente, as máscaras reduzem em até 70% a transmissão do vírus. Caso todos seguissem essa medida, junto com o distanciamento social, os números de infectados cairiam drasticamente.
+
+Disponível em: www.saude.gov.br/pandemia. Acesso em: 15 ago. 2024. Adaptado.
+Pergunta:
+No texto, qual trecho apresenta uma relação lógico-discursiva de condição?
+Opções:
+   a) "Durante a pandemia de COVID-19, o uso de máscaras tornou-se obrigatório em muitos lugares."
+-> b) "Se as pessoas não usassem máscaras, o risco de contágio aumentaria significativamente."
+   c) "Porém, alguns alegavam desconforto ao utilizá-las por longos períodos."
+   d) "Estudos comprovaram que, quando usadas corretamente, as máscaras reduzem em até 70% a transmissão do vírus."
+Justificativas:
+a) INCORRETA. O trecho apenas informa um fato ocorrido durante a pandemia, sem estabelecer qualquer relação condicional. Não há conjunções ou estruturas que indiquem condição.
+b) CORRETA. O trecho apresenta claramente uma relação condicional com a estrutura "Se... então" implícita (Se não usassem → risco aumentaria). A conjunção "Se" introduz a condição de forma explícita.
+c) INCORRETA. A conjunção "Porém" indica uma relação de oposição, não de condição. O trecho contrasta a obrigatoriedade com o desconforto sentido por alguns.
+d) INCORRETA. Embora contenha "quando", que pode indicar tempo, o trecho mostra uma relação de causalidade (uso correto → redução da transmissão), não de condição.
+
+--------------------------------------------------------------------------------

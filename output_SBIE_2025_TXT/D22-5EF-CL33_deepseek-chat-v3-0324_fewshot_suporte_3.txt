@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+A prática de exercícios físicos traz diversos benefícios à saúde. Se uma pessoa se exercitar regularmente, terá mais disposição e qualidade de vida. Caso contrário, se mantiver um estilo de vida sedentário, poderá desenvolver problemas de saúde.
+
+Quando os exercícios são combinados com alimentação balanceada, os resultados são ainda melhores. Porém, se a pessoa não seguir uma rotina adequada de descanso, todo o esforço pode ser prejudicado.
+
+Disponível em: www.saudebrasil.com.br/exercicios. Acesso em: 20 out. 2024. Adaptado.
+Pergunta:
+No texto, a relação de condição está expressa em:
+Opções:
+   a) "A prática de exercícios físicos traz diversos benefícios à saúde."
+-> b) "Se uma pessoa se exercitar regularmente, terá mais disposição e qualidade de vida."
+   c) "Quando os exercícios são combinados com alimentação balanceada, os resultados são ainda melhores."
+   d) "Porém, se a pessoa não seguir uma rotina adequada de descanso, todo o esforço pode ser prejudicado."
+Justificativas:
+a) INCORRETA. Esta alternativa apresenta uma afirmação geral sobre os benefícios dos exercícios, sem estabelecer nenhuma relação de condição.
+b) CORRETA. O trecho apresenta claramente a conjunção condicional 'se' estabelecendo uma relação direta entre a prática regular de exercícios e seus benefícios.
+c) INCORRETA. Embora o trecho use 'quando', que pode indicar tempo, não estabelece uma relação condicional clara como solicitado no comando.
+d) INCORRETA. Apesar de conter 'se' indicando condição, a estrutura da frase enfatiza mais uma adversidade ('Porém') do que propriamente a condição solicitada.
+
+--------------------------------------------------------------------------------

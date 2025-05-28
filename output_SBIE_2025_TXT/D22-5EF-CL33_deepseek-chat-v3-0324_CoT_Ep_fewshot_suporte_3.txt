@@ -1,0 +1,23 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto com atenção.
+Texto de Suporte:
+O uso consciente da água
+
+Se cada pessoa reduzisse em apenas 5 minutos seu tempo de banho diário, poderíamos economizar milhões de litros de água por mês. Porém, muitos ainda não adotam essa prática por considerá-la insignificante. Quando fechamos a torneira ao escovar os dentes, evitamos o desperdício de até 12 litros de água por minuto. Caso todas as escolas ensinassem sobre consumo responsável desde cedo, teríamos uma geração mais consciente. Dados mostram que 36% da água tratada no Brasil é perdida antes de chegar às casas.
+
+Disponível em: www.aguaconsciente.org.br. Acesso em: 10 out. 2024. Adaptado.
+Pergunta:
+Qual trecho do texto apresenta uma relação de condição explícita?
+Opções:
+   a) "Porém, muitos ainda não adotam essa prática por considerá-la insignificante."
+-> b) "Se cada pessoa reduzisse em apenas 5 minutos seu tempo de banho diário, poderíamos economizar milhões de litros de água por mês."
+   c) "Quando fechamos a torneira ao escovar os dentes, evitamos o desperdício de até 12 litros de água por minuto."
+   d) "Dados mostram que 36% da água tratada no Brasil é perdida antes de chegar às casas."
+Justificativas:
+a) INCORRETA. O trecho utiliza a conjunção "Porém" que indica oposição, mostrando um contraste entre a possibilidade de economia e a atitude das pessoas. Não há relação condicional.
+b) CORRETA. O trecho apresenta claramente uma estrutura condicional com "Se" + verbo no subjuntivo (reduzisse) + consequência (poderíamos economizar), configurando uma relação de condição explícita.
+c) INCORRETA. Embora contenha "Quando", que pode indicar tempo, neste contexto mostra uma relação de causalidade (ao fechar → evita-se desperdício), não uma condição hipotética.
+d) INCORRETA. O trecho apresenta um dado estatístico factual sobre perda de água, sem qualquer elemento que indique relação condicional.
+
+--------------------------------------------------------------------------------

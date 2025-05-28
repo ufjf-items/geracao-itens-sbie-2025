@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas adição, oposição, condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+A origem do panetone
+
+Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.
+A história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.
+O jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.
+
+Disponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.
+Pergunta:
+Na frase “Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce.”, qual condição permitiu que o jovem criasse o panetone?
+Opções:
+   a) O jovem se disfarçou de ajudante de padeiro.
+   b) O pai da moça não aceitava o namoro.
+-> c) O jovem queria surpreender o pai da moça.
+   d) O pão doce se tornou um destaque na padaria.
+Justificativas:
+a) Incorreta. O disfarce foi uma ação tomada para alcançar o objetivo, mas não é a condição que permitiu a criação do panetone em si.
+b) Incorreta. A não aceitação do namoro é o contexto do problema, mas não a condição que permitiu a criação do panetone.
+c) Correta. A busca por surpreender o pai da moça é a motivação, a condição que impulsionou o jovem a criar o panetone. Ele cria o pão doce *a fim de* surpreender o pai da moça.
+d) Incorreta. O destaque do pão na padaria é uma consequência da criação, não a condição que a permitiu.
+
+--------------------------------------------------------------------------------

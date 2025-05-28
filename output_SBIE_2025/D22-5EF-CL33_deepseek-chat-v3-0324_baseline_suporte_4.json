@@ -1,0 +1,63 @@
+```json
+{
+  "Questões": [
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto com atenção.",
+      "Texto suporte": "Para se sair bem na prova, é preciso se preparar. Se você estudar com antecedência, terá mais chances de obter uma boa nota. Fazer resumos ajuda na fixação do conteúdo, pois organiza as ideias principais. Caso você tenha dúvidas, deve procurar o professor para esclarecê-las. Entretanto, se deixar para estudar na última hora, poderá ter dificuldades.",
+      "Comando 2": "Qual trecho apresenta uma relação de condição explícita?",
+      "Opções": {
+        "a": "Para se sair bem na prova, é preciso se preparar.",
+        "b": "Fazer resumos ajuda na fixação do conteúdo, pois organiza as ideias principais.",
+        "c": "Se você estudar com antecedência, terá mais chances de obter uma boa nota.",
+        "d": "Entretanto, se deixar para estudar na última hora, poderá ter dificuldades."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Esta opção apresenta uma afirmação geral sobre preparação para provas, sem relação de condição.",
+        "b": "Esta alternativa mostra uma relação de explicação ('pois'), não de condição.",
+        "c": "Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre estudar com antecedência e obter boas notas.",
+        "d": "Embora use 'se', esta opção apresenta mais uma relação de oposição ('Entretanto') do que de condição pura."
+      }
+    },
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto abaixo.",
+      "Texto suporte": "A alimentação saudável é importante para o desenvolvimento. Se você consumir frutas e verduras diariamente, terá mais disposição. Beber água é fundamental, já que mantém o corpo hidratado. Caso você evite alimentos industrializados, sua saúde será melhor. Por outro lado, se exagerar em doces e frituras, poderá ter problemas de saúde.",
+      "Comando 2": "Qual alternativa NÃO contém uma relação de condição?",
+      "Opções": {
+        "a": "Se você consumir frutas e verduras diariamente, terá mais disposição.",
+        "b": "Beber água é fundamental, já que mantém o corpo hidratado.",
+        "c": "Caso você evite alimentos industrializados, sua saúde será melhor.",
+        "d": "Por outro lado, se exagerar em doces e frituras, poderá ter problemas de saúde."
+      },
+      "Resposta correta": "b",
+      "Justificativas": {
+        "a": "Apresenta relação de condição clara com 'Se... terá'.",
+        "b": "Resposta correta. Este trecho mostra uma relação de explicação ('já que'), não de condição.",
+        "c": "Usa 'Caso' para estabelecer uma condição entre evitar industrializados e ter saúde melhor.",
+        "d": "Estabelece condição com 'se exagerar... poderá ter'."
+      }
+    },
+    {
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto atentamente.",
+      "Texto suporte": "A prática de esportes é benéfica para crianças. Se elas praticarem atividades físicas regularmente, desenvolverão melhor suas habilidades motoras. Brincar ao ar livre é importante, pois estimula a criatividade. Caso as crianças tenham acompanhamento profissional, os resultados serão melhores. Contudo, se ficarem apenas em frente às telas, poderão ter problemas de postura.",
+      "Comando 2": "Qual das alternativas contém uma relação de condição marcada por conjunção?",
+      "Opções": {
+        "a": "A prática de esportes é benéfica para crianças.",
+        "b": "Brincar ao ar livre é importante, pois estimula a criatividade.",
+        "c": "Se elas praticarem atividades físicas regularmente, desenvolverão melhor suas habilidades motoras.",
+        "d": "Contudo, se ficarem apenas em frente às telas, poderão ter problemas de postura."
+      },
+      "Resposta correta": "c",
+      "Justificativas": {
+        "a": "Esta opção apresenta uma afirmação geral sobre esportes, sem relação de condição.",
+        "b": "Esta alternativa mostra uma relação de explicação ('pois'), não de condição.",
+        "c": "Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre praticar atividades físicas e desenvolver habilidades motoras.",
+        "d": "Embora use 'se', esta opção apresenta mais uma relação de oposição ('Contudo') do que de condição pura."
+      }
+    }
+  ]
+}
+```
