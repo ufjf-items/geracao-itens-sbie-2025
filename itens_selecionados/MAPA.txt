@@ -1,0 +1,11 @@
+{LLM} - {}
+
+LLM => gemini, gpt, ds
+A - baseline
+B - CoT + EP
+C - One-shot
+D - CoT + EP + One-shot
+
+1 - sem suporte
+2 - com suporte
+3 - tarefa difícil

@@ -1,0 +1,22 @@
+ CL223EFCL2_deepseek-chat-v3-0324_baseline_4.txt
+ CL223EFCL2_deepseek-chat-v3-0324_baseline_suporte_0.txt
+ CL223EFCL2_deepseek-chat-v3-0324_CoT_Ep_fewshot_4.txt
+ CL223EFCL2_deepseek-chat-v3-0324_CoT_Ep_fewshot_suporte_1.txt
+ CL223EFCL2_deepseek-chat-v3-0324_CoT_Ep_suporte_1.txt
+ CL223EFCL2_deepseek-chat-v3-0324_fewshot_suporte_4.txt
+ CL223EFCL2_gemini-2.0-flash_baseline_0.txt
+ CL223EFCL2_gemini-2.0-flash_baseline_suporte_3.json
+ CL223EFCL2_gemini-2.0-flash_CoT_Ep_0.txt
+ CL223EFCL2_gemini-2.0-flash_CoT_Ep_fewshot_0.txt
+ CL223EFCL2_gemini-2.0-flash_CoT_Ep_fewshot_suporte_4.json
+ CL223EFCL2_gemini-2.0-flash_CoT_Ep_suporte_3.txt
+ CL223EFCL2_gemini-2.0-flash_fewshot_0.txt
+ CL223EFCL2_gemini-2.0-flash_fewshot_suporte_2.txt
+ CL223EFCL2_gpt-4.1_baseline_1.txt
+ CL223EFCL2_gpt-4.1_baseline_suporte_1.json
+ CL223EFCL2_gpt-4.1_CoT_Ep_fewshot_2.txt
+ CL223EFCL2_gpt-4.1_CoT_Ep_fewshot_suporte_0.json
+ CL223EFCL2_gpt-4.1_CoT_Ep_suporte_3.json
+ CL223EFCL2_gpt-4.1_fewshot_3.txt
+ CL223EFCL2_gpt-4.1_fewshot_suporte_0.txt
+
