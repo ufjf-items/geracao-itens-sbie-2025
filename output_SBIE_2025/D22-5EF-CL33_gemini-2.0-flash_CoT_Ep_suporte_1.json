@@ -4,32 +4,30 @@
     {
       "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas adição, oposição, condição marcadas por conjunções mais usuais.",
       "Comando 1": "Leia o texto.",
-      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
-      "Comando 2": "Em qual das alternativas abaixo, a relação de condição para a criação do panetone está expressa corretamente?",
+      "Texto suporte": "O que significa de fato ter um “bom” sono?\n\nÉ comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.\n\nPara a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.\n\nVocê não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).\n\nMas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.\n\nDisponível em: https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.",
+      "Comando 2": "Na frase 'Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite...', qual condição é estabelecida para não se sentir sonolento?",
       "Opções": {
-        "a": "Se o jovem não se disfarçasse, ele não conseguiria criar o panetone.",
-        "b": "A criação do panetone só foi possível porque o pai da moça não aceitava o namoro.",
-        "c": "O jovem criou o panetone, e por isso o pão se tornou um destaque na padaria.",
-        "d": "O panetone só existe porque o jovem queria surpreender o pai da moça."
+        "a": "Sentir-se excessivamente sonolento durante o dia.",
+        "b": "Dormir regularmente pelo menos sete horas de sono reparador por noite.",
+        "c": "Ter uma boa noite de sono.",
+        "d": "Entrar em contato com o clínico geral."
       },
-      "Resposta correta": "d",
+      "Resposta correta": "b",
       "Justificativas": {
-        "a": "Incorreta. Embora o disfarce tenha sido importante, a condição principal para a criação do panetone é a motivação do jovem.",
-        "b": "Incorreta. A não aceitação do namoro é o contexto, mas não a condição que permitiu a criação do panetone.",
-        "c": "Incorreta. A relação expressa aqui é de causa e consequência, e não de condição.",
-        "d": "Correta. A frase expressa que a existência do panetone está condicionada ao desejo do jovem de surpreender o pai da moça. Sem essa motivação, o panetone não teria sido criado."
+        "a": "Incorreta. Sentir-se sonolento é o oposto da condição estabelecida para não se sentir assim.",
+        "b": "Correta. A frase indica que, se a pessoa dormir regularmente pelo menos sete horas de sono reparador, ela *não* deve se sentir excessivamente sonolenta.",
+        "c": "Incorreta. Ter uma boa noite de sono é um conceito mais amplo, e a frase especifica a quantidade de horas como condição.",
+        "d": "Incorreta. Entrar em contato com o clínico geral é uma ação sugerida para outro cenário, quando a pessoa já se sente cansada mesmo dormindo."
       },
       "->": [
-        "1. **Definir a competência:** A questão deve avaliar a habilidade de reconhecer relações lógico-discursivas de condição.",
-        "2. **Escolher o texto:** O texto fornecido sobre a origem do panetone é adequado.",
-        "3. **Identificar a relação de condição:** No texto, a motivação do jovem de surpreender o pai da moça é a condição para a criação do panetone.",
-        "4. **Elaborar o comando:** O comando deve perguntar qual alternativa expressa corretamente a relação de condição para a criação do panetone.",
-        "5. **Criar o gabarito:** A opção correta deve ser 'O panetone só existe porque o jovem queria surpreender o pai da moça.', pois essa frase expressa a dependência da criação do panetone à motivação do jovem.",
-        "6. **Criar os distratores:**",
-        "   - 'Se o jovem não se disfarçasse, ele não conseguiria criar o panetone.' foca em um detalhe da ação, não na condição principal.",
-        "   - 'A criação do panetone só foi possível porque o pai da moça não aceitava o namoro.' apresenta o contexto, não a condição.",
-        "   - 'O jovem criou o panetone, e por isso o pão se tornou um destaque na padaria.' inverte a relação, apresentando causa e consequência."
-        "7. **Justificar cada alternativa:** Explicar por que cada opção está correta ou incorreta, detalhando o raciocínio."
+        "1. Definição da competência: Reconhecer relações lógico-discursivas de condição.",
+        "2. Escolha do texto suporte: Manter o texto fornecido, que contém a relação de condição desejada.",
+        "3. Comando 1: Manter a instrução direta para leitura do texto.",
+        "4. Comando 2: Reformular a pergunta para focar na identificação da condição específica dentro da frase selecionada.",
+        "5. Elaboração das opções:",
+        "   - Gabarito: A opção correta (b) identifica a ação de 'dormir regularmente pelo menos sete horas de sono reparador por noite' como a condição para não se sentir sonolento.",
+        "   - Distratores: As opções (a), (c) e (d) são elementos relacionados ao tema do sono, mas não representam a condição específica estabelecida na frase analisada, servindo como alternativas plausíveis para testar a compreensão do aluno." ,
+	"6. Justificativas: Detalhamento das justificativas para cada alternativa, explicando o porquê da escolha correta e os erros nas demais opções."
       ]
     }
   ]

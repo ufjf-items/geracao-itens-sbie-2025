@@ -2,58 +2,54 @@ Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
 Comando: Leia o texto com atenção.
 Texto de Suporte:
-Para se sair bem na prova, é preciso se preparar. Se você estudar com antecedência, terá mais chances de obter uma boa nota. Fazer resumos ajuda na fixação do conteúdo, pois organiza as ideias principais. Caso você tenha dúvidas, deve procurar o professor para esclarecê-las. Entretanto, se deixar para estudar na última hora, poderá ter dificuldades.
+O que significa de fato ter um 'bom' sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
 Pergunta:
-Qual trecho apresenta uma relação de condição explícita?
+Qual das seguintes afirmações sobre o texto está correta?
 Opções:
-   a) Para se sair bem na prova, é preciso se preparar.
-   b) Fazer resumos ajuda na fixação do conteúdo, pois organiza as ideias principais.
--> c) Se você estudar com antecedência, terá mais chances de obter uma boa nota.
-   d) Entretanto, se deixar para estudar na última hora, poderá ter dificuldades.
+   a) O texto apresenta apenas fatos científicos sobre o sono
+-> b) A expressão 'especialmente se' indica uma condição para evitar sonolência diurna
+   c) O autor defende que todas as pessoas precisam dormir exatamente 8 horas
+   d) Não há nenhuma relação de condição no texto
 Justificativas:
-a) Esta opção apresenta uma afirmação geral sobre preparação para provas, sem relação de condição.
-b) Esta alternativa mostra uma relação de explicação ('pois'), não de condição.
-c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre estudar com antecedência e obter boas notas.
-d) Embora use 'se', esta opção apresenta mais uma relação de oposição ('Entretanto') do que de condição pura.
+a) Incorreto. O texto apresenta recomendações gerais, não apenas fatos científicos
+b) Correto. A expressão 'especialmente se' estabelece claramente uma condição para evitar sonolência diurna
+c) Incorreto. O texto menciona uma faixa de horas (7 a 9) e fala sobre qualidade, não quantidade exata
+d) Incorreto. Há pelo menos duas relações de condição no texto ('especialmente se' e 'se você perceber')
 
 --------------------------------------------------------------------------------
 
 Questão 2
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto abaixo.
+Comando: Leia o texto abaixo cuidadosamente.
 Texto de Suporte:
-A alimentação saudável é importante para o desenvolvimento. Se você consumir frutas e verduras diariamente, terá mais disposição. Beber água é fundamental, já que mantém o corpo hidratado. Caso você evite alimentos industrializados, sua saúde será melhor. Por outro lado, se exagerar em doces e frituras, poderá ter problemas de saúde.
-Pergunta:
-Qual alternativa NÃO contém uma relação de condição?
-Opções:
-   a) Se você consumir frutas e verduras diariamente, terá mais disposição.
--> b) Beber água é fundamental, já que mantém o corpo hidratado.
-   c) Caso você evite alimentos industrializados, sua saúde será melhor.
-   d) Por outro lado, se exagerar em doces e frituras, poderá ter problemas de saúde.
-Justificativas:
-a) Apresenta relação de condição clara com 'Se... terá'.
-b) Resposta correta. Este trecho mostra uma relação de explicação ('já que'), não de condição.
-c) Usa 'Caso' para estabelecer uma condição entre evitar industrializados e ter saúde melhor.
-d) Estabelece condição com 'se exagerar... poderá ter'.
+O que significa de fato ter um 'bom' sono?
 
---------------------------------------------------------------------------------
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
 
-Questão 3
-Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto atentamente.
-Texto de Suporte:
-A prática de esportes é benéfica para crianças. Se elas praticarem atividades físicas regularmente, desenvolverão melhor suas habilidades motoras. Brincar ao ar livre é importante, pois estimula a criatividade. Caso as crianças tenham acompanhamento profissional, os resultados serão melhores. Contudo, se ficarem apenas em frente às telas, poderão ter problemas de postura.
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
 Pergunta:
-Qual das alternativas contém uma relação de condição marcada por conjunção?
+Complete a lacuna: 'No texto, a expressão ________ indica que evitar a sonolência diurna depende de cumprir certa condição.'
 Opções:
-   a) A prática de esportes é benéfica para crianças.
-   b) Brincar ao ar livre é importante, pois estimula a criatividade.
--> c) Se elas praticarem atividades físicas regularmente, desenvolverão melhor suas habilidades motoras.
-   d) Contudo, se ficarem apenas em frente às telas, poderão ter problemas de postura.
+   a) mas
+   b) portanto
+-> c) especialmente se
+   d) pois
 Justificativas:
-a) Esta opção apresenta uma afirmação geral sobre esportes, sem relação de condição.
-b) Esta alternativa mostra uma relação de explicação ('pois'), não de condição.
-c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre praticar atividades físicas e desenvolver habilidades motoras.
-d) Embora use 'se', esta opção apresenta mais uma relação de oposição ('Contudo') do que de condição pura.
+a) Incorreto. 'Mas' indica oposição, não condição
+b) Incorreto. 'Portanto' indica conclusão, não condição
+c) Correto. 'Especialmente se' estabelece a condição necessária para evitar sonolência diurna
+d) Incorreto. 'Pois' indica explicação, não condição
 
 --------------------------------------------------------------------------------

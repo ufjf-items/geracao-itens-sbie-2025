@@ -12,18 +12,18 @@ Você não deve se sentir excessivamente sonolento durante o dia, especialmente 
 
 Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
 
-Disponível em:  https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
+Disponível em: https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
 Pergunta:
-Identifique a alternativa que apresenta uma relação de condição expressa por uma conjunção.
+Na frase 'Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite...', qual condição é estabelecida para não se sentir sonolento?
 Opções:
-   a) É comum ouvir que os adultos precisam de sete a nove horas de sono por noite.
-   b) Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
--> c) Caso você perceba que está fisicamente cansado, pode ser útil procurar um médico.
-   d) Uma boa noite de sono significa pegar no sono rapidamente e despertar descansado.
+   a) Sentir-se excessivamente sonolento durante o dia.
+-> b) Dormir regularmente pelo menos sete horas de sono reparador por noite.
+   c) Ter uma boa noite de sono.
+   d) Entrar em contato com o clínico geral.
 Justificativas:
-a) INCORRETA: Esta opção apresenta uma afirmação geral, sem expressar uma condição.
-b) INCORRETA: Esta opção expressa uma oposição entre quantidade e qualidade do sono, não uma condição.
-c) CORRETA: A conjunção 'Caso' introduz uma condição para que seja útil procurar um médico: perceber-se fisicamente cansado.
-d) INCORRETA: Esta opção descreve uma boa noite de sono, mas não apresenta uma relação de condição.
+a) Incorreta. Sentir-se sonolento é o oposto da condição estabelecida para não se sentir assim.
+b) Correta. A frase indica que, se a pessoa dormir regularmente pelo menos sete horas de sono reparador, ela *não* deve se sentir excessivamente sonolenta.
+c) Incorreta. Ter uma boa noite de sono é um conceito mais amplo, e a frase especifica a quantidade de horas como condição.
+d) Incorreta. Entrar em contato com o clínico geral é uma ação sugerida para outro cenário, quando a pessoa já se sente cansada mesmo dormindo.
 
 --------------------------------------------------------------------------------

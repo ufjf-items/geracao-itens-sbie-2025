@@ -2,22 +2,30 @@ Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
 Comando: Leia o texto.
 Texto de Suporte:
-A reciclagem de lixo é essencial para preservar o meio ambiente. Se todos separarem corretamente os materiais recicláveis, a quantidade de lixo nos aterros sanitários diminuirá significativamente. No entanto, caso a população não adote esse hábito, os problemas ambientais tendem a se agravar.
+Como melhorar a concentração nos estudos?
 
-Pesquisas comprovam que quando as cidades implementam sistemas de coleta seletiva, os índices de reciclagem aumentam em até 80%. Por outro lado, se não houver conscientização da população, mesmo os melhores sistemas de coleta podem não funcionar adequadamente.
+Manter o foco durante os estudos pode ser um desafio, especialmente com tantas distrações ao nosso redor. No entanto, existem técnicas eficazes que podem ajudar.
 
-Disponível em: www.ecologiaverde.com.br/reciclagem. Acesso em: 15 set. 2024. Adaptado.
+Primeiro, é importante criar um ambiente adequado: silencioso, bem iluminado e organizado. Se você estudar em um local com muito barulho ou desorganizado, sua concentração certamente será afetada.
+
+Segundo, faça pausas regulares. Embora pareça contraditório, descansar por 5 minutos a cada 25 minutos de estudo (técnica Pomodoro) pode aumentar significativamente seu rendimento.
+
+Terceiro, mantenha-se hidratado. Quando o corpo está desidratado, o cérebro tem mais dificuldade para se concentrar. Portanto, se você quiser manter o foco, não se esqueça de beber água regularmente.
+
+Por fim, estabeleça metas claras. Sem objetivos definidos, é fácil perder a motivação. Mas se você souber exatamente o que precisa alcançar em cada sessão de estudos, ficará mais fácil manter a concentração.
+
+Disponível em: https://www.educacao.com/dicas/estudo/concentracao. Acesso em: 15 jun. 2025.
 Pergunta:
-No texto, a relação de condição está expressa em:
+No texto, temos ideia de condição em
 Opções:
-   a) "A reciclagem de lixo é essencial para preservar o meio ambiente."
--> b) "Se todos separarem corretamente os materiais recicláveis, a quantidade de lixo nos aterros sanitários diminuirá significativamente."
-   c) "Pesquisas comprovam que quando as cidades implementam sistemas de coleta seletiva, os índices de reciclagem aumentam em até 80%."
-   d) "Por outro lado, se não houver conscientização da população, mesmo os melhores sistemas de coleta podem não funcionar adequadamente."
+-> a) "Se você estudar em um local com muito barulho ou desorganizado, sua concentração certamente será afetada."
+   b) "Embora pareça contraditório, descansar por 5 minutos a cada 25 minutos de estudo (técnica Pomodoro) pode aumentar significativamente seu rendimento."
+   c) "Primeiro, é importante criar um ambiente adequado: silencioso, bem iluminado e organizado."
+   d) "Por fim, estabeleça metas claras."
 Justificativas:
-a) INCORRETA. Esta alternativa apresenta uma afirmação geral sobre a importância da reciclagem, sem estabelecer nenhuma relação de condição.
-b) CORRETA. O trecho apresenta claramente a conjunção condicional 'se' estabelecendo uma relação direta entre a separação correta dos materiais e a diminuição do lixo nos aterros.
-c) INCORRETA. Embora o trecho use 'quando', que pode indicar tempo, não estabelece uma relação condicional clara como solicitado no comando.
-d) INCORRETA. Apesar de conter 'se' indicando condição, a estrutura da frase enfatiza mais uma oposição ('Por outro lado') do que propriamente a condição solicitada.
+a) CORRETA. Os estudantes que assinalaram essa alternativa identificaram corretamente a relação lógico-discursiva de condição marcada pela conjunção 'se', que estabelece uma condição para que a concentração seja afetada.
+b) INCORRETA. Os estudantes que escolheram esta alternativa confundiram a relação de oposição ('embora') com uma relação de condição. O trecho apresenta um contraste, não uma condição.
+c) INCORRETA. Esta alternativa apresenta uma enumeração de características de um ambiente adequado, sem qualquer relação de condição expressa no trecho.
+d) INCORRETA. O trecho selecionado é uma recomendação geral sem estabelecer nenhuma relação de condição. Não há conjunção condicional presente.
 
 --------------------------------------------------------------------------------

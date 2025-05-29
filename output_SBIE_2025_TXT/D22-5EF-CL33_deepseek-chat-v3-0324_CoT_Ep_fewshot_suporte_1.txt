@@ -1,23 +1,25 @@
 Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto.
+Comando: Leia o texto com atenção.
 Texto de Suporte:
-O uso de máscaras na pandemia
+A importância da hidratação no verão
 
-Durante a pandemia de COVID-19, o uso de máscaras tornou-se obrigatório em muitos lugares. Se as pessoas não usassem máscaras, o risco de contágio aumentaria significativamente. Porém, alguns alegavam desconforto ao utilizá-las por longos períodos. Estudos comprovaram que, quando usadas corretamente, as máscaras reduzem em até 70% a transmissão do vírus. Caso todos seguissem essa medida, junto com o distanciamento social, os números de infectados cairiam drasticamente.
+Nos dias mais quentes, é fundamental aumentar o consumo de líquidos. Se o corpo não receber a quantidade adequada de água, podem ocorrer problemas como tonturas, cansaço excessivo e até desidratação grave.
 
-Disponível em: www.saude.gov.br/pandemia. Acesso em: 15 ago. 2024. Adaptado.
+Os especialistas recomendam que, caso você pratique atividades físicas intensas, deve ingerir ainda mais água para repor os sais minerais perdidos no suor. Mesmo que não sinta sede, mantenha o hábito de beber água regularmente.
+
+Porém, se você notar sintomas como boca seca, dor de cabeça ou urina escura, procure imediatamente um médico, pois podem ser sinais de desidratação avançada.
 Pergunta:
-No texto, qual trecho apresenta uma relação lógico-discursiva de condição?
+Qual trecho do texto apresenta uma relação de condição?
 Opções:
-   a) "Durante a pandemia de COVID-19, o uso de máscaras tornou-se obrigatório em muitos lugares."
--> b) "Se as pessoas não usassem máscaras, o risco de contágio aumentaria significativamente."
-   c) "Porém, alguns alegavam desconforto ao utilizá-las por longos períodos."
-   d) "Estudos comprovaram que, quando usadas corretamente, as máscaras reduzem em até 70% a transmissão do vírus."
+   a) "Nos dias mais quentes, é fundamental aumentar o consumo de líquidos."
+-> b) "Se o corpo não receber a quantidade adequada de água, podem ocorrer problemas como tonturas, cansaço excessivo e até desidratação grave."
+   c) "Os especialistas recomendam que, caso você pratique atividades físicas intensas, deve ingerir ainda mais água para repor os sais minerais perdidos no suor."
+   d) "Mesmo que não sinta sede, mantenha o hábito de beber água regularmente."
 Justificativas:
-a) INCORRETA. O trecho apenas informa um fato ocorrido durante a pandemia, sem estabelecer qualquer relação condicional. Não há conjunções ou estruturas que indiquem condição.
-b) CORRETA. O trecho apresenta claramente uma relação condicional com a estrutura "Se... então" implícita (Se não usassem → risco aumentaria). A conjunção "Se" introduz a condição de forma explícita.
-c) INCORRETA. A conjunção "Porém" indica uma relação de oposição, não de condição. O trecho contrasta a obrigatoriedade com o desconforto sentido por alguns.
-d) INCORRETA. Embora contenha "quando", que pode indicar tempo, o trecho mostra uma relação de causalidade (uso correto → redução da transmissão), não de condição.
+a) INCORRETA. Esta alternativa apresenta uma afirmação geral sobre a necessidade de hidratação, mas não contém nenhuma relação de condição explícita. É uma recomendação direta sem estrutura condicional.
+b) CORRETA. Esta alternativa apresenta claramente uma relação de condição através da conjunção 'Se', estabelecendo uma condição ('Se o corpo não receber...') e sua consequência ('podem ocorrer problemas...').
+c) INCORRETA. Embora use 'caso', que pode indicar condição, a frase funciona mais como uma recomendação do que como uma relação condicional clássica. A estrutura não apresenta claramente uma condição e sua consequência.
+d) INCORRETA. Apesar de usar 'Mesmo que', que poderia sugerir uma concessão, não estabelece uma relação condicional propriamente dita. É mais uma recomendação persistente do que uma condição.
 
 --------------------------------------------------------------------------------

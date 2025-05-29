@@ -2,58 +2,54 @@ Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
 Comando: Leia o texto com atenção.
 Texto de Suporte:
-A chuva é essencial para a agricultura. Se não chover na época certa, as plantações podem sofrer. Os agricultores precisam estar preparados, pois a falta de água pode arruinar toda a safra. Caso as previsões meteorológicas indiquem seca, é preciso tomar medidas preventivas. No entanto, se chover em excesso, também haverá prejuízos.
+O que significa de fato ter um 'bom' sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
 Pergunta:
-Qual das alternativas abaixo apresenta uma relação de condição no texto?
+Assinale a alternativa que contém uma relação de condição presente no texto:
 Opções:
-   a) A chuva é essencial para a agricultura.
-   b) Os agricultores precisam estar preparados, pois a falta de água pode arruinar toda a safra.
--> c) Se não chover na época certa, as plantações podem sofrer.
-   d) No entanto, se chover em excesso, também haverá prejuízos.
+   a) O texto afirma que dormir bem é questão de qualidade, não apenas de quantidade
+   b) Uma boa noite de sono significa pegar no sono em 30 minutos e acordar descansado
+-> c) Se você estiver dormindo regularmente sete horas, não deve sentir sonolência diurna
+   d) Há vários motivos possíveis para se sentir cansado mesmo após dormir
 Justificativas:
-a) Esta opção apresenta uma afirmação geral sobre a importância da chuva, sem relação de condição.
-b) Esta alternativa mostra uma relação de explicação ('pois'), não de condição.
-c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre a falta de chuva e os possíveis danos às plantações.
-d) Embora use 'se', esta opção apresenta mais uma relação de oposição ('No entanto') do que de condição pura.
+a) Esta alternativa apresenta uma relação de oposição (mas), não de condição
+b) Esta alternativa apenas descreve características de um bom sono, sem relação condicional
+c) Correta. A expressão 'se você estiver dormindo' estabelece claramente uma relação de condição
+d) Esta alternativa apresenta uma conclusão explicativa (pois), não uma condição
 
 --------------------------------------------------------------------------------
 
 Questão 2
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto abaixo.
+Comando: Leia atentamente o texto a seguir.
 Texto de Suporte:
-A prática de esportes traz muitos benefícios. Se você se exercitar regularmente, melhorará sua saúde cardiovascular. Alongar-se antes das atividades é importante, pois previne lesões. Caso você mantenha uma rotina de treinos, sentirá mais disposição no dia a dia. Contudo, se exagerar nos exercícios, poderá se machucar.
-Pergunta:
-Qual trecho do texto NÃO apresenta uma relação de condição?
-Opções:
-   a) Se você se exercitar regularmente, melhorará sua saúde cardiovascular.
--> b) Alongar-se antes das atividades é importante, pois previne lesões.
-   c) Caso você mantenha uma rotina de treinos, sentirá mais disposição no dia a dia.
-   d) Contudo, se exagerar nos exercícios, poderá se machucar.
-Justificativas:
-a) Apresenta relação de condição clara com 'Se... melhorará'.
-b) Resposta correta. Este trecho mostra uma relação de explicação ('pois'), não de condição.
-c) Usa 'Caso' para estabelecer uma condição entre manter rotina de treinos e ter disposição.
-d) Estabelece condição com 'se exagerar... poderá se machucar'.
+O que significa de fato ter um 'bom' sono?
 
---------------------------------------------------------------------------------
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
 
-Questão 3
-Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto atentamente.
-Texto de Suporte:
-A leitura desenvolve o pensamento crítico. Se você ler diferentes gêneros textuais, ampliará seu vocabulário. É recomendado ler diariamente, já que isso estimula a criatividade. Caso você tenha dúvidas sobre algum livro, consulte um professor. Entretanto, se ler apenas por obrigação, o aprendizado será limitado.
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
 Pergunta:
-Qual das alternativas apresenta uma relação de condição usando conjunção?
+Qual das seguintes conjunções do texto estabelece uma relação de condição?
 Opções:
-   a) A leitura desenvolve o pensamento crítico.
-   b) É recomendado ler diariamente, já que isso estimula a criatividade.
--> c) Se você ler diferentes gêneros textuais, ampliará seu vocabulário.
-   d) Caso você tenha dúvidas sobre algum livro, consulte um professor.
+   a) mas
+   b) e
+-> c) se
+   d) pois
 Justificativas:
-a) Esta opção apresenta uma afirmação geral sobre os benefícios da leitura, sem relação de condição.
-b) Esta alternativa mostra uma relação de explicação ('já que'), não de condição.
-c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre ler diferentes gêneros e ampliar o vocabulário.
-d) Embora use 'Caso', esta opção apresenta mais uma sugestão do que uma relação de condição explícita.
+a) 'Mas' indica oposição entre ideias, não condição
+b) 'E' é uma conjunção aditiva que une elementos sem relação condicional
+c) Correta. 'Se' é a conjunção condicional por excelência, presente em 'se você perceber' e 'se estiver dormindo'
+d) 'Pois' introduz uma explicação ou causa, não uma condição
 
 --------------------------------------------------------------------------------

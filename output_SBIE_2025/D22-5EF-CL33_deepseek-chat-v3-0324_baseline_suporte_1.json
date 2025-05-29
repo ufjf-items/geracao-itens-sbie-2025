@@ -3,40 +3,40 @@
   "Questões": [
     {
       "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
-      "Comando 1": "Leia o texto com atenção.",
-      "Texto suporte": "O sucesso de um negócio depende de vários fatores. Primeiro, é preciso ter um bom produto ou serviço. Além disso, o empreendedor deve conhecer bem seu público-alvo. Se o preço for muito alto, os clientes podem desistir da compra. Por outro lado, se a qualidade for ruim, a empresa perderá credibilidade. Portanto, é essencial encontrar o equilíbrio entre custo e qualidade para ter sucesso no mercado.",
-      "Comando 2": "Qual das alternativas abaixo apresenta uma relação de condição no texto?",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "O que significa de fato ter um 'bom' sono?\n\nÉ comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.\n\nPara a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.\n\nVocê não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).\n\nMas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.",
+      "Comando 2": "Qual trecho do texto apresenta uma relação de condição?",
       "Opções": {
-        "a": "Primeiro, é preciso ter um bom produto ou serviço.",
-        "b": "Além disso, o empreendedor deve conhecer bem seu público-alvo.",
-        "c": "Se o preço for muito alto, os clientes podem desistir da compra.",
-        "d": "Por outro lado, se a qualidade for ruim, a empresa perderá credibilidade."
+        "a": "\"Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade\"",
+        "b": "\"especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite\"",
+        "c": "\"ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado\"",
+        "d": "\"há uma série de possíveis motivos para isso\""
       },
-      "Resposta correta": "c",
+      "Resposta correta": "b",
       "Justificativas": {
-        "a": "Esta opção apresenta uma afirmação geral sobre requisitos para o sucesso, sem relação de condição.",
-        "b": "Esta alternativa mostra um fator adicional para o sucesso, sem estabelecer uma condição.",
-        "c": "Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre o preço alto e a possível desistência dos clientes.",
-        "d": "Embora use 'se', esta opção apresenta mais uma relação de oposição ('Por outro lado') do que de condição pura."
+        "a": "Este trecho apresenta uma relação de oposição (indicada por 'mas'), mostrando contraste entre quantidade e qualidade do sono.",
+        "b": "Este é o trecho correto, pois 'especialmente se' estabelece uma condição para não se sentir sonolento durante o dia.",
+        "c": "Este trecho apenas enumera características de um bom sono, sem estabelecer relações condicionais.",
+        "d": "Esta frase apenas apresenta uma conclusão explicativa, sem relação de condição."
       }
     },
     {
       "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
-      "Comando 1": "Leia o texto abaixo.",
-      "Texto suporte": "Para se manter saudável, é importante adotar bons hábitos. Se você praticar exercícios regularmente, seu corpo ficará mais forte. Comer alimentos nutritivos também é fundamental, pois eles fornecem energia. Caso você durma bem, terá mais disposição durante o dia. No entanto, se negligenciar esses cuidados, poderá desenvolver problemas de saúde.",
-      "Comando 2": "Qual trecho do texto NÃO apresenta uma relação de condição?",
+      "Comando 1": "Leia o texto.",
+      "Texto suporte": "O que significa de fato ter um 'bom' sono?\n\nÉ comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.\n\nPara a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.\n\nVocê não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).\n\nMas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.",
+      "Comando 2": "Complete a frase: 'No texto, a expressão ________ estabelece uma relação de condição.'",
       "Opções": {
-        "a": "Se você praticar exercícios regularmente, seu corpo ficará mais forte.",
-        "b": "Comer alimentos nutritivos também é fundamental, pois eles fornecem energia.",
-        "c": "Caso você durma bem, terá mais disposição durante o dia.",
-        "d": "No entanto, se negligenciar esses cuidados, poderá desenvolver problemas de saúde."
+        "a": "\"Mas dormir bem\"",
+        "b": "\"pois há uma série\"",
+        "c": "\"especialmente se\"",
+        "d": "\"e despertar\""
       },
-      "Resposta correta": "b",
+      "Resposta correta": "c",
       "Justificativas": {
-        "a": "Apresenta relação de condição clara com 'Se... ficará'.",
-        "b": "Resposta correta. Este trecho mostra uma relação de explicação ('pois'), não de condição.",
-        "c": "Usa 'Caso' para estabelecer uma condição entre dormir bem e ter disposição.",
-        "d": "Estabelece condição com 'se negligenciar... poderá desenvolver'."
+        "a": "Incorreto. 'Mas dormir bem' indica oposição, não condição.",
+        "b": "Incorreto. 'pois há uma série' indica explicação/causa, não condição.",
+        "c": "Correto. 'especialmente se' é a expressão que estabelece relação condicional no texto.",
+        "d": "Incorreto. 'e despertar' apenas adiciona informação, sem relação condicional."
       }
     }
   ]

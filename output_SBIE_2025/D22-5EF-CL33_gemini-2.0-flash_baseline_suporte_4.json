@@ -4,20 +4,20 @@
     {
       "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas adição, oposição, condição marcadas por conjunções mais usuais.",
       "Comando 1": "Leia o texto a seguir:",
-      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
-      "Comando 2": "De acordo com o texto, qual é a condição para que o pão doce se tornasse um sucesso na padaria?",
+      "Texto suporte": "O que significa de fato ter um “bom” sono?\n\nÉ comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.\n\nPara a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.\n\nVocê não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).\n\nMas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.\n\nDisponível em:  https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.",
+      "Comando 2": "Identifique a alternativa que apresenta uma relação de condição expressa no texto:",
       "Opções": {
-        "a": "O jovem se apaixonar pela filha do padeiro.",
-        "b": "O pai da moça não aceitar o namoro.",
-        "c": "O jovem se disfarçar de ajudante de padeiro e criar um pão doce.",
-        "d": "O jovem atribuir a autoria da receita a Toni, pai da moça."
+        "a": "É comum ouvir que os adultos precisam de sete a nove horas de sono por noite, indicando uma necessidade geral.",
+        "b": "Mas dormir bem é mais do que o número de horas, mostrando uma oposição entre quantidade e qualidade.",
+        "c": "Se você perceber que fisicamente cansado, pode valer a pena entrar em contato com seu clínico geral, estabelecendo uma condição para buscar ajuda médica.",
+        "d": "Você não deve se sentir excessivamente sonolento durante o dia, sugerindo uma recomendação."
       },
       "Resposta correta": "c",
       "Justificativas": {
-        "a": "Incorreta. O amor é a motivação, mas não a ação que leva ao sucesso do pão.",
-        "b": "Incorreta. A não aceitação do namoro é o problema, não a condição para o sucesso do pão.",
-        "c": "Correta. O disfarce e a criação do pão são as ações que, se realizadas, levam ao sucesso do pão na padaria.",
-        "d": "Incorreta. Atribuir a autoria a Toni é uma ação posterior à criação e ao sucesso inicial do pão."
+        "a": "Incorreta. Esta alternativa apresenta uma informação geral sobre a necessidade de horas de sono, sem estabelecer uma relação de condição.",
+        "b": "Incorreta. A conjunção 'mas' introduz uma oposição entre a quantidade e a qualidade do sono, não uma condição.",
+        "c": "Correta. A alternativa apresenta uma condição ('Se você perceber que fisicamente cansado...') para uma ação ('pode valer a pena entrar em contato com seu clínico geral'), indicando uma relação de condição.",
+        "d": "Incorreta. Esta alternativa apresenta uma recomendação sobre não se sentir sonolento durante o dia, não estabelecendo uma relação de condição."
       },
       "->" : null
     }

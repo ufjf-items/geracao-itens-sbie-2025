@@ -2,29 +2,30 @@
 {
   "Questões": [
     {
-      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais",
-      "Comando 1": "Leia o texto com atenção.",
-      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.",
-      "Comando 2": "Qual das seguintes alternativas completa corretamente a frase abaixo, mantendo a relação de condição presente no texto?\n'______ o jovem não tivesse se disfarçado de ajudante, o panetone talvez não existisse hoje.'",
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto abaixo com atenção:",
+      "Texto suporte": "O sono é essencial para a saúde. Muitos especialistas afirmam que, se uma pessoa dorme menos de seis horas por noite, pode ter problemas de concentração no dia seguinte. Porém, dormir mais de nove horas também não é ideal, pois pode indicar algum distúrbio. O ideal seria dormir entre sete e oito horas, desde que o sono seja de qualidade. Caso você sinta cansaço constante, mesmo dormindo o suficiente, é recomendável procurar um médico.",
+      "Comando 2": "Identifique no texto a frase que apresenta uma relação de condição usando a conjunção 'se'.",
       "Opções": {
-        "a": "Porque",
-        "b": "Quando",
-        "c": "Se",
-        "d": "Mas"
+        "a": "O sono é essencial para a saúde.",
+        "b": "Muitos especialistas afirmam que, se uma pessoa dorme menos de seis horas por noite, pode ter problemas de concentração no dia seguinte.",
+        "c": "Porém, dormir mais de nove horas também não é ideal.",
+        "d": "O ideal seria dormir entre sete e oito horas."
       },
-      "Resposta correta": "c",
+      "Resposta correta": "b",
       "Justificativas": {
-        "a": "Incorreta - 'Porque' indica relação de causa, não de condição",
-        "b": "Incorreta - 'Quando' estabelece relação temporal, não condicional",
-        "c": "Correta - 'Se' é a conjunção adequada para expressar a relação de condição presente no contexto",
-        "d": "Incorreta - 'Mas' expressa relação de oposição, não condição"
+        "a": "Incorreta. A frase apresenta uma afirmação geral sem relação condicional.",
+        "b": "Correta. A frase contém a conjunção 'se' estabelecendo claramente uma condição para ter problemas de concentração.",
+        "c": "Incorreta. A conjunção 'porém' indica oposição, não condição.",
+        "d": "Incorreta. A frase apresenta uma recomendação sem relação condicional."
       },
       "->": [
-        "1. Identifiquei a estrutura condicional implícita na narrativa",
-        "2. Criei uma frase incompleta que exige o reconhecimento da conjunção condicional",
-        "3. Selecionei distratores com conjunções de diferentes valores semânticos",
-        "4. Garanti que apenas a alternativa correta expressasse a relação 'se...então'",
-        "5. Formulei justificativas claras sobre o valor semântico de cada conjunção"
+        "1. Selecionei um texto com diferentes relações lógico-discursivas",
+        "2. Identifiquei a frase com a relação de condição mais clara",
+        "3. Criei distratores com outras informações do texto que não continham relações condicionais",
+        "4. Organizei as alternativas em ordem de aparecimento no texto",
+        "5. Elaborei justificativas específicas para cada alternativa",
+        "6. Verifiquei a clareza e objetividade do comando e das alternativas"
       ]
     }
   ]

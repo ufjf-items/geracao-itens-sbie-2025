@@ -4,22 +4,21 @@
     {
       "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
       "Comando 1": "Leia o texto.",
-      "Texto suporte": "A prática de exercícios físicos traz diversos benefícios à saúde. Se uma pessoa se exercitar regularmente, terá mais disposição e qualidade de vida. Caso contrário, se mantiver um estilo de vida sedentário, poderá desenvolver problemas de saúde.\n\nQuando os exercícios são combinados com alimentação balanceada, os resultados são ainda melhores. Porém, se a pessoa não seguir uma rotina adequada de descanso, todo o esforço pode ser prejudicado.\n\nDisponível em: www.saudebrasil.com.br/exercicios. Acesso em: 20 out. 2024. Adaptado.",
-      "Comando 2": "No texto, a relação de condição está expressa em:",
+      "Texto suporte": "A importância da atividade física\n\nPraticar exercícios regularmente traz diversos benefícios para a saúde. No entanto, é preciso tomar alguns cuidados para evitar lesões.\n\nSe você for iniciante na prática de exercícios, deve começar com atividades leves e aumentar a intensidade gradualmente. Caso sinta dores persistentes durante os exercícios, é recomendado procurar um profissional de educação física.\n\nQuando o corpo está bem condicionado, os riscos de lesão diminuem consideravelmente. Porém, mesmo atletas experientes devem respeitar os limites do próprio corpo.\n\nAntes de iniciar qualquer atividade física, faça alongamentos. Se você não se alongar adequadamente, pode sofrer distensões musculares.\n\nDisponível em: https://www.saude.gov.br/atividadefisica. Acesso em: 20 jul. 2025.",
+      "Comando 2": "No texto, temos ideia de condição em",
       "Opções": {
-        "a": "\"A prática de exercícios físicos traz diversos benefícios à saúde.\"",
-        "b": "\"Se uma pessoa se exercitar regularmente, terá mais disposição e qualidade de vida.\"",
-        "c": "\"Quando os exercícios são combinados com alimentação balanceada, os resultados são ainda melhores.\"",
-        "d": "\"Porém, se a pessoa não seguir uma rotina adequada de descanso, todo o esforço pode ser prejudicado.\""
+        "a": "\"Se você for iniciante na prática de exercícios, deve começar com atividades leves e aumentar a intensidade gradualmente.\"",
+        "b": "\"Quando o corpo está bem condicionado, os riscos de lesão diminuem consideravelmente.\"",
+        "c": "\"Antes de iniciar qualquer atividade física, faça alongamentos.\"",
+        "d": "\"Praticar exercícios regularmente traz diversos benefícios para a saúde.\""
       },
-      "Resposta correta": "b",
+      "Resposta correta": "a",
       "Justificativas": {
-        "a": "INCORRETA. Esta alternativa apresenta uma afirmação geral sobre os benefícios dos exercícios, sem estabelecer nenhuma relação de condição.",
-        "b": "CORRETA. O trecho apresenta claramente a conjunção condicional 'se' estabelecendo uma relação direta entre a prática regular de exercícios e seus benefícios.",
-        "c": "INCORRETA. Embora o trecho use 'quando', que pode indicar tempo, não estabelece uma relação condicional clara como solicitado no comando.",
-        "d": "INCORRETA. Apesar de conter 'se' indicando condição, a estrutura da frase enfatiza mais uma adversidade ('Porém') do que propriamente a condição solicitada."
-      },
-      "Observação": "A questão avalia a habilidade de identificar relações condicionais marcadas principalmente pela conjunção 'se', conforme previsto na BNCC para o 5º ano do Ensino Fundamental."
+        "a": "CORRETA. Os estudantes que assinalaram essa alternativa identificaram corretamente a relação lógico-discursiva de condição marcada pela conjunção 'se', que estabelece uma condição para a prática segura de exercícios.",
+        "b": "INCORRETA. Os estudantes que escolheram esta alternativa confundiram uma relação temporal ('quando') com uma relação de condição. O trecho apresenta uma consequência, não uma condição.",
+        "c": "INCORRETA. Esta alternativa apresenta uma recomendação geral sem estabelecer nenhuma relação de condição. Não há conjunção condicional presente no trecho.",
+        "d": "INCORRETA. O trecho selecionado é uma afirmação geral sobre benefícios da atividade física, sem qualquer indicação de relação condicional."
+      }
     }
   ]
 }

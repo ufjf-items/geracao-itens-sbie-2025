@@ -2,29 +2,31 @@
 {
   "Questões": [
     {
-      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais",
-      "Comando 1": "Leia o texto abaixo com atenção.",
-      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.",
-      "Comando 2": "Qual das seguintes frases expressa corretamente a relação de condição presente na história do panetone?",
+      "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
+      "Comando 1": "Leia o texto atentamente.",
+      "Texto suporte": "O que significa de fato ter um 'bom' sono?\n\nÉ comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.\n\nPara a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.\n\nVocê não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).\n\nMas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.",
+      "Comando 2": "Qual das frases abaixo contém uma relação de condição introduzida por uma conjunção?",
       "Opções": {
-        "a": "O jovem se apaixonou pela filha do padeiro e por isso criou o panetone",
-        "b": "O panetone se tornou famoso porque tinha um formato diferente",
-        "c": "Se o jovem quisesse impressionar o pai da moça, deveria criar algo especial",
-        "d": "Quando o jovem criou o pão doce, a padaria ficou famosa"
+        "a": "Você nada deve se sentir excessivamente sonolento durante o dia.",
+        "b": "Uma boa noite de sono significa despertar sentindo-se descansado.",
+        "c": "Os adultos precisam de sete a nove horas de sono por noite.",
+        "d": "Se você perceber que está fisicamente cansado, pode valer a pena consultar um médico."
       },
-      "Resposta correta": "c",
+      "Resposta correta": "d",
       "Justificativas": {
-        "a": "Incorreta - Apresenta relação de causa (por isso), não de condição",
-        "b": "Incorreta - Mostra relação causal (porque), não condicional",
-        "c": "Correta - Expressa claramente a relação condicional 'Se...então' implícita na história",
-        "d": "Incorreta - Estabelece relação temporal (quando), não condicional"
+        "a": "Incorreta. Não apresenta nenhuma conjunção condicional.",
+        "b": "Incorreta. Trata-se apenas de uma afirmação sem relação condicional.",
+        "c": "Incorreta. Apresenta uma informação geral sem relações condicionais.",
+        "d": "Correta. Contém a conjunção 'se' estabelecendo claramente uma condição para consultar um médico."
       },
       "->": [
-        "1. Analisei a narrativa para identificar a relação condicional implícita",
-        "2. Formulei alternativas com diferentes tipos de relações lógicas",
-        "3. Garanti que apenas a opção correta contivesse a estrutura condicional completa",
-        "4. Utilizei verbos no mesmo tempo para manter a coerência temporal",
-        "5. Incluí elementos da história para contextualizar as alternativas"
+        "1. Analisei o texto focando nas relações de condição",
+        "2. Atualizei o comando para ser mais direto e claro",
+        "3. Reformulei as alternativas para destacar melhor a relação condicional",
+        "4. Mantive apenas uma alternativa correta usando a conjunção 'se'",
+        "5. Criei distratores com outras informações do texto, sem relações condicionais",
+        "6. Reorganizei as alternativas de forma aleatória para evitar padrões",
+        "7. Aprimorei as justificativas para cada alternativa"
       ]
     }
   ]

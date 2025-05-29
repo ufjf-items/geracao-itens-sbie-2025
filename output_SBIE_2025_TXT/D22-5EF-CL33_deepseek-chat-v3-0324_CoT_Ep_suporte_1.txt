@@ -1,23 +1,27 @@
 Questão 1
-Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais
-Comando: Leia o texto com atenção.
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
 Texto de Suporte:
-A origem do panetone
+O que significa de fato ter um 'bom' sono?
 
-Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.
-A história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.
-O jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
 Pergunta:
-Complete a frase: 'O jovem se disfarçou de ajudante de padeiro _____' para expressar corretamente a relação de condição presente no texto.
+Qual das alternativas abaixo apresenta uma relação de condição marcada por conjunção no texto?
 Opções:
-   a) porque queria aprender a fazer pães
-   b) quando viu que a padaria precisava de ajuda
--> c) se quisesse surpreender o pai da moça
-   d) mas continuou sendo reconhecido como nobre
+   a) Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+-> b) Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite.
+   c) Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama.
+   d) É comum ouvir que os adultos precisam de sete a nove horas de sono por noite.
 Justificativas:
-a) Incorreta - Apresenta relação de causa (porque), não de condição como solicitado
-b) Incorreta - Estabelece relação temporal (quando), diferente da condicional pedida
-c) Correta - Expressa corretamente a condição implícita no texto: SE quisesse surpreender o pai (condição), ENTÃO se disfarçou (ação)
-d) Incorreta - Mostra relação de oposição (mas), não atendendo ao que foi pedido
+a) Incorreta. A conjunção 'mas' indica oposição, não condição.
+b) Correta. A conjunção 'se' estabelece claramente uma relação de condição entre dormir bem e não sentir sonolência.
+c) Incorreta. Apresenta uma definição sem relações condicionais.
+d) Incorreta. Trata-se de uma informação geral sem relações lógico-discursivas.
 
 --------------------------------------------------------------------------------

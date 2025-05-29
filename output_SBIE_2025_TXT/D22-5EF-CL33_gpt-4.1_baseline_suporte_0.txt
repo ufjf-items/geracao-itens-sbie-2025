@@ -2,22 +2,28 @@ Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
 Comando: Leia o texto.
 Texto de Suporte:
-Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.
-A história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.
-O jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.
+O que significa de fato ter um “bom” sono?
 
-Disponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+
+Disponível em:  https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
 Pergunta:
-No trecho 'se disfarça de ajudante de padeiro e cria um pão doce', qual condição foi necessária para que o jovem pudesse surpreender o pai da moça?
+No trecho 'Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral', a conjunção 'se' estabelece uma relação de condição. Assinale a alternativa que melhor explica essa relação no contexto do texto.
 Opções:
--> a) O jovem precisou se disfarçar de ajudante de padeiro para criar o pão doce.
-   b) O pão doce ficou famoso por causa do seu tamanho incomum.
-   c) O nome panetone surgiu de modificações ao longo do tempo.
-   d) O panetone é lembrado apenas nas semanas que antecedem o Natal.
+-> a) A pessoa deve procurar um médico caso perceba que está cansada e não se sente revigorada, mesmo dormindo o suficiente.
+   b) A pessoa só deve dormir sete horas por noite se quiser se sentir descansada.
+   c) Se a pessoa acordar durante a noite, não terá um sono de qualidade.
+   d) Se a pessoa dormir mais de nove horas, não precisará consultar um médico.
 Justificativas:
-a) Correta. A alternativa apresenta uma relação de condição: o jovem só conseguiu criar o pão doce porque se disfarçou de ajudante de padeiro. A conjunção 'se' indica a condição necessária para a ação seguinte, estabelecendo a relação lógico-discursiva pedida.
-b) Incorreta. Embora seja uma informação verdadeira do texto, trata-se de uma relação de causa e consequência, não de condição. O tamanho incomum é uma característica do pão, não uma condição para surpreender o pai.
-c) Incorreta. Essa alternativa apresenta uma relação de tempo e transformação, não de condição. O surgimento do nome panetone não está condicionado a uma ação específica do jovem.
-d) Incorreta. Essa alternativa apresenta uma relação de tempo (quando o panetone é lembrado), e não de condição. Não há uma ação que dependa de outra para acontecer nesse caso.
+a) Correta. A alternativa apresenta a relação de condição expressa no texto: procurar um médico está condicionado à percepção de cansaço e falta de revigoramento, mesmo com sono regular. O 'se' indica que, caso essa condição seja percebida, a ação de procurar o médico é recomendada.
+b) Incorreta. Embora mencione a quantidade de sono, não há no texto a relação de condição entre dormir sete horas e se sentir descansado como obrigação para procurar um médico. O texto fala sobre a qualidade do sono, não apenas a quantidade.
+c) Incorreta. O texto menciona acordar durante a noite como um dos fatores de qualidade do sono, mas não estabelece uma relação de condição direta entre acordar à noite e não ter sono de qualidade, nem relaciona isso à necessidade de procurar um médico.
+d) Incorreta. O texto não afirma que dormir mais de nove horas elimina a necessidade de consultar um médico. A relação de condição apresentada no texto refere-se ao cansaço persistente, não à quantidade de horas dormidas.
 
 --------------------------------------------------------------------------------

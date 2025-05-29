@@ -1,23 +1,25 @@
 Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto com atenção.
+Comando: Leia o texto atentamente.
 Texto de Suporte:
-O uso consciente da água
+Segurança na internet: como proteger seus dados
 
-Se cada pessoa reduzisse em apenas 5 minutos seu tempo de banho diário, poderíamos economizar milhões de litros de água por mês. Porém, muitos ainda não adotam essa prática por considerá-la insignificante. Quando fechamos a torneira ao escovar os dentes, evitamos o desperdício de até 12 litros de água por minuto. Caso todas as escolas ensinassem sobre consumo responsável desde cedo, teríamos uma geração mais consciente. Dados mostram que 36% da água tratada no Brasil é perdida antes de chegar às casas.
+Se você utilizar senhas fracas em suas contas on-line, pode ficar vulnerável a ataques de hackers. É recomendado criar combinações complexas com números, letras maiúsculas e minúsculas, e caracteres especiais.
 
-Disponível em: www.aguaconsciente.org.br. Acesso em: 10 out. 2024. Adaptado.
+Quando você ativa a autenticação em dois fatores, suas contas ficam mais protegidas. Por exemplo, se uma pessoa mal-intencionada conseguir sua senha, ainda precisará de um código extra para acessar sua conta.
+
+Caso receba e-mails ou mensagens suspeitas pedindo dados pessoais, nunca forneça essas informações. Mesmo que o remetente pareça confiável, sempre verifique a autenticidade da comunicação antes de responder.
 Pergunta:
-Qual trecho do texto apresenta uma relação de condição explícita?
+Qual das alternativas abaixo contém uma relação de condição explícita no texto?
 Opções:
-   a) "Porém, muitos ainda não adotam essa prática por considerá-la insignificante."
--> b) "Se cada pessoa reduzisse em apenas 5 minutos seu tempo de banho diário, poderíamos economizar milhões de litros de água por mês."
-   c) "Quando fechamos a torneira ao escovar os dentes, evitamos o desperdício de até 12 litros de água por minuto."
-   d) "Dados mostram que 36% da água tratada no Brasil é perdida antes de chegar às casas."
+   a) "É recomendado criar combinações complexas com números, letras maiúsculas e minúsculas, e caracteres especiais."
+-> b) "Se você utilizar senhas fracas em suas contas on-line, pode ficar vulnerável a ataques de hackers."
+   c) "Quando você ativa a autenticação em dois fatores, suas contas ficam mais protegidas."
+   d) "Mesmo que o remetente pareça confiável, sempre verifique a autenticidade da comunicação antes de responder."
 Justificativas:
-a) INCORRETA. O trecho utiliza a conjunção "Porém" que indica oposição, mostrando um contraste entre a possibilidade de economia e a atitude das pessoas. Não há relação condicional.
-b) CORRETA. O trecho apresenta claramente uma estrutura condicional com "Se" + verbo no subjuntivo (reduzisse) + consequência (poderíamos economizar), configurando uma relação de condição explícita.
-c) INCORRETA. Embora contenha "Quando", que pode indicar tempo, neste contexto mostra uma relação de causalidade (ao fechar → evita-se desperdício), não uma condição hipotética.
-d) INCORRETA. O trecho apresenta um dado estatístico factual sobre perda de água, sem qualquer elemento que indique relação condicional.
+a) INCORRETA. Esta opção apresenta apenas uma recomendação sem estabelecer uma relação condicional clara. Não há estrutura de 'se...então' ou equivalente.
+b) CORRETA. Esta alternativa demonstra claramente uma relação condicional usando a conjunção 'Se' para estabelecer uma condição ('Se você utilizar senhas fracas') e sua consequência ('pode ficar vulnerável').
+c) INCORRETA. Embora comece com 'Quando', que pode indicar tempo, não configura uma relação condicional propriamente dita. É mais uma afirmação sobre um procedimento de segurança.
+d) INCORRETA. A estrutura 'Mesmo que' indica uma relação de concessão, não de condição. Mostra uma ação a ser tomada apesar de uma situação, não em consequência dela.
 
 --------------------------------------------------------------------------------

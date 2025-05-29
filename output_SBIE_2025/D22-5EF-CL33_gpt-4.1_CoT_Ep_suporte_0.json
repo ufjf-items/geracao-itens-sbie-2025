@@ -3,28 +3,27 @@
     {
       "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.",
       "Comando 1": "Leia o texto.",
-      "Texto suporte": "Durante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
-      "Comando 2": "No trecho 'Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce', qual relação de condição está presente?",
+      "Texto suporte": "O que significa de fato ter um “bom” sono?\n\nÉ comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.\n\nPara a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.\n\nVocê não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).\n\nMas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.\n\nDisponível em:  https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.",
+      "Comando 2": "No trecho 'Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral', a conjunção 'se' estabelece uma relação de condição. Assinale a alternativa que melhor explica essa relação de condição apresentada no texto.",
       "Opções": {
-        "a": "O jovem só cria o pão doce porque precisava surpreender o pai da moça.",
-        "b": "O pão doce foi criado para ser vendido no Natal.",
-        "c": "O pai da moça aceitou o namoro depois de provar o pão doce.",
-        "d": "O nome panetone foi escolhido por causa do formato do pão."
+        "a": "A pessoa deve procurar um médico caso perceba que está cansada e não se sente revigorada, mesmo dormindo o suficiente.",
+        "b": "A pessoa só deve dormir sete horas por noite se quiser se sentir descansada.",
+        "c": "A pessoa pode dormir pouco, desde que não se sinta cansada durante o dia.",
+        "d": "A pessoa deve evitar cochilar durante o dia para não se sentir cansada."
       },
       "Resposta correta": "a",
       "Justificativas": {
-        "a": "Correta. A alternativa apresenta uma relação de condição: o jovem só cria o pão doce porque precisava surpreender o pai da moça. Ou seja, a criação do pão doce depende da condição de surpreender o pai, estabelecendo uma relação lógico-discursiva de condição, marcada implicitamente no texto pelo contexto da ação do personagem.",
-        "b": "Incorreta. Embora o texto mencione o consumo do panetone no Natal, não há relação de condição entre a criação do pão doce e a época do Natal. O pão doce não foi criado para ser vendido no Natal, mas sim para surpreender o pai da moça.",
-        "c": "Incorreta. O texto não afirma que o pai da moça aceitou o namoro após provar o pão doce. Não há relação de condição entre o pai aceitar o namoro e a criação do pão doce.",
-        "d": "Incorreta. O nome panetone foi modificado ao longo do tempo, mas não há relação de condição entre o nome e o formato do pão. O texto apenas menciona que o pão tinha formato de cúpula de igreja, mas não relaciona isso à escolha do nome."
+        "a": "Correta. A alternativa 'a' apresenta a relação de condição expressa pela conjunção 'se' no texto: procurar um médico está condicionado à percepção de cansaço e falta de revigoramento, mesmo dormindo o suficiente. Ou seja, a ação de procurar um médico só é recomendada caso a condição descrita aconteça.",
+        "b": "Incorreta. A alternativa 'b' sugere que dormir sete horas é uma condição para se sentir descansado, mas o texto não estabelece essa relação de condição com a conjunção 'se'. O foco do comando é a condição para procurar um médico, não para dormir sete horas.",
+        "c": "Incorreta. A alternativa 'c' apresenta uma condição diferente da que está no texto. O texto não afirma que se pode dormir pouco, desde que não se sinta cansado; ele fala sobre procurar um médico se houver cansaço mesmo dormindo o suficiente.",
+        "d": "Incorreta. A alternativa 'd' sugere que evitar cochilos é uma condição para não se sentir cansado, mas o texto não faz essa relação de condição. O texto menciona cochilar como um sintoma, não como causa ou condição."
       },
       "->": [
-        "1. Analisei o texto para identificar trechos que envolvem relações de condição, especialmente aquelas marcadas por conjunções ou contexto de necessidade/causa.",
-        "2. O trecho 'Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce' apresenta uma relação de condição: a criação do pão doce depende da necessidade de surpreender o pai.",
-        "3. Elaborei o comando 2 para direcionar o aluno a identificar essa relação de condição.",
-        "4. Criei alternativas plausíveis, mas apenas a alternativa 'a' apresenta corretamente a relação de condição solicitada.",
-        "5. Justifiquei cada alternativa, mostrando por que apenas a correta contempla a relação lógico-discursiva de condição.",
-        "6. O objetivo é avaliar se o aluno reconhece, no texto, a relação de condição, conforme a habilidade da BNCC EF05LP07."
+        "1. Analisei o texto e identifiquei o trecho que apresenta uma relação lógico-discursiva de condição marcada pela conjunção 'se'.",
+        "2. Elaborei o comando 2 para direcionar o aluno a reconhecer a relação de condição estabelecida no trecho.",
+        "3. Criei a alternativa correta (a) explicitando a condição: procurar um médico está condicionado à percepção de cansaço e falta de revigoramento.",
+        "4. Elaborei os distratores (b, c, d) com base em outras possíveis relações de condição que poderiam ser inferidas do texto, mas que não correspondem à relação solicitada pelo comando.",
+        "5. Justifiquei cada alternativa, mostrando por que apenas a alternativa 'a' corresponde à relação de condição marcada pela conjunção 'se' no texto."
       ]
     }
   ]

@@ -1,59 +1,55 @@
 Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto com atenção.
+Comando: Leia o texto abaixo com atenção.
 Texto de Suporte:
-Para aprender um novo idioma, é necessário dedicação. Se você estudar todos os dias, fará progressos rápidos. Ouvir músicas no idioma que está aprendendo ajuda, pois melhora a compreensão auditiva. Caso você pratique conversação regularmente, ganhará fluência mais rápido. No entanto, se negligenciar os estudos, terá dificuldades para evoluir.
+O que significa de fato ter um 'bom' sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
 Pergunta:
-Qual trecho apresenta uma relação de condição explícita?
+Qual das alternativas abaixo identifica corretamente uma relação de condição no texto?
 Opções:
-   a) Para aprender um novo idioma, é necessário dedicação.
-   b) Ouvir músicas no idioma que está aprendendo ajuda, pois melhora a compreensão auditiva.
--> c) Se você estudar todos os dias, fará progressos rápidos.
-   d) No entanto, se negligenciar os estudos, terá dificuldades para evoluir.
+   a) A relação entre quantidade e qualidade do sono
+-> b) A condição para não sentir sonolência diurna
+   c) A descrição de uma boa noite de sono
+   d) A explicação para procurar um médico
 Justificativas:
-a) Esta opção apresenta uma afirmação geral sobre requisitos para aprendizagem, sem relação de condição.
-b) Esta alternativa mostra uma relação de explicação ('pois'), não de condição.
-c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre estudar diariamente e fazer progressos rápidos.
-d) Embora use 'se', esta opção apresenta mais uma relação de oposição ('No entanto') do que de condição pura.
+a) Esta alternativa descreve uma relação de contraste (oposição), não de condição
+b) Correta. Identifica a condição 'especialmente se estiver dormindo...' para evitar sonolência diurna
+c) Esta alternativa apenas enumera características, sem relação condicional
+d) Esta alternativa apresenta uma relação causal (explicativa), não condicional
 
 --------------------------------------------------------------------------------
 
 Questão 2
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto abaixo.
+Comando: Leia cuidadosamente o texto a seguir.
 Texto de Suporte:
-A preservação do meio ambiente é fundamental. Se as pessoas reciclarem seu lixo, reduzirão a poluição. Plantar árvores é importante, já que elas absorvem gás carbônico. Caso a sociedade adote hábitos sustentáveis, o planeta será mais saudável. Entretanto, se continuarmos a poluir, enfrentaremos graves consequências.
-Pergunta:
-Qual alternativa NÃO contém uma relação de condição?
-Opções:
-   a) Se as pessoas reciclarem seu lixo, reduzirão a poluição.
--> b) Plantar árvores é importante, já que elas absorvem gás carbônico.
-   c) Caso a sociedade adote hábitos sustentáveis, o planeta será mais saudável.
-   d) Entretanto, se continuarmos a poluir, enfrentaremos graves consequências.
-Justificativas:
-a) Apresenta relação de condição clara com 'Se... reduzirão'.
-b) Resposta correta. Este trecho mostra uma relação de explicação ('já que'), não de condição.
-c) Usa 'Caso' para estabelecer uma condição entre hábitos sustentáveis e saúde do planeta.
-d) Estabelece condição com 'se continuarmos... enfrentaremos'.
+O que significa de fato ter um 'bom' sono?
 
---------------------------------------------------------------------------------
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.
 
-Questão 3
-Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto atentamente.
-Texto de Suporte:
-A tecnologia transformou nossas vidas. Se você usar a internet com moderação, poderá aproveitar seus benefícios. Fazer pausas regulares é essencial, pois previne problemas de visão. Caso você controle o tempo de uso dos dispositivos, terá mais qualidade de vida. Por outro lado, se abusar da tecnologia, poderá desenvolver vícios.
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
 Pergunta:
-Qual das alternativas contém uma relação de condição marcada por conjunção?
+A expressão que introduz uma condição no texto é:
 Opções:
-   a) A tecnologia transformou nossas vidas.
-   b) Fazer pausas regulares é essencial, pois previne problemas de visão.
--> c) Se você usar a internet com moderação, poderá aproveitar seus benefícios.
-   d) Por outro lado, se abusar da tecnologia, poderá desenvolver vícios.
+   a) porém
+   b) portanto
+-> c) se estiver
+   d) além disso
 Justificativas:
-a) Esta opção apresenta uma afirmação geral sobre tecnologia, sem relação de condição.
-b) Esta alternativa mostra uma relação de explicação ('pois'), não de condição.
-c) Resposta correta. O trecho estabelece claramente uma condição ('Se... então') entre uso moderado da internet e aproveitamento de benefícios.
-d) Embora use 'se', esta opção apresenta mais uma relação de oposição ('Por outro lado') do que de condição pura.
+a) 'Porém' indica oposição, não condição
+b) 'Portanto' indica conclusão, não condição
+c) Correta. 'Se estiver' introduz claramente uma condição para evitar sonolência diurna
+d) 'Além disso' adiciona informação, sem relação condicional
 
 --------------------------------------------------------------------------------

@@ -1,23 +1,27 @@
 Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
-Comando: Leia o texto.
+Comando: Leia o texto com atenção.
 Texto de Suporte:
-A importância da reciclagem
+Como evitar o desperdício de alimentos
 
-Se todos os cidadãos separassem corretamente seu lixo reciclável, a quantidade de resíduos nos aterros sanitários diminuiria pela metade. No entanto, muitas pessoas ainda não adotam esse hábito por falta de informação. Quando os materiais são reciclados, economizamos recursos naturais e energia. Caso a coleta seletiva fosse implementada em todas as cidades, o meio ambiente seria muito beneficiado. Estima-se que apenas 3% do lixo produzido no Brasil é reciclado atualmente.
+Se você planejar suas compras com antecedência, poderá reduzir significativamente o desperdício de alimentos em casa. Faça uma lista do que realmente precisa antes de ir ao mercado.
 
-Disponível em: www.ambientebrasil.com.br/reciclagem. Acesso em: 20 set. 2024. Adaptado.
+Quando você armazena os alimentos corretamente, eles duram mais tempo. Por exemplo, se guardar frutas e vegetais na geladeira, eles se manterão frescos por mais dias.
+
+Caso sobre comida após as refeições, congele em porções para consumir depois. Mesmo que não tenha muito tempo, tente reaproveitar sobras em novas receitas.
+
+, se, se você notar que alguns alimentos estão prestes a estragar, prepare-os imediatamente ou doe para alguém que precise.
 Pergunta:
-Qual das alternativas abaixo apresenta uma relação de condição no texto?
+No texto, qual trecho apresenta uma relação de condição usando conjunções típicas?
 Opções:
-   a) "No entanto, muitas pessoas ainda não adotam esse hábito por falta de informação."
--> b) "Se todos os cidadãos separassem corretamente seu lixo reciclável, a quantidade de resíduos nos aterros sanitários diminuiria pela metade."
-   c) "Quando os materiais são reciclados, economizamos recursos naturais e energia."
-   d) "Estima-se que apenas 3% do lixo produzido no Brasil é reciclado atualmente."
+   a) "Faça uma lista do que realmente precisa antes de ir ao mercado."
+-> b) "Se você planejar suas compras com antecedência, poderá reduzir significativamente o desperdício de alimentos em casa."
+   c) "Por exemplo, se guardar frutas e vegetais na geladeira, eles se manterão frescos por mais dias."
+   d) "Mesmo que não tenha muito tempo, tente reaproveitar sobras em novas receitas."
 Justificativas:
-a) INCORRETA. O trecho utiliza a conjunção "No entanto" que indica oposição, não condição. Mostra um contraste entre o ideal e a realidade atual.
-b) CORRETA. A alternativa apresenta claramente uma relação condicional com a estrutura "Se... então" (Se separassem → diminuiria). A conjunção "Se" introduz a condição de forma explícita.
-c) INCORRETA. Embora contenha "Quando", que pode sugerir condição, neste contexto indica tempo/causalidade (ao reciclar → economizamos), não uma condição hipotética.
-d) INCORRETA. O trecho apresenta um dado estatístico sem qualquer relação condicional. Não há conjunções ou estruturas que indiquem condição.
+a) INCORRETA. Esta alternativa apresenta uma recomendação direta sem estrutura condicional, usando o verbo no imperativo ('Faça'). Não há relação de condição explícita.
+b) CORRETA. Esta alternativa apresenta claramente uma relação de condição através da conjunção 'Se', estabelecendo uma condição ('Se você planejar...') e sua consequência ('poderá reduzir...'). É a estrutura condicional mais completa do texto.
+c) INCORRETA. Embora use 'se' indicar indicar condição, esta frase aparece como exemplo dentro de um contexto mais amplo, não sendo a principal relação condicional do texto.
+d) INCORRETA. Apesar de usar 'Mesmo que', que indica concessão, não estabelece uma relação condicional propriamente dita. Mostra uma ação recomendada apesar de uma dificuldade.
 
 --------------------------------------------------------------------------------

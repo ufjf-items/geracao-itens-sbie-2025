@@ -4,70 +4,23 @@
     {
       "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.",
       "Comando 1": "Leia o texto com atenção.",
-      "Texto suporte": "A importância da leitura\n\nSe os alunos lessem pelo menos 20 minutos por dia, seu vocabulário e compreensão textual melhorariam significativamente. Embora muitos reconheçam essa importância, poucos mantêm o hábito regularmente. Quando a leitura se torna um prazer, e não uma obrigação, os resultados são ainda melhores. Caso todas as escolas tivessem bibliotecas bem equipadas, o acesso aos livros seria democratizado. Pesquisas indicam que apenas 35% dos brasileiros têm o hábito de ler livros.\n\nDisponível em: www.leiturabrasil.org.br. Acesso em: 15 nov. 2024. Adaptado.",
-      "Comando 2": "Qual trecho do texto apresenta uma relação de condição explícita?",
+      "Texto suporte": "A importância da atividade física para crianças\n\nSe as crianças praticarem exercícios físicos regularmente, terão melhor desenvolvimento motor e cognitivo. Os especialistas recomendam pelo menos 60 minutos de atividade moderada a vigorosa por dia.\n\nQuando os pais incentivam a prática esportiva desde cedo, os filhos criam hábitos saudáveis. Por exemplo, se a criança participar de brincadeiras ao ar livre, desenvolverá melhor coordenação motora.\n\nCaso a escola ofereça aulas de educação física de qualidade, os alunos terão mais oportunidades de se exercitar. Mesmo que chova, é importante encontrar alternativas para manter as crianças ativas em ambientes internos.",
+      "Comando 2": "Qual trecho do texto apresenta uma relação de condição clara?",
       "Opções": {
-        "a": "\"Embora muitos reconheçam essa importância, poucos mantêm o hábito regularmente.\"",
-        "b": "\"Se os alunos lessem pelo menos 20 minutos por dia, seu vocabulário e compreensão textual melhorariam significativamente.\"",
-        "c": "\"Quando a leitura se torna um prazer, e não uma obrigação, os resultados são ainda melhores.\"",
-        "d": "\"Pesquisas indicam que apenas 35% dos brasileiros têm o hábito de ler livros.\""
+        "a": "\"Os especialistas recomendam pelo menos 60 minutos de atividade moderada a vigorosa por dia.\"",
+        "b": "\"Se as crianças praticarem exercícios físicos regularmente, terão melhor desenvolvimento motor e cognitivo.\"",
+        "c": "\"Quando os pais incentivam a prática esportiva desde cedo, os filhos criam hábitos saudáveis.\"",
+        "d": "\"Mesmo que chova, é importante encontrar alternativas para manter as crianças ativas em ambientes internos.\""
       },
       "Resposta correta": "b",
       "Justificativas": {
-        "a": "INCORRETA. O trecho utiliza a conjunção \"Embora\" que indica concessão, mostrando uma contradição entre reconhecer a importância e não praticar. Não há relação condicional.",
-        "b": "CORRETA. O trecho apresenta claramente uma estrutura condicional com \"Se\" + verbo no subjuntivo (lessem) + consequência (melhorariam), configurando uma relação de condição explícita.",
-        "c": "INCORRETA. Embora contenha \"Quando\", que pode indicar tempo, neste contexto mostra uma relação de causalidade (prazer → melhores resultados), não uma condição hipotética.",
-        "d": "INCORRETA. O trecho apresenta um dado estatístico factual sobre hábitos de leitura, sem qualquer elemento que indique relação condicional."
+        "a": "INCORRETA. Esta alternativa apresenta apenas uma recomendação geral, sem estabelecer uma relação condicional entre ações e consequências.",
+        "b": "CORRETA. Esta alternativa mostra claramente uma relação condicional com 'Se' indicando a condição ('praticarem exercícios') e a consequência ('terão melhor desenvolvimento').",
+        "c": "INCORRETA. Embora use 'Quando', que pode sugerir tempo, não estabelece uma relação condicional propriamente dita, mas sim uma relação temporal.",
+        "d": "INCORRETA. A expressão 'Mesmo que' indica uma relação de concessão, mostrando uma ação apesar de uma circunstância, não uma condição."
       },
-      "Dificuldade": "Média",
-      "Tempo estimado": "3 minutos",
-      "Habilidades relacionadas": [
-        "EF05LP07",
-        "EF05LP04",
-        "EF05LP09"
-      ],
-      "->": "1) Tema relevante (formação de leitores) 2) Texto com múltiplas relações lógicas 3) Alternativa correta com estrutura condicional clara 4) Distratores com outras relações (concessão, causalidade e dado factual) 5) Justificativas pedagógicas detalhadas"
+      "->": "Para elaborar esta questão: 1) Escolhi um tema relevante (atividade infantil) com linguagem acessível; 2) Incluí diferentes estruturas gramaticais no texto; 3) Selecionei como gabarito a frase com a estrutura condicional mais clara ('Se...terão'); 4) Criei distratores com outras relações lógicas (recomendação, tempo, concessão); 5) Desenvolvi justificativas que destacam as características das relações condicionais."
     }
   ]
 }
 ```
-
-**Análise Pedagógica:**
-
-1. **Seleção Temática**:
-   - Escolhemos o tema da leitura por sua relevância educacional e conexão direta com a prática escolar
-   - O texto aborda tanto benefícios quantificáveis quanto aspectos motivacionais da leitura
-
-2. **Estrutura Linguística**:
-   - Inserimos quatro tipos distintos de relações lógicas:
-     - Condicional explícita ("Se...") na alternativa B
-     - Concessão ("Embora") na alternativa A
-     - Causalidade/Temporalidade ("Quando") na alternativa C
-     - Dado estatístico na alternativa D
-
-3. **Diferenciação Cognitiva**:
-   - Exige que os alunos:
-     - Identifiquem a estrutura gramatical completa da condição
-     - Diferenciem "Se" (condição) de "Quando" (tempo/causalidade)
-     - Reconheçam o valor semântico da conjunção "Embora"
-     - Distinguam dados estatísticos de relações lógicas complexas
-
-4. **Aspectos Avaliativos**:
-   - Nível de complexidade adequado ao 5º ano (EF05)
-   - Desenvolve competência leitora e análise linguística
-   - Promove reflexão sobre hábitos de estudo
-   - Integra conhecimentos linguísticos e formação cidadã
-
-5. **Sugestões Didáticas**:
-   1. Antes da aplicação, trabalhar com exemplos concretos de cada tipo de relação lógica
-   2. Após a correção, propor a criação de frases condicionais sobre outros temas escolares
-   3. Relacionar com projetos de incentivo à leitura na escola
-   4. Discutir como diferentes conjunções alteram o sentido das frases
-   5. Criar um painel coletivo com exemplos de cada tipo de relação encontrados em outros textos
-
-**Observação para o Professor**:
-Esta questão permite avaliar não apenas o domínio das relações condicionais, mas também:
-- A capacidade de análise sintática
-- A compreensão de diferentes valores semânticos das conjunções
-- A habilidade de distinguir fatos de hipóteses
-- O desenvolvimento do pensamento crítico sobre práticas educacionais

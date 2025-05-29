@@ -4,29 +4,29 @@
     {
       "Competência avaliada": "Reconhecer, em textos de nível 2, relações lógico-discursivas adição, oposição, condição marcadas por conjunções mais usuais.",
       "Comando 1": "Leia o texto.",
-      "Texto suporte": "A origem do panetone\n\nDurante o ano, o panetone é esquecido, mas nas semanas que antecedem o Natal ele volta a ser lembrado, desejado, e se torna um dos alimentos mais consumidos. Várias lendas tentam explicar a invenção do pão doce de origem italiana, sendo que a mais convincente envolve um caso de amor.\nA história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro. Buscando uma maneira de surpreender o pai da moça, que não aceitava o namoro, ele se disfarça de ajudante de padeiro e cria um pão doce. O pão tornou-se destaque na padaria pelo seu tamanho incomum para a época e por apresentar a figura moldada de uma cúpula de igreja.\nO jovem criador da receita atribuiu a autoria da receita a Toni, pai da moça. O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni. O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone.\n\nDisponível em:www.entreamigosobode.com.br/a-origem-do-panetone. Acesso em:05 jul. 2024. Adaptado.",
-      "Comando 2": "Qual das alternativas abaixo apresenta uma oração que expressa uma condição?",
+      "Texto suporte": "O que significa de fato ter um “bom” sono?\n\nÉ comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.\n\nPara a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.\n\nVocê não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).\n\nMas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.\n\nDisponível em:  https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.",
+      "Comando 2": "Qual das opções abaixo contém uma oração que expressa uma condição para que algo aconteça?",
       "Opções": {
-        "a": "O movimento da padaria cresceu significativamente e os clientes pediam pelo pão de Toni.",
-        "b": "A história se passa no século XV, quando um jovem morador de Milão, apaixona-se pela filha de um padeiro.",
-        "c": "Caso o jovem não tivesse se disfarçado, ele não teria conseguido surpreender o pai da moça.",
-        "d": "O nome desse pão doce sofreu algumas modificações até chegar ao que é hoje: panetone."
+        "a": "É comum ouvir que os adultos precisam de sete a nove horas de sono por noite.",
+        "b": "Mas dormir bem é mais do que o número de horas - é também uma questão de qualidade.",
+        "c": "Se você perceber que está fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral.",
+        "d": "Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama."
       },
       "Resposta correta": "c",
       "Justificativas": {
-        "a": "INCORRETA: Essa alternativa apresenta uma relação de causa e consequência, onde o crescimento da padaria leva ao aumento dos pedidos pelo pão de Toni, não expressando uma condição.",
-        "b": "INCORRETA: Essa alternativa descreve um evento histórico, sem estabelecer nenhuma condição para que algo aconteça.",
-        "c": "CORRETA: Essa alternativa apresenta uma condição clara, utilizando a conjunção 'Caso', indicando que a ação de surpreender o pai da moça dependia do disfarce do jovem.",
-        "d": "INCORRETA: Essa alternativa apresenta uma transformação ao longo do tempo, não estabelecendo uma condição para que algo ocorra."
+        "a": "INCORRETA. Esta alternativa apresenta uma afirmação geral sobre a necessidade de sono, não estabelecendo uma condição para que algo ocorra.",
+        "b": "INCORRETA. Esta alternativa apresenta uma relação de oposição entre a quantidade e a qualidade do sono, não expressando uma condição.",
+        "c": "CORRETA. Esta alternativa apresenta uma condição para que a pessoa entre em contato com o clínico geral: perceber-se fisicamente cansada, precisando cochilar e não se sentindo revigorada. A conjunção 'Se' introduz essa condição.",
+        "d": "INCORRETA. Esta alternativa descreve o que é uma boa noite de sono, sem apresentar uma relação de condição."
       },
       "->": [
-        "1. **Definir a competência:** A questão avalia a habilidade de identificar relações lógico-discursivas de condição.",
-        "2. **Selecionar o texto:** O texto 'A origem do panetone' foi mantido por sua adequação ao nível de leitura e variedade de relações lógicas.",
-        "3. **Elaborar o comando:** O comando foi ajustado para perguntar qual alternativa apresenta uma oração que expressa uma condição.",
-        "4. **Criar as opções:**",
-        "   - **Opção correta (C):** A alternativa correta foi elaborada para apresentar uma relação de condição explícita, utilizando a conjunção 'Caso' para indicar a dependência entre as ações.",
-        "   - **Distratores (A, B, D):** Os distratores foram criados para apresentar outras informações do texto que não expressam uma relação de condição, como causa e consequência, um evento histórico e uma transformação.",
-        "5. **Justificativas:** As justificativas foram elaboradas para explicar detalhadamente a correção ou incorreção de cada alternativa, auxiliando na compreensão das relações lógicas."
+        "1. **Objetivo:** Avaliar a habilidade de identificar orações que expressam uma condição.",
+        "2. **Texto:** Utilizar o texto fornecido sobre a importância de um bom sono.",
+        "3. **Comando:** Elaborar um comando direto que peça a identificação de uma oração condicional.",
+        "4. **Opções:**",
+        "   - **Opção correta (c):** Contém a oração condicional 'Se você perceber que está fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral.', que claramente estabelece uma condição para a ação de entrar em contato com o médico.",
+        "   - **Opções incorretas (a, b, d):** Apresentam afirmações gerais ou descrições sem estabelecer uma relação de condição.",
+        "5. **Justificativas:** Explicar por que a opção correta é a que apresenta a condição e por que as demais opções não se encaixam nessa categoria."
       ]
     }
   ]

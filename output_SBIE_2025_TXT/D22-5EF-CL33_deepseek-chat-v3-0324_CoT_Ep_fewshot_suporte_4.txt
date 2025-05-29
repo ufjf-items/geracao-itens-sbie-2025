@@ -2,22 +2,24 @@ Questão 1
 Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
 Comando: Leia o texto com atenção.
 Texto de Suporte:
-A importância da leitura
+A importância da atividade física para crianças
 
-Se os alunos lessem pelo menos 20 minutos por dia, seu vocabulário e compreensão textual melhorariam significativamente. Embora muitos reconheçam essa importância, poucos mantêm o hábito regularmente. Quando a leitura se torna um prazer, e não uma obrigação, os resultados são ainda melhores. Caso todas as escolas tivessem bibliotecas bem equipadas, o acesso aos livros seria democratizado. Pesquisas indicam que apenas 35% dos brasileiros têm o hábito de ler livros.
+Se as crianças praticarem exercícios físicos regularmente, terão melhor desenvolvimento motor e cognitivo. Os especialistas recomendam pelo menos 60 minutos de atividade moderada a vigorosa por dia.
 
-Disponível em: www.leiturabrasil.org.br. Acesso em: 15 nov. 2024. Adaptado.
+Quando os pais incentivam a prática esportiva desde cedo, os filhos criam hábitos saudáveis. Por exemplo, se a criança participar de brincadeiras ao ar livre, desenvolverá melhor coordenação motora.
+
+Caso a escola ofereça aulas de educação física de qualidade, os alunos terão mais oportunidades de se exercitar. Mesmo que chova, é importante encontrar alternativas para manter as crianças ativas em ambientes internos.
 Pergunta:
-Qual trecho do texto apresenta uma relação de condição explícita?
+Qual trecho do texto apresenta uma relação de condição clara?
 Opções:
-   a) "Embora muitos reconheçam essa importância, poucos mantêm o hábito regularmente."
--> b) "Se os alunos lessem pelo menos 20 minutos por dia, seu vocabulário e compreensão textual melhorariam significativamente."
-   c) "Quando a leitura se torna um prazer, e não uma obrigação, os resultados são ainda melhores."
-   d) "Pesquisas indicam que apenas 35% dos brasileiros têm o hábito de ler livros."
+   a) "Os especialistas recomendam pelo menos 60 minutos de atividade moderada a vigorosa por dia."
+-> b) "Se as crianças praticarem exercícios físicos regularmente, terão melhor desenvolvimento motor e cognitivo."
+   c) "Quando os pais incentivam a prática esportiva desde cedo, os filhos criam hábitos saudáveis."
+   d) "Mesmo que chova, é importante encontrar alternativas para manter as crianças ativas em ambientes internos."
 Justificativas:
-a) INCORRETA. O trecho utiliza a conjunção "Embora" que indica concessão, mostrando uma contradição entre reconhecer a importância e não praticar. Não há relação condicional.
-b) CORRETA. O trecho apresenta claramente uma estrutura condicional com "Se" + verbo no subjuntivo (lessem) + consequência (melhorariam), configurando uma relação de condição explícita.
-c) INCORRETA. Embora contenha "Quando", que pode indicar tempo, neste contexto mostra uma relação de causalidade (prazer → melhores resultados), não uma condição hipotética.
-d) INCORRETA. O trecho apresenta um dado estatístico factual sobre hábitos de leitura, sem qualquer elemento que indique relação condicional.
+a) INCORRETA. Esta alternativa apresenta apenas uma recomendação geral, sem estabelecer uma relação condicional entre ações e consequências.
+b) CORRETA. Esta alternativa mostra claramente uma relação condicional com 'Se' indicando a condição ('praticarem exercícios') e a consequência ('terão melhor desenvolvimento').
+c) INCORRETA. Embora use 'Quando', que pode sugerir tempo, não estabelece uma relação condicional propriamente dita, mas sim uma relação temporal.
+d) INCORRETA. A expressão 'Mesmo que' indica uma relação de concessão, mostrando uma ação apesar de uma circunstância, não uma condição.
 
 --------------------------------------------------------------------------------
