@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de adição, oposição e condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O que significa de fato ter um “bom” sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas — é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+
+Disponível em: https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
+Pergunta:
+No trecho “Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.”, a conjunção “se” introduz uma ideia de:
+Opções:
+a) Adição
+b) Oposição
+→ c) Condição
+d) Conclusão
+Justificativas:
+a) Incorreta. A conjunção “se” não adiciona informações, mas estabelece uma hipótese.
+b) Incorreta. A conjunção “se” não indica uma relação de contraste ou oposição.
+c) Correta. A conjunção “se” introduz uma condição para que algo aconteça. Nesse caso, a condição para “valer a pena entrar em contato com seu clínico geral” é “perceber que está fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado”.
+d) Incorreta. A conjunção “se” não apresenta uma conclusão, mas sim uma hipótese ou condição.

@@ -1,0 +1,30 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição, marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O que significa de fato ter um “bom” sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas — é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+
+Disponível em: https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
+
+Pergunta:
+No trecho “Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral”, qual é a condição apresentada para procurar um médico?
+
+Opções:
+→ a) Sentir-se cansado e não revigorado, mesmo dormindo o suficiente.
+    b) Dormir menos de sete horas por noite.
+    c) Acordar várias vezes durante a noite.
+    d) Ter dificuldade para pegar no sono ao deitar.
+
+Justificativas:
+a) Correta. A alternativa corresponde exatamente à condição apresentada no texto: procurar um médico está condicionado ao fato de a pessoa se sentir cansada e não revigorada, mesmo dormindo o suficiente.
+b) Incorreta. Dormir menos de sete horas é citado como algo a ser evitado, mas não é apresentado como condição para procurar o médico no trecho em questão.
+c) Incorreta. Acordar durante a noite é um fator relacionado à qualidade do sono, mas não constitui, segundo o texto, uma condição para buscar ajuda médica.
+d) Incorreta. A dificuldade para dormir é mencionada como um critério de qualidade do sono, mas não como uma condição explícita para consultar um médico no trecho destacado.

@@ -1,0 +1,25 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto com atenção.
+Texto de Suporte:
+O que significa de fato ter um "bom" sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas — é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+Pergunta:
+Qual das seguintes afirmações sobre o texto está correta?
+Opções:
+a) O texto apresenta apenas fatos científicos sobre o sono.
+→ b) A expressão "especialmente se" indica uma condição para evitar sonolência diurna.
+c) O autor defende que todas as pessoas precisam dormir exatamente 8 horas.
+d) Não há nenhuma relação de condição no texto.
+Justificativas:
+a) Incorreto. O texto apresenta recomendações gerais, não apenas fatos científicos.
+b) Correto. A expressão "especialmente se" estabelece claramente uma condição para evitar sonolência diurna.
+c) Incorreto. O texto menciona uma faixa de horas (7 a 9) e fala sobre qualidade, não quantidade exata.
+d) Incorreto. Há pelo menos duas relações de condição no texto ("especialmente se" e "se você perceber").

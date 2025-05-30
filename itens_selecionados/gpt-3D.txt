@@ -1,0 +1,27 @@
+Questão 1
+Competência Avaliada: Reconhecer, em textos de nível 2, relações lógico-discursivas de condição marcadas por conjunções mais usuais.
+Comando: Leia o texto.
+Texto de Suporte:
+O que significa de fato ter um “bom” sono?
+
+É comum ouvir que os adultos precisam de sete a nove horas de sono por noite. Mas dormir bem é mais do que o número de horas — é também uma questão de qualidade.
+
+Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+
+Você não deve se sentir excessivamente sonolento durante o dia, especialmente se estiver dormindo regularmente pelo menos sete horas de sono reparador por noite (essa é uma regra geral).
+
+Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+
+Disponível em: https://g1.globo.com/saude/noticia/2024/10/14/uma-noite-de-sono-ininterrupta-e-um-mito-veja-o-que-e-e-como-e-um-bom-sono.ghtml. Acesso em: 29 mai. 2025.
+Pergunta:
+Assinale a alternativa em que a relação de condição está expressa por uma conjunção mais usual.
+Opções:
+→ a) Mas, se você perceber que fisicamente cansado, precisando cochilar regularmente e, ainda assim, não se sentindo revigorado, pode valer a pena entrar em contato com seu clínico geral pois há uma série de possíveis motivos para isso.
+    b) Para a maioria das pessoas, uma boa noite dormida significa conseguir pegar no sono logo após ir para a cama (em cerca de 30 minutos), ficar sem acordar por longos períodos e despertar, de manhã, sentindo-se descansado e pronto para o dia.
+    c) É comum ouvir que os adultos precisam de sete a nove horas de sono por noite.
+    d) Mas dormir bem é mais do que o número de horas — é também uma questão de qualidade.
+Justificativas:
+a) Correta. O trecho apresenta uma clara relação de condição expressa pela conjunção “se”: “Mas, se você perceber que fisicamente cansado...”. Essa condição estabelece o critério para procurar o clínico geral.
+b) Incorreta. O trecho descreve características de uma boa noite de sono, mas não apresenta relação de condição nem conjunção condicional.
+c) Incorreta. Trata-se de uma afirmação inicial sobre a média recomendada de horas de sono; não há relação condicional nem uso de conjunção condicional.
+d) Incorreta. O uso da conjunção “mas” indica oposição, e não condição.
