@@ -14,7 +14,7 @@ No momento, contempla apenas **conteúdos de Língua Portuguesa** voltados para 
 - OpenRouter  
 - Prompt Engineering  
 - IA Generativa
-- LLMs (GPT4.1, Gemini 2.0, Deepseek v3)
+- LLMs (GPT4.1, Gemini 2.0 - flash, Deepseek v3)
 
 ---
 
