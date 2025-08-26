@@ -13,7 +13,8 @@ No momento, contempla apenas **conteúdos de Língua Portuguesa** voltados para 
 - LangChain  
 - OpenRouter  
 - Prompt Engineering  
-- IA Generativa  
+- IA Generativa
+- LLMs (GPT4.1, Gemini 2.5, Deepseek v3)
 
 ---
 
